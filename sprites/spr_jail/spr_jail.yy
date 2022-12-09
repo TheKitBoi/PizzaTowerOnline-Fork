@@ -1,4 +1,7 @@
 {
+  "resourceType": "GMSprite",
+  "resourceVersion": "1.0",
+  "name": "spr_jail",
   "ConfigValues": {
     "debug": {"textureGroupId":"{\"name\":\"tg_city\",\"path\":\"texturegroups/tg_city\"}",},
   },
@@ -17,6 +20,7 @@
   "HTile": false,
   "VTile": false,
   "For3D": false,
+  "DynamicTexturePage": false,
   "width": 1472,
   "height": 768,
   "textureGroupId": {
@@ -27,12 +31,12 @@
   "gridX": 0,
   "gridY": 0,
   "frames": [
-    {"compositeImage":{"FrameId":{"name":"f1ca6149-4d74-4b78-bd4c-451fa3b0e19d","path":"sprites/spr_jail/spr_jail.yy",},"LayerId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"f1ca6149-4d74-4b78-bd4c-451fa3b0e19d","path":"sprites/spr_jail/spr_jail.yy",},"LayerId":{"name":"da65412a-a5e5-4cd9-a9b7-66e08df552af","path":"sprites/spr_jail/spr_jail.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-      ],"parent":{"name":"spr_jail","path":"sprites/spr_jail/spr_jail.yy",},"resourceVersion":"1.0","name":"f1ca6149-4d74-4b78-bd4c-451fa3b0e19d","tags":[],"resourceType":"GMSpriteFrame",},
+    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"f1ca6149-4d74-4b78-bd4c-451fa3b0e19d",},
   ],
   "sequence": {
-    "spriteId": {"name":"spr_jail","path":"sprites/spr_jail/spr_jail.yy",},
+    "resourceType": "GMSequence",
+    "resourceVersion": "1.4",
+    "name": "spr_jail",
     "timeUnits": 1,
     "playback": 1,
     "playbackSpeed": 1.0,
@@ -43,9 +47,9 @@
     "events": {"Keyframes":[],"resourceVersion":"1.0","resourceType":"KeyframeStore<MessageEventKeyframe>",},
     "moments": {"Keyframes":[],"resourceVersion":"1.0","resourceType":"KeyframeStore<MomentsEventKeyframe>",},
     "tracks": [
-      {"name":"frames","spriteId":null,"keyframes":{"Keyframes":[
+      {"resourceType":"GMSpriteFramesTrack","resourceVersion":"1.0","name":"frames","spriteId":null,"keyframes":{"Keyframes":[
             {"id":"64d9be17-3007-4129-b71e-2b7a8a1bd95d","Key":0.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"f1ca6149-4d74-4b78-bd4c-451fa3b0e19d","path":"sprites/spr_jail/spr_jail.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
-          ],"resourceVersion":"1.0","resourceType":"KeyframeStore<SpriteFrameKeyframe>",},"trackColour":0,"inheritsTrackColour":true,"builtinName":0,"traits":0,"interpolation":1,"tracks":[],"events":[],"isCreationTrack":false,"resourceVersion":"1.0","tags":[],"resourceType":"GMSpriteFramesTrack","modifiers":[],},
+          ],"resourceVersion":"1.0","resourceType":"KeyframeStore<SpriteFrameKeyframe>",},"trackColour":0,"inheritsTrackColour":true,"builtinName":0,"traits":0,"interpolation":1,"tracks":[],"events":[],"isCreationTrack":false,"modifiers":[],},
     ],
     "visibleRange": null,
     "lockOrigin": false,
@@ -61,22 +65,13 @@
     "yorigin": 0,
     "eventToFunction": {},
     "eventStubScript": null,
-    "parent": {"name":"spr_jail","path":"sprites/spr_jail/spr_jail.yy",},
-    "resourceVersion": "1.4",
-    "name": "spr_jail",
-    "tags": [],
-    "resourceType": "GMSequence",
   },
   "layers": [
-    {"visible":true,"isLocked":false,"blendMode":0,"opacity":100.0,"displayName":"default","resourceVersion":"1.0","name":"da65412a-a5e5-4cd9-a9b7-66e08df552af","tags":[],"resourceType":"GMImageLayer",},
+    {"resourceType":"GMImageLayer","resourceVersion":"1.0","name":"da65412a-a5e5-4cd9-a9b7-66e08df552af","visible":true,"isLocked":false,"blendMode":0,"opacity":100.0,"displayName":"default",},
   ],
   "nineSlice": null,
   "parent": {
     "name": "city",
     "path": "folders/Sprites/tilesets/city.yy",
   },
-  "resourceVersion": "1.0",
-  "name": "spr_jail",
-  "tags": [],
-  "resourceType": "GMSprite",
 }

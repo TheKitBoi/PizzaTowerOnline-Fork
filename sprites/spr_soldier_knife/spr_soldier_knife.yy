@@ -1,4 +1,7 @@
 {
+  "resourceType": "GMSprite",
+  "resourceVersion": "1.0",
+  "name": "spr_soldier_knife",
   "ConfigValues": {
     "debug": {"textureGroupId":"{\"name\":\"tg_baddie\",\"path\":\"texturegroups/tg_baddie\"}",},
   },
@@ -17,6 +20,7 @@
   "HTile": false,
   "VTile": false,
   "For3D": false,
+  "DynamicTexturePage": false,
   "width": 120,
   "height": 100,
   "textureGroupId": {
@@ -27,48 +31,24 @@
   "gridX": 0,
   "gridY": 0,
   "frames": [
-    {"compositeImage":{"FrameId":{"name":"093c0e41-8ce4-43da-bcc0-3f3a8b972f58","path":"sprites/spr_soldier_knife/spr_soldier_knife.yy",},"LayerId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"093c0e41-8ce4-43da-bcc0-3f3a8b972f58","path":"sprites/spr_soldier_knife/spr_soldier_knife.yy",},"LayerId":{"name":"af3daf75-4bb7-41bf-9846-bb44aca5966b","path":"sprites/spr_soldier_knife/spr_soldier_knife.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-      ],"parent":{"name":"spr_soldier_knife","path":"sprites/spr_soldier_knife/spr_soldier_knife.yy",},"resourceVersion":"1.0","name":"093c0e41-8ce4-43da-bcc0-3f3a8b972f58","tags":[],"resourceType":"GMSpriteFrame",},
-    {"compositeImage":{"FrameId":{"name":"07ae1844-5591-4e49-ba65-20936e2ebd9e","path":"sprites/spr_soldier_knife/spr_soldier_knife.yy",},"LayerId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"07ae1844-5591-4e49-ba65-20936e2ebd9e","path":"sprites/spr_soldier_knife/spr_soldier_knife.yy",},"LayerId":{"name":"af3daf75-4bb7-41bf-9846-bb44aca5966b","path":"sprites/spr_soldier_knife/spr_soldier_knife.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-      ],"parent":{"name":"spr_soldier_knife","path":"sprites/spr_soldier_knife/spr_soldier_knife.yy",},"resourceVersion":"1.0","name":"07ae1844-5591-4e49-ba65-20936e2ebd9e","tags":[],"resourceType":"GMSpriteFrame",},
-    {"compositeImage":{"FrameId":{"name":"7b4ee590-a806-4a85-8868-2f765331f245","path":"sprites/spr_soldier_knife/spr_soldier_knife.yy",},"LayerId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"7b4ee590-a806-4a85-8868-2f765331f245","path":"sprites/spr_soldier_knife/spr_soldier_knife.yy",},"LayerId":{"name":"af3daf75-4bb7-41bf-9846-bb44aca5966b","path":"sprites/spr_soldier_knife/spr_soldier_knife.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-      ],"parent":{"name":"spr_soldier_knife","path":"sprites/spr_soldier_knife/spr_soldier_knife.yy",},"resourceVersion":"1.0","name":"7b4ee590-a806-4a85-8868-2f765331f245","tags":[],"resourceType":"GMSpriteFrame",},
-    {"compositeImage":{"FrameId":{"name":"4d635704-e582-4f3a-b73b-0ef641d02098","path":"sprites/spr_soldier_knife/spr_soldier_knife.yy",},"LayerId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"4d635704-e582-4f3a-b73b-0ef641d02098","path":"sprites/spr_soldier_knife/spr_soldier_knife.yy",},"LayerId":{"name":"af3daf75-4bb7-41bf-9846-bb44aca5966b","path":"sprites/spr_soldier_knife/spr_soldier_knife.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-      ],"parent":{"name":"spr_soldier_knife","path":"sprites/spr_soldier_knife/spr_soldier_knife.yy",},"resourceVersion":"1.0","name":"4d635704-e582-4f3a-b73b-0ef641d02098","tags":[],"resourceType":"GMSpriteFrame",},
-    {"compositeImage":{"FrameId":{"name":"90a89e91-afc7-4ce3-95d0-4de58808d7bd","path":"sprites/spr_soldier_knife/spr_soldier_knife.yy",},"LayerId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"90a89e91-afc7-4ce3-95d0-4de58808d7bd","path":"sprites/spr_soldier_knife/spr_soldier_knife.yy",},"LayerId":{"name":"af3daf75-4bb7-41bf-9846-bb44aca5966b","path":"sprites/spr_soldier_knife/spr_soldier_knife.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-      ],"parent":{"name":"spr_soldier_knife","path":"sprites/spr_soldier_knife/spr_soldier_knife.yy",},"resourceVersion":"1.0","name":"90a89e91-afc7-4ce3-95d0-4de58808d7bd","tags":[],"resourceType":"GMSpriteFrame",},
-    {"compositeImage":{"FrameId":{"name":"574df117-4cec-4494-852d-608bf50e6161","path":"sprites/spr_soldier_knife/spr_soldier_knife.yy",},"LayerId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"574df117-4cec-4494-852d-608bf50e6161","path":"sprites/spr_soldier_knife/spr_soldier_knife.yy",},"LayerId":{"name":"af3daf75-4bb7-41bf-9846-bb44aca5966b","path":"sprites/spr_soldier_knife/spr_soldier_knife.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-      ],"parent":{"name":"spr_soldier_knife","path":"sprites/spr_soldier_knife/spr_soldier_knife.yy",},"resourceVersion":"1.0","name":"574df117-4cec-4494-852d-608bf50e6161","tags":[],"resourceType":"GMSpriteFrame",},
-    {"compositeImage":{"FrameId":{"name":"6cb0af5f-2e47-49dd-bd66-54da722a3972","path":"sprites/spr_soldier_knife/spr_soldier_knife.yy",},"LayerId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"6cb0af5f-2e47-49dd-bd66-54da722a3972","path":"sprites/spr_soldier_knife/spr_soldier_knife.yy",},"LayerId":{"name":"af3daf75-4bb7-41bf-9846-bb44aca5966b","path":"sprites/spr_soldier_knife/spr_soldier_knife.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-      ],"parent":{"name":"spr_soldier_knife","path":"sprites/spr_soldier_knife/spr_soldier_knife.yy",},"resourceVersion":"1.0","name":"6cb0af5f-2e47-49dd-bd66-54da722a3972","tags":[],"resourceType":"GMSpriteFrame",},
-    {"compositeImage":{"FrameId":{"name":"ab2cf464-434a-4c10-9e6d-f41128532ceb","path":"sprites/spr_soldier_knife/spr_soldier_knife.yy",},"LayerId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"ab2cf464-434a-4c10-9e6d-f41128532ceb","path":"sprites/spr_soldier_knife/spr_soldier_knife.yy",},"LayerId":{"name":"af3daf75-4bb7-41bf-9846-bb44aca5966b","path":"sprites/spr_soldier_knife/spr_soldier_knife.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-      ],"parent":{"name":"spr_soldier_knife","path":"sprites/spr_soldier_knife/spr_soldier_knife.yy",},"resourceVersion":"1.0","name":"ab2cf464-434a-4c10-9e6d-f41128532ceb","tags":[],"resourceType":"GMSpriteFrame",},
-    {"compositeImage":{"FrameId":{"name":"322e2961-3621-4ecc-a97f-0905723ac012","path":"sprites/spr_soldier_knife/spr_soldier_knife.yy",},"LayerId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"322e2961-3621-4ecc-a97f-0905723ac012","path":"sprites/spr_soldier_knife/spr_soldier_knife.yy",},"LayerId":{"name":"af3daf75-4bb7-41bf-9846-bb44aca5966b","path":"sprites/spr_soldier_knife/spr_soldier_knife.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-      ],"parent":{"name":"spr_soldier_knife","path":"sprites/spr_soldier_knife/spr_soldier_knife.yy",},"resourceVersion":"1.0","name":"322e2961-3621-4ecc-a97f-0905723ac012","tags":[],"resourceType":"GMSpriteFrame",},
-    {"compositeImage":{"FrameId":{"name":"d09de500-b5bd-496c-95af-5e0abaff8c2d","path":"sprites/spr_soldier_knife/spr_soldier_knife.yy",},"LayerId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"d09de500-b5bd-496c-95af-5e0abaff8c2d","path":"sprites/spr_soldier_knife/spr_soldier_knife.yy",},"LayerId":{"name":"af3daf75-4bb7-41bf-9846-bb44aca5966b","path":"sprites/spr_soldier_knife/spr_soldier_knife.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-      ],"parent":{"name":"spr_soldier_knife","path":"sprites/spr_soldier_knife/spr_soldier_knife.yy",},"resourceVersion":"1.0","name":"d09de500-b5bd-496c-95af-5e0abaff8c2d","tags":[],"resourceType":"GMSpriteFrame",},
-    {"compositeImage":{"FrameId":{"name":"42978f74-d790-4fb4-8203-698a3675772b","path":"sprites/spr_soldier_knife/spr_soldier_knife.yy",},"LayerId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"42978f74-d790-4fb4-8203-698a3675772b","path":"sprites/spr_soldier_knife/spr_soldier_knife.yy",},"LayerId":{"name":"af3daf75-4bb7-41bf-9846-bb44aca5966b","path":"sprites/spr_soldier_knife/spr_soldier_knife.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-      ],"parent":{"name":"spr_soldier_knife","path":"sprites/spr_soldier_knife/spr_soldier_knife.yy",},"resourceVersion":"1.0","name":"42978f74-d790-4fb4-8203-698a3675772b","tags":[],"resourceType":"GMSpriteFrame",},
-    {"compositeImage":{"FrameId":{"name":"da2382c3-00f9-4ba1-9902-a92295561786","path":"sprites/spr_soldier_knife/spr_soldier_knife.yy",},"LayerId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"da2382c3-00f9-4ba1-9902-a92295561786","path":"sprites/spr_soldier_knife/spr_soldier_knife.yy",},"LayerId":{"name":"af3daf75-4bb7-41bf-9846-bb44aca5966b","path":"sprites/spr_soldier_knife/spr_soldier_knife.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-      ],"parent":{"name":"spr_soldier_knife","path":"sprites/spr_soldier_knife/spr_soldier_knife.yy",},"resourceVersion":"1.0","name":"da2382c3-00f9-4ba1-9902-a92295561786","tags":[],"resourceType":"GMSpriteFrame",},
-    {"compositeImage":{"FrameId":{"name":"fa36cf1e-7a95-4d51-9860-1ce0f9f21dba","path":"sprites/spr_soldier_knife/spr_soldier_knife.yy",},"LayerId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"fa36cf1e-7a95-4d51-9860-1ce0f9f21dba","path":"sprites/spr_soldier_knife/spr_soldier_knife.yy",},"LayerId":{"name":"af3daf75-4bb7-41bf-9846-bb44aca5966b","path":"sprites/spr_soldier_knife/spr_soldier_knife.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-      ],"parent":{"name":"spr_soldier_knife","path":"sprites/spr_soldier_knife/spr_soldier_knife.yy",},"resourceVersion":"1.0","name":"fa36cf1e-7a95-4d51-9860-1ce0f9f21dba","tags":[],"resourceType":"GMSpriteFrame",},
+    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"093c0e41-8ce4-43da-bcc0-3f3a8b972f58",},
+    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"07ae1844-5591-4e49-ba65-20936e2ebd9e",},
+    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"7b4ee590-a806-4a85-8868-2f765331f245",},
+    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"4d635704-e582-4f3a-b73b-0ef641d02098",},
+    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"90a89e91-afc7-4ce3-95d0-4de58808d7bd",},
+    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"574df117-4cec-4494-852d-608bf50e6161",},
+    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"6cb0af5f-2e47-49dd-bd66-54da722a3972",},
+    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"ab2cf464-434a-4c10-9e6d-f41128532ceb",},
+    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"322e2961-3621-4ecc-a97f-0905723ac012",},
+    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"d09de500-b5bd-496c-95af-5e0abaff8c2d",},
+    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"42978f74-d790-4fb4-8203-698a3675772b",},
+    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"da2382c3-00f9-4ba1-9902-a92295561786",},
+    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"fa36cf1e-7a95-4d51-9860-1ce0f9f21dba",},
   ],
   "sequence": {
-    "spriteId": {"name":"spr_soldier_knife","path":"sprites/spr_soldier_knife/spr_soldier_knife.yy",},
+    "resourceType": "GMSequence",
+    "resourceVersion": "1.4",
+    "name": "spr_soldier_knife",
     "timeUnits": 1,
     "playback": 1,
     "playbackSpeed": 1.0,
@@ -79,7 +59,7 @@
     "events": {"Keyframes":[],"resourceVersion":"1.0","resourceType":"KeyframeStore<MessageEventKeyframe>",},
     "moments": {"Keyframes":[],"resourceVersion":"1.0","resourceType":"KeyframeStore<MomentsEventKeyframe>",},
     "tracks": [
-      {"name":"frames","spriteId":null,"keyframes":{"Keyframes":[
+      {"resourceType":"GMSpriteFramesTrack","resourceVersion":"1.0","name":"frames","spriteId":null,"keyframes":{"Keyframes":[
             {"id":"24033e84-daa2-4a74-8417-a5c5fd0cebf5","Key":0.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"093c0e41-8ce4-43da-bcc0-3f3a8b972f58","path":"sprites/spr_soldier_knife/spr_soldier_knife.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
             {"id":"185edd14-a7b5-4375-bdab-9bebdbf3f12f","Key":1.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"07ae1844-5591-4e49-ba65-20936e2ebd9e","path":"sprites/spr_soldier_knife/spr_soldier_knife.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
             {"id":"ece688b2-10f3-4d79-9994-1420d68ab31c","Key":2.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"7b4ee590-a806-4a85-8868-2f765331f245","path":"sprites/spr_soldier_knife/spr_soldier_knife.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
@@ -93,7 +73,7 @@
             {"id":"32cc44a0-9c7c-447e-bf37-d1b55950ec62","Key":10.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"42978f74-d790-4fb4-8203-698a3675772b","path":"sprites/spr_soldier_knife/spr_soldier_knife.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
             {"id":"fb9225c6-6691-41d7-a6d8-70279989976a","Key":11.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"da2382c3-00f9-4ba1-9902-a92295561786","path":"sprites/spr_soldier_knife/spr_soldier_knife.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
             {"id":"3ca63d39-29b1-49de-9832-0e58d5197910","Key":12.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"fa36cf1e-7a95-4d51-9860-1ce0f9f21dba","path":"sprites/spr_soldier_knife/spr_soldier_knife.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
-          ],"resourceVersion":"1.0","resourceType":"KeyframeStore<SpriteFrameKeyframe>",},"trackColour":0,"inheritsTrackColour":true,"builtinName":0,"traits":0,"interpolation":1,"tracks":[],"events":[],"isCreationTrack":false,"resourceVersion":"1.0","tags":[],"resourceType":"GMSpriteFramesTrack","modifiers":[],},
+          ],"resourceVersion":"1.0","resourceType":"KeyframeStore<SpriteFrameKeyframe>",},"trackColour":0,"inheritsTrackColour":true,"builtinName":0,"traits":0,"interpolation":1,"tracks":[],"events":[],"isCreationTrack":false,"modifiers":[],},
     ],
     "visibleRange": null,
     "lockOrigin": false,
@@ -109,22 +89,13 @@
     "yorigin": 50,
     "eventToFunction": {},
     "eventStubScript": null,
-    "parent": {"name":"spr_soldier_knife","path":"sprites/spr_soldier_knife/spr_soldier_knife.yy",},
-    "resourceVersion": "1.4",
-    "name": "spr_soldier_knife",
-    "tags": [],
-    "resourceType": "GMSequence",
   },
   "layers": [
-    {"visible":true,"isLocked":false,"blendMode":0,"opacity":100.0,"displayName":"default","resourceVersion":"1.0","name":"af3daf75-4bb7-41bf-9846-bb44aca5966b","tags":[],"resourceType":"GMImageLayer",},
+    {"resourceType":"GMImageLayer","resourceVersion":"1.0","name":"af3daf75-4bb7-41bf-9846-bb44aca5966b","visible":true,"isLocked":false,"blendMode":0,"opacity":100.0,"displayName":"default",},
   ],
   "nineSlice": null,
   "parent": {
     "name": "soldier",
     "path": "folders/Sprites/baddie/soldier.yy",
   },
-  "resourceVersion": "1.0",
-  "name": "spr_soldier_knife",
-  "tags": [],
-  "resourceType": "GMSprite",
 }

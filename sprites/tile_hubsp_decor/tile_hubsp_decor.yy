@@ -1,4 +1,7 @@
 {
+  "resourceType": "GMSprite",
+  "resourceVersion": "1.0",
+  "name": "tile_hubsp_decor",
   "ConfigValues": {
     "debug": {"textureGroupId":"{\"name\":\"tg_sugaryspire\",\"path\":\"texturegroups/tg_sugaryspire\"}",},
   },
@@ -17,6 +20,7 @@
   "HTile": false,
   "VTile": false,
   "For3D": false,
+  "DynamicTexturePage": false,
   "width": 300,
   "height": 240,
   "textureGroupId": {
@@ -27,12 +31,12 @@
   "gridX": 0,
   "gridY": 0,
   "frames": [
-    {"compositeImage":{"FrameId":{"name":"da2ee6e4-077c-4137-957c-8b9d87a9f5f3","path":"sprites/tile_hubsp_decor/tile_hubsp_decor.yy",},"LayerId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"da2ee6e4-077c-4137-957c-8b9d87a9f5f3","path":"sprites/tile_hubsp_decor/tile_hubsp_decor.yy",},"LayerId":{"name":"f1facc1e-6d2d-4c2c-9579-71605a96d50a","path":"sprites/tile_hubsp_decor/tile_hubsp_decor.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-      ],"parent":{"name":"tile_hubsp_decor","path":"sprites/tile_hubsp_decor/tile_hubsp_decor.yy",},"resourceVersion":"1.0","name":"da2ee6e4-077c-4137-957c-8b9d87a9f5f3","tags":[],"resourceType":"GMSpriteFrame",},
+    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"da2ee6e4-077c-4137-957c-8b9d87a9f5f3",},
   ],
   "sequence": {
-    "spriteId": {"name":"tile_hubsp_decor","path":"sprites/tile_hubsp_decor/tile_hubsp_decor.yy",},
+    "resourceType": "GMSequence",
+    "resourceVersion": "1.4",
+    "name": "tile_hubsp_decor",
     "timeUnits": 1,
     "playback": 1,
     "playbackSpeed": 1.0,
@@ -43,9 +47,9 @@
     "events": {"Keyframes":[],"resourceVersion":"1.0","resourceType":"KeyframeStore<MessageEventKeyframe>",},
     "moments": {"Keyframes":[],"resourceVersion":"1.0","resourceType":"KeyframeStore<MomentsEventKeyframe>",},
     "tracks": [
-      {"name":"frames","spriteId":null,"keyframes":{"Keyframes":[
+      {"resourceType":"GMSpriteFramesTrack","resourceVersion":"1.0","name":"frames","spriteId":null,"keyframes":{"Keyframes":[
             {"id":"51ebd63d-1310-49fd-90c2-fbbb59cf0e1a","Key":0.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"da2ee6e4-077c-4137-957c-8b9d87a9f5f3","path":"sprites/tile_hubsp_decor/tile_hubsp_decor.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
-          ],"resourceVersion":"1.0","resourceType":"KeyframeStore<SpriteFrameKeyframe>",},"trackColour":0,"inheritsTrackColour":true,"builtinName":0,"traits":0,"interpolation":1,"tracks":[],"events":[],"isCreationTrack":false,"resourceVersion":"1.0","tags":[],"resourceType":"GMSpriteFramesTrack","modifiers":[],},
+          ],"resourceVersion":"1.0","resourceType":"KeyframeStore<SpriteFrameKeyframe>",},"trackColour":0,"inheritsTrackColour":true,"builtinName":0,"traits":0,"interpolation":1,"tracks":[],"events":[],"isCreationTrack":false,"modifiers":[],},
     ],
     "visibleRange": null,
     "lockOrigin": false,
@@ -61,22 +65,13 @@
     "yorigin": 0,
     "eventToFunction": {},
     "eventStubScript": null,
-    "parent": {"name":"tile_hubsp_decor","path":"sprites/tile_hubsp_decor/tile_hubsp_decor.yy",},
-    "resourceVersion": "1.4",
-    "name": "tile_hubsp_decor",
-    "tags": [],
-    "resourceType": "GMSequence",
   },
   "layers": [
-    {"visible":true,"isLocked":false,"blendMode":0,"opacity":100.0,"displayName":"default","resourceVersion":"1.0","name":"f1facc1e-6d2d-4c2c-9579-71605a96d50a","tags":[],"resourceType":"GMImageLayer",},
+    {"resourceType":"GMImageLayer","resourceVersion":"1.0","name":"f1facc1e-6d2d-4c2c-9579-71605a96d50a","visible":true,"isLocked":false,"blendMode":0,"opacity":100.0,"displayName":"default",},
   ],
   "nineSlice": null,
   "parent": {
     "name": "hub",
     "path": "folders/Sprites/SUGARY SPIRE/tilesets/hub.yy",
   },
-  "resourceVersion": "1.0",
-  "name": "tile_hubsp_decor",
-  "tags": [],
-  "resourceType": "GMSprite",
 }

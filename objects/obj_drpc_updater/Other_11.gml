@@ -1,4 +1,5 @@
 /// @description turn off rich presence
 running = false;
-discord_shutdown();
-instance_destroy(global.__rousr_dissonance);
+
+np_clearpresence();
+instance_destroy(nekoPresence);

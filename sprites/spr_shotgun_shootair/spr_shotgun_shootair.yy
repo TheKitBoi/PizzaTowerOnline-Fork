@@ -1,4 +1,7 @@
 {
+  "resourceType": "GMSprite",
+  "resourceVersion": "1.0",
+  "name": "spr_shotgun_shootair",
   "ConfigValues": {
     "debug": {"textureGroupId":"{\"name\":\"tg_player\",\"path\":\"texturegroups/tg_player\"}",},
   },
@@ -17,6 +20,7 @@
   "HTile": false,
   "VTile": false,
   "For3D": false,
+  "DynamicTexturePage": false,
   "width": 100,
   "height": 100,
   "textureGroupId": {
@@ -27,21 +31,15 @@
   "gridX": 0,
   "gridY": 0,
   "frames": [
-    {"compositeImage":{"FrameId":{"name":"3d66134b-068a-4fd5-a8c0-fbd31079fe29","path":"sprites/spr_shotgun_shootair/spr_shotgun_shootair.yy",},"LayerId":null,"resourceVersion":"1.0","name":"composite","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"3d66134b-068a-4fd5-a8c0-fbd31079fe29","path":"sprites/spr_shotgun_shootair/spr_shotgun_shootair.yy",},"LayerId":{"name":"037cfd10-ac59-4d78-9ee3-0dd7303eb6f5","path":"sprites/spr_shotgun_shootair/spr_shotgun_shootair.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-      ],"parent":{"name":"spr_shotgun_shootair","path":"sprites/spr_shotgun_shootair/spr_shotgun_shootair.yy",},"resourceVersion":"1.0","name":"3d66134b-068a-4fd5-a8c0-fbd31079fe29","tags":[],"resourceType":"GMSpriteFrame",},
-    {"compositeImage":{"FrameId":{"name":"6630198c-45ea-4e5b-b3ba-5a224c1948b6","path":"sprites/spr_shotgun_shootair/spr_shotgun_shootair.yy",},"LayerId":null,"resourceVersion":"1.0","name":"composite","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"6630198c-45ea-4e5b-b3ba-5a224c1948b6","path":"sprites/spr_shotgun_shootair/spr_shotgun_shootair.yy",},"LayerId":{"name":"037cfd10-ac59-4d78-9ee3-0dd7303eb6f5","path":"sprites/spr_shotgun_shootair/spr_shotgun_shootair.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-      ],"parent":{"name":"spr_shotgun_shootair","path":"sprites/spr_shotgun_shootair/spr_shotgun_shootair.yy",},"resourceVersion":"1.0","name":"6630198c-45ea-4e5b-b3ba-5a224c1948b6","tags":[],"resourceType":"GMSpriteFrame",},
-    {"compositeImage":{"FrameId":{"name":"8e60ebe5-dd94-4584-9351-ff711147522c","path":"sprites/spr_shotgun_shootair/spr_shotgun_shootair.yy",},"LayerId":null,"resourceVersion":"1.0","name":"composite","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"8e60ebe5-dd94-4584-9351-ff711147522c","path":"sprites/spr_shotgun_shootair/spr_shotgun_shootair.yy",},"LayerId":{"name":"037cfd10-ac59-4d78-9ee3-0dd7303eb6f5","path":"sprites/spr_shotgun_shootair/spr_shotgun_shootair.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-      ],"parent":{"name":"spr_shotgun_shootair","path":"sprites/spr_shotgun_shootair/spr_shotgun_shootair.yy",},"resourceVersion":"1.0","name":"8e60ebe5-dd94-4584-9351-ff711147522c","tags":[],"resourceType":"GMSpriteFrame",},
-    {"compositeImage":{"FrameId":{"name":"c5b5e196-17e3-42fd-9147-6dd62e164a6e","path":"sprites/spr_shotgun_shootair/spr_shotgun_shootair.yy",},"LayerId":null,"resourceVersion":"1.0","name":"composite","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"c5b5e196-17e3-42fd-9147-6dd62e164a6e","path":"sprites/spr_shotgun_shootair/spr_shotgun_shootair.yy",},"LayerId":{"name":"037cfd10-ac59-4d78-9ee3-0dd7303eb6f5","path":"sprites/spr_shotgun_shootair/spr_shotgun_shootair.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-      ],"parent":{"name":"spr_shotgun_shootair","path":"sprites/spr_shotgun_shootair/spr_shotgun_shootair.yy",},"resourceVersion":"1.0","name":"c5b5e196-17e3-42fd-9147-6dd62e164a6e","tags":[],"resourceType":"GMSpriteFrame",},
+    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"3d66134b-068a-4fd5-a8c0-fbd31079fe29",},
+    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"6630198c-45ea-4e5b-b3ba-5a224c1948b6",},
+    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"8e60ebe5-dd94-4584-9351-ff711147522c",},
+    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"c5b5e196-17e3-42fd-9147-6dd62e164a6e",},
   ],
   "sequence": {
-    "spriteId": {"name":"spr_shotgun_shootair","path":"sprites/spr_shotgun_shootair/spr_shotgun_shootair.yy",},
+    "resourceType": "GMSequence",
+    "resourceVersion": "1.4",
+    "name": "",
     "timeUnits": 1,
     "playback": 1,
     "playbackSpeed": 1.0,
@@ -52,12 +50,12 @@
     "events": {"Keyframes":[],"resourceVersion":"1.0","resourceType":"KeyframeStore<MessageEventKeyframe>",},
     "moments": {"Keyframes":[],"resourceVersion":"1.0","resourceType":"KeyframeStore<MomentsEventKeyframe>",},
     "tracks": [
-      {"name":"frames","spriteId":null,"keyframes":{"Keyframes":[
+      {"resourceType":"GMSpriteFramesTrack","resourceVersion":"1.0","name":"frames","spriteId":null,"keyframes":{"Keyframes":[
             {"id":"7ef0d63c-6262-4951-8f01-cd331bf885ca","Key":0.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"3d66134b-068a-4fd5-a8c0-fbd31079fe29","path":"sprites/spr_shotgun_shootair/spr_shotgun_shootair.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
             {"id":"c5eadd22-dab4-4fd4-82f9-d476f542476a","Key":1.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"6630198c-45ea-4e5b-b3ba-5a224c1948b6","path":"sprites/spr_shotgun_shootair/spr_shotgun_shootair.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
             {"id":"5dce1c92-f7c2-4a70-b768-44aae37f0c92","Key":2.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"8e60ebe5-dd94-4584-9351-ff711147522c","path":"sprites/spr_shotgun_shootair/spr_shotgun_shootair.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
             {"id":"6cf5a7ef-c088-415e-9c33-5470598ff34a","Key":3.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"c5b5e196-17e3-42fd-9147-6dd62e164a6e","path":"sprites/spr_shotgun_shootair/spr_shotgun_shootair.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
-          ],"resourceVersion":"1.0","resourceType":"KeyframeStore<SpriteFrameKeyframe>",},"trackColour":0,"inheritsTrackColour":true,"builtinName":0,"traits":0,"interpolation":1,"tracks":[],"events":[],"isCreationTrack":false,"resourceVersion":"1.0","tags":[],"resourceType":"GMSpriteFramesTrack","modifiers":[],},
+          ],"resourceVersion":"1.0","resourceType":"KeyframeStore<SpriteFrameKeyframe>",},"trackColour":0,"inheritsTrackColour":true,"builtinName":0,"traits":0,"interpolation":1,"tracks":[],"events":[],"isCreationTrack":false,"modifiers":[],},
     ],
     "visibleRange": null,
     "lockOrigin": false,
@@ -73,22 +71,13 @@
     "yorigin": 50,
     "eventToFunction": {},
     "eventStubScript": null,
-    "parent": {"name":"spr_shotgun_shootair","path":"sprites/spr_shotgun_shootair/spr_shotgun_shootair.yy",},
-    "resourceVersion": "1.4",
-    "name": "",
-    "tags": [],
-    "resourceType": "GMSequence",
   },
   "layers": [
-    {"visible":true,"isLocked":false,"blendMode":0,"opacity":100.0,"displayName":"default","resourceVersion":"1.0","name":"037cfd10-ac59-4d78-9ee3-0dd7303eb6f5","tags":[],"resourceType":"GMImageLayer",},
+    {"resourceType":"GMImageLayer","resourceVersion":"1.0","name":"037cfd10-ac59-4d78-9ee3-0dd7303eb6f5","visible":true,"isLocked":false,"blendMode":0,"opacity":100.0,"displayName":"default",},
   ],
   "nineSlice": null,
   "parent": {
     "name": "shotgun",
     "path": "folders/Sprites/players/pepino/shotgun.yy",
   },
-  "resourceVersion": "1.0",
-  "name": "spr_shotgun_shootair",
-  "tags": [],
-  "resourceType": "GMSprite",
 }

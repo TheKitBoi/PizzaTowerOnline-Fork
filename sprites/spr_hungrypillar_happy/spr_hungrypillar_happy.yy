@@ -1,4 +1,7 @@
 {
+  "resourceType": "GMSprite",
+  "resourceVersion": "1.0",
+  "name": "spr_hungrypillar_happy",
   "bboxMode": 0,
   "collisionKind": 1,
   "type": 0,
@@ -14,6 +17,7 @@
   "HTile": false,
   "VTile": false,
   "For3D": false,
+  "DynamicTexturePage": false,
   "width": 128,
   "height": 224,
   "textureGroupId": {
@@ -24,18 +28,14 @@
   "gridX": 0,
   "gridY": 0,
   "frames": [
-    {"compositeImage":{"FrameId":{"name":"731507a5-3cde-4976-bb61-712182823ba3","path":"sprites/spr_hungrypillar_happy/spr_hungrypillar_happy.yy",},"LayerId":null,"resourceVersion":"1.0","name":"composite","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"731507a5-3cde-4976-bb61-712182823ba3","path":"sprites/spr_hungrypillar_happy/spr_hungrypillar_happy.yy",},"LayerId":{"name":"31313834-b846-4678-b51e-c6be6c50f6d0","path":"sprites/spr_hungrypillar_happy/spr_hungrypillar_happy.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-      ],"parent":{"name":"spr_hungrypillar_happy","path":"sprites/spr_hungrypillar_happy/spr_hungrypillar_happy.yy",},"resourceVersion":"1.0","name":"731507a5-3cde-4976-bb61-712182823ba3","tags":[],"resourceType":"GMSpriteFrame",},
-    {"compositeImage":{"FrameId":{"name":"62779ecc-6989-4a49-977d-129add467f8e","path":"sprites/spr_hungrypillar_happy/spr_hungrypillar_happy.yy",},"LayerId":null,"resourceVersion":"1.0","name":"composite","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"62779ecc-6989-4a49-977d-129add467f8e","path":"sprites/spr_hungrypillar_happy/spr_hungrypillar_happy.yy",},"LayerId":{"name":"31313834-b846-4678-b51e-c6be6c50f6d0","path":"sprites/spr_hungrypillar_happy/spr_hungrypillar_happy.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-      ],"parent":{"name":"spr_hungrypillar_happy","path":"sprites/spr_hungrypillar_happy/spr_hungrypillar_happy.yy",},"resourceVersion":"1.0","name":"62779ecc-6989-4a49-977d-129add467f8e","tags":[],"resourceType":"GMSpriteFrame",},
-    {"compositeImage":{"FrameId":{"name":"cf0bf4cc-4be1-4ff1-8b8c-47949a2bf016","path":"sprites/spr_hungrypillar_happy/spr_hungrypillar_happy.yy",},"LayerId":null,"resourceVersion":"1.0","name":"composite","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"cf0bf4cc-4be1-4ff1-8b8c-47949a2bf016","path":"sprites/spr_hungrypillar_happy/spr_hungrypillar_happy.yy",},"LayerId":{"name":"31313834-b846-4678-b51e-c6be6c50f6d0","path":"sprites/spr_hungrypillar_happy/spr_hungrypillar_happy.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-      ],"parent":{"name":"spr_hungrypillar_happy","path":"sprites/spr_hungrypillar_happy/spr_hungrypillar_happy.yy",},"resourceVersion":"1.0","name":"cf0bf4cc-4be1-4ff1-8b8c-47949a2bf016","tags":[],"resourceType":"GMSpriteFrame",},
+    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"731507a5-3cde-4976-bb61-712182823ba3",},
+    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"62779ecc-6989-4a49-977d-129add467f8e",},
+    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"cf0bf4cc-4be1-4ff1-8b8c-47949a2bf016",},
   ],
   "sequence": {
-    "spriteId": {"name":"spr_hungrypillar_happy","path":"sprites/spr_hungrypillar_happy/spr_hungrypillar_happy.yy",},
+    "resourceType": "GMSequence",
+    "resourceVersion": "1.4",
+    "name": "",
     "timeUnits": 1,
     "playback": 1,
     "playbackSpeed": 1.0,
@@ -46,11 +46,11 @@
     "events": {"Keyframes":[],"resourceVersion":"1.0","resourceType":"KeyframeStore<MessageEventKeyframe>",},
     "moments": {"Keyframes":[],"resourceVersion":"1.0","resourceType":"KeyframeStore<MomentsEventKeyframe>",},
     "tracks": [
-      {"name":"frames","spriteId":null,"keyframes":{"Keyframes":[
+      {"resourceType":"GMSpriteFramesTrack","resourceVersion":"1.0","name":"frames","spriteId":null,"keyframes":{"Keyframes":[
             {"id":"4ffeda78-e34d-47b4-a426-4f134356bef2","Key":0.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"731507a5-3cde-4976-bb61-712182823ba3","path":"sprites/spr_hungrypillar_happy/spr_hungrypillar_happy.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
             {"id":"a22da42d-d563-40e8-9cb8-a0e4df2c11f9","Key":1.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"62779ecc-6989-4a49-977d-129add467f8e","path":"sprites/spr_hungrypillar_happy/spr_hungrypillar_happy.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
             {"id":"41c71bc0-7832-44f2-b86c-e256cc438112","Key":2.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"cf0bf4cc-4be1-4ff1-8b8c-47949a2bf016","path":"sprites/spr_hungrypillar_happy/spr_hungrypillar_happy.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
-          ],"resourceVersion":"1.0","resourceType":"KeyframeStore<SpriteFrameKeyframe>",},"trackColour":0,"inheritsTrackColour":true,"builtinName":0,"traits":0,"interpolation":1,"tracks":[],"events":[],"isCreationTrack":false,"resourceVersion":"1.0","tags":[],"resourceType":"GMSpriteFramesTrack","modifiers":[],},
+          ],"resourceVersion":"1.0","resourceType":"KeyframeStore<SpriteFrameKeyframe>",},"trackColour":0,"inheritsTrackColour":true,"builtinName":0,"traits":0,"interpolation":1,"tracks":[],"events":[],"isCreationTrack":false,"modifiers":[],},
     ],
     "visibleRange": null,
     "lockOrigin": false,
@@ -66,22 +66,13 @@
     "yorigin": 112,
     "eventToFunction": {},
     "eventStubScript": null,
-    "parent": {"name":"spr_hungrypillar_happy","path":"sprites/spr_hungrypillar_happy/spr_hungrypillar_happy.yy",},
-    "resourceVersion": "1.4",
-    "name": "",
-    "tags": [],
-    "resourceType": "GMSequence",
   },
   "layers": [
-    {"visible":true,"isLocked":false,"blendMode":0,"opacity":100.0,"displayName":"default","resourceVersion":"1.0","name":"31313834-b846-4678-b51e-c6be6c50f6d0","tags":[],"resourceType":"GMImageLayer",},
+    {"resourceType":"GMImageLayer","resourceVersion":"1.0","name":"31313834-b846-4678-b51e-c6be6c50f6d0","visible":true,"isLocked":false,"blendMode":0,"opacity":100.0,"displayName":"default",},
   ],
   "nineSlice": null,
   "parent": {
     "name": "pillar",
     "path": "folders/Sprites/pillar.yy",
   },
-  "resourceVersion": "1.0",
-  "name": "spr_hungrypillar_happy",
-  "tags": [],
-  "resourceType": "GMSprite",
 }

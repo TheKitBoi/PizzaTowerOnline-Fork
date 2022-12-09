@@ -1,4 +1,7 @@
 {
+  "resourceType": "GMSprite",
+  "resourceVersion": "1.0",
+  "name": "bg_ruinstatue2_re",
   "ConfigValues": {
     "debug": {"textureGroupId":"{\"name\":\"tg_leaningnightmare\",\"path\":\"texturegroups/tg_leaningnightmare\"}",},
   },
@@ -17,6 +20,7 @@
   "HTile": false,
   "VTile": false,
   "For3D": false,
+  "DynamicTexturePage": false,
   "width": 960,
   "height": 640,
   "textureGroupId": {
@@ -27,12 +31,12 @@
   "gridX": 0,
   "gridY": 0,
   "frames": [
-    {"compositeImage":{"FrameId":{"name":"1f6ca2c3-6985-42d7-9d01-b96c7b3dba4d","path":"sprites/bg_ruinstatue2_re/bg_ruinstatue2_re.yy",},"LayerId":null,"resourceVersion":"1.0","name":"composite","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"1f6ca2c3-6985-42d7-9d01-b96c7b3dba4d","path":"sprites/bg_ruinstatue2_re/bg_ruinstatue2_re.yy",},"LayerId":{"name":"de95f312-cf07-4ca9-a72f-75b9e9f0461d","path":"sprites/bg_ruinstatue2_re/bg_ruinstatue2_re.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-      ],"parent":{"name":"bg_ruinstatue2_re","path":"sprites/bg_ruinstatue2_re/bg_ruinstatue2_re.yy",},"resourceVersion":"1.0","name":"1f6ca2c3-6985-42d7-9d01-b96c7b3dba4d","tags":[],"resourceType":"GMSpriteFrame",},
+    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"1f6ca2c3-6985-42d7-9d01-b96c7b3dba4d",},
   ],
   "sequence": {
-    "spriteId": {"name":"bg_ruinstatue2_re","path":"sprites/bg_ruinstatue2_re/bg_ruinstatue2_re.yy",},
+    "resourceType": "GMSequence",
+    "resourceVersion": "1.4",
+    "name": "",
     "timeUnits": 1,
     "playback": 1,
     "playbackSpeed": 1.0,
@@ -43,9 +47,9 @@
     "events": {"Keyframes":[],"resourceVersion":"1.0","resourceType":"KeyframeStore<MessageEventKeyframe>",},
     "moments": {"Keyframes":[],"resourceVersion":"1.0","resourceType":"KeyframeStore<MomentsEventKeyframe>",},
     "tracks": [
-      {"name":"frames","spriteId":null,"keyframes":{"Keyframes":[
+      {"resourceType":"GMSpriteFramesTrack","resourceVersion":"1.0","name":"frames","spriteId":null,"keyframes":{"Keyframes":[
             {"id":"9994ebe4-2ac4-4738-8ecf-5cbaa9e29c73","Key":0.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"1f6ca2c3-6985-42d7-9d01-b96c7b3dba4d","path":"sprites/bg_ruinstatue2_re/bg_ruinstatue2_re.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
-          ],"resourceVersion":"1.0","resourceType":"KeyframeStore<SpriteFrameKeyframe>",},"trackColour":0,"inheritsTrackColour":true,"builtinName":0,"traits":0,"interpolation":1,"tracks":[],"events":[],"isCreationTrack":false,"resourceVersion":"1.0","tags":[],"resourceType":"GMSpriteFramesTrack","modifiers":[],},
+          ],"resourceVersion":"1.0","resourceType":"KeyframeStore<SpriteFrameKeyframe>",},"trackColour":0,"inheritsTrackColour":true,"builtinName":0,"traits":0,"interpolation":1,"tracks":[],"events":[],"isCreationTrack":false,"modifiers":[],},
     ],
     "visibleRange": null,
     "lockOrigin": false,
@@ -61,22 +65,13 @@
     "yorigin": 0,
     "eventToFunction": {},
     "eventStubScript": null,
-    "parent": {"name":"bg_ruinstatue2_re","path":"sprites/bg_ruinstatue2_re/bg_ruinstatue2_re.yy",},
-    "resourceVersion": "1.4",
-    "name": "",
-    "tags": [],
-    "resourceType": "GMSequence",
   },
   "layers": [
-    {"visible":true,"isLocked":false,"blendMode":0,"opacity":100.0,"displayName":"default","resourceVersion":"1.0","name":"de95f312-cf07-4ca9-a72f-75b9e9f0461d","tags":[],"resourceType":"GMImageLayer",},
+    {"resourceType":"GMImageLayer","resourceVersion":"1.0","name":"de95f312-cf07-4ca9-a72f-75b9e9f0461d","visible":true,"isLocked":false,"blendMode":0,"opacity":100.0,"displayName":"default",},
   ],
   "nineSlice": null,
   "parent": {
     "name": "pln",
     "path": "folders/Sprites/tilesets/ruin/pln.yy",
   },
-  "resourceVersion": "1.0",
-  "name": "bg_ruinstatue2_re",
-  "tags": [],
-  "resourceType": "GMSprite",
 }

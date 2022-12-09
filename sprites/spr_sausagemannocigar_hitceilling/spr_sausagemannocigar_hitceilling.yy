@@ -1,4 +1,7 @@
 {
+  "resourceType": "GMSprite",
+  "resourceVersion": "1.0",
+  "name": "spr_sausagemannocigar_hitceilling",
   "ConfigValues": {
     "debug": {"textureGroupId":"{\"name\":\"tg_baddie\",\"path\":\"texturegroups/tg_baddie\"}",},
   },
@@ -17,6 +20,7 @@
   "HTile": false,
   "VTile": false,
   "For3D": false,
+  "DynamicTexturePage": false,
   "width": 100,
   "height": 100,
   "textureGroupId": {
@@ -27,18 +31,14 @@
   "gridX": 0,
   "gridY": 0,
   "frames": [
-    {"compositeImage":{"FrameId":{"name":"9679c0b2-a6de-4fdb-9900-8f599d9e5bca","path":"sprites/spr_sausagemannocigar_hitceilling/spr_sausagemannocigar_hitceilling.yy",},"LayerId":null,"resourceVersion":"1.0","name":"composite","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"9679c0b2-a6de-4fdb-9900-8f599d9e5bca","path":"sprites/spr_sausagemannocigar_hitceilling/spr_sausagemannocigar_hitceilling.yy",},"LayerId":{"name":"8f5cde15-6f16-4704-bffe-5f087f16db83","path":"sprites/spr_sausagemannocigar_hitceilling/spr_sausagemannocigar_hitceilling.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-      ],"parent":{"name":"spr_sausagemannocigar_hitceilling","path":"sprites/spr_sausagemannocigar_hitceilling/spr_sausagemannocigar_hitceilling.yy",},"resourceVersion":"1.0","name":"9679c0b2-a6de-4fdb-9900-8f599d9e5bca","tags":[],"resourceType":"GMSpriteFrame",},
-    {"compositeImage":{"FrameId":{"name":"5e43d58e-69d8-438d-aa57-d3ae03941b7c","path":"sprites/spr_sausagemannocigar_hitceilling/spr_sausagemannocigar_hitceilling.yy",},"LayerId":null,"resourceVersion":"1.0","name":"composite","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"5e43d58e-69d8-438d-aa57-d3ae03941b7c","path":"sprites/spr_sausagemannocigar_hitceilling/spr_sausagemannocigar_hitceilling.yy",},"LayerId":{"name":"8f5cde15-6f16-4704-bffe-5f087f16db83","path":"sprites/spr_sausagemannocigar_hitceilling/spr_sausagemannocigar_hitceilling.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-      ],"parent":{"name":"spr_sausagemannocigar_hitceilling","path":"sprites/spr_sausagemannocigar_hitceilling/spr_sausagemannocigar_hitceilling.yy",},"resourceVersion":"1.0","name":"5e43d58e-69d8-438d-aa57-d3ae03941b7c","tags":[],"resourceType":"GMSpriteFrame",},
-    {"compositeImage":{"FrameId":{"name":"a60bf0c0-b3c3-4f4b-a678-7d21d5e438d6","path":"sprites/spr_sausagemannocigar_hitceilling/spr_sausagemannocigar_hitceilling.yy",},"LayerId":null,"resourceVersion":"1.0","name":"composite","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"a60bf0c0-b3c3-4f4b-a678-7d21d5e438d6","path":"sprites/spr_sausagemannocigar_hitceilling/spr_sausagemannocigar_hitceilling.yy",},"LayerId":{"name":"8f5cde15-6f16-4704-bffe-5f087f16db83","path":"sprites/spr_sausagemannocigar_hitceilling/spr_sausagemannocigar_hitceilling.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-      ],"parent":{"name":"spr_sausagemannocigar_hitceilling","path":"sprites/spr_sausagemannocigar_hitceilling/spr_sausagemannocigar_hitceilling.yy",},"resourceVersion":"1.0","name":"a60bf0c0-b3c3-4f4b-a678-7d21d5e438d6","tags":[],"resourceType":"GMSpriteFrame",},
+    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"9679c0b2-a6de-4fdb-9900-8f599d9e5bca",},
+    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"5e43d58e-69d8-438d-aa57-d3ae03941b7c",},
+    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"a60bf0c0-b3c3-4f4b-a678-7d21d5e438d6",},
   ],
   "sequence": {
-    "spriteId": {"name":"spr_sausagemannocigar_hitceilling","path":"sprites/spr_sausagemannocigar_hitceilling/spr_sausagemannocigar_hitceilling.yy",},
+    "resourceType": "GMSequence",
+    "resourceVersion": "1.4",
+    "name": "",
     "timeUnits": 1,
     "playback": 1,
     "playbackSpeed": 1.0,
@@ -49,11 +49,11 @@
     "events": {"Keyframes":[],"resourceVersion":"1.0","resourceType":"KeyframeStore<MessageEventKeyframe>",},
     "moments": {"Keyframes":[],"resourceVersion":"1.0","resourceType":"KeyframeStore<MomentsEventKeyframe>",},
     "tracks": [
-      {"name":"frames","spriteId":null,"keyframes":{"Keyframes":[
+      {"resourceType":"GMSpriteFramesTrack","resourceVersion":"1.0","name":"frames","spriteId":null,"keyframes":{"Keyframes":[
             {"id":"212ce23a-8be5-4a70-b395-5b881355ae52","Key":0.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"9679c0b2-a6de-4fdb-9900-8f599d9e5bca","path":"sprites/spr_sausagemannocigar_hitceilling/spr_sausagemannocigar_hitceilling.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
             {"id":"b7df0156-11d8-4a01-b6fe-9c44756b7f4a","Key":1.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"5e43d58e-69d8-438d-aa57-d3ae03941b7c","path":"sprites/spr_sausagemannocigar_hitceilling/spr_sausagemannocigar_hitceilling.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
             {"id":"38fe9fbb-cc34-4fea-8cc3-549a9a8b48d4","Key":2.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"a60bf0c0-b3c3-4f4b-a678-7d21d5e438d6","path":"sprites/spr_sausagemannocigar_hitceilling/spr_sausagemannocigar_hitceilling.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
-          ],"resourceVersion":"1.0","resourceType":"KeyframeStore<SpriteFrameKeyframe>",},"trackColour":0,"inheritsTrackColour":true,"builtinName":0,"traits":0,"interpolation":1,"tracks":[],"events":[],"isCreationTrack":false,"resourceVersion":"1.0","tags":[],"resourceType":"GMSpriteFramesTrack","modifiers":[],},
+          ],"resourceVersion":"1.0","resourceType":"KeyframeStore<SpriteFrameKeyframe>",},"trackColour":0,"inheritsTrackColour":true,"builtinName":0,"traits":0,"interpolation":1,"tracks":[],"events":[],"isCreationTrack":false,"modifiers":[],},
     ],
     "visibleRange": null,
     "lockOrigin": false,
@@ -69,22 +69,13 @@
     "yorigin": 50,
     "eventToFunction": {},
     "eventStubScript": null,
-    "parent": {"name":"spr_sausagemannocigar_hitceilling","path":"sprites/spr_sausagemannocigar_hitceilling/spr_sausagemannocigar_hitceilling.yy",},
-    "resourceVersion": "1.4",
-    "name": "",
-    "tags": [],
-    "resourceType": "GMSequence",
   },
   "layers": [
-    {"visible":true,"isLocked":false,"blendMode":0,"opacity":100.0,"displayName":"default","resourceVersion":"1.0","name":"8f5cde15-6f16-4704-bffe-5f087f16db83","tags":[],"resourceType":"GMImageLayer",},
+    {"resourceType":"GMImageLayer","resourceVersion":"1.0","name":"8f5cde15-6f16-4704-bffe-5f087f16db83","visible":true,"isLocked":false,"blendMode":0,"opacity":100.0,"displayName":"default",},
   ],
   "nineSlice": null,
   "parent": {
     "name": "sausageman",
     "path": "folders/Sprites/baddie/sausageman.yy",
   },
-  "resourceVersion": "1.0",
-  "name": "spr_sausagemannocigar_hitceilling",
-  "tags": [],
-  "resourceType": "GMSprite",
 }

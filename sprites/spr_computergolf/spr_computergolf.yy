@@ -1,4 +1,7 @@
 {
+  "resourceType": "GMSprite",
+  "resourceVersion": "1.0",
+  "name": "spr_computergolf",
   "bboxMode": 0,
   "collisionKind": 1,
   "type": 0,
@@ -14,6 +17,7 @@
   "HTile": false,
   "VTile": false,
   "For3D": false,
+  "DynamicTexturePage": false,
   "width": 100,
   "height": 100,
   "textureGroupId": {
@@ -24,15 +28,13 @@
   "gridX": 0,
   "gridY": 0,
   "frames": [
-    {"compositeImage":{"FrameId":{"name":"21aa8a9c-eb6b-4db0-8c8d-1853a11a2e54","path":"sprites/spr_computergolf/spr_computergolf.yy",},"LayerId":null,"resourceVersion":"1.0","name":"composite","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"21aa8a9c-eb6b-4db0-8c8d-1853a11a2e54","path":"sprites/spr_computergolf/spr_computergolf.yy",},"LayerId":{"name":"64c04127-801c-4c2d-bff9-f97a463a7466","path":"sprites/spr_computergolf/spr_computergolf.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-      ],"parent":{"name":"spr_computergolf","path":"sprites/spr_computergolf/spr_computergolf.yy",},"resourceVersion":"1.0","name":"21aa8a9c-eb6b-4db0-8c8d-1853a11a2e54","tags":[],"resourceType":"GMSpriteFrame",},
-    {"compositeImage":{"FrameId":{"name":"90b10260-17f8-40e6-bc2a-ef745fab3c02","path":"sprites/spr_computergolf/spr_computergolf.yy",},"LayerId":null,"resourceVersion":"1.0","name":"composite","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"90b10260-17f8-40e6-bc2a-ef745fab3c02","path":"sprites/spr_computergolf/spr_computergolf.yy",},"LayerId":{"name":"64c04127-801c-4c2d-bff9-f97a463a7466","path":"sprites/spr_computergolf/spr_computergolf.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-      ],"parent":{"name":"spr_computergolf","path":"sprites/spr_computergolf/spr_computergolf.yy",},"resourceVersion":"1.0","name":"90b10260-17f8-40e6-bc2a-ef745fab3c02","tags":[],"resourceType":"GMSpriteFrame",},
+    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"21aa8a9c-eb6b-4db0-8c8d-1853a11a2e54",},
+    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"90b10260-17f8-40e6-bc2a-ef745fab3c02",},
   ],
   "sequence": {
-    "spriteId": {"name":"spr_computergolf","path":"sprites/spr_computergolf/spr_computergolf.yy",},
+    "resourceType": "GMSequence",
+    "resourceVersion": "1.4",
+    "name": "",
     "timeUnits": 1,
     "playback": 1,
     "playbackSpeed": 0.35,
@@ -43,10 +45,10 @@
     "events": {"Keyframes":[],"resourceVersion":"1.0","resourceType":"KeyframeStore<MessageEventKeyframe>",},
     "moments": {"Keyframes":[],"resourceVersion":"1.0","resourceType":"KeyframeStore<MomentsEventKeyframe>",},
     "tracks": [
-      {"name":"frames","spriteId":null,"keyframes":{"Keyframes":[
+      {"resourceType":"GMSpriteFramesTrack","resourceVersion":"1.0","name":"frames","spriteId":null,"keyframes":{"Keyframes":[
             {"id":"3587c41e-6942-4f5f-a2d9-2dc9929e2f76","Key":0.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"21aa8a9c-eb6b-4db0-8c8d-1853a11a2e54","path":"sprites/spr_computergolf/spr_computergolf.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
             {"id":"4cb35dc5-bf3e-47cf-a429-8b91533f9c20","Key":1.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"90b10260-17f8-40e6-bc2a-ef745fab3c02","path":"sprites/spr_computergolf/spr_computergolf.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
-          ],"resourceVersion":"1.0","resourceType":"KeyframeStore<SpriteFrameKeyframe>",},"trackColour":0,"inheritsTrackColour":true,"builtinName":0,"traits":0,"interpolation":1,"tracks":[],"events":[],"isCreationTrack":false,"resourceVersion":"1.0","tags":[],"resourceType":"GMSpriteFramesTrack","modifiers":[],},
+          ],"resourceVersion":"1.0","resourceType":"KeyframeStore<SpriteFrameKeyframe>",},"trackColour":0,"inheritsTrackColour":true,"builtinName":0,"traits":0,"interpolation":1,"tracks":[],"events":[],"isCreationTrack":false,"modifiers":[],},
     ],
     "visibleRange": null,
     "lockOrigin": false,
@@ -62,22 +64,13 @@
     "yorigin": 50,
     "eventToFunction": {},
     "eventStubScript": null,
-    "parent": {"name":"spr_computergolf","path":"sprites/spr_computergolf/spr_computergolf.yy",},
-    "resourceVersion": "1.4",
-    "name": "",
-    "tags": [],
-    "resourceType": "GMSequence",
   },
   "layers": [
-    {"visible":true,"isLocked":false,"blendMode":0,"opacity":100.0,"displayName":"default","resourceVersion":"1.0","name":"64c04127-801c-4c2d-bff9-f97a463a7466","tags":[],"resourceType":"GMImageLayer",},
+    {"resourceType":"GMImageLayer","resourceVersion":"1.0","name":"64c04127-801c-4c2d-bff9-f97a463a7466","visible":true,"isLocked":false,"blendMode":0,"opacity":100.0,"displayName":"default",},
   ],
   "nineSlice": null,
   "parent": {
     "name": "hub computers",
     "path": "folders/Sprites/hub computers.yy",
   },
-  "resourceVersion": "1.0",
-  "name": "spr_computergolf",
-  "tags": [],
-  "resourceType": "GMSprite",
 }

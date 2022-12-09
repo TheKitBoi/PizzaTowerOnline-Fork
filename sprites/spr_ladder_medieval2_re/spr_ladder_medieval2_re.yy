@@ -1,4 +1,7 @@
 {
+  "resourceType": "GMSprite",
+  "resourceVersion": "1.0",
+  "name": "spr_ladder_medieval2_re",
   "bboxMode": 0,
   "collisionKind": 1,
   "type": 0,
@@ -14,6 +17,7 @@
   "HTile": false,
   "VTile": false,
   "For3D": false,
+  "DynamicTexturePage": false,
   "width": 32,
   "height": 32,
   "textureGroupId": {
@@ -24,18 +28,14 @@
   "gridX": 0,
   "gridY": 0,
   "frames": [
-    {"compositeImage":{"FrameId":{"name":"5417d32b-ad57-42d7-bf25-0b7273568a3b","path":"sprites/spr_ladder_medieval2_re/spr_ladder_medieval2_re.yy",},"LayerId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"5417d32b-ad57-42d7-bf25-0b7273568a3b","path":"sprites/spr_ladder_medieval2_re/spr_ladder_medieval2_re.yy",},"LayerId":{"name":"5a503954-7506-440a-9a27-f371967544ad","path":"sprites/spr_ladder_medieval2_re/spr_ladder_medieval2_re.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-      ],"parent":{"name":"spr_ladder_medieval2_re","path":"sprites/spr_ladder_medieval2_re/spr_ladder_medieval2_re.yy",},"resourceVersion":"1.0","name":"5417d32b-ad57-42d7-bf25-0b7273568a3b","tags":[],"resourceType":"GMSpriteFrame",},
-    {"compositeImage":{"FrameId":{"name":"49195f58-9c18-4ad2-ac13-427103af0e90","path":"sprites/spr_ladder_medieval2_re/spr_ladder_medieval2_re.yy",},"LayerId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"49195f58-9c18-4ad2-ac13-427103af0e90","path":"sprites/spr_ladder_medieval2_re/spr_ladder_medieval2_re.yy",},"LayerId":{"name":"5a503954-7506-440a-9a27-f371967544ad","path":"sprites/spr_ladder_medieval2_re/spr_ladder_medieval2_re.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-      ],"parent":{"name":"spr_ladder_medieval2_re","path":"sprites/spr_ladder_medieval2_re/spr_ladder_medieval2_re.yy",},"resourceVersion":"1.0","name":"49195f58-9c18-4ad2-ac13-427103af0e90","tags":[],"resourceType":"GMSpriteFrame",},
-    {"compositeImage":{"FrameId":{"name":"08b05b06-5956-49f2-9ae5-642084e340c9","path":"sprites/spr_ladder_medieval2_re/spr_ladder_medieval2_re.yy",},"LayerId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"08b05b06-5956-49f2-9ae5-642084e340c9","path":"sprites/spr_ladder_medieval2_re/spr_ladder_medieval2_re.yy",},"LayerId":{"name":"5a503954-7506-440a-9a27-f371967544ad","path":"sprites/spr_ladder_medieval2_re/spr_ladder_medieval2_re.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-      ],"parent":{"name":"spr_ladder_medieval2_re","path":"sprites/spr_ladder_medieval2_re/spr_ladder_medieval2_re.yy",},"resourceVersion":"1.0","name":"08b05b06-5956-49f2-9ae5-642084e340c9","tags":[],"resourceType":"GMSpriteFrame",},
+    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"5417d32b-ad57-42d7-bf25-0b7273568a3b",},
+    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"49195f58-9c18-4ad2-ac13-427103af0e90",},
+    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"08b05b06-5956-49f2-9ae5-642084e340c9",},
   ],
   "sequence": {
-    "spriteId": {"name":"spr_ladder_medieval2_re","path":"sprites/spr_ladder_medieval2_re/spr_ladder_medieval2_re.yy",},
+    "resourceType": "GMSequence",
+    "resourceVersion": "1.4",
+    "name": "spr_ladder_medieval2_re",
     "timeUnits": 1,
     "playback": 1,
     "playbackSpeed": 10.0,
@@ -46,11 +46,11 @@
     "events": {"Keyframes":[],"resourceVersion":"1.0","resourceType":"KeyframeStore<MessageEventKeyframe>",},
     "moments": {"Keyframes":[],"resourceVersion":"1.0","resourceType":"KeyframeStore<MomentsEventKeyframe>",},
     "tracks": [
-      {"name":"frames","spriteId":null,"keyframes":{"Keyframes":[
+      {"resourceType":"GMSpriteFramesTrack","resourceVersion":"1.0","name":"frames","spriteId":null,"keyframes":{"Keyframes":[
             {"id":"bbd9c75b-32cd-40be-ad0b-fa6f84594553","Key":0.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"5417d32b-ad57-42d7-bf25-0b7273568a3b","path":"sprites/spr_ladder_medieval2_re/spr_ladder_medieval2_re.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
             {"id":"b399e3b1-a22b-4da9-8dbb-c3a72607eb5c","Key":1.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"49195f58-9c18-4ad2-ac13-427103af0e90","path":"sprites/spr_ladder_medieval2_re/spr_ladder_medieval2_re.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
             {"id":"81d0acac-5505-4dad-847d-61bf9f4870b9","Key":2.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"08b05b06-5956-49f2-9ae5-642084e340c9","path":"sprites/spr_ladder_medieval2_re/spr_ladder_medieval2_re.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
-          ],"resourceVersion":"1.0","resourceType":"KeyframeStore<SpriteFrameKeyframe>",},"trackColour":0,"inheritsTrackColour":true,"builtinName":0,"traits":0,"interpolation":1,"tracks":[],"events":[],"isCreationTrack":false,"resourceVersion":"1.0","tags":[],"resourceType":"GMSpriteFramesTrack","modifiers":[],},
+          ],"resourceVersion":"1.0","resourceType":"KeyframeStore<SpriteFrameKeyframe>",},"trackColour":0,"inheritsTrackColour":true,"builtinName":0,"traits":0,"interpolation":1,"tracks":[],"events":[],"isCreationTrack":false,"modifiers":[],},
     ],
     "visibleRange": null,
     "lockOrigin": false,
@@ -66,14 +66,9 @@
     "yorigin": 0,
     "eventToFunction": {},
     "eventStubScript": null,
-    "parent": {"name":"spr_ladder_medieval2_re","path":"sprites/spr_ladder_medieval2_re/spr_ladder_medieval2_re.yy",},
-    "resourceVersion": "1.4",
-    "name": "spr_ladder_medieval2_re",
-    "tags": [],
-    "resourceType": "GMSequence",
   },
   "layers": [
-    {"visible":true,"isLocked":false,"blendMode":0,"opacity":100.0,"displayName":"default","resourceVersion":"1.0","name":"5a503954-7506-440a-9a27-f371967544ad","tags":[],"resourceType":"GMImageLayer",},
+    {"resourceType":"GMImageLayer","resourceVersion":"1.0","name":"5a503954-7506-440a-9a27-f371967544ad","visible":true,"isLocked":false,"blendMode":0,"opacity":100.0,"displayName":"default",},
   ],
   "nineSlice": {
     "left": 0,
@@ -104,8 +99,4 @@
     "name": "rematch",
     "path": "folders/Sprites/generalobjects/ladder/rematch.yy",
   },
-  "resourceVersion": "1.0",
-  "name": "spr_ladder_medieval2_re",
-  "tags": [],
-  "resourceType": "GMSprite",
 }

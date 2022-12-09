@@ -1,4 +1,7 @@
 {
+  "resourceType": "GMSprite",
+  "resourceVersion": "1.0",
+  "name": "spr_geromedoor",
   "bboxMode": 0,
   "collisionKind": 1,
   "type": 0,
@@ -14,6 +17,7 @@
   "HTile": false,
   "VTile": false,
   "For3D": false,
+  "DynamicTexturePage": false,
   "width": 100,
   "height": 100,
   "textureGroupId": {
@@ -24,15 +28,13 @@
   "gridX": 0,
   "gridY": 0,
   "frames": [
-    {"compositeImage":{"FrameId":{"name":"44cd0b41-91e3-49cc-b82e-bc3f332b12f4","path":"sprites/spr_geromedoor/spr_geromedoor.yy",},"LayerId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"44cd0b41-91e3-49cc-b82e-bc3f332b12f4","path":"sprites/spr_geromedoor/spr_geromedoor.yy",},"LayerId":{"name":"7447ca09-51b4-4f56-aede-fb9463ceac42","path":"sprites/spr_geromedoor/spr_geromedoor.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-      ],"parent":{"name":"spr_geromedoor","path":"sprites/spr_geromedoor/spr_geromedoor.yy",},"resourceVersion":"1.0","name":"44cd0b41-91e3-49cc-b82e-bc3f332b12f4","tags":[],"resourceType":"GMSpriteFrame",},
-    {"compositeImage":{"FrameId":{"name":"0b1bddd5-6c43-4be7-8ea3-ef934f0a964e","path":"sprites/spr_geromedoor/spr_geromedoor.yy",},"LayerId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"0b1bddd5-6c43-4be7-8ea3-ef934f0a964e","path":"sprites/spr_geromedoor/spr_geromedoor.yy",},"LayerId":{"name":"7447ca09-51b4-4f56-aede-fb9463ceac42","path":"sprites/spr_geromedoor/spr_geromedoor.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-      ],"parent":{"name":"spr_geromedoor","path":"sprites/spr_geromedoor/spr_geromedoor.yy",},"resourceVersion":"1.0","name":"0b1bddd5-6c43-4be7-8ea3-ef934f0a964e","tags":[],"resourceType":"GMSpriteFrame",},
+    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"44cd0b41-91e3-49cc-b82e-bc3f332b12f4",},
+    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"0b1bddd5-6c43-4be7-8ea3-ef934f0a964e",},
   ],
   "sequence": {
-    "spriteId": {"name":"spr_geromedoor","path":"sprites/spr_geromedoor/spr_geromedoor.yy",},
+    "resourceType": "GMSequence",
+    "resourceVersion": "1.4",
+    "name": "spr_geromedoor",
     "timeUnits": 1,
     "playback": 1,
     "playbackSpeed": 1.0,
@@ -43,10 +45,10 @@
     "events": {"Keyframes":[],"resourceVersion":"1.0","resourceType":"KeyframeStore<MessageEventKeyframe>",},
     "moments": {"Keyframes":[],"resourceVersion":"1.0","resourceType":"KeyframeStore<MomentsEventKeyframe>",},
     "tracks": [
-      {"name":"frames","spriteId":null,"keyframes":{"Keyframes":[
+      {"resourceType":"GMSpriteFramesTrack","resourceVersion":"1.0","name":"frames","spriteId":null,"keyframes":{"Keyframes":[
             {"id":"0818d1dd-7051-42c0-a79d-4402e0df1cec","Key":0.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"44cd0b41-91e3-49cc-b82e-bc3f332b12f4","path":"sprites/spr_geromedoor/spr_geromedoor.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
             {"id":"1f244a97-81c5-4707-a8a6-0eb3eca3b0a7","Key":1.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"0b1bddd5-6c43-4be7-8ea3-ef934f0a964e","path":"sprites/spr_geromedoor/spr_geromedoor.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
-          ],"resourceVersion":"1.0","resourceType":"KeyframeStore<SpriteFrameKeyframe>",},"trackColour":0,"inheritsTrackColour":true,"builtinName":0,"traits":0,"interpolation":1,"tracks":[],"events":[],"isCreationTrack":false,"resourceVersion":"1.0","tags":[],"resourceType":"GMSpriteFramesTrack","modifiers":[],},
+          ],"resourceVersion":"1.0","resourceType":"KeyframeStore<SpriteFrameKeyframe>",},"trackColour":0,"inheritsTrackColour":true,"builtinName":0,"traits":0,"interpolation":1,"tracks":[],"events":[],"isCreationTrack":false,"modifiers":[],},
     ],
     "visibleRange": null,
     "lockOrigin": false,
@@ -62,22 +64,13 @@
     "yorigin": 0,
     "eventToFunction": {},
     "eventStubScript": null,
-    "parent": {"name":"spr_geromedoor","path":"sprites/spr_geromedoor/spr_geromedoor.yy",},
-    "resourceVersion": "1.4",
-    "name": "spr_geromedoor",
-    "tags": [],
-    "resourceType": "GMSequence",
   },
   "layers": [
-    {"visible":true,"isLocked":false,"blendMode":0,"opacity":100.0,"displayName":"default","resourceVersion":"1.0","name":"7447ca09-51b4-4f56-aede-fb9463ceac42","tags":[],"resourceType":"GMImageLayer",},
+    {"resourceType":"GMImageLayer","resourceVersion":"1.0","name":"7447ca09-51b4-4f56-aede-fb9463ceac42","visible":true,"isLocked":false,"blendMode":0,"opacity":100.0,"displayName":"default",},
   ],
   "nineSlice": null,
   "parent": {
     "name": "gerome",
     "path": "folders/Sprites/followers/gerome.yy",
   },
-  "resourceVersion": "1.0",
-  "name": "spr_geromedoor",
-  "tags": [],
-  "resourceType": "GMSprite",
 }

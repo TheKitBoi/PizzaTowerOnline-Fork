@@ -1,4 +1,7 @@
 {
+  "resourceType": "GMSprite",
+  "resourceVersion": "1.0",
+  "name": "spr_cheesedragon_flames",
   "bboxMode": 0,
   "collisionKind": 1,
   "type": 0,
@@ -14,6 +17,7 @@
   "HTile": false,
   "VTile": false,
   "For3D": false,
+  "DynamicTexturePage": false,
   "width": 336,
   "height": 320,
   "textureGroupId": {
@@ -24,108 +28,44 @@
   "gridX": 0,
   "gridY": 0,
   "frames": [
-    {"compositeImage":{"FrameId":{"name":"fa703e12-2de8-4667-baaa-e3d7f80ac756","path":"sprites/spr_cheesedragon_flames/spr_cheesedragon_flames.yy",},"LayerId":null,"resourceVersion":"1.0","name":"composite","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"fa703e12-2de8-4667-baaa-e3d7f80ac756","path":"sprites/spr_cheesedragon_flames/spr_cheesedragon_flames.yy",},"LayerId":{"name":"ebefa0f7-bff2-4953-9033-3d5ecc7fe57d","path":"sprites/spr_cheesedragon_flames/spr_cheesedragon_flames.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-      ],"parent":{"name":"spr_cheesedragon_flames","path":"sprites/spr_cheesedragon_flames/spr_cheesedragon_flames.yy",},"resourceVersion":"1.0","name":"fa703e12-2de8-4667-baaa-e3d7f80ac756","tags":[],"resourceType":"GMSpriteFrame",},
-    {"compositeImage":{"FrameId":{"name":"8d20bcd8-5c42-4b7a-be5c-88b940b14176","path":"sprites/spr_cheesedragon_flames/spr_cheesedragon_flames.yy",},"LayerId":null,"resourceVersion":"1.0","name":"composite","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"8d20bcd8-5c42-4b7a-be5c-88b940b14176","path":"sprites/spr_cheesedragon_flames/spr_cheesedragon_flames.yy",},"LayerId":{"name":"ebefa0f7-bff2-4953-9033-3d5ecc7fe57d","path":"sprites/spr_cheesedragon_flames/spr_cheesedragon_flames.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-      ],"parent":{"name":"spr_cheesedragon_flames","path":"sprites/spr_cheesedragon_flames/spr_cheesedragon_flames.yy",},"resourceVersion":"1.0","name":"8d20bcd8-5c42-4b7a-be5c-88b940b14176","tags":[],"resourceType":"GMSpriteFrame",},
-    {"compositeImage":{"FrameId":{"name":"5bed2678-18cc-4255-9c5e-d5dbfb6a14c2","path":"sprites/spr_cheesedragon_flames/spr_cheesedragon_flames.yy",},"LayerId":null,"resourceVersion":"1.0","name":"composite","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"5bed2678-18cc-4255-9c5e-d5dbfb6a14c2","path":"sprites/spr_cheesedragon_flames/spr_cheesedragon_flames.yy",},"LayerId":{"name":"ebefa0f7-bff2-4953-9033-3d5ecc7fe57d","path":"sprites/spr_cheesedragon_flames/spr_cheesedragon_flames.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-      ],"parent":{"name":"spr_cheesedragon_flames","path":"sprites/spr_cheesedragon_flames/spr_cheesedragon_flames.yy",},"resourceVersion":"1.0","name":"5bed2678-18cc-4255-9c5e-d5dbfb6a14c2","tags":[],"resourceType":"GMSpriteFrame",},
-    {"compositeImage":{"FrameId":{"name":"50250a5c-b5b2-4cb7-96e3-40c12ef1a63f","path":"sprites/spr_cheesedragon_flames/spr_cheesedragon_flames.yy",},"LayerId":null,"resourceVersion":"1.0","name":"composite","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"50250a5c-b5b2-4cb7-96e3-40c12ef1a63f","path":"sprites/spr_cheesedragon_flames/spr_cheesedragon_flames.yy",},"LayerId":{"name":"ebefa0f7-bff2-4953-9033-3d5ecc7fe57d","path":"sprites/spr_cheesedragon_flames/spr_cheesedragon_flames.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-      ],"parent":{"name":"spr_cheesedragon_flames","path":"sprites/spr_cheesedragon_flames/spr_cheesedragon_flames.yy",},"resourceVersion":"1.0","name":"50250a5c-b5b2-4cb7-96e3-40c12ef1a63f","tags":[],"resourceType":"GMSpriteFrame",},
-    {"compositeImage":{"FrameId":{"name":"b1e342fc-a82c-487c-8e07-82d0e934b7c6","path":"sprites/spr_cheesedragon_flames/spr_cheesedragon_flames.yy",},"LayerId":null,"resourceVersion":"1.0","name":"composite","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"b1e342fc-a82c-487c-8e07-82d0e934b7c6","path":"sprites/spr_cheesedragon_flames/spr_cheesedragon_flames.yy",},"LayerId":{"name":"ebefa0f7-bff2-4953-9033-3d5ecc7fe57d","path":"sprites/spr_cheesedragon_flames/spr_cheesedragon_flames.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-      ],"parent":{"name":"spr_cheesedragon_flames","path":"sprites/spr_cheesedragon_flames/spr_cheesedragon_flames.yy",},"resourceVersion":"1.0","name":"b1e342fc-a82c-487c-8e07-82d0e934b7c6","tags":[],"resourceType":"GMSpriteFrame",},
-    {"compositeImage":{"FrameId":{"name":"b346af0b-e7bb-4574-b026-e7d5b0609796","path":"sprites/spr_cheesedragon_flames/spr_cheesedragon_flames.yy",},"LayerId":null,"resourceVersion":"1.0","name":"composite","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"b346af0b-e7bb-4574-b026-e7d5b0609796","path":"sprites/spr_cheesedragon_flames/spr_cheesedragon_flames.yy",},"LayerId":{"name":"ebefa0f7-bff2-4953-9033-3d5ecc7fe57d","path":"sprites/spr_cheesedragon_flames/spr_cheesedragon_flames.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-      ],"parent":{"name":"spr_cheesedragon_flames","path":"sprites/spr_cheesedragon_flames/spr_cheesedragon_flames.yy",},"resourceVersion":"1.0","name":"b346af0b-e7bb-4574-b026-e7d5b0609796","tags":[],"resourceType":"GMSpriteFrame",},
-    {"compositeImage":{"FrameId":{"name":"36943824-db6e-4717-976d-00570ee005d6","path":"sprites/spr_cheesedragon_flames/spr_cheesedragon_flames.yy",},"LayerId":null,"resourceVersion":"1.0","name":"composite","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"36943824-db6e-4717-976d-00570ee005d6","path":"sprites/spr_cheesedragon_flames/spr_cheesedragon_flames.yy",},"LayerId":{"name":"ebefa0f7-bff2-4953-9033-3d5ecc7fe57d","path":"sprites/spr_cheesedragon_flames/spr_cheesedragon_flames.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-      ],"parent":{"name":"spr_cheesedragon_flames","path":"sprites/spr_cheesedragon_flames/spr_cheesedragon_flames.yy",},"resourceVersion":"1.0","name":"36943824-db6e-4717-976d-00570ee005d6","tags":[],"resourceType":"GMSpriteFrame",},
-    {"compositeImage":{"FrameId":{"name":"a200de3b-5e40-41de-967c-c81f914abf99","path":"sprites/spr_cheesedragon_flames/spr_cheesedragon_flames.yy",},"LayerId":null,"resourceVersion":"1.0","name":"composite","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"a200de3b-5e40-41de-967c-c81f914abf99","path":"sprites/spr_cheesedragon_flames/spr_cheesedragon_flames.yy",},"LayerId":{"name":"ebefa0f7-bff2-4953-9033-3d5ecc7fe57d","path":"sprites/spr_cheesedragon_flames/spr_cheesedragon_flames.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-      ],"parent":{"name":"spr_cheesedragon_flames","path":"sprites/spr_cheesedragon_flames/spr_cheesedragon_flames.yy",},"resourceVersion":"1.0","name":"a200de3b-5e40-41de-967c-c81f914abf99","tags":[],"resourceType":"GMSpriteFrame",},
-    {"compositeImage":{"FrameId":{"name":"69381af5-4f62-4349-bc8b-52d453fa8beb","path":"sprites/spr_cheesedragon_flames/spr_cheesedragon_flames.yy",},"LayerId":null,"resourceVersion":"1.0","name":"composite","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"69381af5-4f62-4349-bc8b-52d453fa8beb","path":"sprites/spr_cheesedragon_flames/spr_cheesedragon_flames.yy",},"LayerId":{"name":"ebefa0f7-bff2-4953-9033-3d5ecc7fe57d","path":"sprites/spr_cheesedragon_flames/spr_cheesedragon_flames.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-      ],"parent":{"name":"spr_cheesedragon_flames","path":"sprites/spr_cheesedragon_flames/spr_cheesedragon_flames.yy",},"resourceVersion":"1.0","name":"69381af5-4f62-4349-bc8b-52d453fa8beb","tags":[],"resourceType":"GMSpriteFrame",},
-    {"compositeImage":{"FrameId":{"name":"000de79b-ec22-4f52-9a18-64e65baef85c","path":"sprites/spr_cheesedragon_flames/spr_cheesedragon_flames.yy",},"LayerId":null,"resourceVersion":"1.0","name":"composite","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"000de79b-ec22-4f52-9a18-64e65baef85c","path":"sprites/spr_cheesedragon_flames/spr_cheesedragon_flames.yy",},"LayerId":{"name":"ebefa0f7-bff2-4953-9033-3d5ecc7fe57d","path":"sprites/spr_cheesedragon_flames/spr_cheesedragon_flames.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-      ],"parent":{"name":"spr_cheesedragon_flames","path":"sprites/spr_cheesedragon_flames/spr_cheesedragon_flames.yy",},"resourceVersion":"1.0","name":"000de79b-ec22-4f52-9a18-64e65baef85c","tags":[],"resourceType":"GMSpriteFrame",},
-    {"compositeImage":{"FrameId":{"name":"bf46f501-689f-455b-89d8-954a874e6e7f","path":"sprites/spr_cheesedragon_flames/spr_cheesedragon_flames.yy",},"LayerId":null,"resourceVersion":"1.0","name":"composite","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"bf46f501-689f-455b-89d8-954a874e6e7f","path":"sprites/spr_cheesedragon_flames/spr_cheesedragon_flames.yy",},"LayerId":{"name":"ebefa0f7-bff2-4953-9033-3d5ecc7fe57d","path":"sprites/spr_cheesedragon_flames/spr_cheesedragon_flames.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-      ],"parent":{"name":"spr_cheesedragon_flames","path":"sprites/spr_cheesedragon_flames/spr_cheesedragon_flames.yy",},"resourceVersion":"1.0","name":"bf46f501-689f-455b-89d8-954a874e6e7f","tags":[],"resourceType":"GMSpriteFrame",},
-    {"compositeImage":{"FrameId":{"name":"7d6b69d4-2726-4ac3-b024-765f86d4369c","path":"sprites/spr_cheesedragon_flames/spr_cheesedragon_flames.yy",},"LayerId":null,"resourceVersion":"1.0","name":"composite","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"7d6b69d4-2726-4ac3-b024-765f86d4369c","path":"sprites/spr_cheesedragon_flames/spr_cheesedragon_flames.yy",},"LayerId":{"name":"ebefa0f7-bff2-4953-9033-3d5ecc7fe57d","path":"sprites/spr_cheesedragon_flames/spr_cheesedragon_flames.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-      ],"parent":{"name":"spr_cheesedragon_flames","path":"sprites/spr_cheesedragon_flames/spr_cheesedragon_flames.yy",},"resourceVersion":"1.0","name":"7d6b69d4-2726-4ac3-b024-765f86d4369c","tags":[],"resourceType":"GMSpriteFrame",},
-    {"compositeImage":{"FrameId":{"name":"ede0b23f-7a09-4c92-9319-352dba3fe92c","path":"sprites/spr_cheesedragon_flames/spr_cheesedragon_flames.yy",},"LayerId":null,"resourceVersion":"1.0","name":"composite","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"ede0b23f-7a09-4c92-9319-352dba3fe92c","path":"sprites/spr_cheesedragon_flames/spr_cheesedragon_flames.yy",},"LayerId":{"name":"ebefa0f7-bff2-4953-9033-3d5ecc7fe57d","path":"sprites/spr_cheesedragon_flames/spr_cheesedragon_flames.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-      ],"parent":{"name":"spr_cheesedragon_flames","path":"sprites/spr_cheesedragon_flames/spr_cheesedragon_flames.yy",},"resourceVersion":"1.0","name":"ede0b23f-7a09-4c92-9319-352dba3fe92c","tags":[],"resourceType":"GMSpriteFrame",},
-    {"compositeImage":{"FrameId":{"name":"b8090e7f-a9ed-4d0b-bd18-68a04f314946","path":"sprites/spr_cheesedragon_flames/spr_cheesedragon_flames.yy",},"LayerId":null,"resourceVersion":"1.0","name":"composite","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"b8090e7f-a9ed-4d0b-bd18-68a04f314946","path":"sprites/spr_cheesedragon_flames/spr_cheesedragon_flames.yy",},"LayerId":{"name":"ebefa0f7-bff2-4953-9033-3d5ecc7fe57d","path":"sprites/spr_cheesedragon_flames/spr_cheesedragon_flames.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-      ],"parent":{"name":"spr_cheesedragon_flames","path":"sprites/spr_cheesedragon_flames/spr_cheesedragon_flames.yy",},"resourceVersion":"1.0","name":"b8090e7f-a9ed-4d0b-bd18-68a04f314946","tags":[],"resourceType":"GMSpriteFrame",},
-    {"compositeImage":{"FrameId":{"name":"2e2bd8fb-46ad-436c-9091-277de366c964","path":"sprites/spr_cheesedragon_flames/spr_cheesedragon_flames.yy",},"LayerId":null,"resourceVersion":"1.0","name":"composite","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"2e2bd8fb-46ad-436c-9091-277de366c964","path":"sprites/spr_cheesedragon_flames/spr_cheesedragon_flames.yy",},"LayerId":{"name":"ebefa0f7-bff2-4953-9033-3d5ecc7fe57d","path":"sprites/spr_cheesedragon_flames/spr_cheesedragon_flames.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-      ],"parent":{"name":"spr_cheesedragon_flames","path":"sprites/spr_cheesedragon_flames/spr_cheesedragon_flames.yy",},"resourceVersion":"1.0","name":"2e2bd8fb-46ad-436c-9091-277de366c964","tags":[],"resourceType":"GMSpriteFrame",},
-    {"compositeImage":{"FrameId":{"name":"62157101-dfe0-4a4f-9f22-1dc45350cb65","path":"sprites/spr_cheesedragon_flames/spr_cheesedragon_flames.yy",},"LayerId":null,"resourceVersion":"1.0","name":"composite","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"62157101-dfe0-4a4f-9f22-1dc45350cb65","path":"sprites/spr_cheesedragon_flames/spr_cheesedragon_flames.yy",},"LayerId":{"name":"ebefa0f7-bff2-4953-9033-3d5ecc7fe57d","path":"sprites/spr_cheesedragon_flames/spr_cheesedragon_flames.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-      ],"parent":{"name":"spr_cheesedragon_flames","path":"sprites/spr_cheesedragon_flames/spr_cheesedragon_flames.yy",},"resourceVersion":"1.0","name":"62157101-dfe0-4a4f-9f22-1dc45350cb65","tags":[],"resourceType":"GMSpriteFrame",},
-    {"compositeImage":{"FrameId":{"name":"a16a41dc-2001-47fa-86ac-83b4b810b6f8","path":"sprites/spr_cheesedragon_flames/spr_cheesedragon_flames.yy",},"LayerId":null,"resourceVersion":"1.0","name":"composite","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"a16a41dc-2001-47fa-86ac-83b4b810b6f8","path":"sprites/spr_cheesedragon_flames/spr_cheesedragon_flames.yy",},"LayerId":{"name":"ebefa0f7-bff2-4953-9033-3d5ecc7fe57d","path":"sprites/spr_cheesedragon_flames/spr_cheesedragon_flames.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-      ],"parent":{"name":"spr_cheesedragon_flames","path":"sprites/spr_cheesedragon_flames/spr_cheesedragon_flames.yy",},"resourceVersion":"1.0","name":"a16a41dc-2001-47fa-86ac-83b4b810b6f8","tags":[],"resourceType":"GMSpriteFrame",},
-    {"compositeImage":{"FrameId":{"name":"5fb3994e-cef7-4856-8f6b-386a22d2a496","path":"sprites/spr_cheesedragon_flames/spr_cheesedragon_flames.yy",},"LayerId":null,"resourceVersion":"1.0","name":"composite","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"5fb3994e-cef7-4856-8f6b-386a22d2a496","path":"sprites/spr_cheesedragon_flames/spr_cheesedragon_flames.yy",},"LayerId":{"name":"ebefa0f7-bff2-4953-9033-3d5ecc7fe57d","path":"sprites/spr_cheesedragon_flames/spr_cheesedragon_flames.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-      ],"parent":{"name":"spr_cheesedragon_flames","path":"sprites/spr_cheesedragon_flames/spr_cheesedragon_flames.yy",},"resourceVersion":"1.0","name":"5fb3994e-cef7-4856-8f6b-386a22d2a496","tags":[],"resourceType":"GMSpriteFrame",},
-    {"compositeImage":{"FrameId":{"name":"9ef4be6e-e9f9-4e93-ba55-98119669a39d","path":"sprites/spr_cheesedragon_flames/spr_cheesedragon_flames.yy",},"LayerId":null,"resourceVersion":"1.0","name":"composite","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"9ef4be6e-e9f9-4e93-ba55-98119669a39d","path":"sprites/spr_cheesedragon_flames/spr_cheesedragon_flames.yy",},"LayerId":{"name":"ebefa0f7-bff2-4953-9033-3d5ecc7fe57d","path":"sprites/spr_cheesedragon_flames/spr_cheesedragon_flames.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-      ],"parent":{"name":"spr_cheesedragon_flames","path":"sprites/spr_cheesedragon_flames/spr_cheesedragon_flames.yy",},"resourceVersion":"1.0","name":"9ef4be6e-e9f9-4e93-ba55-98119669a39d","tags":[],"resourceType":"GMSpriteFrame",},
-    {"compositeImage":{"FrameId":{"name":"9557b785-46a4-4f15-8479-994c55e20246","path":"sprites/spr_cheesedragon_flames/spr_cheesedragon_flames.yy",},"LayerId":null,"resourceVersion":"1.0","name":"composite","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"9557b785-46a4-4f15-8479-994c55e20246","path":"sprites/spr_cheesedragon_flames/spr_cheesedragon_flames.yy",},"LayerId":{"name":"ebefa0f7-bff2-4953-9033-3d5ecc7fe57d","path":"sprites/spr_cheesedragon_flames/spr_cheesedragon_flames.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-      ],"parent":{"name":"spr_cheesedragon_flames","path":"sprites/spr_cheesedragon_flames/spr_cheesedragon_flames.yy",},"resourceVersion":"1.0","name":"9557b785-46a4-4f15-8479-994c55e20246","tags":[],"resourceType":"GMSpriteFrame",},
-    {"compositeImage":{"FrameId":{"name":"67524d65-4710-455b-a8c8-92366925b5f0","path":"sprites/spr_cheesedragon_flames/spr_cheesedragon_flames.yy",},"LayerId":null,"resourceVersion":"1.0","name":"composite","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"67524d65-4710-455b-a8c8-92366925b5f0","path":"sprites/spr_cheesedragon_flames/spr_cheesedragon_flames.yy",},"LayerId":{"name":"ebefa0f7-bff2-4953-9033-3d5ecc7fe57d","path":"sprites/spr_cheesedragon_flames/spr_cheesedragon_flames.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-      ],"parent":{"name":"spr_cheesedragon_flames","path":"sprites/spr_cheesedragon_flames/spr_cheesedragon_flames.yy",},"resourceVersion":"1.0","name":"67524d65-4710-455b-a8c8-92366925b5f0","tags":[],"resourceType":"GMSpriteFrame",},
-    {"compositeImage":{"FrameId":{"name":"84857180-c4c4-4bc7-9b7c-5d5b11884a63","path":"sprites/spr_cheesedragon_flames/spr_cheesedragon_flames.yy",},"LayerId":null,"resourceVersion":"1.0","name":"composite","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"84857180-c4c4-4bc7-9b7c-5d5b11884a63","path":"sprites/spr_cheesedragon_flames/spr_cheesedragon_flames.yy",},"LayerId":{"name":"ebefa0f7-bff2-4953-9033-3d5ecc7fe57d","path":"sprites/spr_cheesedragon_flames/spr_cheesedragon_flames.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-      ],"parent":{"name":"spr_cheesedragon_flames","path":"sprites/spr_cheesedragon_flames/spr_cheesedragon_flames.yy",},"resourceVersion":"1.0","name":"84857180-c4c4-4bc7-9b7c-5d5b11884a63","tags":[],"resourceType":"GMSpriteFrame",},
-    {"compositeImage":{"FrameId":{"name":"53362d11-6087-4cea-ac5b-be5a86355071","path":"sprites/spr_cheesedragon_flames/spr_cheesedragon_flames.yy",},"LayerId":null,"resourceVersion":"1.0","name":"composite","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"53362d11-6087-4cea-ac5b-be5a86355071","path":"sprites/spr_cheesedragon_flames/spr_cheesedragon_flames.yy",},"LayerId":{"name":"ebefa0f7-bff2-4953-9033-3d5ecc7fe57d","path":"sprites/spr_cheesedragon_flames/spr_cheesedragon_flames.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-      ],"parent":{"name":"spr_cheesedragon_flames","path":"sprites/spr_cheesedragon_flames/spr_cheesedragon_flames.yy",},"resourceVersion":"1.0","name":"53362d11-6087-4cea-ac5b-be5a86355071","tags":[],"resourceType":"GMSpriteFrame",},
-    {"compositeImage":{"FrameId":{"name":"05b29516-dfda-4403-b10b-37c3e8a3322e","path":"sprites/spr_cheesedragon_flames/spr_cheesedragon_flames.yy",},"LayerId":null,"resourceVersion":"1.0","name":"composite","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"05b29516-dfda-4403-b10b-37c3e8a3322e","path":"sprites/spr_cheesedragon_flames/spr_cheesedragon_flames.yy",},"LayerId":{"name":"ebefa0f7-bff2-4953-9033-3d5ecc7fe57d","path":"sprites/spr_cheesedragon_flames/spr_cheesedragon_flames.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-      ],"parent":{"name":"spr_cheesedragon_flames","path":"sprites/spr_cheesedragon_flames/spr_cheesedragon_flames.yy",},"resourceVersion":"1.0","name":"05b29516-dfda-4403-b10b-37c3e8a3322e","tags":[],"resourceType":"GMSpriteFrame",},
-    {"compositeImage":{"FrameId":{"name":"3ae20038-b098-40ea-af61-73aa131ee2ae","path":"sprites/spr_cheesedragon_flames/spr_cheesedragon_flames.yy",},"LayerId":null,"resourceVersion":"1.0","name":"composite","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"3ae20038-b098-40ea-af61-73aa131ee2ae","path":"sprites/spr_cheesedragon_flames/spr_cheesedragon_flames.yy",},"LayerId":{"name":"ebefa0f7-bff2-4953-9033-3d5ecc7fe57d","path":"sprites/spr_cheesedragon_flames/spr_cheesedragon_flames.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-      ],"parent":{"name":"spr_cheesedragon_flames","path":"sprites/spr_cheesedragon_flames/spr_cheesedragon_flames.yy",},"resourceVersion":"1.0","name":"3ae20038-b098-40ea-af61-73aa131ee2ae","tags":[],"resourceType":"GMSpriteFrame",},
-    {"compositeImage":{"FrameId":{"name":"9ea7ecfa-582c-4793-9ad5-5201af0bd4fa","path":"sprites/spr_cheesedragon_flames/spr_cheesedragon_flames.yy",},"LayerId":null,"resourceVersion":"1.0","name":"composite","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"9ea7ecfa-582c-4793-9ad5-5201af0bd4fa","path":"sprites/spr_cheesedragon_flames/spr_cheesedragon_flames.yy",},"LayerId":{"name":"ebefa0f7-bff2-4953-9033-3d5ecc7fe57d","path":"sprites/spr_cheesedragon_flames/spr_cheesedragon_flames.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-      ],"parent":{"name":"spr_cheesedragon_flames","path":"sprites/spr_cheesedragon_flames/spr_cheesedragon_flames.yy",},"resourceVersion":"1.0","name":"9ea7ecfa-582c-4793-9ad5-5201af0bd4fa","tags":[],"resourceType":"GMSpriteFrame",},
-    {"compositeImage":{"FrameId":{"name":"111a1b97-1e9c-4a66-9016-0be08629133d","path":"sprites/spr_cheesedragon_flames/spr_cheesedragon_flames.yy",},"LayerId":null,"resourceVersion":"1.0","name":"composite","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"111a1b97-1e9c-4a66-9016-0be08629133d","path":"sprites/spr_cheesedragon_flames/spr_cheesedragon_flames.yy",},"LayerId":{"name":"ebefa0f7-bff2-4953-9033-3d5ecc7fe57d","path":"sprites/spr_cheesedragon_flames/spr_cheesedragon_flames.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-      ],"parent":{"name":"spr_cheesedragon_flames","path":"sprites/spr_cheesedragon_flames/spr_cheesedragon_flames.yy",},"resourceVersion":"1.0","name":"111a1b97-1e9c-4a66-9016-0be08629133d","tags":[],"resourceType":"GMSpriteFrame",},
-    {"compositeImage":{"FrameId":{"name":"bea3200e-0565-4cbf-a432-f5417073b72f","path":"sprites/spr_cheesedragon_flames/spr_cheesedragon_flames.yy",},"LayerId":null,"resourceVersion":"1.0","name":"composite","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"bea3200e-0565-4cbf-a432-f5417073b72f","path":"sprites/spr_cheesedragon_flames/spr_cheesedragon_flames.yy",},"LayerId":{"name":"ebefa0f7-bff2-4953-9033-3d5ecc7fe57d","path":"sprites/spr_cheesedragon_flames/spr_cheesedragon_flames.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-      ],"parent":{"name":"spr_cheesedragon_flames","path":"sprites/spr_cheesedragon_flames/spr_cheesedragon_flames.yy",},"resourceVersion":"1.0","name":"bea3200e-0565-4cbf-a432-f5417073b72f","tags":[],"resourceType":"GMSpriteFrame",},
-    {"compositeImage":{"FrameId":{"name":"71e61908-92e2-49a7-b33c-31c3bb597d57","path":"sprites/spr_cheesedragon_flames/spr_cheesedragon_flames.yy",},"LayerId":null,"resourceVersion":"1.0","name":"composite","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"71e61908-92e2-49a7-b33c-31c3bb597d57","path":"sprites/spr_cheesedragon_flames/spr_cheesedragon_flames.yy",},"LayerId":{"name":"ebefa0f7-bff2-4953-9033-3d5ecc7fe57d","path":"sprites/spr_cheesedragon_flames/spr_cheesedragon_flames.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-      ],"parent":{"name":"spr_cheesedragon_flames","path":"sprites/spr_cheesedragon_flames/spr_cheesedragon_flames.yy",},"resourceVersion":"1.0","name":"71e61908-92e2-49a7-b33c-31c3bb597d57","tags":[],"resourceType":"GMSpriteFrame",},
-    {"compositeImage":{"FrameId":{"name":"c322eaab-cc06-41f1-a751-00ed2d43ef01","path":"sprites/spr_cheesedragon_flames/spr_cheesedragon_flames.yy",},"LayerId":null,"resourceVersion":"1.0","name":"composite","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"c322eaab-cc06-41f1-a751-00ed2d43ef01","path":"sprites/spr_cheesedragon_flames/spr_cheesedragon_flames.yy",},"LayerId":{"name":"ebefa0f7-bff2-4953-9033-3d5ecc7fe57d","path":"sprites/spr_cheesedragon_flames/spr_cheesedragon_flames.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-      ],"parent":{"name":"spr_cheesedragon_flames","path":"sprites/spr_cheesedragon_flames/spr_cheesedragon_flames.yy",},"resourceVersion":"1.0","name":"c322eaab-cc06-41f1-a751-00ed2d43ef01","tags":[],"resourceType":"GMSpriteFrame",},
-    {"compositeImage":{"FrameId":{"name":"cae62b35-f6a2-4b19-91e5-d75555b91a0a","path":"sprites/spr_cheesedragon_flames/spr_cheesedragon_flames.yy",},"LayerId":null,"resourceVersion":"1.0","name":"composite","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"cae62b35-f6a2-4b19-91e5-d75555b91a0a","path":"sprites/spr_cheesedragon_flames/spr_cheesedragon_flames.yy",},"LayerId":{"name":"ebefa0f7-bff2-4953-9033-3d5ecc7fe57d","path":"sprites/spr_cheesedragon_flames/spr_cheesedragon_flames.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-      ],"parent":{"name":"spr_cheesedragon_flames","path":"sprites/spr_cheesedragon_flames/spr_cheesedragon_flames.yy",},"resourceVersion":"1.0","name":"cae62b35-f6a2-4b19-91e5-d75555b91a0a","tags":[],"resourceType":"GMSpriteFrame",},
-    {"compositeImage":{"FrameId":{"name":"783aedbb-1692-4e4b-86af-c6686635f90d","path":"sprites/spr_cheesedragon_flames/spr_cheesedragon_flames.yy",},"LayerId":null,"resourceVersion":"1.0","name":"composite","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"783aedbb-1692-4e4b-86af-c6686635f90d","path":"sprites/spr_cheesedragon_flames/spr_cheesedragon_flames.yy",},"LayerId":{"name":"ebefa0f7-bff2-4953-9033-3d5ecc7fe57d","path":"sprites/spr_cheesedragon_flames/spr_cheesedragon_flames.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-      ],"parent":{"name":"spr_cheesedragon_flames","path":"sprites/spr_cheesedragon_flames/spr_cheesedragon_flames.yy",},"resourceVersion":"1.0","name":"783aedbb-1692-4e4b-86af-c6686635f90d","tags":[],"resourceType":"GMSpriteFrame",},
-    {"compositeImage":{"FrameId":{"name":"4ebdf457-1b33-47b8-a635-ba4122dbd256","path":"sprites/spr_cheesedragon_flames/spr_cheesedragon_flames.yy",},"LayerId":null,"resourceVersion":"1.0","name":"composite","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"4ebdf457-1b33-47b8-a635-ba4122dbd256","path":"sprites/spr_cheesedragon_flames/spr_cheesedragon_flames.yy",},"LayerId":{"name":"ebefa0f7-bff2-4953-9033-3d5ecc7fe57d","path":"sprites/spr_cheesedragon_flames/spr_cheesedragon_flames.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-      ],"parent":{"name":"spr_cheesedragon_flames","path":"sprites/spr_cheesedragon_flames/spr_cheesedragon_flames.yy",},"resourceVersion":"1.0","name":"4ebdf457-1b33-47b8-a635-ba4122dbd256","tags":[],"resourceType":"GMSpriteFrame",},
+    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"fa703e12-2de8-4667-baaa-e3d7f80ac756",},
+    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"8d20bcd8-5c42-4b7a-be5c-88b940b14176",},
+    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"5bed2678-18cc-4255-9c5e-d5dbfb6a14c2",},
+    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"50250a5c-b5b2-4cb7-96e3-40c12ef1a63f",},
+    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"b1e342fc-a82c-487c-8e07-82d0e934b7c6",},
+    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"b346af0b-e7bb-4574-b026-e7d5b0609796",},
+    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"36943824-db6e-4717-976d-00570ee005d6",},
+    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"a200de3b-5e40-41de-967c-c81f914abf99",},
+    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"69381af5-4f62-4349-bc8b-52d453fa8beb",},
+    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"000de79b-ec22-4f52-9a18-64e65baef85c",},
+    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"bf46f501-689f-455b-89d8-954a874e6e7f",},
+    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"7d6b69d4-2726-4ac3-b024-765f86d4369c",},
+    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"ede0b23f-7a09-4c92-9319-352dba3fe92c",},
+    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"b8090e7f-a9ed-4d0b-bd18-68a04f314946",},
+    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"2e2bd8fb-46ad-436c-9091-277de366c964",},
+    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"62157101-dfe0-4a4f-9f22-1dc45350cb65",},
+    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"a16a41dc-2001-47fa-86ac-83b4b810b6f8",},
+    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"5fb3994e-cef7-4856-8f6b-386a22d2a496",},
+    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"9ef4be6e-e9f9-4e93-ba55-98119669a39d",},
+    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"9557b785-46a4-4f15-8479-994c55e20246",},
+    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"67524d65-4710-455b-a8c8-92366925b5f0",},
+    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"84857180-c4c4-4bc7-9b7c-5d5b11884a63",},
+    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"53362d11-6087-4cea-ac5b-be5a86355071",},
+    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"05b29516-dfda-4403-b10b-37c3e8a3322e",},
+    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"3ae20038-b098-40ea-af61-73aa131ee2ae",},
+    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"9ea7ecfa-582c-4793-9ad5-5201af0bd4fa",},
+    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"111a1b97-1e9c-4a66-9016-0be08629133d",},
+    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"bea3200e-0565-4cbf-a432-f5417073b72f",},
+    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"71e61908-92e2-49a7-b33c-31c3bb597d57",},
+    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"c322eaab-cc06-41f1-a751-00ed2d43ef01",},
+    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"cae62b35-f6a2-4b19-91e5-d75555b91a0a",},
+    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"783aedbb-1692-4e4b-86af-c6686635f90d",},
+    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"4ebdf457-1b33-47b8-a635-ba4122dbd256",},
   ],
   "sequence": {
-    "spriteId": {"name":"spr_cheesedragon_flames","path":"sprites/spr_cheesedragon_flames/spr_cheesedragon_flames.yy",},
+    "resourceType": "GMSequence",
+    "resourceVersion": "1.4",
+    "name": "",
     "timeUnits": 1,
     "playback": 1,
     "playbackSpeed": 1.0,
@@ -136,7 +76,7 @@
     "events": {"Keyframes":[],"resourceVersion":"1.0","resourceType":"KeyframeStore<MessageEventKeyframe>",},
     "moments": {"Keyframes":[],"resourceVersion":"1.0","resourceType":"KeyframeStore<MomentsEventKeyframe>",},
     "tracks": [
-      {"name":"frames","spriteId":null,"keyframes":{"Keyframes":[
+      {"resourceType":"GMSpriteFramesTrack","resourceVersion":"1.0","name":"frames","spriteId":null,"keyframes":{"Keyframes":[
             {"id":"1b562b4c-b746-47e4-b173-9a621510634f","Key":0.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"fa703e12-2de8-4667-baaa-e3d7f80ac756","path":"sprites/spr_cheesedragon_flames/spr_cheesedragon_flames.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
             {"id":"44fb4219-1888-4a7a-bf0b-782ef931bc48","Key":1.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"8d20bcd8-5c42-4b7a-be5c-88b940b14176","path":"sprites/spr_cheesedragon_flames/spr_cheesedragon_flames.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
             {"id":"f2c256bb-b5ba-41ab-a111-90c6d5032b16","Key":2.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"5bed2678-18cc-4255-9c5e-d5dbfb6a14c2","path":"sprites/spr_cheesedragon_flames/spr_cheesedragon_flames.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
@@ -170,7 +110,7 @@
             {"id":"9fa7b39f-2fe3-4b9f-bc28-dde90cade53c","Key":30.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"cae62b35-f6a2-4b19-91e5-d75555b91a0a","path":"sprites/spr_cheesedragon_flames/spr_cheesedragon_flames.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
             {"id":"adfb9ef2-f30e-4be7-9e54-472d33ec0a3e","Key":31.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"783aedbb-1692-4e4b-86af-c6686635f90d","path":"sprites/spr_cheesedragon_flames/spr_cheesedragon_flames.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
             {"id":"de8de4a5-8477-4ae3-aab1-e9810b61caf7","Key":32.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"4ebdf457-1b33-47b8-a635-ba4122dbd256","path":"sprites/spr_cheesedragon_flames/spr_cheesedragon_flames.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
-          ],"resourceVersion":"1.0","resourceType":"KeyframeStore<SpriteFrameKeyframe>",},"trackColour":0,"inheritsTrackColour":true,"builtinName":0,"traits":0,"interpolation":1,"tracks":[],"events":[],"isCreationTrack":false,"resourceVersion":"1.0","tags":[],"resourceType":"GMSpriteFramesTrack","modifiers":[],},
+          ],"resourceVersion":"1.0","resourceType":"KeyframeStore<SpriteFrameKeyframe>",},"trackColour":0,"inheritsTrackColour":true,"builtinName":0,"traits":0,"interpolation":1,"tracks":[],"events":[],"isCreationTrack":false,"modifiers":[],},
     ],
     "visibleRange": {"x":0.0,"y":0.0,},
     "lockOrigin": false,
@@ -186,22 +126,13 @@
     "yorigin": 160,
     "eventToFunction": {},
     "eventStubScript": null,
-    "parent": {"name":"spr_cheesedragon_flames","path":"sprites/spr_cheesedragon_flames/spr_cheesedragon_flames.yy",},
-    "resourceVersion": "1.4",
-    "name": "",
-    "tags": [],
-    "resourceType": "GMSequence",
   },
   "layers": [
-    {"visible":true,"isLocked":false,"blendMode":0,"opacity":100.0,"displayName":"default","resourceVersion":"1.0","name":"ebefa0f7-bff2-4953-9033-3d5ecc7fe57d","tags":[],"resourceType":"GMImageLayer",},
+    {"resourceType":"GMImageLayer","resourceVersion":"1.0","name":"ebefa0f7-bff2-4953-9033-3d5ecc7fe57d","visible":true,"isLocked":false,"blendMode":0,"opacity":100.0,"displayName":"default",},
   ],
   "nineSlice": null,
   "parent": {
     "name": "cheesedragon",
     "path": "folders/Sprites/boss/cheesedragon.yy",
   },
-  "resourceVersion": "1.0",
-  "name": "spr_cheesedragon_flames",
-  "tags": [],
-  "resourceType": "GMSprite",
 }

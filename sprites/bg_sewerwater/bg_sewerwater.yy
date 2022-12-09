@@ -1,4 +1,7 @@
 {
+  "resourceType": "GMSprite",
+  "resourceVersion": "1.0",
+  "name": "bg_sewerwater",
   "ConfigValues": {
     "debug": {"textureGroupId":"{\"name\":\"tg_sewer\",\"path\":\"texturegroups/tg_sewer\"}",},
   },
@@ -17,6 +20,7 @@
   "HTile": false,
   "VTile": false,
   "For3D": false,
+  "DynamicTexturePage": false,
   "width": 960,
   "height": 540,
   "textureGroupId": {
@@ -27,153 +31,59 @@
   "gridX": 0,
   "gridY": 0,
   "frames": [
-    {"compositeImage":{"FrameId":{"name":"6d93cfaf-1eee-4b60-a361-b4e1b5686c41","path":"sprites/bg_sewerwater/bg_sewerwater.yy",},"LayerId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"6d93cfaf-1eee-4b60-a361-b4e1b5686c41","path":"sprites/bg_sewerwater/bg_sewerwater.yy",},"LayerId":{"name":"9d70656e-95ac-4e8c-99bd-fb5be275da1d","path":"sprites/bg_sewerwater/bg_sewerwater.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-      ],"parent":{"name":"bg_sewerwater","path":"sprites/bg_sewerwater/bg_sewerwater.yy",},"resourceVersion":"1.0","name":"6d93cfaf-1eee-4b60-a361-b4e1b5686c41","tags":[],"resourceType":"GMSpriteFrame",},
-    {"compositeImage":{"FrameId":{"name":"1b8e7dd4-8ddb-4120-a548-c8cfb9b37401","path":"sprites/bg_sewerwater/bg_sewerwater.yy",},"LayerId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"1b8e7dd4-8ddb-4120-a548-c8cfb9b37401","path":"sprites/bg_sewerwater/bg_sewerwater.yy",},"LayerId":{"name":"9d70656e-95ac-4e8c-99bd-fb5be275da1d","path":"sprites/bg_sewerwater/bg_sewerwater.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-      ],"parent":{"name":"bg_sewerwater","path":"sprites/bg_sewerwater/bg_sewerwater.yy",},"resourceVersion":"1.0","name":"1b8e7dd4-8ddb-4120-a548-c8cfb9b37401","tags":[],"resourceType":"GMSpriteFrame",},
-    {"compositeImage":{"FrameId":{"name":"62efcefb-5791-4184-a89d-32fcc68eb039","path":"sprites/bg_sewerwater/bg_sewerwater.yy",},"LayerId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"62efcefb-5791-4184-a89d-32fcc68eb039","path":"sprites/bg_sewerwater/bg_sewerwater.yy",},"LayerId":{"name":"9d70656e-95ac-4e8c-99bd-fb5be275da1d","path":"sprites/bg_sewerwater/bg_sewerwater.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-      ],"parent":{"name":"bg_sewerwater","path":"sprites/bg_sewerwater/bg_sewerwater.yy",},"resourceVersion":"1.0","name":"62efcefb-5791-4184-a89d-32fcc68eb039","tags":[],"resourceType":"GMSpriteFrame",},
-    {"compositeImage":{"FrameId":{"name":"e769ae04-4b09-4b20-9de3-30b6cb5ec753","path":"sprites/bg_sewerwater/bg_sewerwater.yy",},"LayerId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"e769ae04-4b09-4b20-9de3-30b6cb5ec753","path":"sprites/bg_sewerwater/bg_sewerwater.yy",},"LayerId":{"name":"9d70656e-95ac-4e8c-99bd-fb5be275da1d","path":"sprites/bg_sewerwater/bg_sewerwater.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-      ],"parent":{"name":"bg_sewerwater","path":"sprites/bg_sewerwater/bg_sewerwater.yy",},"resourceVersion":"1.0","name":"e769ae04-4b09-4b20-9de3-30b6cb5ec753","tags":[],"resourceType":"GMSpriteFrame",},
-    {"compositeImage":{"FrameId":{"name":"9f21dc2c-337f-4a32-8c1c-7ec10221f343","path":"sprites/bg_sewerwater/bg_sewerwater.yy",},"LayerId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"9f21dc2c-337f-4a32-8c1c-7ec10221f343","path":"sprites/bg_sewerwater/bg_sewerwater.yy",},"LayerId":{"name":"9d70656e-95ac-4e8c-99bd-fb5be275da1d","path":"sprites/bg_sewerwater/bg_sewerwater.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-      ],"parent":{"name":"bg_sewerwater","path":"sprites/bg_sewerwater/bg_sewerwater.yy",},"resourceVersion":"1.0","name":"9f21dc2c-337f-4a32-8c1c-7ec10221f343","tags":[],"resourceType":"GMSpriteFrame",},
-    {"compositeImage":{"FrameId":{"name":"82a9447b-d909-49dc-9502-6fd9891c043b","path":"sprites/bg_sewerwater/bg_sewerwater.yy",},"LayerId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"82a9447b-d909-49dc-9502-6fd9891c043b","path":"sprites/bg_sewerwater/bg_sewerwater.yy",},"LayerId":{"name":"9d70656e-95ac-4e8c-99bd-fb5be275da1d","path":"sprites/bg_sewerwater/bg_sewerwater.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-      ],"parent":{"name":"bg_sewerwater","path":"sprites/bg_sewerwater/bg_sewerwater.yy",},"resourceVersion":"1.0","name":"82a9447b-d909-49dc-9502-6fd9891c043b","tags":[],"resourceType":"GMSpriteFrame",},
-    {"compositeImage":{"FrameId":{"name":"eece6b94-6e9e-4ca3-a6a1-f60b66d494df","path":"sprites/bg_sewerwater/bg_sewerwater.yy",},"LayerId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"eece6b94-6e9e-4ca3-a6a1-f60b66d494df","path":"sprites/bg_sewerwater/bg_sewerwater.yy",},"LayerId":{"name":"9d70656e-95ac-4e8c-99bd-fb5be275da1d","path":"sprites/bg_sewerwater/bg_sewerwater.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-      ],"parent":{"name":"bg_sewerwater","path":"sprites/bg_sewerwater/bg_sewerwater.yy",},"resourceVersion":"1.0","name":"eece6b94-6e9e-4ca3-a6a1-f60b66d494df","tags":[],"resourceType":"GMSpriteFrame",},
-    {"compositeImage":{"FrameId":{"name":"8893c48d-5aaa-448c-a27b-c05aca3d7476","path":"sprites/bg_sewerwater/bg_sewerwater.yy",},"LayerId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"8893c48d-5aaa-448c-a27b-c05aca3d7476","path":"sprites/bg_sewerwater/bg_sewerwater.yy",},"LayerId":{"name":"9d70656e-95ac-4e8c-99bd-fb5be275da1d","path":"sprites/bg_sewerwater/bg_sewerwater.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-      ],"parent":{"name":"bg_sewerwater","path":"sprites/bg_sewerwater/bg_sewerwater.yy",},"resourceVersion":"1.0","name":"8893c48d-5aaa-448c-a27b-c05aca3d7476","tags":[],"resourceType":"GMSpriteFrame",},
-    {"compositeImage":{"FrameId":{"name":"e46a8433-c55b-4510-9f32-389a437a0e1d","path":"sprites/bg_sewerwater/bg_sewerwater.yy",},"LayerId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"e46a8433-c55b-4510-9f32-389a437a0e1d","path":"sprites/bg_sewerwater/bg_sewerwater.yy",},"LayerId":{"name":"9d70656e-95ac-4e8c-99bd-fb5be275da1d","path":"sprites/bg_sewerwater/bg_sewerwater.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-      ],"parent":{"name":"bg_sewerwater","path":"sprites/bg_sewerwater/bg_sewerwater.yy",},"resourceVersion":"1.0","name":"e46a8433-c55b-4510-9f32-389a437a0e1d","tags":[],"resourceType":"GMSpriteFrame",},
-    {"compositeImage":{"FrameId":{"name":"f3f1aa84-93f3-4ded-944e-8d226e993433","path":"sprites/bg_sewerwater/bg_sewerwater.yy",},"LayerId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"f3f1aa84-93f3-4ded-944e-8d226e993433","path":"sprites/bg_sewerwater/bg_sewerwater.yy",},"LayerId":{"name":"9d70656e-95ac-4e8c-99bd-fb5be275da1d","path":"sprites/bg_sewerwater/bg_sewerwater.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-      ],"parent":{"name":"bg_sewerwater","path":"sprites/bg_sewerwater/bg_sewerwater.yy",},"resourceVersion":"1.0","name":"f3f1aa84-93f3-4ded-944e-8d226e993433","tags":[],"resourceType":"GMSpriteFrame",},
-    {"compositeImage":{"FrameId":{"name":"8e1a78f5-d7c5-4d02-a196-3d9446fe76b2","path":"sprites/bg_sewerwater/bg_sewerwater.yy",},"LayerId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"8e1a78f5-d7c5-4d02-a196-3d9446fe76b2","path":"sprites/bg_sewerwater/bg_sewerwater.yy",},"LayerId":{"name":"9d70656e-95ac-4e8c-99bd-fb5be275da1d","path":"sprites/bg_sewerwater/bg_sewerwater.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-      ],"parent":{"name":"bg_sewerwater","path":"sprites/bg_sewerwater/bg_sewerwater.yy",},"resourceVersion":"1.0","name":"8e1a78f5-d7c5-4d02-a196-3d9446fe76b2","tags":[],"resourceType":"GMSpriteFrame",},
-    {"compositeImage":{"FrameId":{"name":"d7986746-21f3-4c88-bcc4-26c9a5a91e8d","path":"sprites/bg_sewerwater/bg_sewerwater.yy",},"LayerId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"d7986746-21f3-4c88-bcc4-26c9a5a91e8d","path":"sprites/bg_sewerwater/bg_sewerwater.yy",},"LayerId":{"name":"9d70656e-95ac-4e8c-99bd-fb5be275da1d","path":"sprites/bg_sewerwater/bg_sewerwater.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-      ],"parent":{"name":"bg_sewerwater","path":"sprites/bg_sewerwater/bg_sewerwater.yy",},"resourceVersion":"1.0","name":"d7986746-21f3-4c88-bcc4-26c9a5a91e8d","tags":[],"resourceType":"GMSpriteFrame",},
-    {"compositeImage":{"FrameId":{"name":"8f076017-e25b-4db0-8855-6e654f245cba","path":"sprites/bg_sewerwater/bg_sewerwater.yy",},"LayerId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"8f076017-e25b-4db0-8855-6e654f245cba","path":"sprites/bg_sewerwater/bg_sewerwater.yy",},"LayerId":{"name":"9d70656e-95ac-4e8c-99bd-fb5be275da1d","path":"sprites/bg_sewerwater/bg_sewerwater.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-      ],"parent":{"name":"bg_sewerwater","path":"sprites/bg_sewerwater/bg_sewerwater.yy",},"resourceVersion":"1.0","name":"8f076017-e25b-4db0-8855-6e654f245cba","tags":[],"resourceType":"GMSpriteFrame",},
-    {"compositeImage":{"FrameId":{"name":"7d4b0e2b-8812-43bc-a046-5f581b90305e","path":"sprites/bg_sewerwater/bg_sewerwater.yy",},"LayerId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"7d4b0e2b-8812-43bc-a046-5f581b90305e","path":"sprites/bg_sewerwater/bg_sewerwater.yy",},"LayerId":{"name":"9d70656e-95ac-4e8c-99bd-fb5be275da1d","path":"sprites/bg_sewerwater/bg_sewerwater.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-      ],"parent":{"name":"bg_sewerwater","path":"sprites/bg_sewerwater/bg_sewerwater.yy",},"resourceVersion":"1.0","name":"7d4b0e2b-8812-43bc-a046-5f581b90305e","tags":[],"resourceType":"GMSpriteFrame",},
-    {"compositeImage":{"FrameId":{"name":"254595c6-32d1-4ec8-b7b2-ca572db51091","path":"sprites/bg_sewerwater/bg_sewerwater.yy",},"LayerId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"254595c6-32d1-4ec8-b7b2-ca572db51091","path":"sprites/bg_sewerwater/bg_sewerwater.yy",},"LayerId":{"name":"9d70656e-95ac-4e8c-99bd-fb5be275da1d","path":"sprites/bg_sewerwater/bg_sewerwater.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-      ],"parent":{"name":"bg_sewerwater","path":"sprites/bg_sewerwater/bg_sewerwater.yy",},"resourceVersion":"1.0","name":"254595c6-32d1-4ec8-b7b2-ca572db51091","tags":[],"resourceType":"GMSpriteFrame",},
-    {"compositeImage":{"FrameId":{"name":"59b1a500-4978-4a3b-9e62-204706b69d95","path":"sprites/bg_sewerwater/bg_sewerwater.yy",},"LayerId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"59b1a500-4978-4a3b-9e62-204706b69d95","path":"sprites/bg_sewerwater/bg_sewerwater.yy",},"LayerId":{"name":"9d70656e-95ac-4e8c-99bd-fb5be275da1d","path":"sprites/bg_sewerwater/bg_sewerwater.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-      ],"parent":{"name":"bg_sewerwater","path":"sprites/bg_sewerwater/bg_sewerwater.yy",},"resourceVersion":"1.0","name":"59b1a500-4978-4a3b-9e62-204706b69d95","tags":[],"resourceType":"GMSpriteFrame",},
-    {"compositeImage":{"FrameId":{"name":"d8e4897f-2139-49cd-9675-7e1d4951b396","path":"sprites/bg_sewerwater/bg_sewerwater.yy",},"LayerId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"d8e4897f-2139-49cd-9675-7e1d4951b396","path":"sprites/bg_sewerwater/bg_sewerwater.yy",},"LayerId":{"name":"9d70656e-95ac-4e8c-99bd-fb5be275da1d","path":"sprites/bg_sewerwater/bg_sewerwater.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-      ],"parent":{"name":"bg_sewerwater","path":"sprites/bg_sewerwater/bg_sewerwater.yy",},"resourceVersion":"1.0","name":"d8e4897f-2139-49cd-9675-7e1d4951b396","tags":[],"resourceType":"GMSpriteFrame",},
-    {"compositeImage":{"FrameId":{"name":"3c1a82ab-4833-4658-814b-a154f146f134","path":"sprites/bg_sewerwater/bg_sewerwater.yy",},"LayerId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"3c1a82ab-4833-4658-814b-a154f146f134","path":"sprites/bg_sewerwater/bg_sewerwater.yy",},"LayerId":{"name":"9d70656e-95ac-4e8c-99bd-fb5be275da1d","path":"sprites/bg_sewerwater/bg_sewerwater.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-      ],"parent":{"name":"bg_sewerwater","path":"sprites/bg_sewerwater/bg_sewerwater.yy",},"resourceVersion":"1.0","name":"3c1a82ab-4833-4658-814b-a154f146f134","tags":[],"resourceType":"GMSpriteFrame",},
-    {"compositeImage":{"FrameId":{"name":"e8e4e36c-cc31-467c-8ba8-3f741ff10770","path":"sprites/bg_sewerwater/bg_sewerwater.yy",},"LayerId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"e8e4e36c-cc31-467c-8ba8-3f741ff10770","path":"sprites/bg_sewerwater/bg_sewerwater.yy",},"LayerId":{"name":"9d70656e-95ac-4e8c-99bd-fb5be275da1d","path":"sprites/bg_sewerwater/bg_sewerwater.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-      ],"parent":{"name":"bg_sewerwater","path":"sprites/bg_sewerwater/bg_sewerwater.yy",},"resourceVersion":"1.0","name":"e8e4e36c-cc31-467c-8ba8-3f741ff10770","tags":[],"resourceType":"GMSpriteFrame",},
-    {"compositeImage":{"FrameId":{"name":"0a1af39b-d5e8-4ea2-aff8-af160f30b375","path":"sprites/bg_sewerwater/bg_sewerwater.yy",},"LayerId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"0a1af39b-d5e8-4ea2-aff8-af160f30b375","path":"sprites/bg_sewerwater/bg_sewerwater.yy",},"LayerId":{"name":"9d70656e-95ac-4e8c-99bd-fb5be275da1d","path":"sprites/bg_sewerwater/bg_sewerwater.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-      ],"parent":{"name":"bg_sewerwater","path":"sprites/bg_sewerwater/bg_sewerwater.yy",},"resourceVersion":"1.0","name":"0a1af39b-d5e8-4ea2-aff8-af160f30b375","tags":[],"resourceType":"GMSpriteFrame",},
-    {"compositeImage":{"FrameId":{"name":"9a7e4d45-41f8-4c9c-a45d-13b07a7fc4a8","path":"sprites/bg_sewerwater/bg_sewerwater.yy",},"LayerId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"9a7e4d45-41f8-4c9c-a45d-13b07a7fc4a8","path":"sprites/bg_sewerwater/bg_sewerwater.yy",},"LayerId":{"name":"9d70656e-95ac-4e8c-99bd-fb5be275da1d","path":"sprites/bg_sewerwater/bg_sewerwater.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-      ],"parent":{"name":"bg_sewerwater","path":"sprites/bg_sewerwater/bg_sewerwater.yy",},"resourceVersion":"1.0","name":"9a7e4d45-41f8-4c9c-a45d-13b07a7fc4a8","tags":[],"resourceType":"GMSpriteFrame",},
-    {"compositeImage":{"FrameId":{"name":"395536dd-9458-4dd7-afb6-5a84ca50c4f1","path":"sprites/bg_sewerwater/bg_sewerwater.yy",},"LayerId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"395536dd-9458-4dd7-afb6-5a84ca50c4f1","path":"sprites/bg_sewerwater/bg_sewerwater.yy",},"LayerId":{"name":"9d70656e-95ac-4e8c-99bd-fb5be275da1d","path":"sprites/bg_sewerwater/bg_sewerwater.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-      ],"parent":{"name":"bg_sewerwater","path":"sprites/bg_sewerwater/bg_sewerwater.yy",},"resourceVersion":"1.0","name":"395536dd-9458-4dd7-afb6-5a84ca50c4f1","tags":[],"resourceType":"GMSpriteFrame",},
-    {"compositeImage":{"FrameId":{"name":"679c14f9-8396-41b7-afb5-af7e5b6a3b1c","path":"sprites/bg_sewerwater/bg_sewerwater.yy",},"LayerId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"679c14f9-8396-41b7-afb5-af7e5b6a3b1c","path":"sprites/bg_sewerwater/bg_sewerwater.yy",},"LayerId":{"name":"9d70656e-95ac-4e8c-99bd-fb5be275da1d","path":"sprites/bg_sewerwater/bg_sewerwater.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-      ],"parent":{"name":"bg_sewerwater","path":"sprites/bg_sewerwater/bg_sewerwater.yy",},"resourceVersion":"1.0","name":"679c14f9-8396-41b7-afb5-af7e5b6a3b1c","tags":[],"resourceType":"GMSpriteFrame",},
-    {"compositeImage":{"FrameId":{"name":"6d256f23-0bc6-4018-99fc-e99a7f8f1859","path":"sprites/bg_sewerwater/bg_sewerwater.yy",},"LayerId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"6d256f23-0bc6-4018-99fc-e99a7f8f1859","path":"sprites/bg_sewerwater/bg_sewerwater.yy",},"LayerId":{"name":"9d70656e-95ac-4e8c-99bd-fb5be275da1d","path":"sprites/bg_sewerwater/bg_sewerwater.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-      ],"parent":{"name":"bg_sewerwater","path":"sprites/bg_sewerwater/bg_sewerwater.yy",},"resourceVersion":"1.0","name":"6d256f23-0bc6-4018-99fc-e99a7f8f1859","tags":[],"resourceType":"GMSpriteFrame",},
-    {"compositeImage":{"FrameId":{"name":"9adfdf1b-ae58-454c-a3ca-58a68cf4f535","path":"sprites/bg_sewerwater/bg_sewerwater.yy",},"LayerId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"9adfdf1b-ae58-454c-a3ca-58a68cf4f535","path":"sprites/bg_sewerwater/bg_sewerwater.yy",},"LayerId":{"name":"9d70656e-95ac-4e8c-99bd-fb5be275da1d","path":"sprites/bg_sewerwater/bg_sewerwater.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-      ],"parent":{"name":"bg_sewerwater","path":"sprites/bg_sewerwater/bg_sewerwater.yy",},"resourceVersion":"1.0","name":"9adfdf1b-ae58-454c-a3ca-58a68cf4f535","tags":[],"resourceType":"GMSpriteFrame",},
-    {"compositeImage":{"FrameId":{"name":"c3393bf0-4634-4c9d-bc01-4ac539d08939","path":"sprites/bg_sewerwater/bg_sewerwater.yy",},"LayerId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"c3393bf0-4634-4c9d-bc01-4ac539d08939","path":"sprites/bg_sewerwater/bg_sewerwater.yy",},"LayerId":{"name":"9d70656e-95ac-4e8c-99bd-fb5be275da1d","path":"sprites/bg_sewerwater/bg_sewerwater.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-      ],"parent":{"name":"bg_sewerwater","path":"sprites/bg_sewerwater/bg_sewerwater.yy",},"resourceVersion":"1.0","name":"c3393bf0-4634-4c9d-bc01-4ac539d08939","tags":[],"resourceType":"GMSpriteFrame",},
-    {"compositeImage":{"FrameId":{"name":"b1052030-eab7-4d7e-8f60-8ff065132eb0","path":"sprites/bg_sewerwater/bg_sewerwater.yy",},"LayerId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"b1052030-eab7-4d7e-8f60-8ff065132eb0","path":"sprites/bg_sewerwater/bg_sewerwater.yy",},"LayerId":{"name":"9d70656e-95ac-4e8c-99bd-fb5be275da1d","path":"sprites/bg_sewerwater/bg_sewerwater.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-      ],"parent":{"name":"bg_sewerwater","path":"sprites/bg_sewerwater/bg_sewerwater.yy",},"resourceVersion":"1.0","name":"b1052030-eab7-4d7e-8f60-8ff065132eb0","tags":[],"resourceType":"GMSpriteFrame",},
-    {"compositeImage":{"FrameId":{"name":"210d1af3-a819-4c3e-877a-e450d203b99b","path":"sprites/bg_sewerwater/bg_sewerwater.yy",},"LayerId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"210d1af3-a819-4c3e-877a-e450d203b99b","path":"sprites/bg_sewerwater/bg_sewerwater.yy",},"LayerId":{"name":"9d70656e-95ac-4e8c-99bd-fb5be275da1d","path":"sprites/bg_sewerwater/bg_sewerwater.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-      ],"parent":{"name":"bg_sewerwater","path":"sprites/bg_sewerwater/bg_sewerwater.yy",},"resourceVersion":"1.0","name":"210d1af3-a819-4c3e-877a-e450d203b99b","tags":[],"resourceType":"GMSpriteFrame",},
-    {"compositeImage":{"FrameId":{"name":"24407ed1-bcf3-4df2-aa1b-4d1fa169d08e","path":"sprites/bg_sewerwater/bg_sewerwater.yy",},"LayerId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"24407ed1-bcf3-4df2-aa1b-4d1fa169d08e","path":"sprites/bg_sewerwater/bg_sewerwater.yy",},"LayerId":{"name":"9d70656e-95ac-4e8c-99bd-fb5be275da1d","path":"sprites/bg_sewerwater/bg_sewerwater.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-      ],"parent":{"name":"bg_sewerwater","path":"sprites/bg_sewerwater/bg_sewerwater.yy",},"resourceVersion":"1.0","name":"24407ed1-bcf3-4df2-aa1b-4d1fa169d08e","tags":[],"resourceType":"GMSpriteFrame",},
-    {"compositeImage":{"FrameId":{"name":"69766147-4c37-458d-83c4-d4b91f4ba497","path":"sprites/bg_sewerwater/bg_sewerwater.yy",},"LayerId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"69766147-4c37-458d-83c4-d4b91f4ba497","path":"sprites/bg_sewerwater/bg_sewerwater.yy",},"LayerId":{"name":"9d70656e-95ac-4e8c-99bd-fb5be275da1d","path":"sprites/bg_sewerwater/bg_sewerwater.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-      ],"parent":{"name":"bg_sewerwater","path":"sprites/bg_sewerwater/bg_sewerwater.yy",},"resourceVersion":"1.0","name":"69766147-4c37-458d-83c4-d4b91f4ba497","tags":[],"resourceType":"GMSpriteFrame",},
-    {"compositeImage":{"FrameId":{"name":"677eeb5e-2435-4c30-bd8f-96cd071b8714","path":"sprites/bg_sewerwater/bg_sewerwater.yy",},"LayerId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"677eeb5e-2435-4c30-bd8f-96cd071b8714","path":"sprites/bg_sewerwater/bg_sewerwater.yy",},"LayerId":{"name":"9d70656e-95ac-4e8c-99bd-fb5be275da1d","path":"sprites/bg_sewerwater/bg_sewerwater.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-      ],"parent":{"name":"bg_sewerwater","path":"sprites/bg_sewerwater/bg_sewerwater.yy",},"resourceVersion":"1.0","name":"677eeb5e-2435-4c30-bd8f-96cd071b8714","tags":[],"resourceType":"GMSpriteFrame",},
-    {"compositeImage":{"FrameId":{"name":"9ca933ca-5c95-4d06-bf4b-2ea995e78f91","path":"sprites/bg_sewerwater/bg_sewerwater.yy",},"LayerId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"9ca933ca-5c95-4d06-bf4b-2ea995e78f91","path":"sprites/bg_sewerwater/bg_sewerwater.yy",},"LayerId":{"name":"9d70656e-95ac-4e8c-99bd-fb5be275da1d","path":"sprites/bg_sewerwater/bg_sewerwater.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-      ],"parent":{"name":"bg_sewerwater","path":"sprites/bg_sewerwater/bg_sewerwater.yy",},"resourceVersion":"1.0","name":"9ca933ca-5c95-4d06-bf4b-2ea995e78f91","tags":[],"resourceType":"GMSpriteFrame",},
-    {"compositeImage":{"FrameId":{"name":"fcac3456-e39c-4fa5-b095-c1058674bdcc","path":"sprites/bg_sewerwater/bg_sewerwater.yy",},"LayerId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"fcac3456-e39c-4fa5-b095-c1058674bdcc","path":"sprites/bg_sewerwater/bg_sewerwater.yy",},"LayerId":{"name":"9d70656e-95ac-4e8c-99bd-fb5be275da1d","path":"sprites/bg_sewerwater/bg_sewerwater.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-      ],"parent":{"name":"bg_sewerwater","path":"sprites/bg_sewerwater/bg_sewerwater.yy",},"resourceVersion":"1.0","name":"fcac3456-e39c-4fa5-b095-c1058674bdcc","tags":[],"resourceType":"GMSpriteFrame",},
-    {"compositeImage":{"FrameId":{"name":"d4458c42-2131-4a46-9927-8fcdfd94f250","path":"sprites/bg_sewerwater/bg_sewerwater.yy",},"LayerId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"d4458c42-2131-4a46-9927-8fcdfd94f250","path":"sprites/bg_sewerwater/bg_sewerwater.yy",},"LayerId":{"name":"9d70656e-95ac-4e8c-99bd-fb5be275da1d","path":"sprites/bg_sewerwater/bg_sewerwater.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-      ],"parent":{"name":"bg_sewerwater","path":"sprites/bg_sewerwater/bg_sewerwater.yy",},"resourceVersion":"1.0","name":"d4458c42-2131-4a46-9927-8fcdfd94f250","tags":[],"resourceType":"GMSpriteFrame",},
-    {"compositeImage":{"FrameId":{"name":"3e8bf40c-46bc-403f-b42f-a3ff895db51f","path":"sprites/bg_sewerwater/bg_sewerwater.yy",},"LayerId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"3e8bf40c-46bc-403f-b42f-a3ff895db51f","path":"sprites/bg_sewerwater/bg_sewerwater.yy",},"LayerId":{"name":"9d70656e-95ac-4e8c-99bd-fb5be275da1d","path":"sprites/bg_sewerwater/bg_sewerwater.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-      ],"parent":{"name":"bg_sewerwater","path":"sprites/bg_sewerwater/bg_sewerwater.yy",},"resourceVersion":"1.0","name":"3e8bf40c-46bc-403f-b42f-a3ff895db51f","tags":[],"resourceType":"GMSpriteFrame",},
-    {"compositeImage":{"FrameId":{"name":"349f6739-330a-40b2-b487-86461093813f","path":"sprites/bg_sewerwater/bg_sewerwater.yy",},"LayerId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"349f6739-330a-40b2-b487-86461093813f","path":"sprites/bg_sewerwater/bg_sewerwater.yy",},"LayerId":{"name":"9d70656e-95ac-4e8c-99bd-fb5be275da1d","path":"sprites/bg_sewerwater/bg_sewerwater.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-      ],"parent":{"name":"bg_sewerwater","path":"sprites/bg_sewerwater/bg_sewerwater.yy",},"resourceVersion":"1.0","name":"349f6739-330a-40b2-b487-86461093813f","tags":[],"resourceType":"GMSpriteFrame",},
-    {"compositeImage":{"FrameId":{"name":"33407a95-a75c-4443-861a-5d013b1f5540","path":"sprites/bg_sewerwater/bg_sewerwater.yy",},"LayerId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"33407a95-a75c-4443-861a-5d013b1f5540","path":"sprites/bg_sewerwater/bg_sewerwater.yy",},"LayerId":{"name":"9d70656e-95ac-4e8c-99bd-fb5be275da1d","path":"sprites/bg_sewerwater/bg_sewerwater.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-      ],"parent":{"name":"bg_sewerwater","path":"sprites/bg_sewerwater/bg_sewerwater.yy",},"resourceVersion":"1.0","name":"33407a95-a75c-4443-861a-5d013b1f5540","tags":[],"resourceType":"GMSpriteFrame",},
-    {"compositeImage":{"FrameId":{"name":"218d7c30-650e-4034-b8fd-d8c961f9bf1a","path":"sprites/bg_sewerwater/bg_sewerwater.yy",},"LayerId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"218d7c30-650e-4034-b8fd-d8c961f9bf1a","path":"sprites/bg_sewerwater/bg_sewerwater.yy",},"LayerId":{"name":"9d70656e-95ac-4e8c-99bd-fb5be275da1d","path":"sprites/bg_sewerwater/bg_sewerwater.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-      ],"parent":{"name":"bg_sewerwater","path":"sprites/bg_sewerwater/bg_sewerwater.yy",},"resourceVersion":"1.0","name":"218d7c30-650e-4034-b8fd-d8c961f9bf1a","tags":[],"resourceType":"GMSpriteFrame",},
-    {"compositeImage":{"FrameId":{"name":"83963d8b-e86f-4589-95a0-078976535b91","path":"sprites/bg_sewerwater/bg_sewerwater.yy",},"LayerId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"83963d8b-e86f-4589-95a0-078976535b91","path":"sprites/bg_sewerwater/bg_sewerwater.yy",},"LayerId":{"name":"9d70656e-95ac-4e8c-99bd-fb5be275da1d","path":"sprites/bg_sewerwater/bg_sewerwater.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-      ],"parent":{"name":"bg_sewerwater","path":"sprites/bg_sewerwater/bg_sewerwater.yy",},"resourceVersion":"1.0","name":"83963d8b-e86f-4589-95a0-078976535b91","tags":[],"resourceType":"GMSpriteFrame",},
-    {"compositeImage":{"FrameId":{"name":"675ea945-03d3-48e4-8a63-b09bd96ec82c","path":"sprites/bg_sewerwater/bg_sewerwater.yy",},"LayerId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"675ea945-03d3-48e4-8a63-b09bd96ec82c","path":"sprites/bg_sewerwater/bg_sewerwater.yy",},"LayerId":{"name":"9d70656e-95ac-4e8c-99bd-fb5be275da1d","path":"sprites/bg_sewerwater/bg_sewerwater.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-      ],"parent":{"name":"bg_sewerwater","path":"sprites/bg_sewerwater/bg_sewerwater.yy",},"resourceVersion":"1.0","name":"675ea945-03d3-48e4-8a63-b09bd96ec82c","tags":[],"resourceType":"GMSpriteFrame",},
-    {"compositeImage":{"FrameId":{"name":"8d97843d-dfdd-48ef-85f9-e3ee793c33ea","path":"sprites/bg_sewerwater/bg_sewerwater.yy",},"LayerId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"8d97843d-dfdd-48ef-85f9-e3ee793c33ea","path":"sprites/bg_sewerwater/bg_sewerwater.yy",},"LayerId":{"name":"9d70656e-95ac-4e8c-99bd-fb5be275da1d","path":"sprites/bg_sewerwater/bg_sewerwater.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-      ],"parent":{"name":"bg_sewerwater","path":"sprites/bg_sewerwater/bg_sewerwater.yy",},"resourceVersion":"1.0","name":"8d97843d-dfdd-48ef-85f9-e3ee793c33ea","tags":[],"resourceType":"GMSpriteFrame",},
-    {"compositeImage":{"FrameId":{"name":"0b02b551-bc50-491f-976d-4933bcf2dd2c","path":"sprites/bg_sewerwater/bg_sewerwater.yy",},"LayerId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"0b02b551-bc50-491f-976d-4933bcf2dd2c","path":"sprites/bg_sewerwater/bg_sewerwater.yy",},"LayerId":{"name":"9d70656e-95ac-4e8c-99bd-fb5be275da1d","path":"sprites/bg_sewerwater/bg_sewerwater.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-      ],"parent":{"name":"bg_sewerwater","path":"sprites/bg_sewerwater/bg_sewerwater.yy",},"resourceVersion":"1.0","name":"0b02b551-bc50-491f-976d-4933bcf2dd2c","tags":[],"resourceType":"GMSpriteFrame",},
-    {"compositeImage":{"FrameId":{"name":"1b7780b1-efc1-4a3f-b24a-7967293ed093","path":"sprites/bg_sewerwater/bg_sewerwater.yy",},"LayerId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"1b7780b1-efc1-4a3f-b24a-7967293ed093","path":"sprites/bg_sewerwater/bg_sewerwater.yy",},"LayerId":{"name":"9d70656e-95ac-4e8c-99bd-fb5be275da1d","path":"sprites/bg_sewerwater/bg_sewerwater.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-      ],"parent":{"name":"bg_sewerwater","path":"sprites/bg_sewerwater/bg_sewerwater.yy",},"resourceVersion":"1.0","name":"1b7780b1-efc1-4a3f-b24a-7967293ed093","tags":[],"resourceType":"GMSpriteFrame",},
-    {"compositeImage":{"FrameId":{"name":"6f4d3bcc-e996-4826-b643-13bdddc8a741","path":"sprites/bg_sewerwater/bg_sewerwater.yy",},"LayerId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"6f4d3bcc-e996-4826-b643-13bdddc8a741","path":"sprites/bg_sewerwater/bg_sewerwater.yy",},"LayerId":{"name":"9d70656e-95ac-4e8c-99bd-fb5be275da1d","path":"sprites/bg_sewerwater/bg_sewerwater.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-      ],"parent":{"name":"bg_sewerwater","path":"sprites/bg_sewerwater/bg_sewerwater.yy",},"resourceVersion":"1.0","name":"6f4d3bcc-e996-4826-b643-13bdddc8a741","tags":[],"resourceType":"GMSpriteFrame",},
-    {"compositeImage":{"FrameId":{"name":"1fc4a5ab-2ea1-4009-a73b-5459eb893c3b","path":"sprites/bg_sewerwater/bg_sewerwater.yy",},"LayerId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"1fc4a5ab-2ea1-4009-a73b-5459eb893c3b","path":"sprites/bg_sewerwater/bg_sewerwater.yy",},"LayerId":{"name":"9d70656e-95ac-4e8c-99bd-fb5be275da1d","path":"sprites/bg_sewerwater/bg_sewerwater.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-      ],"parent":{"name":"bg_sewerwater","path":"sprites/bg_sewerwater/bg_sewerwater.yy",},"resourceVersion":"1.0","name":"1fc4a5ab-2ea1-4009-a73b-5459eb893c3b","tags":[],"resourceType":"GMSpriteFrame",},
-    {"compositeImage":{"FrameId":{"name":"30510450-70f3-4c7f-91dd-785c41ded3b1","path":"sprites/bg_sewerwater/bg_sewerwater.yy",},"LayerId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"30510450-70f3-4c7f-91dd-785c41ded3b1","path":"sprites/bg_sewerwater/bg_sewerwater.yy",},"LayerId":{"name":"9d70656e-95ac-4e8c-99bd-fb5be275da1d","path":"sprites/bg_sewerwater/bg_sewerwater.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-      ],"parent":{"name":"bg_sewerwater","path":"sprites/bg_sewerwater/bg_sewerwater.yy",},"resourceVersion":"1.0","name":"30510450-70f3-4c7f-91dd-785c41ded3b1","tags":[],"resourceType":"GMSpriteFrame",},
-    {"compositeImage":{"FrameId":{"name":"e74870c0-e4a2-449d-837a-c71391b9daae","path":"sprites/bg_sewerwater/bg_sewerwater.yy",},"LayerId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"e74870c0-e4a2-449d-837a-c71391b9daae","path":"sprites/bg_sewerwater/bg_sewerwater.yy",},"LayerId":{"name":"9d70656e-95ac-4e8c-99bd-fb5be275da1d","path":"sprites/bg_sewerwater/bg_sewerwater.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-      ],"parent":{"name":"bg_sewerwater","path":"sprites/bg_sewerwater/bg_sewerwater.yy",},"resourceVersion":"1.0","name":"e74870c0-e4a2-449d-837a-c71391b9daae","tags":[],"resourceType":"GMSpriteFrame",},
-    {"compositeImage":{"FrameId":{"name":"95c2d290-7dd6-444e-b35c-622a3be5c2da","path":"sprites/bg_sewerwater/bg_sewerwater.yy",},"LayerId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"95c2d290-7dd6-444e-b35c-622a3be5c2da","path":"sprites/bg_sewerwater/bg_sewerwater.yy",},"LayerId":{"name":"9d70656e-95ac-4e8c-99bd-fb5be275da1d","path":"sprites/bg_sewerwater/bg_sewerwater.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-      ],"parent":{"name":"bg_sewerwater","path":"sprites/bg_sewerwater/bg_sewerwater.yy",},"resourceVersion":"1.0","name":"95c2d290-7dd6-444e-b35c-622a3be5c2da","tags":[],"resourceType":"GMSpriteFrame",},
+    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"6d93cfaf-1eee-4b60-a361-b4e1b5686c41",},
+    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"1b8e7dd4-8ddb-4120-a548-c8cfb9b37401",},
+    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"62efcefb-5791-4184-a89d-32fcc68eb039",},
+    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"e769ae04-4b09-4b20-9de3-30b6cb5ec753",},
+    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"9f21dc2c-337f-4a32-8c1c-7ec10221f343",},
+    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"82a9447b-d909-49dc-9502-6fd9891c043b",},
+    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"eece6b94-6e9e-4ca3-a6a1-f60b66d494df",},
+    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"8893c48d-5aaa-448c-a27b-c05aca3d7476",},
+    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"e46a8433-c55b-4510-9f32-389a437a0e1d",},
+    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"f3f1aa84-93f3-4ded-944e-8d226e993433",},
+    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"8e1a78f5-d7c5-4d02-a196-3d9446fe76b2",},
+    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"d7986746-21f3-4c88-bcc4-26c9a5a91e8d",},
+    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"8f076017-e25b-4db0-8855-6e654f245cba",},
+    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"7d4b0e2b-8812-43bc-a046-5f581b90305e",},
+    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"254595c6-32d1-4ec8-b7b2-ca572db51091",},
+    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"59b1a500-4978-4a3b-9e62-204706b69d95",},
+    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"d8e4897f-2139-49cd-9675-7e1d4951b396",},
+    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"3c1a82ab-4833-4658-814b-a154f146f134",},
+    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"e8e4e36c-cc31-467c-8ba8-3f741ff10770",},
+    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"0a1af39b-d5e8-4ea2-aff8-af160f30b375",},
+    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"9a7e4d45-41f8-4c9c-a45d-13b07a7fc4a8",},
+    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"395536dd-9458-4dd7-afb6-5a84ca50c4f1",},
+    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"679c14f9-8396-41b7-afb5-af7e5b6a3b1c",},
+    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"6d256f23-0bc6-4018-99fc-e99a7f8f1859",},
+    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"9adfdf1b-ae58-454c-a3ca-58a68cf4f535",},
+    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"c3393bf0-4634-4c9d-bc01-4ac539d08939",},
+    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"b1052030-eab7-4d7e-8f60-8ff065132eb0",},
+    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"210d1af3-a819-4c3e-877a-e450d203b99b",},
+    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"24407ed1-bcf3-4df2-aa1b-4d1fa169d08e",},
+    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"69766147-4c37-458d-83c4-d4b91f4ba497",},
+    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"677eeb5e-2435-4c30-bd8f-96cd071b8714",},
+    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"9ca933ca-5c95-4d06-bf4b-2ea995e78f91",},
+    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"fcac3456-e39c-4fa5-b095-c1058674bdcc",},
+    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"d4458c42-2131-4a46-9927-8fcdfd94f250",},
+    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"3e8bf40c-46bc-403f-b42f-a3ff895db51f",},
+    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"349f6739-330a-40b2-b487-86461093813f",},
+    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"33407a95-a75c-4443-861a-5d013b1f5540",},
+    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"218d7c30-650e-4034-b8fd-d8c961f9bf1a",},
+    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"83963d8b-e86f-4589-95a0-078976535b91",},
+    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"675ea945-03d3-48e4-8a63-b09bd96ec82c",},
+    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"8d97843d-dfdd-48ef-85f9-e3ee793c33ea",},
+    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"0b02b551-bc50-491f-976d-4933bcf2dd2c",},
+    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"1b7780b1-efc1-4a3f-b24a-7967293ed093",},
+    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"6f4d3bcc-e996-4826-b643-13bdddc8a741",},
+    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"1fc4a5ab-2ea1-4009-a73b-5459eb893c3b",},
+    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"30510450-70f3-4c7f-91dd-785c41ded3b1",},
+    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"e74870c0-e4a2-449d-837a-c71391b9daae",},
+    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"95c2d290-7dd6-444e-b35c-622a3be5c2da",},
   ],
   "sequence": {
-    "spriteId": {"name":"bg_sewerwater","path":"sprites/bg_sewerwater/bg_sewerwater.yy",},
+    "resourceType": "GMSequence",
+    "resourceVersion": "1.4",
+    "name": "bg_sewerwater",
     "timeUnits": 1,
     "playback": 1,
     "playbackSpeed": 0.35,
@@ -184,7 +94,7 @@
     "events": {"Keyframes":[],"resourceVersion":"1.0","resourceType":"KeyframeStore<MessageEventKeyframe>",},
     "moments": {"Keyframes":[],"resourceVersion":"1.0","resourceType":"KeyframeStore<MomentsEventKeyframe>",},
     "tracks": [
-      {"name":"frames","spriteId":null,"keyframes":{"Keyframes":[
+      {"resourceType":"GMSpriteFramesTrack","resourceVersion":"1.0","name":"frames","spriteId":null,"keyframes":{"Keyframes":[
             {"id":"3b973864-c91d-4149-9977-b48753435b2a","Key":0.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"6d93cfaf-1eee-4b60-a361-b4e1b5686c41","path":"sprites/bg_sewerwater/bg_sewerwater.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
             {"id":"43dedb5e-f9da-4840-a5d8-f79878942338","Key":1.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"1b8e7dd4-8ddb-4120-a548-c8cfb9b37401","path":"sprites/bg_sewerwater/bg_sewerwater.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
             {"id":"6366e0ba-1839-4888-951f-c804fd503c2d","Key":2.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"62efcefb-5791-4184-a89d-32fcc68eb039","path":"sprites/bg_sewerwater/bg_sewerwater.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
@@ -233,7 +143,7 @@
             {"id":"ca002f3f-419f-4584-8d4f-771c3f7ad85a","Key":45.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"30510450-70f3-4c7f-91dd-785c41ded3b1","path":"sprites/bg_sewerwater/bg_sewerwater.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
             {"id":"0cad6870-b366-4dc9-856d-878407df939e","Key":46.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"e74870c0-e4a2-449d-837a-c71391b9daae","path":"sprites/bg_sewerwater/bg_sewerwater.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
             {"id":"22b389c4-efd7-4beb-8fac-12ca00579d29","Key":47.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"95c2d290-7dd6-444e-b35c-622a3be5c2da","path":"sprites/bg_sewerwater/bg_sewerwater.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
-          ],"resourceVersion":"1.0","resourceType":"KeyframeStore<SpriteFrameKeyframe>",},"trackColour":0,"inheritsTrackColour":true,"builtinName":0,"traits":0,"interpolation":1,"tracks":[],"events":[],"isCreationTrack":false,"resourceVersion":"1.0","tags":[],"resourceType":"GMSpriteFramesTrack","modifiers":[],},
+          ],"resourceVersion":"1.0","resourceType":"KeyframeStore<SpriteFrameKeyframe>",},"trackColour":0,"inheritsTrackColour":true,"builtinName":0,"traits":0,"interpolation":1,"tracks":[],"events":[],"isCreationTrack":false,"modifiers":[],},
     ],
     "visibleRange": null,
     "lockOrigin": false,
@@ -249,22 +159,13 @@
     "yorigin": 0,
     "eventToFunction": {},
     "eventStubScript": null,
-    "parent": {"name":"bg_sewerwater","path":"sprites/bg_sewerwater/bg_sewerwater.yy",},
-    "resourceVersion": "1.4",
-    "name": "bg_sewerwater",
-    "tags": [],
-    "resourceType": "GMSequence",
   },
   "layers": [
-    {"visible":true,"isLocked":false,"blendMode":0,"opacity":100.0,"displayName":"default","resourceVersion":"1.0","name":"9d70656e-95ac-4e8c-99bd-fb5be275da1d","tags":[],"resourceType":"GMImageLayer",},
+    {"resourceType":"GMImageLayer","resourceVersion":"1.0","name":"9d70656e-95ac-4e8c-99bd-fb5be275da1d","visible":true,"isLocked":false,"blendMode":0,"opacity":100.0,"displayName":"default",},
   ],
   "nineSlice": null,
   "parent": {
     "name": "trash",
     "path": "folders/Sprites/tilesets/trash.yy",
   },
-  "resourceVersion": "1.0",
-  "name": "bg_sewerwater",
-  "tags": [],
-  "resourceType": "GMSprite",
 }

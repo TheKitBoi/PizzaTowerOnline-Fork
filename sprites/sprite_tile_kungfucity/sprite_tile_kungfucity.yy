@@ -1,4 +1,7 @@
 {
+  "resourceType": "GMSprite",
+  "resourceVersion": "1.0",
+  "name": "sprite_tile_kungfucity",
   "ConfigValues": {
     "debug": {"textureGroupId":"{\"name\":\"tg_kungfu\",\"path\":\"texturegroups/tg_kungfu\"}",},
   },
@@ -17,6 +20,7 @@
   "HTile": false,
   "VTile": false,
   "For3D": false,
+  "DynamicTexturePage": false,
   "width": 384,
   "height": 256,
   "textureGroupId": {
@@ -27,12 +31,12 @@
   "gridX": 0,
   "gridY": 0,
   "frames": [
-    {"compositeImage":{"FrameId":{"name":"e314c1d7-9436-4f1d-865e-7478505124a9","path":"sprites/sprite_tile_kungfucity/sprite_tile_kungfucity.yy",},"LayerId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"e314c1d7-9436-4f1d-865e-7478505124a9","path":"sprites/sprite_tile_kungfucity/sprite_tile_kungfucity.yy",},"LayerId":{"name":"b77ecfcd-c2bc-4b50-a1fa-54bfedb60c23","path":"sprites/sprite_tile_kungfucity/sprite_tile_kungfucity.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-      ],"parent":{"name":"sprite_tile_kungfucity","path":"sprites/sprite_tile_kungfucity/sprite_tile_kungfucity.yy",},"resourceVersion":"1.0","name":"e314c1d7-9436-4f1d-865e-7478505124a9","tags":[],"resourceType":"GMSpriteFrame",},
+    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"e314c1d7-9436-4f1d-865e-7478505124a9",},
   ],
   "sequence": {
-    "spriteId": {"name":"sprite_tile_kungfucity","path":"sprites/sprite_tile_kungfucity/sprite_tile_kungfucity.yy",},
+    "resourceType": "GMSequence",
+    "resourceVersion": "1.4",
+    "name": "sprite_tile_kungfucity",
     "timeUnits": 1,
     "playback": 1,
     "playbackSpeed": 1.0,
@@ -43,9 +47,9 @@
     "events": {"Keyframes":[],"resourceVersion":"1.0","resourceType":"KeyframeStore<MessageEventKeyframe>",},
     "moments": {"Keyframes":[],"resourceVersion":"1.0","resourceType":"KeyframeStore<MomentsEventKeyframe>",},
     "tracks": [
-      {"name":"frames","spriteId":null,"keyframes":{"Keyframes":[
+      {"resourceType":"GMSpriteFramesTrack","resourceVersion":"1.0","name":"frames","spriteId":null,"keyframes":{"Keyframes":[
             {"id":"fa830326-0d51-4c36-989c-0d534f3a287d","Key":0.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"e314c1d7-9436-4f1d-865e-7478505124a9","path":"sprites/sprite_tile_kungfucity/sprite_tile_kungfucity.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
-          ],"resourceVersion":"1.0","resourceType":"KeyframeStore<SpriteFrameKeyframe>",},"trackColour":0,"inheritsTrackColour":true,"builtinName":0,"traits":0,"interpolation":1,"tracks":[],"events":[],"isCreationTrack":false,"resourceVersion":"1.0","tags":[],"resourceType":"GMSpriteFramesTrack","modifiers":[],},
+          ],"resourceVersion":"1.0","resourceType":"KeyframeStore<SpriteFrameKeyframe>",},"trackColour":0,"inheritsTrackColour":true,"builtinName":0,"traits":0,"interpolation":1,"tracks":[],"events":[],"isCreationTrack":false,"modifiers":[],},
     ],
     "visibleRange": null,
     "lockOrigin": false,
@@ -61,22 +65,13 @@
     "yorigin": 0,
     "eventToFunction": {},
     "eventStubScript": null,
-    "parent": {"name":"sprite_tile_kungfucity","path":"sprites/sprite_tile_kungfucity/sprite_tile_kungfucity.yy",},
-    "resourceVersion": "1.4",
-    "name": "sprite_tile_kungfucity",
-    "tags": [],
-    "resourceType": "GMSequence",
   },
   "layers": [
-    {"visible":true,"isLocked":false,"blendMode":0,"opacity":100.0,"displayName":"default","resourceVersion":"1.0","name":"b77ecfcd-c2bc-4b50-a1fa-54bfedb60c23","tags":[],"resourceType":"GMImageLayer",},
+    {"resourceType":"GMImageLayer","resourceVersion":"1.0","name":"b77ecfcd-c2bc-4b50-a1fa-54bfedb60c23","visible":true,"isLocked":false,"blendMode":0,"opacity":100.0,"displayName":"default",},
   ],
   "nineSlice": null,
   "parent": {
     "name": "kungfu",
     "path": "folders/Sprites/tilesets/kungfu.yy",
   },
-  "resourceVersion": "1.0",
-  "name": "sprite_tile_kungfucity",
-  "tags": [],
-  "resourceType": "GMSprite",
 }

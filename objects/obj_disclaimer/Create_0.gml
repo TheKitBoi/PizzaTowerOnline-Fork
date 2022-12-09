@@ -10,6 +10,34 @@ size = 0;
 cancon = false;
 
 version = 10;
+
+// crack my own drm
+drm = false;
+str = "Welcome to Pizza Tower ONLINE.";
+global.onlinemode = true;
+global.pastdisclaimer = true;
+
+req = -1;
+net = true; // is connected to the internet
+t = 0; // animation timer
+showwait = false;
+cancon = true;
+
+// if you have seen the disclaimer already, skip it
+/*
+ini_open("saveData.ini");
+if ini_read_real("online", "disclaimer", false)
+{
+	event_user(0);
+	ini_close();
+	exit;
+}
+else
+*/
+	event_user(1); // show disclaimer
+//ini_close();
+
+/*
 drm = true;
 if !patron
 	drm = false;
@@ -27,4 +55,4 @@ t = 0;
 
 alarm[1] = room_speed * 5;
 showwait = false;
-
+*/

@@ -1,4 +1,7 @@
 {
+  "resourceType": "GMSprite",
+  "resourceVersion": "1.0",
+  "name": "spr_ladder_dungeon2",
   "bboxMode": 0,
   "collisionKind": 1,
   "type": 0,
@@ -14,6 +17,7 @@
   "HTile": false,
   "VTile": false,
   "For3D": false,
+  "DynamicTexturePage": false,
   "width": 32,
   "height": 32,
   "textureGroupId": {
@@ -24,18 +28,14 @@
   "gridX": 0,
   "gridY": 0,
   "frames": [
-    {"compositeImage":{"FrameId":{"name":"cf71a2dc-5a98-4b9c-b46d-04b54019f459","path":"sprites/spr_ladder_dungeon2/spr_ladder_dungeon2.yy",},"LayerId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"cf71a2dc-5a98-4b9c-b46d-04b54019f459","path":"sprites/spr_ladder_dungeon2/spr_ladder_dungeon2.yy",},"LayerId":{"name":"5c45d7bb-069f-4372-bc89-e42ef5683e80","path":"sprites/spr_ladder_dungeon2/spr_ladder_dungeon2.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-      ],"parent":{"name":"spr_ladder_dungeon2","path":"sprites/spr_ladder_dungeon2/spr_ladder_dungeon2.yy",},"resourceVersion":"1.0","name":"cf71a2dc-5a98-4b9c-b46d-04b54019f459","tags":[],"resourceType":"GMSpriteFrame",},
-    {"compositeImage":{"FrameId":{"name":"43f78838-e326-4722-a549-9d7e9bb9b791","path":"sprites/spr_ladder_dungeon2/spr_ladder_dungeon2.yy",},"LayerId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"43f78838-e326-4722-a549-9d7e9bb9b791","path":"sprites/spr_ladder_dungeon2/spr_ladder_dungeon2.yy",},"LayerId":{"name":"5c45d7bb-069f-4372-bc89-e42ef5683e80","path":"sprites/spr_ladder_dungeon2/spr_ladder_dungeon2.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-      ],"parent":{"name":"spr_ladder_dungeon2","path":"sprites/spr_ladder_dungeon2/spr_ladder_dungeon2.yy",},"resourceVersion":"1.0","name":"43f78838-e326-4722-a549-9d7e9bb9b791","tags":[],"resourceType":"GMSpriteFrame",},
-    {"compositeImage":{"FrameId":{"name":"50b63564-045a-411d-8d9d-93632f579461","path":"sprites/spr_ladder_dungeon2/spr_ladder_dungeon2.yy",},"LayerId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"50b63564-045a-411d-8d9d-93632f579461","path":"sprites/spr_ladder_dungeon2/spr_ladder_dungeon2.yy",},"LayerId":{"name":"5c45d7bb-069f-4372-bc89-e42ef5683e80","path":"sprites/spr_ladder_dungeon2/spr_ladder_dungeon2.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-      ],"parent":{"name":"spr_ladder_dungeon2","path":"sprites/spr_ladder_dungeon2/spr_ladder_dungeon2.yy",},"resourceVersion":"1.0","name":"50b63564-045a-411d-8d9d-93632f579461","tags":[],"resourceType":"GMSpriteFrame",},
+    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"cf71a2dc-5a98-4b9c-b46d-04b54019f459",},
+    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"43f78838-e326-4722-a549-9d7e9bb9b791",},
+    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"50b63564-045a-411d-8d9d-93632f579461",},
   ],
   "sequence": {
-    "spriteId": {"name":"spr_ladder_dungeon2","path":"sprites/spr_ladder_dungeon2/spr_ladder_dungeon2.yy",},
+    "resourceType": "GMSequence",
+    "resourceVersion": "1.4",
+    "name": "spr_ladder_dungeon2",
     "timeUnits": 1,
     "playback": 1,
     "playbackSpeed": 2.0,
@@ -46,11 +46,11 @@
     "events": {"Keyframes":[],"resourceVersion":"1.0","resourceType":"KeyframeStore<MessageEventKeyframe>",},
     "moments": {"Keyframes":[],"resourceVersion":"1.0","resourceType":"KeyframeStore<MomentsEventKeyframe>",},
     "tracks": [
-      {"name":"frames","spriteId":null,"keyframes":{"Keyframes":[
+      {"resourceType":"GMSpriteFramesTrack","resourceVersion":"1.0","name":"frames","spriteId":null,"keyframes":{"Keyframes":[
             {"id":"c0062456-8b3c-4fbc-b601-816f898ea9a2","Key":0.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"cf71a2dc-5a98-4b9c-b46d-04b54019f459","path":"sprites/spr_ladder_dungeon2/spr_ladder_dungeon2.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
             {"id":"e6da3025-9dd8-44cb-88cd-f43555b06c4a","Key":1.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"43f78838-e326-4722-a549-9d7e9bb9b791","path":"sprites/spr_ladder_dungeon2/spr_ladder_dungeon2.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
             {"id":"71bc6378-2f32-46e6-b346-eda19e0bd09a","Key":2.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"50b63564-045a-411d-8d9d-93632f579461","path":"sprites/spr_ladder_dungeon2/spr_ladder_dungeon2.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
-          ],"resourceVersion":"1.0","resourceType":"KeyframeStore<SpriteFrameKeyframe>",},"trackColour":0,"inheritsTrackColour":true,"builtinName":0,"traits":0,"interpolation":1,"tracks":[],"events":[],"isCreationTrack":false,"resourceVersion":"1.0","tags":[],"resourceType":"GMSpriteFramesTrack","modifiers":[],},
+          ],"resourceVersion":"1.0","resourceType":"KeyframeStore<SpriteFrameKeyframe>",},"trackColour":0,"inheritsTrackColour":true,"builtinName":0,"traits":0,"interpolation":1,"tracks":[],"events":[],"isCreationTrack":false,"modifiers":[],},
     ],
     "visibleRange": null,
     "lockOrigin": false,
@@ -66,14 +66,9 @@
     "yorigin": 0,
     "eventToFunction": {},
     "eventStubScript": null,
-    "parent": {"name":"spr_ladder_dungeon2","path":"sprites/spr_ladder_dungeon2/spr_ladder_dungeon2.yy",},
-    "resourceVersion": "1.4",
-    "name": "spr_ladder_dungeon2",
-    "tags": [],
-    "resourceType": "GMSequence",
   },
   "layers": [
-    {"visible":true,"isLocked":false,"blendMode":0,"opacity":100.0,"displayName":"default","resourceVersion":"1.0","name":"5c45d7bb-069f-4372-bc89-e42ef5683e80","tags":[],"resourceType":"GMImageLayer",},
+    {"resourceType":"GMImageLayer","resourceVersion":"1.0","name":"5c45d7bb-069f-4372-bc89-e42ef5683e80","visible":true,"isLocked":false,"blendMode":0,"opacity":100.0,"displayName":"default",},
   ],
   "nineSlice": {
     "left": 0,
@@ -104,8 +99,4 @@
     "name": "ladder",
     "path": "folders/Sprites/generalobjects/ladder.yy",
   },
-  "resourceVersion": "1.0",
-  "name": "spr_ladder_dungeon2",
-  "tags": [],
-  "resourceType": "GMSprite",
 }

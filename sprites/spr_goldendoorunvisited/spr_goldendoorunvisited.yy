@@ -1,4 +1,7 @@
 {
+  "resourceType": "GMSprite",
+  "resourceVersion": "1.0",
+  "name": "spr_goldendoorunvisited",
   "bboxMode": 2,
   "collisionKind": 1,
   "type": 0,
@@ -14,6 +17,7 @@
   "HTile": false,
   "VTile": false,
   "For3D": false,
+  "DynamicTexturePage": false,
   "width": 100,
   "height": 100,
   "textureGroupId": {
@@ -24,30 +28,18 @@
   "gridX": 0,
   "gridY": 0,
   "frames": [
-    {"compositeImage":{"FrameId":{"name":"be9f8631-dbb2-43bd-979d-5e7370728b04","path":"sprites/spr_goldendoorunvisited/spr_goldendoorunvisited.yy",},"LayerId":null,"resourceVersion":"1.0","name":"composite","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"be9f8631-dbb2-43bd-979d-5e7370728b04","path":"sprites/spr_goldendoorunvisited/spr_goldendoorunvisited.yy",},"LayerId":{"name":"45737df2-dec8-43ea-a38b-cd84e4f6059b","path":"sprites/spr_goldendoorunvisited/spr_goldendoorunvisited.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-      ],"parent":{"name":"spr_goldendoorunvisited","path":"sprites/spr_goldendoorunvisited/spr_goldendoorunvisited.yy",},"resourceVersion":"1.0","name":"be9f8631-dbb2-43bd-979d-5e7370728b04","tags":[],"resourceType":"GMSpriteFrame",},
-    {"compositeImage":{"FrameId":{"name":"bd2d2690-7734-4b19-8b24-178515539ffc","path":"sprites/spr_goldendoorunvisited/spr_goldendoorunvisited.yy",},"LayerId":null,"resourceVersion":"1.0","name":"composite","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"bd2d2690-7734-4b19-8b24-178515539ffc","path":"sprites/spr_goldendoorunvisited/spr_goldendoorunvisited.yy",},"LayerId":{"name":"45737df2-dec8-43ea-a38b-cd84e4f6059b","path":"sprites/spr_goldendoorunvisited/spr_goldendoorunvisited.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-      ],"parent":{"name":"spr_goldendoorunvisited","path":"sprites/spr_goldendoorunvisited/spr_goldendoorunvisited.yy",},"resourceVersion":"1.0","name":"bd2d2690-7734-4b19-8b24-178515539ffc","tags":[],"resourceType":"GMSpriteFrame",},
-    {"compositeImage":{"FrameId":{"name":"9b0591f1-5080-48ce-b5a4-a17231e4ca7c","path":"sprites/spr_goldendoorunvisited/spr_goldendoorunvisited.yy",},"LayerId":null,"resourceVersion":"1.0","name":"composite","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"9b0591f1-5080-48ce-b5a4-a17231e4ca7c","path":"sprites/spr_goldendoorunvisited/spr_goldendoorunvisited.yy",},"LayerId":{"name":"45737df2-dec8-43ea-a38b-cd84e4f6059b","path":"sprites/spr_goldendoorunvisited/spr_goldendoorunvisited.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-      ],"parent":{"name":"spr_goldendoorunvisited","path":"sprites/spr_goldendoorunvisited/spr_goldendoorunvisited.yy",},"resourceVersion":"1.0","name":"9b0591f1-5080-48ce-b5a4-a17231e4ca7c","tags":[],"resourceType":"GMSpriteFrame",},
-    {"compositeImage":{"FrameId":{"name":"5e73391e-deda-4222-8a20-4d4c35a16ecb","path":"sprites/spr_goldendoorunvisited/spr_goldendoorunvisited.yy",},"LayerId":null,"resourceVersion":"1.0","name":"composite","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"5e73391e-deda-4222-8a20-4d4c35a16ecb","path":"sprites/spr_goldendoorunvisited/spr_goldendoorunvisited.yy",},"LayerId":{"name":"45737df2-dec8-43ea-a38b-cd84e4f6059b","path":"sprites/spr_goldendoorunvisited/spr_goldendoorunvisited.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-      ],"parent":{"name":"spr_goldendoorunvisited","path":"sprites/spr_goldendoorunvisited/spr_goldendoorunvisited.yy",},"resourceVersion":"1.0","name":"5e73391e-deda-4222-8a20-4d4c35a16ecb","tags":[],"resourceType":"GMSpriteFrame",},
-    {"compositeImage":{"FrameId":{"name":"b6441402-c58c-41f5-b97b-3aa36d349bff","path":"sprites/spr_goldendoorunvisited/spr_goldendoorunvisited.yy",},"LayerId":null,"resourceVersion":"1.0","name":"composite","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"b6441402-c58c-41f5-b97b-3aa36d349bff","path":"sprites/spr_goldendoorunvisited/spr_goldendoorunvisited.yy",},"LayerId":{"name":"45737df2-dec8-43ea-a38b-cd84e4f6059b","path":"sprites/spr_goldendoorunvisited/spr_goldendoorunvisited.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-      ],"parent":{"name":"spr_goldendoorunvisited","path":"sprites/spr_goldendoorunvisited/spr_goldendoorunvisited.yy",},"resourceVersion":"1.0","name":"b6441402-c58c-41f5-b97b-3aa36d349bff","tags":[],"resourceType":"GMSpriteFrame",},
-    {"compositeImage":{"FrameId":{"name":"58dc3d20-ebbe-49ff-b3ff-f145d73e1ff7","path":"sprites/spr_goldendoorunvisited/spr_goldendoorunvisited.yy",},"LayerId":null,"resourceVersion":"1.0","name":"composite","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"58dc3d20-ebbe-49ff-b3ff-f145d73e1ff7","path":"sprites/spr_goldendoorunvisited/spr_goldendoorunvisited.yy",},"LayerId":{"name":"45737df2-dec8-43ea-a38b-cd84e4f6059b","path":"sprites/spr_goldendoorunvisited/spr_goldendoorunvisited.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-      ],"parent":{"name":"spr_goldendoorunvisited","path":"sprites/spr_goldendoorunvisited/spr_goldendoorunvisited.yy",},"resourceVersion":"1.0","name":"58dc3d20-ebbe-49ff-b3ff-f145d73e1ff7","tags":[],"resourceType":"GMSpriteFrame",},
-    {"compositeImage":{"FrameId":{"name":"b4814d06-1043-4223-b588-52a018f24f7b","path":"sprites/spr_goldendoorunvisited/spr_goldendoorunvisited.yy",},"LayerId":null,"resourceVersion":"1.0","name":"composite","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"b4814d06-1043-4223-b588-52a018f24f7b","path":"sprites/spr_goldendoorunvisited/spr_goldendoorunvisited.yy",},"LayerId":{"name":"45737df2-dec8-43ea-a38b-cd84e4f6059b","path":"sprites/spr_goldendoorunvisited/spr_goldendoorunvisited.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-      ],"parent":{"name":"spr_goldendoorunvisited","path":"sprites/spr_goldendoorunvisited/spr_goldendoorunvisited.yy",},"resourceVersion":"1.0","name":"b4814d06-1043-4223-b588-52a018f24f7b","tags":[],"resourceType":"GMSpriteFrame",},
+    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"be9f8631-dbb2-43bd-979d-5e7370728b04",},
+    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"bd2d2690-7734-4b19-8b24-178515539ffc",},
+    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"9b0591f1-5080-48ce-b5a4-a17231e4ca7c",},
+    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"5e73391e-deda-4222-8a20-4d4c35a16ecb",},
+    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"b6441402-c58c-41f5-b97b-3aa36d349bff",},
+    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"58dc3d20-ebbe-49ff-b3ff-f145d73e1ff7",},
+    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"b4814d06-1043-4223-b588-52a018f24f7b",},
   ],
   "sequence": {
-    "spriteId": {"name":"spr_goldendoorunvisited","path":"sprites/spr_goldendoorunvisited/spr_goldendoorunvisited.yy",},
+    "resourceType": "GMSequence",
+    "resourceVersion": "1.4",
+    "name": "",
     "timeUnits": 1,
     "playback": 1,
     "playbackSpeed": 1.0,
@@ -58,7 +50,7 @@
     "events": {"Keyframes":[],"resourceVersion":"1.0","resourceType":"KeyframeStore<MessageEventKeyframe>",},
     "moments": {"Keyframes":[],"resourceVersion":"1.0","resourceType":"KeyframeStore<MomentsEventKeyframe>",},
     "tracks": [
-      {"name":"frames","spriteId":null,"keyframes":{"Keyframes":[
+      {"resourceType":"GMSpriteFramesTrack","resourceVersion":"1.0","name":"frames","spriteId":null,"keyframes":{"Keyframes":[
             {"id":"d625a9d1-9ef9-4f65-a966-e86db9e61afc","Key":0.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"be9f8631-dbb2-43bd-979d-5e7370728b04","path":"sprites/spr_goldendoorunvisited/spr_goldendoorunvisited.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
             {"id":"1a51b3bd-1643-49b1-a0b2-866ddc1e4d2e","Key":1.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"bd2d2690-7734-4b19-8b24-178515539ffc","path":"sprites/spr_goldendoorunvisited/spr_goldendoorunvisited.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
             {"id":"ba2e6fc7-86ad-4441-b4e6-22996ed6bcc6","Key":2.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"9b0591f1-5080-48ce-b5a4-a17231e4ca7c","path":"sprites/spr_goldendoorunvisited/spr_goldendoorunvisited.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
@@ -66,7 +58,7 @@
             {"id":"a43dde51-ee38-48e1-bb29-07d459da16e9","Key":4.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"b6441402-c58c-41f5-b97b-3aa36d349bff","path":"sprites/spr_goldendoorunvisited/spr_goldendoorunvisited.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
             {"id":"ccfc5011-d78c-44b6-bfd1-8cf0298a7296","Key":5.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"58dc3d20-ebbe-49ff-b3ff-f145d73e1ff7","path":"sprites/spr_goldendoorunvisited/spr_goldendoorunvisited.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
             {"id":"2d7e35f8-6462-4e91-b657-e91371ef7989","Key":6.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"b4814d06-1043-4223-b588-52a018f24f7b","path":"sprites/spr_goldendoorunvisited/spr_goldendoorunvisited.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
-          ],"resourceVersion":"1.0","resourceType":"KeyframeStore<SpriteFrameKeyframe>",},"trackColour":0,"inheritsTrackColour":true,"builtinName":0,"traits":0,"interpolation":1,"tracks":[],"events":[],"isCreationTrack":false,"resourceVersion":"1.0","tags":[],"resourceType":"GMSpriteFramesTrack","modifiers":[],},
+          ],"resourceVersion":"1.0","resourceType":"KeyframeStore<SpriteFrameKeyframe>",},"trackColour":0,"inheritsTrackColour":true,"builtinName":0,"traits":0,"interpolation":1,"tracks":[],"events":[],"isCreationTrack":false,"modifiers":[],},
     ],
     "visibleRange": null,
     "lockOrigin": false,
@@ -82,22 +74,13 @@
     "yorigin": 0,
     "eventToFunction": {},
     "eventStubScript": null,
-    "parent": {"name":"spr_goldendoorunvisited","path":"sprites/spr_goldendoorunvisited/spr_goldendoorunvisited.yy",},
-    "resourceVersion": "1.4",
-    "name": "",
-    "tags": [],
-    "resourceType": "GMSequence",
   },
   "layers": [
-    {"visible":true,"isLocked":false,"blendMode":0,"opacity":100.0,"displayName":"default","resourceVersion":"1.0","name":"45737df2-dec8-43ea-a38b-cd84e4f6059b","tags":[],"resourceType":"GMImageLayer",},
+    {"resourceType":"GMImageLayer","resourceVersion":"1.0","name":"45737df2-dec8-43ea-a38b-cd84e4f6059b","visible":true,"isLocked":false,"blendMode":0,"opacity":100.0,"displayName":"default",},
   ],
   "nineSlice": null,
   "parent": {
     "name": "doors",
     "path": "folders/Sprites/generalobjects/doors.yy",
   },
-  "resourceVersion": "1.0",
-  "name": "spr_goldendoorunvisited",
-  "tags": [],
-  "resourceType": "GMSprite",
 }

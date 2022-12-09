@@ -1,4 +1,7 @@
 {
+  "resourceType": "GMSprite",
+  "resourceVersion": "1.0",
+  "name": "spr_chocofrogbig_dead",
   "ConfigValues": {
     "debug": {"textureGroupId":"{\"name\":\"tg_sugaryspire\",\"path\":\"texturegroups/tg_sugaryspire\"}",},
   },
@@ -17,6 +20,7 @@
   "HTile": false,
   "VTile": false,
   "For3D": false,
+  "DynamicTexturePage": false,
   "width": 100,
   "height": 100,
   "textureGroupId": {
@@ -27,12 +31,12 @@
   "gridX": 0,
   "gridY": 0,
   "frames": [
-    {"compositeImage":{"FrameId":{"name":"9794913a-8812-4ce2-afbf-10ee31ac7db5","path":"sprites/spr_chocofrogbig_dead/spr_chocofrogbig_dead.yy",},"LayerId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"9794913a-8812-4ce2-afbf-10ee31ac7db5","path":"sprites/spr_chocofrogbig_dead/spr_chocofrogbig_dead.yy",},"LayerId":{"name":"41e3bb95-c83e-4ab4-b74c-117070b603af","path":"sprites/spr_chocofrogbig_dead/spr_chocofrogbig_dead.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-      ],"parent":{"name":"spr_chocofrogbig_dead","path":"sprites/spr_chocofrogbig_dead/spr_chocofrogbig_dead.yy",},"resourceVersion":"1.0","name":"9794913a-8812-4ce2-afbf-10ee31ac7db5","tags":[],"resourceType":"GMSpriteFrame",},
+    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"9794913a-8812-4ce2-afbf-10ee31ac7db5",},
   ],
   "sequence": {
-    "spriteId": {"name":"spr_chocofrogbig_dead","path":"sprites/spr_chocofrogbig_dead/spr_chocofrogbig_dead.yy",},
+    "resourceType": "GMSequence",
+    "resourceVersion": "1.4",
+    "name": "spr_chocofrogbig_dead",
     "timeUnits": 1,
     "playback": 1,
     "playbackSpeed": 1.0,
@@ -43,9 +47,9 @@
     "events": {"Keyframes":[],"resourceVersion":"1.0","resourceType":"KeyframeStore<MessageEventKeyframe>",},
     "moments": {"Keyframes":[],"resourceVersion":"1.0","resourceType":"KeyframeStore<MomentsEventKeyframe>",},
     "tracks": [
-      {"name":"frames","spriteId":null,"keyframes":{"Keyframes":[
+      {"resourceType":"GMSpriteFramesTrack","resourceVersion":"1.0","name":"frames","spriteId":null,"keyframes":{"Keyframes":[
             {"id":"9be26f5d-2775-4235-8c0b-b71c15830736","Key":0.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"9794913a-8812-4ce2-afbf-10ee31ac7db5","path":"sprites/spr_chocofrogbig_dead/spr_chocofrogbig_dead.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
-          ],"resourceVersion":"1.0","resourceType":"KeyframeStore<SpriteFrameKeyframe>",},"trackColour":0,"inheritsTrackColour":true,"builtinName":0,"traits":0,"interpolation":1,"tracks":[],"events":[],"isCreationTrack":false,"resourceVersion":"1.0","tags":[],"resourceType":"GMSpriteFramesTrack","modifiers":[],},
+          ],"resourceVersion":"1.0","resourceType":"KeyframeStore<SpriteFrameKeyframe>",},"trackColour":0,"inheritsTrackColour":true,"builtinName":0,"traits":0,"interpolation":1,"tracks":[],"events":[],"isCreationTrack":false,"modifiers":[],},
     ],
     "visibleRange": null,
     "lockOrigin": false,
@@ -61,22 +65,13 @@
     "yorigin": 50,
     "eventToFunction": {},
     "eventStubScript": null,
-    "parent": {"name":"spr_chocofrogbig_dead","path":"sprites/spr_chocofrogbig_dead/spr_chocofrogbig_dead.yy",},
-    "resourceVersion": "1.4",
-    "name": "spr_chocofrogbig_dead",
-    "tags": [],
-    "resourceType": "GMSequence",
   },
   "layers": [
-    {"visible":true,"isLocked":false,"blendMode":0,"opacity":100.0,"displayName":"default","resourceVersion":"1.0","name":"41e3bb95-c83e-4ab4-b74c-117070b603af","tags":[],"resourceType":"GMImageLayer",},
+    {"resourceType":"GMImageLayer","resourceVersion":"1.0","name":"41e3bb95-c83e-4ab4-b74c-117070b603af","visible":true,"isLocked":false,"blendMode":0,"opacity":100.0,"displayName":"default",},
   ],
   "nineSlice": null,
   "parent": {
     "name": "destroyable",
     "path": "folders/Sprites/SUGARY SPIRE/destroyable.yy",
   },
-  "resourceVersion": "1.0",
-  "name": "spr_chocofrogbig_dead",
-  "tags": [],
-  "resourceType": "GMSprite",
 }

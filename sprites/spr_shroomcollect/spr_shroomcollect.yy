@@ -1,4 +1,7 @@
 {
+  "resourceType": "GMSprite",
+  "resourceVersion": "1.0",
+  "name": "spr_shroomcollect",
   "bboxMode": 0,
   "collisionKind": 1,
   "type": 0,
@@ -14,6 +17,7 @@
   "HTile": false,
   "VTile": false,
   "For3D": false,
+  "DynamicTexturePage": false,
   "width": 32,
   "height": 32,
   "textureGroupId": {
@@ -24,18 +28,14 @@
   "gridX": 0,
   "gridY": 0,
   "frames": [
-    {"compositeImage":{"FrameId":{"name":"1313b6d7-93d1-464e-b47b-3cbb1c9c9d24","path":"sprites/spr_shroomcollect/spr_shroomcollect.yy",},"LayerId":null,"resourceVersion":"1.0","name":"composite","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"1313b6d7-93d1-464e-b47b-3cbb1c9c9d24","path":"sprites/spr_shroomcollect/spr_shroomcollect.yy",},"LayerId":{"name":"598cbeca-6c24-4a02-a97e-99cf14ba3f61","path":"sprites/spr_shroomcollect/spr_shroomcollect.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-      ],"parent":{"name":"spr_shroomcollect","path":"sprites/spr_shroomcollect/spr_shroomcollect.yy",},"resourceVersion":"1.0","name":"1313b6d7-93d1-464e-b47b-3cbb1c9c9d24","tags":[],"resourceType":"GMSpriteFrame",},
-    {"compositeImage":{"FrameId":{"name":"6e2b1a4c-55cc-43e4-97a3-418159976288","path":"sprites/spr_shroomcollect/spr_shroomcollect.yy",},"LayerId":null,"resourceVersion":"1.0","name":"composite","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"6e2b1a4c-55cc-43e4-97a3-418159976288","path":"sprites/spr_shroomcollect/spr_shroomcollect.yy",},"LayerId":{"name":"598cbeca-6c24-4a02-a97e-99cf14ba3f61","path":"sprites/spr_shroomcollect/spr_shroomcollect.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-      ],"parent":{"name":"spr_shroomcollect","path":"sprites/spr_shroomcollect/spr_shroomcollect.yy",},"resourceVersion":"1.0","name":"6e2b1a4c-55cc-43e4-97a3-418159976288","tags":[],"resourceType":"GMSpriteFrame",},
-    {"compositeImage":{"FrameId":{"name":"0a3391f4-c9b7-4511-9f3b-2861a640eae8","path":"sprites/spr_shroomcollect/spr_shroomcollect.yy",},"LayerId":null,"resourceVersion":"1.0","name":"composite","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"0a3391f4-c9b7-4511-9f3b-2861a640eae8","path":"sprites/spr_shroomcollect/spr_shroomcollect.yy",},"LayerId":{"name":"598cbeca-6c24-4a02-a97e-99cf14ba3f61","path":"sprites/spr_shroomcollect/spr_shroomcollect.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-      ],"parent":{"name":"spr_shroomcollect","path":"sprites/spr_shroomcollect/spr_shroomcollect.yy",},"resourceVersion":"1.0","name":"0a3391f4-c9b7-4511-9f3b-2861a640eae8","tags":[],"resourceType":"GMSpriteFrame",},
+    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"1313b6d7-93d1-464e-b47b-3cbb1c9c9d24",},
+    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"6e2b1a4c-55cc-43e4-97a3-418159976288",},
+    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"0a3391f4-c9b7-4511-9f3b-2861a640eae8",},
   ],
   "sequence": {
-    "spriteId": {"name":"spr_shroomcollect","path":"sprites/spr_shroomcollect/spr_shroomcollect.yy",},
+    "resourceType": "GMSequence",
+    "resourceVersion": "1.4",
+    "name": "",
     "timeUnits": 1,
     "playback": 1,
     "playbackSpeed": 1.0,
@@ -46,11 +46,11 @@
     "events": {"Keyframes":[],"resourceVersion":"1.0","resourceType":"KeyframeStore<MessageEventKeyframe>",},
     "moments": {"Keyframes":[],"resourceVersion":"1.0","resourceType":"KeyframeStore<MomentsEventKeyframe>",},
     "tracks": [
-      {"name":"frames","spriteId":null,"keyframes":{"Keyframes":[
+      {"resourceType":"GMSpriteFramesTrack","resourceVersion":"1.0","name":"frames","spriteId":null,"keyframes":{"Keyframes":[
             {"id":"99f9d91c-3957-4e51-9539-12b55fb5debb","Key":0.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"1313b6d7-93d1-464e-b47b-3cbb1c9c9d24","path":"sprites/spr_shroomcollect/spr_shroomcollect.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
             {"id":"7927f506-36df-4270-b3e5-a463f347155e","Key":1.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"6e2b1a4c-55cc-43e4-97a3-418159976288","path":"sprites/spr_shroomcollect/spr_shroomcollect.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
             {"id":"cb9bbae0-ac02-469b-931f-6c4de9d8c5e5","Key":2.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"0a3391f4-c9b7-4511-9f3b-2861a640eae8","path":"sprites/spr_shroomcollect/spr_shroomcollect.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
-          ],"resourceVersion":"1.0","resourceType":"KeyframeStore<SpriteFrameKeyframe>",},"trackColour":0,"inheritsTrackColour":true,"builtinName":0,"traits":0,"interpolation":1,"tracks":[],"events":[],"isCreationTrack":false,"resourceVersion":"1.0","tags":[],"resourceType":"GMSpriteFramesTrack","modifiers":[],},
+          ],"resourceVersion":"1.0","resourceType":"KeyframeStore<SpriteFrameKeyframe>",},"trackColour":0,"inheritsTrackColour":true,"builtinName":0,"traits":0,"interpolation":1,"tracks":[],"events":[],"isCreationTrack":false,"modifiers":[],},
     ],
     "visibleRange": null,
     "lockOrigin": false,
@@ -66,22 +66,13 @@
     "yorigin": 0,
     "eventToFunction": {},
     "eventStubScript": null,
-    "parent": {"name":"spr_shroomcollect","path":"sprites/spr_shroomcollect/spr_shroomcollect.yy",},
-    "resourceVersion": "1.4",
-    "name": "",
-    "tags": [],
-    "resourceType": "GMSequence",
   },
   "layers": [
-    {"visible":true,"isLocked":false,"blendMode":0,"opacity":100.0,"displayName":"default","resourceVersion":"1.0","name":"598cbeca-6c24-4a02-a97e-99cf14ba3f61","tags":[],"resourceType":"GMImageLayer",},
+    {"resourceType":"GMImageLayer","resourceVersion":"1.0","name":"598cbeca-6c24-4a02-a97e-99cf14ba3f61","visible":true,"isLocked":false,"blendMode":0,"opacity":100.0,"displayName":"default",},
   ],
   "nineSlice": null,
   "parent": {
     "name": "collectibles",
     "path": "folders/Sprites/generalobjects/collectibles.yy",
   },
-  "resourceVersion": "1.0",
-  "name": "spr_shroomcollect",
-  "tags": [],
-  "resourceType": "GMSprite",
 }

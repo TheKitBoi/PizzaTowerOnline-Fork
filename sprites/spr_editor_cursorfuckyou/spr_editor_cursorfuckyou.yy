@@ -1,4 +1,7 @@
 {
+  "resourceType": "GMSprite",
+  "resourceVersion": "1.0",
+  "name": "spr_editor_cursorfuckyou",
   "ConfigValues": {
     "debug": {"textureGroupId":"{\"name\":\"tg_leveleditor\",\"path\":\"texturegroups/tg_leveleditor\"}",},
   },
@@ -17,6 +20,7 @@
   "HTile": false,
   "VTile": false,
   "For3D": false,
+  "DynamicTexturePage": false,
   "width": 100,
   "height": 100,
   "textureGroupId": {
@@ -27,57 +31,27 @@
   "gridX": 0,
   "gridY": 0,
   "frames": [
-    {"compositeImage":{"FrameId":{"name":"3f77fed2-1a8a-4b12-a73a-bd476dd3965a","path":"sprites/spr_editor_cursorfuckyou/spr_editor_cursorfuckyou.yy",},"LayerId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"3f77fed2-1a8a-4b12-a73a-bd476dd3965a","path":"sprites/spr_editor_cursorfuckyou/spr_editor_cursorfuckyou.yy",},"LayerId":{"name":"ae88ee73-f84b-4649-94ef-06e2a28e1663","path":"sprites/spr_editor_cursorfuckyou/spr_editor_cursorfuckyou.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-      ],"parent":{"name":"spr_editor_cursorfuckyou","path":"sprites/spr_editor_cursorfuckyou/spr_editor_cursorfuckyou.yy",},"resourceVersion":"1.0","name":"3f77fed2-1a8a-4b12-a73a-bd476dd3965a","tags":[],"resourceType":"GMSpriteFrame",},
-    {"compositeImage":{"FrameId":{"name":"e66dcc72-e70d-4a0b-aa92-505a604d8f9e","path":"sprites/spr_editor_cursorfuckyou/spr_editor_cursorfuckyou.yy",},"LayerId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"e66dcc72-e70d-4a0b-aa92-505a604d8f9e","path":"sprites/spr_editor_cursorfuckyou/spr_editor_cursorfuckyou.yy",},"LayerId":{"name":"ae88ee73-f84b-4649-94ef-06e2a28e1663","path":"sprites/spr_editor_cursorfuckyou/spr_editor_cursorfuckyou.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-      ],"parent":{"name":"spr_editor_cursorfuckyou","path":"sprites/spr_editor_cursorfuckyou/spr_editor_cursorfuckyou.yy",},"resourceVersion":"1.0","name":"e66dcc72-e70d-4a0b-aa92-505a604d8f9e","tags":[],"resourceType":"GMSpriteFrame",},
-    {"compositeImage":{"FrameId":{"name":"d5a77d17-bd5e-4929-90fd-7c5c46001213","path":"sprites/spr_editor_cursorfuckyou/spr_editor_cursorfuckyou.yy",},"LayerId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"d5a77d17-bd5e-4929-90fd-7c5c46001213","path":"sprites/spr_editor_cursorfuckyou/spr_editor_cursorfuckyou.yy",},"LayerId":{"name":"ae88ee73-f84b-4649-94ef-06e2a28e1663","path":"sprites/spr_editor_cursorfuckyou/spr_editor_cursorfuckyou.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-      ],"parent":{"name":"spr_editor_cursorfuckyou","path":"sprites/spr_editor_cursorfuckyou/spr_editor_cursorfuckyou.yy",},"resourceVersion":"1.0","name":"d5a77d17-bd5e-4929-90fd-7c5c46001213","tags":[],"resourceType":"GMSpriteFrame",},
-    {"compositeImage":{"FrameId":{"name":"3f8a6f83-9d0d-447b-915a-597d6390d2d6","path":"sprites/spr_editor_cursorfuckyou/spr_editor_cursorfuckyou.yy",},"LayerId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"3f8a6f83-9d0d-447b-915a-597d6390d2d6","path":"sprites/spr_editor_cursorfuckyou/spr_editor_cursorfuckyou.yy",},"LayerId":{"name":"ae88ee73-f84b-4649-94ef-06e2a28e1663","path":"sprites/spr_editor_cursorfuckyou/spr_editor_cursorfuckyou.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-      ],"parent":{"name":"spr_editor_cursorfuckyou","path":"sprites/spr_editor_cursorfuckyou/spr_editor_cursorfuckyou.yy",},"resourceVersion":"1.0","name":"3f8a6f83-9d0d-447b-915a-597d6390d2d6","tags":[],"resourceType":"GMSpriteFrame",},
-    {"compositeImage":{"FrameId":{"name":"c3246d2b-b867-46d0-8e17-c1cd8300e203","path":"sprites/spr_editor_cursorfuckyou/spr_editor_cursorfuckyou.yy",},"LayerId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"c3246d2b-b867-46d0-8e17-c1cd8300e203","path":"sprites/spr_editor_cursorfuckyou/spr_editor_cursorfuckyou.yy",},"LayerId":{"name":"ae88ee73-f84b-4649-94ef-06e2a28e1663","path":"sprites/spr_editor_cursorfuckyou/spr_editor_cursorfuckyou.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-      ],"parent":{"name":"spr_editor_cursorfuckyou","path":"sprites/spr_editor_cursorfuckyou/spr_editor_cursorfuckyou.yy",},"resourceVersion":"1.0","name":"c3246d2b-b867-46d0-8e17-c1cd8300e203","tags":[],"resourceType":"GMSpriteFrame",},
-    {"compositeImage":{"FrameId":{"name":"0d8182e9-9e97-4169-8a9a-b48b9ef6aeaa","path":"sprites/spr_editor_cursorfuckyou/spr_editor_cursorfuckyou.yy",},"LayerId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"0d8182e9-9e97-4169-8a9a-b48b9ef6aeaa","path":"sprites/spr_editor_cursorfuckyou/spr_editor_cursorfuckyou.yy",},"LayerId":{"name":"ae88ee73-f84b-4649-94ef-06e2a28e1663","path":"sprites/spr_editor_cursorfuckyou/spr_editor_cursorfuckyou.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-      ],"parent":{"name":"spr_editor_cursorfuckyou","path":"sprites/spr_editor_cursorfuckyou/spr_editor_cursorfuckyou.yy",},"resourceVersion":"1.0","name":"0d8182e9-9e97-4169-8a9a-b48b9ef6aeaa","tags":[],"resourceType":"GMSpriteFrame",},
-    {"compositeImage":{"FrameId":{"name":"24cd55d6-8075-427b-8f38-da769b89f062","path":"sprites/spr_editor_cursorfuckyou/spr_editor_cursorfuckyou.yy",},"LayerId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"24cd55d6-8075-427b-8f38-da769b89f062","path":"sprites/spr_editor_cursorfuckyou/spr_editor_cursorfuckyou.yy",},"LayerId":{"name":"ae88ee73-f84b-4649-94ef-06e2a28e1663","path":"sprites/spr_editor_cursorfuckyou/spr_editor_cursorfuckyou.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-      ],"parent":{"name":"spr_editor_cursorfuckyou","path":"sprites/spr_editor_cursorfuckyou/spr_editor_cursorfuckyou.yy",},"resourceVersion":"1.0","name":"24cd55d6-8075-427b-8f38-da769b89f062","tags":[],"resourceType":"GMSpriteFrame",},
-    {"compositeImage":{"FrameId":{"name":"fc31e531-a9f6-4cd6-8dd4-d7a746b61e1e","path":"sprites/spr_editor_cursorfuckyou/spr_editor_cursorfuckyou.yy",},"LayerId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"fc31e531-a9f6-4cd6-8dd4-d7a746b61e1e","path":"sprites/spr_editor_cursorfuckyou/spr_editor_cursorfuckyou.yy",},"LayerId":{"name":"ae88ee73-f84b-4649-94ef-06e2a28e1663","path":"sprites/spr_editor_cursorfuckyou/spr_editor_cursorfuckyou.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-      ],"parent":{"name":"spr_editor_cursorfuckyou","path":"sprites/spr_editor_cursorfuckyou/spr_editor_cursorfuckyou.yy",},"resourceVersion":"1.0","name":"fc31e531-a9f6-4cd6-8dd4-d7a746b61e1e","tags":[],"resourceType":"GMSpriteFrame",},
-    {"compositeImage":{"FrameId":{"name":"8bf02715-2938-4365-b66b-40556fd3f2be","path":"sprites/spr_editor_cursorfuckyou/spr_editor_cursorfuckyou.yy",},"LayerId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"8bf02715-2938-4365-b66b-40556fd3f2be","path":"sprites/spr_editor_cursorfuckyou/spr_editor_cursorfuckyou.yy",},"LayerId":{"name":"ae88ee73-f84b-4649-94ef-06e2a28e1663","path":"sprites/spr_editor_cursorfuckyou/spr_editor_cursorfuckyou.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-      ],"parent":{"name":"spr_editor_cursorfuckyou","path":"sprites/spr_editor_cursorfuckyou/spr_editor_cursorfuckyou.yy",},"resourceVersion":"1.0","name":"8bf02715-2938-4365-b66b-40556fd3f2be","tags":[],"resourceType":"GMSpriteFrame",},
-    {"compositeImage":{"FrameId":{"name":"c6de9e98-d187-4b91-8f15-c3d0e829abf3","path":"sprites/spr_editor_cursorfuckyou/spr_editor_cursorfuckyou.yy",},"LayerId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"c6de9e98-d187-4b91-8f15-c3d0e829abf3","path":"sprites/spr_editor_cursorfuckyou/spr_editor_cursorfuckyou.yy",},"LayerId":{"name":"ae88ee73-f84b-4649-94ef-06e2a28e1663","path":"sprites/spr_editor_cursorfuckyou/spr_editor_cursorfuckyou.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-      ],"parent":{"name":"spr_editor_cursorfuckyou","path":"sprites/spr_editor_cursorfuckyou/spr_editor_cursorfuckyou.yy",},"resourceVersion":"1.0","name":"c6de9e98-d187-4b91-8f15-c3d0e829abf3","tags":[],"resourceType":"GMSpriteFrame",},
-    {"compositeImage":{"FrameId":{"name":"4b8aa697-3666-451e-af4c-2ba3971a9e1b","path":"sprites/spr_editor_cursorfuckyou/spr_editor_cursorfuckyou.yy",},"LayerId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"4b8aa697-3666-451e-af4c-2ba3971a9e1b","path":"sprites/spr_editor_cursorfuckyou/spr_editor_cursorfuckyou.yy",},"LayerId":{"name":"ae88ee73-f84b-4649-94ef-06e2a28e1663","path":"sprites/spr_editor_cursorfuckyou/spr_editor_cursorfuckyou.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-      ],"parent":{"name":"spr_editor_cursorfuckyou","path":"sprites/spr_editor_cursorfuckyou/spr_editor_cursorfuckyou.yy",},"resourceVersion":"1.0","name":"4b8aa697-3666-451e-af4c-2ba3971a9e1b","tags":[],"resourceType":"GMSpriteFrame",},
-    {"compositeImage":{"FrameId":{"name":"70f77630-d123-48d5-aa6e-0f0388c85288","path":"sprites/spr_editor_cursorfuckyou/spr_editor_cursorfuckyou.yy",},"LayerId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"70f77630-d123-48d5-aa6e-0f0388c85288","path":"sprites/spr_editor_cursorfuckyou/spr_editor_cursorfuckyou.yy",},"LayerId":{"name":"ae88ee73-f84b-4649-94ef-06e2a28e1663","path":"sprites/spr_editor_cursorfuckyou/spr_editor_cursorfuckyou.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-      ],"parent":{"name":"spr_editor_cursorfuckyou","path":"sprites/spr_editor_cursorfuckyou/spr_editor_cursorfuckyou.yy",},"resourceVersion":"1.0","name":"70f77630-d123-48d5-aa6e-0f0388c85288","tags":[],"resourceType":"GMSpriteFrame",},
-    {"compositeImage":{"FrameId":{"name":"9f113742-1b38-4421-bc1c-467d17e935ed","path":"sprites/spr_editor_cursorfuckyou/spr_editor_cursorfuckyou.yy",},"LayerId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"9f113742-1b38-4421-bc1c-467d17e935ed","path":"sprites/spr_editor_cursorfuckyou/spr_editor_cursorfuckyou.yy",},"LayerId":{"name":"ae88ee73-f84b-4649-94ef-06e2a28e1663","path":"sprites/spr_editor_cursorfuckyou/spr_editor_cursorfuckyou.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-      ],"parent":{"name":"spr_editor_cursorfuckyou","path":"sprites/spr_editor_cursorfuckyou/spr_editor_cursorfuckyou.yy",},"resourceVersion":"1.0","name":"9f113742-1b38-4421-bc1c-467d17e935ed","tags":[],"resourceType":"GMSpriteFrame",},
-    {"compositeImage":{"FrameId":{"name":"99e68a26-3c12-4392-8d02-a25e1628e90f","path":"sprites/spr_editor_cursorfuckyou/spr_editor_cursorfuckyou.yy",},"LayerId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"99e68a26-3c12-4392-8d02-a25e1628e90f","path":"sprites/spr_editor_cursorfuckyou/spr_editor_cursorfuckyou.yy",},"LayerId":{"name":"ae88ee73-f84b-4649-94ef-06e2a28e1663","path":"sprites/spr_editor_cursorfuckyou/spr_editor_cursorfuckyou.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-      ],"parent":{"name":"spr_editor_cursorfuckyou","path":"sprites/spr_editor_cursorfuckyou/spr_editor_cursorfuckyou.yy",},"resourceVersion":"1.0","name":"99e68a26-3c12-4392-8d02-a25e1628e90f","tags":[],"resourceType":"GMSpriteFrame",},
-    {"compositeImage":{"FrameId":{"name":"a2d10a51-b508-4cff-807b-078c186d7d21","path":"sprites/spr_editor_cursorfuckyou/spr_editor_cursorfuckyou.yy",},"LayerId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"a2d10a51-b508-4cff-807b-078c186d7d21","path":"sprites/spr_editor_cursorfuckyou/spr_editor_cursorfuckyou.yy",},"LayerId":{"name":"ae88ee73-f84b-4649-94ef-06e2a28e1663","path":"sprites/spr_editor_cursorfuckyou/spr_editor_cursorfuckyou.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-      ],"parent":{"name":"spr_editor_cursorfuckyou","path":"sprites/spr_editor_cursorfuckyou/spr_editor_cursorfuckyou.yy",},"resourceVersion":"1.0","name":"a2d10a51-b508-4cff-807b-078c186d7d21","tags":[],"resourceType":"GMSpriteFrame",},
-    {"compositeImage":{"FrameId":{"name":"c8ec739b-b83f-42e2-bf1e-658d54536db0","path":"sprites/spr_editor_cursorfuckyou/spr_editor_cursorfuckyou.yy",},"LayerId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"c8ec739b-b83f-42e2-bf1e-658d54536db0","path":"sprites/spr_editor_cursorfuckyou/spr_editor_cursorfuckyou.yy",},"LayerId":{"name":"ae88ee73-f84b-4649-94ef-06e2a28e1663","path":"sprites/spr_editor_cursorfuckyou/spr_editor_cursorfuckyou.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-      ],"parent":{"name":"spr_editor_cursorfuckyou","path":"sprites/spr_editor_cursorfuckyou/spr_editor_cursorfuckyou.yy",},"resourceVersion":"1.0","name":"c8ec739b-b83f-42e2-bf1e-658d54536db0","tags":[],"resourceType":"GMSpriteFrame",},
+    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"3f77fed2-1a8a-4b12-a73a-bd476dd3965a",},
+    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"e66dcc72-e70d-4a0b-aa92-505a604d8f9e",},
+    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"d5a77d17-bd5e-4929-90fd-7c5c46001213",},
+    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"3f8a6f83-9d0d-447b-915a-597d6390d2d6",},
+    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"c3246d2b-b867-46d0-8e17-c1cd8300e203",},
+    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"0d8182e9-9e97-4169-8a9a-b48b9ef6aeaa",},
+    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"24cd55d6-8075-427b-8f38-da769b89f062",},
+    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"fc31e531-a9f6-4cd6-8dd4-d7a746b61e1e",},
+    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"8bf02715-2938-4365-b66b-40556fd3f2be",},
+    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"c6de9e98-d187-4b91-8f15-c3d0e829abf3",},
+    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"4b8aa697-3666-451e-af4c-2ba3971a9e1b",},
+    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"70f77630-d123-48d5-aa6e-0f0388c85288",},
+    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"9f113742-1b38-4421-bc1c-467d17e935ed",},
+    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"99e68a26-3c12-4392-8d02-a25e1628e90f",},
+    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"a2d10a51-b508-4cff-807b-078c186d7d21",},
+    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"c8ec739b-b83f-42e2-bf1e-658d54536db0",},
   ],
   "sequence": {
-    "spriteId": {"name":"spr_editor_cursorfuckyou","path":"sprites/spr_editor_cursorfuckyou/spr_editor_cursorfuckyou.yy",},
+    "resourceType": "GMSequence",
+    "resourceVersion": "1.4",
+    "name": "spr_editor_cursorfuckyou",
     "timeUnits": 1,
     "playback": 1,
     "playbackSpeed": 1.0,
@@ -88,7 +62,7 @@
     "events": {"Keyframes":[],"resourceVersion":"1.0","resourceType":"KeyframeStore<MessageEventKeyframe>",},
     "moments": {"Keyframes":[],"resourceVersion":"1.0","resourceType":"KeyframeStore<MomentsEventKeyframe>",},
     "tracks": [
-      {"name":"frames","spriteId":null,"keyframes":{"Keyframes":[
+      {"resourceType":"GMSpriteFramesTrack","resourceVersion":"1.0","name":"frames","spriteId":null,"keyframes":{"Keyframes":[
             {"id":"f207399b-0ee3-4c19-aad1-6a45393ef6d3","Key":0.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"3f77fed2-1a8a-4b12-a73a-bd476dd3965a","path":"sprites/spr_editor_cursorfuckyou/spr_editor_cursorfuckyou.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
             {"id":"b3a25969-33c8-495f-860c-1a2db18eda45","Key":1.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"e66dcc72-e70d-4a0b-aa92-505a604d8f9e","path":"sprites/spr_editor_cursorfuckyou/spr_editor_cursorfuckyou.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
             {"id":"2d244084-4770-4944-a76a-98cf3b603903","Key":2.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"d5a77d17-bd5e-4929-90fd-7c5c46001213","path":"sprites/spr_editor_cursorfuckyou/spr_editor_cursorfuckyou.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
@@ -105,7 +79,7 @@
             {"id":"df70a4a8-6776-4995-a0cb-397314b217f2","Key":13.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"99e68a26-3c12-4392-8d02-a25e1628e90f","path":"sprites/spr_editor_cursorfuckyou/spr_editor_cursorfuckyou.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
             {"id":"8cc915bb-4bde-4b9f-9e6f-b2bcd57d8a05","Key":14.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"a2d10a51-b508-4cff-807b-078c186d7d21","path":"sprites/spr_editor_cursorfuckyou/spr_editor_cursorfuckyou.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
             {"id":"db05f0e4-9f8b-4366-be0d-981c7e01d1c0","Key":15.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"c8ec739b-b83f-42e2-bf1e-658d54536db0","path":"sprites/spr_editor_cursorfuckyou/spr_editor_cursorfuckyou.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
-          ],"resourceVersion":"1.0","resourceType":"KeyframeStore<SpriteFrameKeyframe>",},"trackColour":0,"inheritsTrackColour":true,"builtinName":0,"traits":0,"interpolation":1,"tracks":[],"events":[],"isCreationTrack":false,"resourceVersion":"1.0","tags":[],"resourceType":"GMSpriteFramesTrack","modifiers":[],},
+          ],"resourceVersion":"1.0","resourceType":"KeyframeStore<SpriteFrameKeyframe>",},"trackColour":0,"inheritsTrackColour":true,"builtinName":0,"traits":0,"interpolation":1,"tracks":[],"events":[],"isCreationTrack":false,"modifiers":[],},
     ],
     "visibleRange": null,
     "lockOrigin": false,
@@ -121,22 +95,13 @@
     "yorigin": 28,
     "eventToFunction": {},
     "eventStubScript": null,
-    "parent": {"name":"spr_editor_cursorfuckyou","path":"sprites/spr_editor_cursorfuckyou/spr_editor_cursorfuckyou.yy",},
-    "resourceVersion": "1.4",
-    "name": "spr_editor_cursorfuckyou",
-    "tags": [],
-    "resourceType": "GMSequence",
   },
   "layers": [
-    {"visible":true,"isLocked":false,"blendMode":0,"opacity":100.0,"displayName":"default","resourceVersion":"1.0","name":"ae88ee73-f84b-4649-94ef-06e2a28e1663","tags":[],"resourceType":"GMImageLayer",},
+    {"resourceType":"GMImageLayer","resourceVersion":"1.0","name":"ae88ee73-f84b-4649-94ef-06e2a28e1663","visible":true,"isLocked":false,"blendMode":0,"opacity":100.0,"displayName":"default",},
   ],
   "nineSlice": null,
   "parent": {
     "name": "pt online's editor",
     "path": "folders/Sprites/pt online's editor.yy",
   },
-  "resourceVersion": "1.0",
-  "name": "spr_editor_cursorfuckyou",
-  "tags": [],
-  "resourceType": "GMSprite",
 }

@@ -1,4 +1,7 @@
 {
+  "resourceType": "GMSprite",
+  "resourceVersion": "1.0",
+  "name": "spr_ufolive_scared",
   "ConfigValues": {
     "debug": {"textureGroupId":"{\"name\":\"tg_baddie\",\"path\":\"texturegroups/tg_baddie\"}",},
   },
@@ -17,6 +20,7 @@
   "HTile": false,
   "VTile": false,
   "For3D": false,
+  "DynamicTexturePage": false,
   "width": 100,
   "height": 100,
   "textureGroupId": {
@@ -27,27 +31,17 @@
   "gridX": 0,
   "gridY": 0,
   "frames": [
-    {"compositeImage":{"FrameId":{"name":"6602ff8b-96f6-4dd2-a73a-d43ca5fae312","path":"sprites/spr_ufolive_scared/spr_ufolive_scared.yy",},"LayerId":null,"resourceVersion":"1.0","name":"composite","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"6602ff8b-96f6-4dd2-a73a-d43ca5fae312","path":"sprites/spr_ufolive_scared/spr_ufolive_scared.yy",},"LayerId":{"name":"fe936d47-a076-4da3-a038-378b6a83df11","path":"sprites/spr_ufolive_scared/spr_ufolive_scared.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-      ],"parent":{"name":"spr_ufolive_scared","path":"sprites/spr_ufolive_scared/spr_ufolive_scared.yy",},"resourceVersion":"1.0","name":"6602ff8b-96f6-4dd2-a73a-d43ca5fae312","tags":[],"resourceType":"GMSpriteFrame",},
-    {"compositeImage":{"FrameId":{"name":"5d5524f6-6394-4992-b532-b3a9d9a14216","path":"sprites/spr_ufolive_scared/spr_ufolive_scared.yy",},"LayerId":null,"resourceVersion":"1.0","name":"composite","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"5d5524f6-6394-4992-b532-b3a9d9a14216","path":"sprites/spr_ufolive_scared/spr_ufolive_scared.yy",},"LayerId":{"name":"fe936d47-a076-4da3-a038-378b6a83df11","path":"sprites/spr_ufolive_scared/spr_ufolive_scared.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-      ],"parent":{"name":"spr_ufolive_scared","path":"sprites/spr_ufolive_scared/spr_ufolive_scared.yy",},"resourceVersion":"1.0","name":"5d5524f6-6394-4992-b532-b3a9d9a14216","tags":[],"resourceType":"GMSpriteFrame",},
-    {"compositeImage":{"FrameId":{"name":"81834a16-584a-4b7c-9568-1cb34ccf7f6f","path":"sprites/spr_ufolive_scared/spr_ufolive_scared.yy",},"LayerId":null,"resourceVersion":"1.0","name":"composite","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"81834a16-584a-4b7c-9568-1cb34ccf7f6f","path":"sprites/spr_ufolive_scared/spr_ufolive_scared.yy",},"LayerId":{"name":"fe936d47-a076-4da3-a038-378b6a83df11","path":"sprites/spr_ufolive_scared/spr_ufolive_scared.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-      ],"parent":{"name":"spr_ufolive_scared","path":"sprites/spr_ufolive_scared/spr_ufolive_scared.yy",},"resourceVersion":"1.0","name":"81834a16-584a-4b7c-9568-1cb34ccf7f6f","tags":[],"resourceType":"GMSpriteFrame",},
-    {"compositeImage":{"FrameId":{"name":"5cde82dc-b890-4b6c-b577-85425f7675b9","path":"sprites/spr_ufolive_scared/spr_ufolive_scared.yy",},"LayerId":null,"resourceVersion":"1.0","name":"composite","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"5cde82dc-b890-4b6c-b577-85425f7675b9","path":"sprites/spr_ufolive_scared/spr_ufolive_scared.yy",},"LayerId":{"name":"fe936d47-a076-4da3-a038-378b6a83df11","path":"sprites/spr_ufolive_scared/spr_ufolive_scared.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-      ],"parent":{"name":"spr_ufolive_scared","path":"sprites/spr_ufolive_scared/spr_ufolive_scared.yy",},"resourceVersion":"1.0","name":"5cde82dc-b890-4b6c-b577-85425f7675b9","tags":[],"resourceType":"GMSpriteFrame",},
-    {"compositeImage":{"FrameId":{"name":"caad59c0-dd27-4a28-a3a5-32ae1b110c80","path":"sprites/spr_ufolive_scared/spr_ufolive_scared.yy",},"LayerId":null,"resourceVersion":"1.0","name":"composite","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"caad59c0-dd27-4a28-a3a5-32ae1b110c80","path":"sprites/spr_ufolive_scared/spr_ufolive_scared.yy",},"LayerId":{"name":"fe936d47-a076-4da3-a038-378b6a83df11","path":"sprites/spr_ufolive_scared/spr_ufolive_scared.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-      ],"parent":{"name":"spr_ufolive_scared","path":"sprites/spr_ufolive_scared/spr_ufolive_scared.yy",},"resourceVersion":"1.0","name":"caad59c0-dd27-4a28-a3a5-32ae1b110c80","tags":[],"resourceType":"GMSpriteFrame",},
-    {"compositeImage":{"FrameId":{"name":"fcd867b5-a7b4-44b4-b4e8-f1bd43623819","path":"sprites/spr_ufolive_scared/spr_ufolive_scared.yy",},"LayerId":null,"resourceVersion":"1.0","name":"composite","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"fcd867b5-a7b4-44b4-b4e8-f1bd43623819","path":"sprites/spr_ufolive_scared/spr_ufolive_scared.yy",},"LayerId":{"name":"fe936d47-a076-4da3-a038-378b6a83df11","path":"sprites/spr_ufolive_scared/spr_ufolive_scared.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-      ],"parent":{"name":"spr_ufolive_scared","path":"sprites/spr_ufolive_scared/spr_ufolive_scared.yy",},"resourceVersion":"1.0","name":"fcd867b5-a7b4-44b4-b4e8-f1bd43623819","tags":[],"resourceType":"GMSpriteFrame",},
+    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"6602ff8b-96f6-4dd2-a73a-d43ca5fae312",},
+    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"5d5524f6-6394-4992-b532-b3a9d9a14216",},
+    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"81834a16-584a-4b7c-9568-1cb34ccf7f6f",},
+    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"5cde82dc-b890-4b6c-b577-85425f7675b9",},
+    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"caad59c0-dd27-4a28-a3a5-32ae1b110c80",},
+    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"fcd867b5-a7b4-44b4-b4e8-f1bd43623819",},
   ],
   "sequence": {
-    "spriteId": {"name":"spr_ufolive_scared","path":"sprites/spr_ufolive_scared/spr_ufolive_scared.yy",},
+    "resourceType": "GMSequence",
+    "resourceVersion": "1.4",
+    "name": "",
     "timeUnits": 1,
     "playback": 1,
     "playbackSpeed": 1.0,
@@ -58,14 +52,14 @@
     "events": {"Keyframes":[],"resourceVersion":"1.0","resourceType":"KeyframeStore<MessageEventKeyframe>",},
     "moments": {"Keyframes":[],"resourceVersion":"1.0","resourceType":"KeyframeStore<MomentsEventKeyframe>",},
     "tracks": [
-      {"name":"frames","spriteId":null,"keyframes":{"Keyframes":[
+      {"resourceType":"GMSpriteFramesTrack","resourceVersion":"1.0","name":"frames","spriteId":null,"keyframes":{"Keyframes":[
             {"id":"eeac7396-4d6b-4241-98d4-793e7daf063e","Key":0.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"6602ff8b-96f6-4dd2-a73a-d43ca5fae312","path":"sprites/spr_ufolive_scared/spr_ufolive_scared.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
             {"id":"e22e6409-28e5-4ac4-bdc8-d4d969fc4f89","Key":1.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"5d5524f6-6394-4992-b532-b3a9d9a14216","path":"sprites/spr_ufolive_scared/spr_ufolive_scared.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
             {"id":"c6fc78cc-17ad-405f-b0d5-b87c1c405b5c","Key":2.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"81834a16-584a-4b7c-9568-1cb34ccf7f6f","path":"sprites/spr_ufolive_scared/spr_ufolive_scared.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
             {"id":"e83346c1-3c90-438e-9f62-a65d430ee04d","Key":3.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"5cde82dc-b890-4b6c-b577-85425f7675b9","path":"sprites/spr_ufolive_scared/spr_ufolive_scared.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
             {"id":"d4dddebc-0165-4a8c-be70-5caaaab28391","Key":4.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"caad59c0-dd27-4a28-a3a5-32ae1b110c80","path":"sprites/spr_ufolive_scared/spr_ufolive_scared.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
             {"id":"7b194aaa-b6e0-49e0-a549-f206914fd0a1","Key":5.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"fcd867b5-a7b4-44b4-b4e8-f1bd43623819","path":"sprites/spr_ufolive_scared/spr_ufolive_scared.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
-          ],"resourceVersion":"1.0","resourceType":"KeyframeStore<SpriteFrameKeyframe>",},"trackColour":0,"inheritsTrackColour":true,"builtinName":0,"traits":0,"interpolation":1,"tracks":[],"events":[],"isCreationTrack":false,"resourceVersion":"1.0","tags":[],"resourceType":"GMSpriteFramesTrack","modifiers":[],},
+          ],"resourceVersion":"1.0","resourceType":"KeyframeStore<SpriteFrameKeyframe>",},"trackColour":0,"inheritsTrackColour":true,"builtinName":0,"traits":0,"interpolation":1,"tracks":[],"events":[],"isCreationTrack":false,"modifiers":[],},
     ],
     "visibleRange": null,
     "lockOrigin": false,
@@ -81,22 +75,13 @@
     "yorigin": 50,
     "eventToFunction": {},
     "eventStubScript": null,
-    "parent": {"name":"spr_ufolive_scared","path":"sprites/spr_ufolive_scared/spr_ufolive_scared.yy",},
-    "resourceVersion": "1.4",
-    "name": "",
-    "tags": [],
-    "resourceType": "GMSequence",
   },
   "layers": [
-    {"visible":true,"isLocked":false,"blendMode":0,"opacity":100.0,"displayName":"default","resourceVersion":"1.0","name":"fe936d47-a076-4da3-a038-378b6a83df11","tags":[],"resourceType":"GMImageLayer",},
+    {"resourceType":"GMImageLayer","resourceVersion":"1.0","name":"fe936d47-a076-4da3-a038-378b6a83df11","visible":true,"isLocked":false,"blendMode":0,"opacity":100.0,"displayName":"default",},
   ],
   "nineSlice": null,
   "parent": {
     "name": "ufolive",
     "path": "folders/Sprites/baddie/ufolive.yy",
   },
-  "resourceVersion": "1.0",
-  "name": "spr_ufolive_scared",
-  "tags": [],
-  "resourceType": "GMSprite",
 }

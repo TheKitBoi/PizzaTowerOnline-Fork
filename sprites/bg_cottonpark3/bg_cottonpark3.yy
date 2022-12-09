@@ -1,4 +1,7 @@
 {
+  "resourceType": "GMSprite",
+  "resourceVersion": "1.0",
+  "name": "bg_cottonpark3",
   "ConfigValues": {
     "debug": {"textureGroupId":"{\"name\":\"tg_sugaryspire\",\"path\":\"texturegroups/tg_sugaryspire\"}",},
   },
@@ -17,6 +20,7 @@
   "HTile": false,
   "VTile": false,
   "For3D": false,
+  "DynamicTexturePage": false,
   "width": 1235,
   "height": 587,
   "textureGroupId": {
@@ -27,63 +31,29 @@
   "gridX": 0,
   "gridY": 0,
   "frames": [
-    {"compositeImage":{"FrameId":{"name":"310f225e-3ed8-4a06-bb2e-8f668ed048b0","path":"sprites/bg_cottonpark3/bg_cottonpark3.yy",},"LayerId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"310f225e-3ed8-4a06-bb2e-8f668ed048b0","path":"sprites/bg_cottonpark3/bg_cottonpark3.yy",},"LayerId":{"name":"76c13426-714b-4074-acd6-0925feb0308c","path":"sprites/bg_cottonpark3/bg_cottonpark3.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-      ],"parent":{"name":"bg_cottonpark3","path":"sprites/bg_cottonpark3/bg_cottonpark3.yy",},"resourceVersion":"1.0","name":"310f225e-3ed8-4a06-bb2e-8f668ed048b0","tags":[],"resourceType":"GMSpriteFrame",},
-    {"compositeImage":{"FrameId":{"name":"a82bbd04-4016-4fe8-aee6-7c35b1a45f1e","path":"sprites/bg_cottonpark3/bg_cottonpark3.yy",},"LayerId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"a82bbd04-4016-4fe8-aee6-7c35b1a45f1e","path":"sprites/bg_cottonpark3/bg_cottonpark3.yy",},"LayerId":{"name":"76c13426-714b-4074-acd6-0925feb0308c","path":"sprites/bg_cottonpark3/bg_cottonpark3.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-      ],"parent":{"name":"bg_cottonpark3","path":"sprites/bg_cottonpark3/bg_cottonpark3.yy",},"resourceVersion":"1.0","name":"a82bbd04-4016-4fe8-aee6-7c35b1a45f1e","tags":[],"resourceType":"GMSpriteFrame",},
-    {"compositeImage":{"FrameId":{"name":"9ba29346-70ea-424c-a5ff-7085cbca3a8b","path":"sprites/bg_cottonpark3/bg_cottonpark3.yy",},"LayerId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"9ba29346-70ea-424c-a5ff-7085cbca3a8b","path":"sprites/bg_cottonpark3/bg_cottonpark3.yy",},"LayerId":{"name":"76c13426-714b-4074-acd6-0925feb0308c","path":"sprites/bg_cottonpark3/bg_cottonpark3.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-      ],"parent":{"name":"bg_cottonpark3","path":"sprites/bg_cottonpark3/bg_cottonpark3.yy",},"resourceVersion":"1.0","name":"9ba29346-70ea-424c-a5ff-7085cbca3a8b","tags":[],"resourceType":"GMSpriteFrame",},
-    {"compositeImage":{"FrameId":{"name":"a36bf461-db05-4cb3-847b-de93b2f34233","path":"sprites/bg_cottonpark3/bg_cottonpark3.yy",},"LayerId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"a36bf461-db05-4cb3-847b-de93b2f34233","path":"sprites/bg_cottonpark3/bg_cottonpark3.yy",},"LayerId":{"name":"76c13426-714b-4074-acd6-0925feb0308c","path":"sprites/bg_cottonpark3/bg_cottonpark3.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-      ],"parent":{"name":"bg_cottonpark3","path":"sprites/bg_cottonpark3/bg_cottonpark3.yy",},"resourceVersion":"1.0","name":"a36bf461-db05-4cb3-847b-de93b2f34233","tags":[],"resourceType":"GMSpriteFrame",},
-    {"compositeImage":{"FrameId":{"name":"e42b38e0-3d73-4b40-981a-c70569aa5f37","path":"sprites/bg_cottonpark3/bg_cottonpark3.yy",},"LayerId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"e42b38e0-3d73-4b40-981a-c70569aa5f37","path":"sprites/bg_cottonpark3/bg_cottonpark3.yy",},"LayerId":{"name":"76c13426-714b-4074-acd6-0925feb0308c","path":"sprites/bg_cottonpark3/bg_cottonpark3.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-      ],"parent":{"name":"bg_cottonpark3","path":"sprites/bg_cottonpark3/bg_cottonpark3.yy",},"resourceVersion":"1.0","name":"e42b38e0-3d73-4b40-981a-c70569aa5f37","tags":[],"resourceType":"GMSpriteFrame",},
-    {"compositeImage":{"FrameId":{"name":"4d21bdf8-1aa4-40c1-9064-4ae1884948e8","path":"sprites/bg_cottonpark3/bg_cottonpark3.yy",},"LayerId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"4d21bdf8-1aa4-40c1-9064-4ae1884948e8","path":"sprites/bg_cottonpark3/bg_cottonpark3.yy",},"LayerId":{"name":"76c13426-714b-4074-acd6-0925feb0308c","path":"sprites/bg_cottonpark3/bg_cottonpark3.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-      ],"parent":{"name":"bg_cottonpark3","path":"sprites/bg_cottonpark3/bg_cottonpark3.yy",},"resourceVersion":"1.0","name":"4d21bdf8-1aa4-40c1-9064-4ae1884948e8","tags":[],"resourceType":"GMSpriteFrame",},
-    {"compositeImage":{"FrameId":{"name":"8ae98c96-259e-4463-addf-0225b2b4c6b4","path":"sprites/bg_cottonpark3/bg_cottonpark3.yy",},"LayerId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"8ae98c96-259e-4463-addf-0225b2b4c6b4","path":"sprites/bg_cottonpark3/bg_cottonpark3.yy",},"LayerId":{"name":"76c13426-714b-4074-acd6-0925feb0308c","path":"sprites/bg_cottonpark3/bg_cottonpark3.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-      ],"parent":{"name":"bg_cottonpark3","path":"sprites/bg_cottonpark3/bg_cottonpark3.yy",},"resourceVersion":"1.0","name":"8ae98c96-259e-4463-addf-0225b2b4c6b4","tags":[],"resourceType":"GMSpriteFrame",},
-    {"compositeImage":{"FrameId":{"name":"81a96b32-aec5-4c11-b4e8-a3f150388153","path":"sprites/bg_cottonpark3/bg_cottonpark3.yy",},"LayerId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"81a96b32-aec5-4c11-b4e8-a3f150388153","path":"sprites/bg_cottonpark3/bg_cottonpark3.yy",},"LayerId":{"name":"76c13426-714b-4074-acd6-0925feb0308c","path":"sprites/bg_cottonpark3/bg_cottonpark3.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-      ],"parent":{"name":"bg_cottonpark3","path":"sprites/bg_cottonpark3/bg_cottonpark3.yy",},"resourceVersion":"1.0","name":"81a96b32-aec5-4c11-b4e8-a3f150388153","tags":[],"resourceType":"GMSpriteFrame",},
-    {"compositeImage":{"FrameId":{"name":"a7b9f345-b4a1-4d96-b473-ffd13d1e4f76","path":"sprites/bg_cottonpark3/bg_cottonpark3.yy",},"LayerId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"a7b9f345-b4a1-4d96-b473-ffd13d1e4f76","path":"sprites/bg_cottonpark3/bg_cottonpark3.yy",},"LayerId":{"name":"76c13426-714b-4074-acd6-0925feb0308c","path":"sprites/bg_cottonpark3/bg_cottonpark3.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-      ],"parent":{"name":"bg_cottonpark3","path":"sprites/bg_cottonpark3/bg_cottonpark3.yy",},"resourceVersion":"1.0","name":"a7b9f345-b4a1-4d96-b473-ffd13d1e4f76","tags":[],"resourceType":"GMSpriteFrame",},
-    {"compositeImage":{"FrameId":{"name":"80db6c94-8120-4e0e-80fb-18441389ba09","path":"sprites/bg_cottonpark3/bg_cottonpark3.yy",},"LayerId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"80db6c94-8120-4e0e-80fb-18441389ba09","path":"sprites/bg_cottonpark3/bg_cottonpark3.yy",},"LayerId":{"name":"76c13426-714b-4074-acd6-0925feb0308c","path":"sprites/bg_cottonpark3/bg_cottonpark3.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-      ],"parent":{"name":"bg_cottonpark3","path":"sprites/bg_cottonpark3/bg_cottonpark3.yy",},"resourceVersion":"1.0","name":"80db6c94-8120-4e0e-80fb-18441389ba09","tags":[],"resourceType":"GMSpriteFrame",},
-    {"compositeImage":{"FrameId":{"name":"4537f8d7-18c1-4c29-9f30-83e503d80ac4","path":"sprites/bg_cottonpark3/bg_cottonpark3.yy",},"LayerId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"4537f8d7-18c1-4c29-9f30-83e503d80ac4","path":"sprites/bg_cottonpark3/bg_cottonpark3.yy",},"LayerId":{"name":"76c13426-714b-4074-acd6-0925feb0308c","path":"sprites/bg_cottonpark3/bg_cottonpark3.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-      ],"parent":{"name":"bg_cottonpark3","path":"sprites/bg_cottonpark3/bg_cottonpark3.yy",},"resourceVersion":"1.0","name":"4537f8d7-18c1-4c29-9f30-83e503d80ac4","tags":[],"resourceType":"GMSpriteFrame",},
-    {"compositeImage":{"FrameId":{"name":"f0aca1d7-7115-42e2-bc7d-8266a6e00d1c","path":"sprites/bg_cottonpark3/bg_cottonpark3.yy",},"LayerId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"f0aca1d7-7115-42e2-bc7d-8266a6e00d1c","path":"sprites/bg_cottonpark3/bg_cottonpark3.yy",},"LayerId":{"name":"76c13426-714b-4074-acd6-0925feb0308c","path":"sprites/bg_cottonpark3/bg_cottonpark3.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-      ],"parent":{"name":"bg_cottonpark3","path":"sprites/bg_cottonpark3/bg_cottonpark3.yy",},"resourceVersion":"1.0","name":"f0aca1d7-7115-42e2-bc7d-8266a6e00d1c","tags":[],"resourceType":"GMSpriteFrame",},
-    {"compositeImage":{"FrameId":{"name":"6c552c4a-60d0-498e-9fda-8476d9fccdd0","path":"sprites/bg_cottonpark3/bg_cottonpark3.yy",},"LayerId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"6c552c4a-60d0-498e-9fda-8476d9fccdd0","path":"sprites/bg_cottonpark3/bg_cottonpark3.yy",},"LayerId":{"name":"76c13426-714b-4074-acd6-0925feb0308c","path":"sprites/bg_cottonpark3/bg_cottonpark3.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-      ],"parent":{"name":"bg_cottonpark3","path":"sprites/bg_cottonpark3/bg_cottonpark3.yy",},"resourceVersion":"1.0","name":"6c552c4a-60d0-498e-9fda-8476d9fccdd0","tags":[],"resourceType":"GMSpriteFrame",},
-    {"compositeImage":{"FrameId":{"name":"458b1bba-8301-4b55-bac1-3b24030a076d","path":"sprites/bg_cottonpark3/bg_cottonpark3.yy",},"LayerId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"458b1bba-8301-4b55-bac1-3b24030a076d","path":"sprites/bg_cottonpark3/bg_cottonpark3.yy",},"LayerId":{"name":"76c13426-714b-4074-acd6-0925feb0308c","path":"sprites/bg_cottonpark3/bg_cottonpark3.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-      ],"parent":{"name":"bg_cottonpark3","path":"sprites/bg_cottonpark3/bg_cottonpark3.yy",},"resourceVersion":"1.0","name":"458b1bba-8301-4b55-bac1-3b24030a076d","tags":[],"resourceType":"GMSpriteFrame",},
-    {"compositeImage":{"FrameId":{"name":"56173a85-cef1-41ce-9e60-62555194b0de","path":"sprites/bg_cottonpark3/bg_cottonpark3.yy",},"LayerId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"56173a85-cef1-41ce-9e60-62555194b0de","path":"sprites/bg_cottonpark3/bg_cottonpark3.yy",},"LayerId":{"name":"76c13426-714b-4074-acd6-0925feb0308c","path":"sprites/bg_cottonpark3/bg_cottonpark3.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-      ],"parent":{"name":"bg_cottonpark3","path":"sprites/bg_cottonpark3/bg_cottonpark3.yy",},"resourceVersion":"1.0","name":"56173a85-cef1-41ce-9e60-62555194b0de","tags":[],"resourceType":"GMSpriteFrame",},
-    {"compositeImage":{"FrameId":{"name":"dea50e1f-934f-43cc-8fb1-4a098296eed8","path":"sprites/bg_cottonpark3/bg_cottonpark3.yy",},"LayerId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"dea50e1f-934f-43cc-8fb1-4a098296eed8","path":"sprites/bg_cottonpark3/bg_cottonpark3.yy",},"LayerId":{"name":"76c13426-714b-4074-acd6-0925feb0308c","path":"sprites/bg_cottonpark3/bg_cottonpark3.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-      ],"parent":{"name":"bg_cottonpark3","path":"sprites/bg_cottonpark3/bg_cottonpark3.yy",},"resourceVersion":"1.0","name":"dea50e1f-934f-43cc-8fb1-4a098296eed8","tags":[],"resourceType":"GMSpriteFrame",},
-    {"compositeImage":{"FrameId":{"name":"a278e890-e1d5-4183-9eb3-153cda31ae6c","path":"sprites/bg_cottonpark3/bg_cottonpark3.yy",},"LayerId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"a278e890-e1d5-4183-9eb3-153cda31ae6c","path":"sprites/bg_cottonpark3/bg_cottonpark3.yy",},"LayerId":{"name":"76c13426-714b-4074-acd6-0925feb0308c","path":"sprites/bg_cottonpark3/bg_cottonpark3.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-      ],"parent":{"name":"bg_cottonpark3","path":"sprites/bg_cottonpark3/bg_cottonpark3.yy",},"resourceVersion":"1.0","name":"a278e890-e1d5-4183-9eb3-153cda31ae6c","tags":[],"resourceType":"GMSpriteFrame",},
-    {"compositeImage":{"FrameId":{"name":"a980cfdf-21c7-458b-ba3d-864bc41565f6","path":"sprites/bg_cottonpark3/bg_cottonpark3.yy",},"LayerId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"a980cfdf-21c7-458b-ba3d-864bc41565f6","path":"sprites/bg_cottonpark3/bg_cottonpark3.yy",},"LayerId":{"name":"76c13426-714b-4074-acd6-0925feb0308c","path":"sprites/bg_cottonpark3/bg_cottonpark3.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-      ],"parent":{"name":"bg_cottonpark3","path":"sprites/bg_cottonpark3/bg_cottonpark3.yy",},"resourceVersion":"1.0","name":"a980cfdf-21c7-458b-ba3d-864bc41565f6","tags":[],"resourceType":"GMSpriteFrame",},
+    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"310f225e-3ed8-4a06-bb2e-8f668ed048b0",},
+    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"a82bbd04-4016-4fe8-aee6-7c35b1a45f1e",},
+    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"9ba29346-70ea-424c-a5ff-7085cbca3a8b",},
+    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"a36bf461-db05-4cb3-847b-de93b2f34233",},
+    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"e42b38e0-3d73-4b40-981a-c70569aa5f37",},
+    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"4d21bdf8-1aa4-40c1-9064-4ae1884948e8",},
+    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"8ae98c96-259e-4463-addf-0225b2b4c6b4",},
+    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"81a96b32-aec5-4c11-b4e8-a3f150388153",},
+    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"a7b9f345-b4a1-4d96-b473-ffd13d1e4f76",},
+    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"80db6c94-8120-4e0e-80fb-18441389ba09",},
+    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"4537f8d7-18c1-4c29-9f30-83e503d80ac4",},
+    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"f0aca1d7-7115-42e2-bc7d-8266a6e00d1c",},
+    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"6c552c4a-60d0-498e-9fda-8476d9fccdd0",},
+    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"458b1bba-8301-4b55-bac1-3b24030a076d",},
+    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"56173a85-cef1-41ce-9e60-62555194b0de",},
+    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"dea50e1f-934f-43cc-8fb1-4a098296eed8",},
+    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"a278e890-e1d5-4183-9eb3-153cda31ae6c",},
+    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"a980cfdf-21c7-458b-ba3d-864bc41565f6",},
   ],
   "sequence": {
-    "spriteId": {"name":"bg_cottonpark3","path":"sprites/bg_cottonpark3/bg_cottonpark3.yy",},
+    "resourceType": "GMSequence",
+    "resourceVersion": "1.4",
+    "name": "bg_cottonpark3",
     "timeUnits": 1,
     "playback": 1,
     "playbackSpeed": 0.35,
@@ -94,7 +64,7 @@
     "events": {"Keyframes":[],"resourceVersion":"1.0","resourceType":"KeyframeStore<MessageEventKeyframe>",},
     "moments": {"Keyframes":[],"resourceVersion":"1.0","resourceType":"KeyframeStore<MomentsEventKeyframe>",},
     "tracks": [
-      {"name":"frames","spriteId":null,"keyframes":{"Keyframes":[
+      {"resourceType":"GMSpriteFramesTrack","resourceVersion":"1.0","name":"frames","spriteId":null,"keyframes":{"Keyframes":[
             {"id":"e8307542-e403-4ee2-b2e4-b737e2545151","Key":0.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"310f225e-3ed8-4a06-bb2e-8f668ed048b0","path":"sprites/bg_cottonpark3/bg_cottonpark3.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
             {"id":"3d81fcd4-7494-4e3e-8a60-10b6f354f9be","Key":1.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"a82bbd04-4016-4fe8-aee6-7c35b1a45f1e","path":"sprites/bg_cottonpark3/bg_cottonpark3.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
             {"id":"6e03c2e7-87ed-4b87-a285-f57f1c5cc1ef","Key":2.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"9ba29346-70ea-424c-a5ff-7085cbca3a8b","path":"sprites/bg_cottonpark3/bg_cottonpark3.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
@@ -113,7 +83,7 @@
             {"id":"daec478c-d0a7-4017-b9d0-59514646e602","Key":15.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"dea50e1f-934f-43cc-8fb1-4a098296eed8","path":"sprites/bg_cottonpark3/bg_cottonpark3.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
             {"id":"b3bbfbc8-e72d-4562-9f24-ca9d48cb1c4e","Key":16.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"a278e890-e1d5-4183-9eb3-153cda31ae6c","path":"sprites/bg_cottonpark3/bg_cottonpark3.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
             {"id":"473ffd89-0d46-4c61-9744-f7988b2c9a38","Key":17.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"a980cfdf-21c7-458b-ba3d-864bc41565f6","path":"sprites/bg_cottonpark3/bg_cottonpark3.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
-          ],"resourceVersion":"1.0","resourceType":"KeyframeStore<SpriteFrameKeyframe>",},"trackColour":0,"inheritsTrackColour":true,"builtinName":0,"traits":0,"interpolation":1,"tracks":[],"events":[],"isCreationTrack":false,"resourceVersion":"1.0","tags":[],"resourceType":"GMSpriteFramesTrack","modifiers":[],},
+          ],"resourceVersion":"1.0","resourceType":"KeyframeStore<SpriteFrameKeyframe>",},"trackColour":0,"inheritsTrackColour":true,"builtinName":0,"traits":0,"interpolation":1,"tracks":[],"events":[],"isCreationTrack":false,"modifiers":[],},
     ],
     "visibleRange": null,
     "lockOrigin": false,
@@ -129,22 +99,13 @@
     "yorigin": 0,
     "eventToFunction": {},
     "eventStubScript": null,
-    "parent": {"name":"bg_cottonpark3","path":"sprites/bg_cottonpark3/bg_cottonpark3.yy",},
-    "resourceVersion": "1.4",
-    "name": "bg_cottonpark3",
-    "tags": [],
-    "resourceType": "GMSequence",
   },
   "layers": [
-    {"visible":true,"isLocked":false,"blendMode":0,"opacity":100.0,"displayName":"default","resourceVersion":"1.0","name":"76c13426-714b-4074-acd6-0925feb0308c","tags":[],"resourceType":"GMImageLayer",},
+    {"resourceType":"GMImageLayer","resourceVersion":"1.0","name":"76c13426-714b-4074-acd6-0925feb0308c","visible":true,"isLocked":false,"blendMode":0,"opacity":100.0,"displayName":"default",},
   ],
   "nineSlice": null,
   "parent": {
     "name": "cotton",
     "path": "folders/Sprites/SUGARY SPIRE/tilesets/cotton.yy",
   },
-  "resourceVersion": "1.0",
-  "name": "bg_cottonpark3",
-  "tags": [],
-  "resourceType": "GMSprite",
 }

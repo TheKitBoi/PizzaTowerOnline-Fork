@@ -1,4 +1,7 @@
 {
+  "resourceType": "GMSprite",
+  "resourceVersion": "1.0",
+  "name": "spr_pepperman_fall",
   "bboxMode": 0,
   "collisionKind": 1,
   "type": 0,
@@ -14,6 +17,7 @@
   "HTile": false,
   "VTile": false,
   "For3D": false,
+  "DynamicTexturePage": false,
   "width": 158,
   "height": 137,
   "textureGroupId": {
@@ -24,18 +28,14 @@
   "gridX": 0,
   "gridY": 0,
   "frames": [
-    {"compositeImage":{"FrameId":{"name":"bc711902-f12c-4feb-ae62-c247a5c5148d","path":"sprites/spr_pepperman_fall/spr_pepperman_fall.yy",},"LayerId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"bc711902-f12c-4feb-ae62-c247a5c5148d","path":"sprites/spr_pepperman_fall/spr_pepperman_fall.yy",},"LayerId":{"name":"16c133e0-43d3-431b-a998-11292a42292e","path":"sprites/spr_pepperman_fall/spr_pepperman_fall.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-      ],"parent":{"name":"spr_pepperman_fall","path":"sprites/spr_pepperman_fall/spr_pepperman_fall.yy",},"resourceVersion":"1.0","name":"bc711902-f12c-4feb-ae62-c247a5c5148d","tags":[],"resourceType":"GMSpriteFrame",},
-    {"compositeImage":{"FrameId":{"name":"1e4beae4-b317-43cf-a039-98f2c216db0b","path":"sprites/spr_pepperman_fall/spr_pepperman_fall.yy",},"LayerId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"1e4beae4-b317-43cf-a039-98f2c216db0b","path":"sprites/spr_pepperman_fall/spr_pepperman_fall.yy",},"LayerId":{"name":"16c133e0-43d3-431b-a998-11292a42292e","path":"sprites/spr_pepperman_fall/spr_pepperman_fall.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-      ],"parent":{"name":"spr_pepperman_fall","path":"sprites/spr_pepperman_fall/spr_pepperman_fall.yy",},"resourceVersion":"1.0","name":"1e4beae4-b317-43cf-a039-98f2c216db0b","tags":[],"resourceType":"GMSpriteFrame",},
-    {"compositeImage":{"FrameId":{"name":"3b30201e-34ff-4906-a473-7a45f78c7b1d","path":"sprites/spr_pepperman_fall/spr_pepperman_fall.yy",},"LayerId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"3b30201e-34ff-4906-a473-7a45f78c7b1d","path":"sprites/spr_pepperman_fall/spr_pepperman_fall.yy",},"LayerId":{"name":"16c133e0-43d3-431b-a998-11292a42292e","path":"sprites/spr_pepperman_fall/spr_pepperman_fall.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-      ],"parent":{"name":"spr_pepperman_fall","path":"sprites/spr_pepperman_fall/spr_pepperman_fall.yy",},"resourceVersion":"1.0","name":"3b30201e-34ff-4906-a473-7a45f78c7b1d","tags":[],"resourceType":"GMSpriteFrame",},
+    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"bc711902-f12c-4feb-ae62-c247a5c5148d",},
+    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"1e4beae4-b317-43cf-a039-98f2c216db0b",},
+    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"3b30201e-34ff-4906-a473-7a45f78c7b1d",},
   ],
   "sequence": {
-    "spriteId": {"name":"spr_pepperman_fall","path":"sprites/spr_pepperman_fall/spr_pepperman_fall.yy",},
+    "resourceType": "GMSequence",
+    "resourceVersion": "1.4",
+    "name": "spr_pepperman_fall",
     "timeUnits": 1,
     "playback": 1,
     "playbackSpeed": 1.0,
@@ -46,11 +46,11 @@
     "events": {"Keyframes":[],"resourceVersion":"1.0","resourceType":"KeyframeStore<MessageEventKeyframe>",},
     "moments": {"Keyframes":[],"resourceVersion":"1.0","resourceType":"KeyframeStore<MomentsEventKeyframe>",},
     "tracks": [
-      {"name":"frames","spriteId":null,"keyframes":{"Keyframes":[
+      {"resourceType":"GMSpriteFramesTrack","resourceVersion":"1.0","name":"frames","spriteId":null,"keyframes":{"Keyframes":[
             {"id":"9e31d6b7-b622-4b35-bf5e-3024a8a98b17","Key":0.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"bc711902-f12c-4feb-ae62-c247a5c5148d","path":"sprites/spr_pepperman_fall/spr_pepperman_fall.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
             {"id":"8a857adb-a678-4021-afb2-02b71d4a9b45","Key":1.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"1e4beae4-b317-43cf-a039-98f2c216db0b","path":"sprites/spr_pepperman_fall/spr_pepperman_fall.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
             {"id":"8b544e77-f84f-4c67-93f1-bf945dc399ab","Key":2.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"3b30201e-34ff-4906-a473-7a45f78c7b1d","path":"sprites/spr_pepperman_fall/spr_pepperman_fall.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
-          ],"resourceVersion":"1.0","resourceType":"KeyframeStore<SpriteFrameKeyframe>",},"trackColour":0,"inheritsTrackColour":true,"builtinName":0,"traits":0,"interpolation":1,"tracks":[],"events":[],"isCreationTrack":false,"resourceVersion":"1.0","tags":[],"resourceType":"GMSpriteFramesTrack","modifiers":[],},
+          ],"resourceVersion":"1.0","resourceType":"KeyframeStore<SpriteFrameKeyframe>",},"trackColour":0,"inheritsTrackColour":true,"builtinName":0,"traits":0,"interpolation":1,"tracks":[],"events":[],"isCreationTrack":false,"modifiers":[],},
     ],
     "visibleRange": null,
     "lockOrigin": false,
@@ -66,22 +66,13 @@
     "yorigin": 87,
     "eventToFunction": {},
     "eventStubScript": null,
-    "parent": {"name":"spr_pepperman_fall","path":"sprites/spr_pepperman_fall/spr_pepperman_fall.yy",},
-    "resourceVersion": "1.4",
-    "name": "spr_pepperman_fall",
-    "tags": [],
-    "resourceType": "GMSequence",
   },
   "layers": [
-    {"visible":true,"isLocked":false,"blendMode":0,"opacity":100.0,"displayName":"default","resourceVersion":"1.0","name":"16c133e0-43d3-431b-a998-11292a42292e","tags":[],"resourceType":"GMImageLayer",},
+    {"resourceType":"GMImageLayer","resourceVersion":"1.0","name":"16c133e0-43d3-431b-a998-11292a42292e","visible":true,"isLocked":false,"blendMode":0,"opacity":100.0,"displayName":"default",},
   ],
   "nineSlice": null,
   "parent": {
     "name": "new_pepperman",
     "path": "folders/Sprites/boss/new_pepperman.yy",
   },
-  "resourceVersion": "1.0",
-  "name": "spr_pepperman_fall",
-  "tags": [],
-  "resourceType": "GMSprite",
 }

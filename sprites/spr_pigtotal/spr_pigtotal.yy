@@ -1,4 +1,7 @@
 {
+  "resourceType": "GMSprite",
+  "resourceVersion": "1.0",
+  "name": "spr_pigtotal",
   "ConfigValues": {
     "debug": {"textureGroupId":"{\"name\":\"tg_hud\",\"path\":\"texturegroups/tg_hud\"}",},
   },
@@ -17,6 +20,7 @@
   "HTile": false,
   "VTile": false,
   "For3D": false,
+  "DynamicTexturePage": false,
   "width": 229,
   "height": 190,
   "textureGroupId": {
@@ -27,18 +31,14 @@
   "gridX": 0,
   "gridY": 0,
   "frames": [
-    {"compositeImage":{"FrameId":{"name":"e47daf0f-df9d-4e26-a368-e2422c0de25a","path":"sprites/spr_pigtotal/spr_pigtotal.yy",},"LayerId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"e47daf0f-df9d-4e26-a368-e2422c0de25a","path":"sprites/spr_pigtotal/spr_pigtotal.yy",},"LayerId":{"name":"66a62c1b-5285-436b-92d4-a1a3a65b1c41","path":"sprites/spr_pigtotal/spr_pigtotal.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-      ],"parent":{"name":"spr_pigtotal","path":"sprites/spr_pigtotal/spr_pigtotal.yy",},"resourceVersion":"1.0","name":"e47daf0f-df9d-4e26-a368-e2422c0de25a","tags":[],"resourceType":"GMSpriteFrame",},
-    {"compositeImage":{"FrameId":{"name":"c00ee784-4868-46f1-8146-f1171e079293","path":"sprites/spr_pigtotal/spr_pigtotal.yy",},"LayerId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"c00ee784-4868-46f1-8146-f1171e079293","path":"sprites/spr_pigtotal/spr_pigtotal.yy",},"LayerId":{"name":"66a62c1b-5285-436b-92d4-a1a3a65b1c41","path":"sprites/spr_pigtotal/spr_pigtotal.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-      ],"parent":{"name":"spr_pigtotal","path":"sprites/spr_pigtotal/spr_pigtotal.yy",},"resourceVersion":"1.0","name":"c00ee784-4868-46f1-8146-f1171e079293","tags":[],"resourceType":"GMSpriteFrame",},
-    {"compositeImage":{"FrameId":{"name":"286b2fb7-4c4f-427f-897c-fd505a8e25dc","path":"sprites/spr_pigtotal/spr_pigtotal.yy",},"LayerId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"286b2fb7-4c4f-427f-897c-fd505a8e25dc","path":"sprites/spr_pigtotal/spr_pigtotal.yy",},"LayerId":{"name":"66a62c1b-5285-436b-92d4-a1a3a65b1c41","path":"sprites/spr_pigtotal/spr_pigtotal.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-      ],"parent":{"name":"spr_pigtotal","path":"sprites/spr_pigtotal/spr_pigtotal.yy",},"resourceVersion":"1.0","name":"286b2fb7-4c4f-427f-897c-fd505a8e25dc","tags":[],"resourceType":"GMSpriteFrame",},
+    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"e47daf0f-df9d-4e26-a368-e2422c0de25a",},
+    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"c00ee784-4868-46f1-8146-f1171e079293",},
+    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"286b2fb7-4c4f-427f-897c-fd505a8e25dc",},
   ],
   "sequence": {
-    "spriteId": {"name":"spr_pigtotal","path":"sprites/spr_pigtotal/spr_pigtotal.yy",},
+    "resourceType": "GMSequence",
+    "resourceVersion": "1.4",
+    "name": "spr_pigtotal",
     "timeUnits": 1,
     "playback": 1,
     "playbackSpeed": 0.1,
@@ -49,11 +49,11 @@
     "events": {"Keyframes":[],"resourceVersion":"1.0","resourceType":"KeyframeStore<MessageEventKeyframe>",},
     "moments": {"Keyframes":[],"resourceVersion":"1.0","resourceType":"KeyframeStore<MomentsEventKeyframe>",},
     "tracks": [
-      {"name":"frames","spriteId":null,"keyframes":{"Keyframes":[
+      {"resourceType":"GMSpriteFramesTrack","resourceVersion":"1.0","name":"frames","spriteId":null,"keyframes":{"Keyframes":[
             {"id":"322020e0-85fa-434f-b815-4807513a665f","Key":0.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"e47daf0f-df9d-4e26-a368-e2422c0de25a","path":"sprites/spr_pigtotal/spr_pigtotal.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
             {"id":"2bf99499-c460-4776-af85-fb39b1ac1959","Key":1.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"c00ee784-4868-46f1-8146-f1171e079293","path":"sprites/spr_pigtotal/spr_pigtotal.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
             {"id":"a5b99b25-70a9-48d2-9abb-37a2c0da2f34","Key":2.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"286b2fb7-4c4f-427f-897c-fd505a8e25dc","path":"sprites/spr_pigtotal/spr_pigtotal.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
-          ],"resourceVersion":"1.0","resourceType":"KeyframeStore<SpriteFrameKeyframe>",},"trackColour":0,"inheritsTrackColour":true,"builtinName":0,"traits":0,"interpolation":1,"tracks":[],"events":[],"isCreationTrack":false,"resourceVersion":"1.0","tags":[],"resourceType":"GMSpriteFramesTrack","modifiers":[],},
+          ],"resourceVersion":"1.0","resourceType":"KeyframeStore<SpriteFrameKeyframe>",},"trackColour":0,"inheritsTrackColour":true,"builtinName":0,"traits":0,"interpolation":1,"tracks":[],"events":[],"isCreationTrack":false,"modifiers":[],},
     ],
     "visibleRange": null,
     "lockOrigin": false,
@@ -69,22 +69,13 @@
     "yorigin": 95,
     "eventToFunction": {},
     "eventStubScript": null,
-    "parent": {"name":"spr_pigtotal","path":"sprites/spr_pigtotal/spr_pigtotal.yy",},
-    "resourceVersion": "1.4",
-    "name": "spr_pigtotal",
-    "tags": [],
-    "resourceType": "GMSequence",
   },
   "layers": [
-    {"visible":true,"isLocked":false,"blendMode":0,"opacity":100.0,"displayName":"default","resourceVersion":"1.0","name":"66a62c1b-5285-436b-92d4-a1a3a65b1c41","tags":[],"resourceType":"GMImageLayer",},
+    {"resourceType":"GMImageLayer","resourceVersion":"1.0","name":"66a62c1b-5285-436b-92d4-a1a3a65b1c41","visible":true,"isLocked":false,"blendMode":0,"opacity":100.0,"displayName":"default",},
   ],
   "nineSlice": null,
   "parent": {
     "name": "HUD",
     "path": "folders/Sprites/HUD.yy",
   },
-  "resourceVersion": "1.0",
-  "name": "spr_pigtotal",
-  "tags": [],
-  "resourceType": "GMSprite",
 }

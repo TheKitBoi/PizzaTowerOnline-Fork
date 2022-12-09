@@ -1,4 +1,7 @@
 {
+  "resourceType": "GMSprite",
+  "resourceVersion": "1.0",
+  "name": "spr_danceroom_amogus1",
   "ConfigValues": {
     "debug": {"textureGroupId":"{\"name\":\"tg_danceroom\",\"path\":\"texturegroups/tg_danceroom\"}",},
   },
@@ -17,6 +20,7 @@
   "HTile": false,
   "VTile": false,
   "For3D": false,
+  "DynamicTexturePage": false,
   "width": 100,
   "height": 100,
   "textureGroupId": {
@@ -27,12 +31,12 @@
   "gridX": 0,
   "gridY": 0,
   "frames": [
-    {"compositeImage":{"FrameId":{"name":"bfce0f2d-fd1d-4c3b-b5d4-5a5372475dbd","path":"sprites/spr_danceroom_amogus1/spr_danceroom_amogus1.yy",},"LayerId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"bfce0f2d-fd1d-4c3b-b5d4-5a5372475dbd","path":"sprites/spr_danceroom_amogus1/spr_danceroom_amogus1.yy",},"LayerId":{"name":"ee96a471-9e99-4f5d-83f9-cb5c5fac55ea","path":"sprites/spr_danceroom_amogus1/spr_danceroom_amogus1.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-      ],"parent":{"name":"spr_danceroom_amogus1","path":"sprites/spr_danceroom_amogus1/spr_danceroom_amogus1.yy",},"resourceVersion":"1.0","name":"bfce0f2d-fd1d-4c3b-b5d4-5a5372475dbd","tags":[],"resourceType":"GMSpriteFrame",},
+    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"bfce0f2d-fd1d-4c3b-b5d4-5a5372475dbd",},
   ],
   "sequence": {
-    "spriteId": {"name":"spr_danceroom_amogus1","path":"sprites/spr_danceroom_amogus1/spr_danceroom_amogus1.yy",},
+    "resourceType": "GMSequence",
+    "resourceVersion": "1.4",
+    "name": "spr_danceroom_amogus1",
     "timeUnits": 1,
     "playback": 1,
     "playbackSpeed": 50.0,
@@ -43,9 +47,9 @@
     "events": {"Keyframes":[],"resourceVersion":"1.0","resourceType":"KeyframeStore<MessageEventKeyframe>",},
     "moments": {"Keyframes":[],"resourceVersion":"1.0","resourceType":"KeyframeStore<MomentsEventKeyframe>",},
     "tracks": [
-      {"name":"frames","spriteId":null,"keyframes":{"Keyframes":[
+      {"resourceType":"GMSpriteFramesTrack","resourceVersion":"1.0","name":"frames","spriteId":null,"keyframes":{"Keyframes":[
             {"id":"077dbdb0-ef69-4e9a-b10f-c310cca8d420","Key":0.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"bfce0f2d-fd1d-4c3b-b5d4-5a5372475dbd","path":"sprites/spr_danceroom_amogus1/spr_danceroom_amogus1.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
-          ],"resourceVersion":"1.0","resourceType":"KeyframeStore<SpriteFrameKeyframe>",},"trackColour":0,"inheritsTrackColour":true,"builtinName":0,"traits":0,"interpolation":1,"tracks":[],"events":[],"isCreationTrack":false,"resourceVersion":"1.0","tags":[],"resourceType":"GMSpriteFramesTrack","modifiers":[],},
+          ],"resourceVersion":"1.0","resourceType":"KeyframeStore<SpriteFrameKeyframe>",},"trackColour":0,"inheritsTrackColour":true,"builtinName":0,"traits":0,"interpolation":1,"tracks":[],"events":[],"isCreationTrack":false,"modifiers":[],},
     ],
     "visibleRange": null,
     "lockOrigin": false,
@@ -61,22 +65,13 @@
     "yorigin": 48,
     "eventToFunction": {},
     "eventStubScript": null,
-    "parent": {"name":"spr_danceroom_amogus1","path":"sprites/spr_danceroom_amogus1/spr_danceroom_amogus1.yy",},
-    "resourceVersion": "1.4",
-    "name": "spr_danceroom_amogus1",
-    "tags": [],
-    "resourceType": "GMSequence",
   },
   "layers": [
-    {"visible":true,"isLocked":false,"blendMode":0,"opacity":100.0,"displayName":"default","resourceVersion":"1.0","name":"ee96a471-9e99-4f5d-83f9-cb5c5fac55ea","tags":[],"resourceType":"GMImageLayer",},
+    {"resourceType":"GMImageLayer","resourceVersion":"1.0","name":"ee96a471-9e99-4f5d-83f9-cb5c5fac55ea","visible":true,"isLocked":false,"blendMode":0,"opacity":100.0,"displayName":"default",},
   ],
   "nineSlice": null,
   "parent": {
     "name": "dance room",
     "path": "folders/Sprites/PTO extra/dance room.yy",
   },
-  "resourceVersion": "1.0",
-  "name": "spr_danceroom_amogus1",
-  "tags": [],
-  "resourceType": "GMSprite",
 }

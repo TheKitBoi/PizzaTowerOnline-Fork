@@ -19,4 +19,3 @@ if room != editor_entrance && room != custom_lvl_room && room != rank_room && ro
 	instance_destroy();
 if (room == rank_room or room == timesuproom) && menu != -1
 	instance_destroy();
-

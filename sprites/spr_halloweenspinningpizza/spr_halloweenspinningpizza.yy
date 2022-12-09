@@ -1,4 +1,7 @@
 {
+  "resourceType": "GMSprite",
+  "resourceVersion": "1.0",
+  "name": "spr_halloweenspinningpizza",
   "bboxMode": 0,
   "collisionKind": 1,
   "type": 0,
@@ -14,6 +17,7 @@
   "HTile": false,
   "VTile": false,
   "For3D": false,
+  "DynamicTexturePage": false,
   "width": 32,
   "height": 64,
   "textureGroupId": {
@@ -24,57 +28,27 @@
   "gridX": 0,
   "gridY": 0,
   "frames": [
-    {"compositeImage":{"FrameId":{"name":"8eb93fe5-edf2-4e0d-8c1e-0dba11e7bb27","path":"sprites/spr_halloweenspinningpizza/spr_halloweenspinningpizza.yy",},"LayerId":null,"resourceVersion":"1.0","name":"composite","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"8eb93fe5-edf2-4e0d-8c1e-0dba11e7bb27","path":"sprites/spr_halloweenspinningpizza/spr_halloweenspinningpizza.yy",},"LayerId":{"name":"10a58d32-5980-4e16-b0c6-9d17b23e523f","path":"sprites/spr_halloweenspinningpizza/spr_halloweenspinningpizza.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-      ],"parent":{"name":"spr_halloweenspinningpizza","path":"sprites/spr_halloweenspinningpizza/spr_halloweenspinningpizza.yy",},"resourceVersion":"1.0","name":"8eb93fe5-edf2-4e0d-8c1e-0dba11e7bb27","tags":[],"resourceType":"GMSpriteFrame",},
-    {"compositeImage":{"FrameId":{"name":"ffeb6ed6-cdfe-4e09-9075-7d30fff3bfa2","path":"sprites/spr_halloweenspinningpizza/spr_halloweenspinningpizza.yy",},"LayerId":null,"resourceVersion":"1.0","name":"composite","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"ffeb6ed6-cdfe-4e09-9075-7d30fff3bfa2","path":"sprites/spr_halloweenspinningpizza/spr_halloweenspinningpizza.yy",},"LayerId":{"name":"10a58d32-5980-4e16-b0c6-9d17b23e523f","path":"sprites/spr_halloweenspinningpizza/spr_halloweenspinningpizza.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-      ],"parent":{"name":"spr_halloweenspinningpizza","path":"sprites/spr_halloweenspinningpizza/spr_halloweenspinningpizza.yy",},"resourceVersion":"1.0","name":"ffeb6ed6-cdfe-4e09-9075-7d30fff3bfa2","tags":[],"resourceType":"GMSpriteFrame",},
-    {"compositeImage":{"FrameId":{"name":"644f6389-8cbf-4394-bba3-c319dff2d68b","path":"sprites/spr_halloweenspinningpizza/spr_halloweenspinningpizza.yy",},"LayerId":null,"resourceVersion":"1.0","name":"composite","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"644f6389-8cbf-4394-bba3-c319dff2d68b","path":"sprites/spr_halloweenspinningpizza/spr_halloweenspinningpizza.yy",},"LayerId":{"name":"10a58d32-5980-4e16-b0c6-9d17b23e523f","path":"sprites/spr_halloweenspinningpizza/spr_halloweenspinningpizza.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-      ],"parent":{"name":"spr_halloweenspinningpizza","path":"sprites/spr_halloweenspinningpizza/spr_halloweenspinningpizza.yy",},"resourceVersion":"1.0","name":"644f6389-8cbf-4394-bba3-c319dff2d68b","tags":[],"resourceType":"GMSpriteFrame",},
-    {"compositeImage":{"FrameId":{"name":"b89b16e3-5e04-4139-aa7b-12d0d6c9dcde","path":"sprites/spr_halloweenspinningpizza/spr_halloweenspinningpizza.yy",},"LayerId":null,"resourceVersion":"1.0","name":"composite","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"b89b16e3-5e04-4139-aa7b-12d0d6c9dcde","path":"sprites/spr_halloweenspinningpizza/spr_halloweenspinningpizza.yy",},"LayerId":{"name":"10a58d32-5980-4e16-b0c6-9d17b23e523f","path":"sprites/spr_halloweenspinningpizza/spr_halloweenspinningpizza.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-      ],"parent":{"name":"spr_halloweenspinningpizza","path":"sprites/spr_halloweenspinningpizza/spr_halloweenspinningpizza.yy",},"resourceVersion":"1.0","name":"b89b16e3-5e04-4139-aa7b-12d0d6c9dcde","tags":[],"resourceType":"GMSpriteFrame",},
-    {"compositeImage":{"FrameId":{"name":"c1d840e1-d5c9-4309-a83a-5cee658a7d74","path":"sprites/spr_halloweenspinningpizza/spr_halloweenspinningpizza.yy",},"LayerId":null,"resourceVersion":"1.0","name":"composite","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"c1d840e1-d5c9-4309-a83a-5cee658a7d74","path":"sprites/spr_halloweenspinningpizza/spr_halloweenspinningpizza.yy",},"LayerId":{"name":"10a58d32-5980-4e16-b0c6-9d17b23e523f","path":"sprites/spr_halloweenspinningpizza/spr_halloweenspinningpizza.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-      ],"parent":{"name":"spr_halloweenspinningpizza","path":"sprites/spr_halloweenspinningpizza/spr_halloweenspinningpizza.yy",},"resourceVersion":"1.0","name":"c1d840e1-d5c9-4309-a83a-5cee658a7d74","tags":[],"resourceType":"GMSpriteFrame",},
-    {"compositeImage":{"FrameId":{"name":"695f20be-8a94-402f-8667-90d58e3bc988","path":"sprites/spr_halloweenspinningpizza/spr_halloweenspinningpizza.yy",},"LayerId":null,"resourceVersion":"1.0","name":"composite","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"695f20be-8a94-402f-8667-90d58e3bc988","path":"sprites/spr_halloweenspinningpizza/spr_halloweenspinningpizza.yy",},"LayerId":{"name":"10a58d32-5980-4e16-b0c6-9d17b23e523f","path":"sprites/spr_halloweenspinningpizza/spr_halloweenspinningpizza.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-      ],"parent":{"name":"spr_halloweenspinningpizza","path":"sprites/spr_halloweenspinningpizza/spr_halloweenspinningpizza.yy",},"resourceVersion":"1.0","name":"695f20be-8a94-402f-8667-90d58e3bc988","tags":[],"resourceType":"GMSpriteFrame",},
-    {"compositeImage":{"FrameId":{"name":"24d65dfb-6ec4-48d9-8808-57e914225e06","path":"sprites/spr_halloweenspinningpizza/spr_halloweenspinningpizza.yy",},"LayerId":null,"resourceVersion":"1.0","name":"composite","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"24d65dfb-6ec4-48d9-8808-57e914225e06","path":"sprites/spr_halloweenspinningpizza/spr_halloweenspinningpizza.yy",},"LayerId":{"name":"10a58d32-5980-4e16-b0c6-9d17b23e523f","path":"sprites/spr_halloweenspinningpizza/spr_halloweenspinningpizza.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-      ],"parent":{"name":"spr_halloweenspinningpizza","path":"sprites/spr_halloweenspinningpizza/spr_halloweenspinningpizza.yy",},"resourceVersion":"1.0","name":"24d65dfb-6ec4-48d9-8808-57e914225e06","tags":[],"resourceType":"GMSpriteFrame",},
-    {"compositeImage":{"FrameId":{"name":"914a0ad3-3305-4819-9da9-998a141fd4af","path":"sprites/spr_halloweenspinningpizza/spr_halloweenspinningpizza.yy",},"LayerId":null,"resourceVersion":"1.0","name":"composite","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"914a0ad3-3305-4819-9da9-998a141fd4af","path":"sprites/spr_halloweenspinningpizza/spr_halloweenspinningpizza.yy",},"LayerId":{"name":"10a58d32-5980-4e16-b0c6-9d17b23e523f","path":"sprites/spr_halloweenspinningpizza/spr_halloweenspinningpizza.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-      ],"parent":{"name":"spr_halloweenspinningpizza","path":"sprites/spr_halloweenspinningpizza/spr_halloweenspinningpizza.yy",},"resourceVersion":"1.0","name":"914a0ad3-3305-4819-9da9-998a141fd4af","tags":[],"resourceType":"GMSpriteFrame",},
-    {"compositeImage":{"FrameId":{"name":"f4cfaf39-26b9-4eee-9deb-96329d91f0aa","path":"sprites/spr_halloweenspinningpizza/spr_halloweenspinningpizza.yy",},"LayerId":null,"resourceVersion":"1.0","name":"composite","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"f4cfaf39-26b9-4eee-9deb-96329d91f0aa","path":"sprites/spr_halloweenspinningpizza/spr_halloweenspinningpizza.yy",},"LayerId":{"name":"10a58d32-5980-4e16-b0c6-9d17b23e523f","path":"sprites/spr_halloweenspinningpizza/spr_halloweenspinningpizza.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-      ],"parent":{"name":"spr_halloweenspinningpizza","path":"sprites/spr_halloweenspinningpizza/spr_halloweenspinningpizza.yy",},"resourceVersion":"1.0","name":"f4cfaf39-26b9-4eee-9deb-96329d91f0aa","tags":[],"resourceType":"GMSpriteFrame",},
-    {"compositeImage":{"FrameId":{"name":"59b0081d-ea2f-4aca-8e46-0981596145df","path":"sprites/spr_halloweenspinningpizza/spr_halloweenspinningpizza.yy",},"LayerId":null,"resourceVersion":"1.0","name":"composite","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"59b0081d-ea2f-4aca-8e46-0981596145df","path":"sprites/spr_halloweenspinningpizza/spr_halloweenspinningpizza.yy",},"LayerId":{"name":"10a58d32-5980-4e16-b0c6-9d17b23e523f","path":"sprites/spr_halloweenspinningpizza/spr_halloweenspinningpizza.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-      ],"parent":{"name":"spr_halloweenspinningpizza","path":"sprites/spr_halloweenspinningpizza/spr_halloweenspinningpizza.yy",},"resourceVersion":"1.0","name":"59b0081d-ea2f-4aca-8e46-0981596145df","tags":[],"resourceType":"GMSpriteFrame",},
-    {"compositeImage":{"FrameId":{"name":"a6c4eb1f-ba82-453f-a3f1-d3f004c3c6d9","path":"sprites/spr_halloweenspinningpizza/spr_halloweenspinningpizza.yy",},"LayerId":null,"resourceVersion":"1.0","name":"composite","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"a6c4eb1f-ba82-453f-a3f1-d3f004c3c6d9","path":"sprites/spr_halloweenspinningpizza/spr_halloweenspinningpizza.yy",},"LayerId":{"name":"10a58d32-5980-4e16-b0c6-9d17b23e523f","path":"sprites/spr_halloweenspinningpizza/spr_halloweenspinningpizza.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-      ],"parent":{"name":"spr_halloweenspinningpizza","path":"sprites/spr_halloweenspinningpizza/spr_halloweenspinningpizza.yy",},"resourceVersion":"1.0","name":"a6c4eb1f-ba82-453f-a3f1-d3f004c3c6d9","tags":[],"resourceType":"GMSpriteFrame",},
-    {"compositeImage":{"FrameId":{"name":"a3d3ebfc-7132-4444-a735-489e8a1e1cc9","path":"sprites/spr_halloweenspinningpizza/spr_halloweenspinningpizza.yy",},"LayerId":null,"resourceVersion":"1.0","name":"composite","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"a3d3ebfc-7132-4444-a735-489e8a1e1cc9","path":"sprites/spr_halloweenspinningpizza/spr_halloweenspinningpizza.yy",},"LayerId":{"name":"10a58d32-5980-4e16-b0c6-9d17b23e523f","path":"sprites/spr_halloweenspinningpizza/spr_halloweenspinningpizza.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-      ],"parent":{"name":"spr_halloweenspinningpizza","path":"sprites/spr_halloweenspinningpizza/spr_halloweenspinningpizza.yy",},"resourceVersion":"1.0","name":"a3d3ebfc-7132-4444-a735-489e8a1e1cc9","tags":[],"resourceType":"GMSpriteFrame",},
-    {"compositeImage":{"FrameId":{"name":"58fd3c6d-ca47-4679-8a0e-f02483d0af69","path":"sprites/spr_halloweenspinningpizza/spr_halloweenspinningpizza.yy",},"LayerId":null,"resourceVersion":"1.0","name":"composite","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"58fd3c6d-ca47-4679-8a0e-f02483d0af69","path":"sprites/spr_halloweenspinningpizza/spr_halloweenspinningpizza.yy",},"LayerId":{"name":"10a58d32-5980-4e16-b0c6-9d17b23e523f","path":"sprites/spr_halloweenspinningpizza/spr_halloweenspinningpizza.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-      ],"parent":{"name":"spr_halloweenspinningpizza","path":"sprites/spr_halloweenspinningpizza/spr_halloweenspinningpizza.yy",},"resourceVersion":"1.0","name":"58fd3c6d-ca47-4679-8a0e-f02483d0af69","tags":[],"resourceType":"GMSpriteFrame",},
-    {"compositeImage":{"FrameId":{"name":"dcb69ce9-bc91-4724-a928-6a8c20e4ec1f","path":"sprites/spr_halloweenspinningpizza/spr_halloweenspinningpizza.yy",},"LayerId":null,"resourceVersion":"1.0","name":"composite","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"dcb69ce9-bc91-4724-a928-6a8c20e4ec1f","path":"sprites/spr_halloweenspinningpizza/spr_halloweenspinningpizza.yy",},"LayerId":{"name":"10a58d32-5980-4e16-b0c6-9d17b23e523f","path":"sprites/spr_halloweenspinningpizza/spr_halloweenspinningpizza.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-      ],"parent":{"name":"spr_halloweenspinningpizza","path":"sprites/spr_halloweenspinningpizza/spr_halloweenspinningpizza.yy",},"resourceVersion":"1.0","name":"dcb69ce9-bc91-4724-a928-6a8c20e4ec1f","tags":[],"resourceType":"GMSpriteFrame",},
-    {"compositeImage":{"FrameId":{"name":"08dcd25c-1b39-4f68-b9a1-56be40321cc1","path":"sprites/spr_halloweenspinningpizza/spr_halloweenspinningpizza.yy",},"LayerId":null,"resourceVersion":"1.0","name":"composite","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"08dcd25c-1b39-4f68-b9a1-56be40321cc1","path":"sprites/spr_halloweenspinningpizza/spr_halloweenspinningpizza.yy",},"LayerId":{"name":"10a58d32-5980-4e16-b0c6-9d17b23e523f","path":"sprites/spr_halloweenspinningpizza/spr_halloweenspinningpizza.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-      ],"parent":{"name":"spr_halloweenspinningpizza","path":"sprites/spr_halloweenspinningpizza/spr_halloweenspinningpizza.yy",},"resourceVersion":"1.0","name":"08dcd25c-1b39-4f68-b9a1-56be40321cc1","tags":[],"resourceType":"GMSpriteFrame",},
-    {"compositeImage":{"FrameId":{"name":"9b24e50a-e410-4410-b574-c1e2bca654eb","path":"sprites/spr_halloweenspinningpizza/spr_halloweenspinningpizza.yy",},"LayerId":null,"resourceVersion":"1.0","name":"composite","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"9b24e50a-e410-4410-b574-c1e2bca654eb","path":"sprites/spr_halloweenspinningpizza/spr_halloweenspinningpizza.yy",},"LayerId":{"name":"10a58d32-5980-4e16-b0c6-9d17b23e523f","path":"sprites/spr_halloweenspinningpizza/spr_halloweenspinningpizza.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-      ],"parent":{"name":"spr_halloweenspinningpizza","path":"sprites/spr_halloweenspinningpizza/spr_halloweenspinningpizza.yy",},"resourceVersion":"1.0","name":"9b24e50a-e410-4410-b574-c1e2bca654eb","tags":[],"resourceType":"GMSpriteFrame",},
+    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"8eb93fe5-edf2-4e0d-8c1e-0dba11e7bb27",},
+    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"ffeb6ed6-cdfe-4e09-9075-7d30fff3bfa2",},
+    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"644f6389-8cbf-4394-bba3-c319dff2d68b",},
+    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"b89b16e3-5e04-4139-aa7b-12d0d6c9dcde",},
+    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"c1d840e1-d5c9-4309-a83a-5cee658a7d74",},
+    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"695f20be-8a94-402f-8667-90d58e3bc988",},
+    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"24d65dfb-6ec4-48d9-8808-57e914225e06",},
+    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"914a0ad3-3305-4819-9da9-998a141fd4af",},
+    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"f4cfaf39-26b9-4eee-9deb-96329d91f0aa",},
+    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"59b0081d-ea2f-4aca-8e46-0981596145df",},
+    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"a6c4eb1f-ba82-453f-a3f1-d3f004c3c6d9",},
+    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"a3d3ebfc-7132-4444-a735-489e8a1e1cc9",},
+    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"58fd3c6d-ca47-4679-8a0e-f02483d0af69",},
+    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"dcb69ce9-bc91-4724-a928-6a8c20e4ec1f",},
+    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"08dcd25c-1b39-4f68-b9a1-56be40321cc1",},
+    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"9b24e50a-e410-4410-b574-c1e2bca654eb",},
   ],
   "sequence": {
-    "spriteId": {"name":"spr_halloweenspinningpizza","path":"sprites/spr_halloweenspinningpizza/spr_halloweenspinningpizza.yy",},
+    "resourceType": "GMSequence",
+    "resourceVersion": "1.4",
+    "name": "",
     "timeUnits": 1,
     "playback": 1,
     "playbackSpeed": 0.35,
@@ -85,7 +59,7 @@
     "events": {"Keyframes":[],"resourceVersion":"1.0","resourceType":"KeyframeStore<MessageEventKeyframe>",},
     "moments": {"Keyframes":[],"resourceVersion":"1.0","resourceType":"KeyframeStore<MomentsEventKeyframe>",},
     "tracks": [
-      {"name":"frames","spriteId":null,"keyframes":{"Keyframes":[
+      {"resourceType":"GMSpriteFramesTrack","resourceVersion":"1.0","name":"frames","spriteId":null,"keyframes":{"Keyframes":[
             {"id":"55254d5c-9576-4646-adf8-a3ef8d9e7907","Key":0.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"8eb93fe5-edf2-4e0d-8c1e-0dba11e7bb27","path":"sprites/spr_halloweenspinningpizza/spr_halloweenspinningpizza.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
             {"id":"e8ca4ca7-9479-4cac-933a-c784ff58bd94","Key":1.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"ffeb6ed6-cdfe-4e09-9075-7d30fff3bfa2","path":"sprites/spr_halloweenspinningpizza/spr_halloweenspinningpizza.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
             {"id":"a0c17830-97e5-40b6-aef4-152b70f5d400","Key":2.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"644f6389-8cbf-4394-bba3-c319dff2d68b","path":"sprites/spr_halloweenspinningpizza/spr_halloweenspinningpizza.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
@@ -102,7 +76,7 @@
             {"id":"c0c40b36-5a2e-430b-9a8f-d4a1cd5cf005","Key":13.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"dcb69ce9-bc91-4724-a928-6a8c20e4ec1f","path":"sprites/spr_halloweenspinningpizza/spr_halloweenspinningpizza.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
             {"id":"76d15ff7-56b4-4847-bac8-1bd21f578f3b","Key":14.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"08dcd25c-1b39-4f68-b9a1-56be40321cc1","path":"sprites/spr_halloweenspinningpizza/spr_halloweenspinningpizza.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
             {"id":"e1f37731-6646-437e-a9b8-eca1be2daabc","Key":15.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"9b24e50a-e410-4410-b574-c1e2bca654eb","path":"sprites/spr_halloweenspinningpizza/spr_halloweenspinningpizza.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
-          ],"resourceVersion":"1.0","resourceType":"KeyframeStore<SpriteFrameKeyframe>",},"trackColour":0,"inheritsTrackColour":true,"builtinName":0,"traits":0,"interpolation":1,"tracks":[],"events":[],"isCreationTrack":false,"resourceVersion":"1.0","tags":[],"resourceType":"GMSpriteFramesTrack","modifiers":[],},
+          ],"resourceVersion":"1.0","resourceType":"KeyframeStore<SpriteFrameKeyframe>",},"trackColour":0,"inheritsTrackColour":true,"builtinName":0,"traits":0,"interpolation":1,"tracks":[],"events":[],"isCreationTrack":false,"modifiers":[],},
     ],
     "visibleRange": null,
     "lockOrigin": false,
@@ -118,22 +92,13 @@
     "yorigin": 32,
     "eventToFunction": {},
     "eventStubScript": null,
-    "parent": {"name":"spr_halloweenspinningpizza","path":"sprites/spr_halloweenspinningpizza/spr_halloweenspinningpizza.yy",},
-    "resourceVersion": "1.4",
-    "name": "",
-    "tags": [],
-    "resourceType": "GMSequence",
   },
   "layers": [
-    {"visible":true,"isLocked":false,"blendMode":0,"opacity":100.0,"displayName":"default","resourceVersion":"1.0","name":"10a58d32-5980-4e16-b0c6-9d17b23e523f","tags":[],"resourceType":"GMImageLayer",},
+    {"resourceType":"GMImageLayer","resourceVersion":"1.0","name":"10a58d32-5980-4e16-b0c6-9d17b23e523f","visible":true,"isLocked":false,"blendMode":0,"opacity":100.0,"displayName":"default",},
   ],
   "nineSlice": null,
   "parent": {
     "name": "HALLOWEEN",
     "path": "folders/Sprites/demo_event/HALLOWEEN.yy",
   },
-  "resourceVersion": "1.0",
-  "name": "spr_halloweenspinningpizza",
-  "tags": [],
-  "resourceType": "GMSprite",
 }

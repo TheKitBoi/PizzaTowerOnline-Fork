@@ -1,4 +1,7 @@
 {
+  "resourceType": "GMSprite",
+  "resourceVersion": "1.0",
+  "name": "spr_gustavopresentdown",
   "bboxMode": 0,
   "collisionKind": 1,
   "type": 0,
@@ -14,6 +17,7 @@
   "HTile": false,
   "VTile": false,
   "For3D": false,
+  "DynamicTexturePage": false,
   "width": 100,
   "height": 100,
   "textureGroupId": {
@@ -24,18 +28,14 @@
   "gridX": 0,
   "gridY": 0,
   "frames": [
-    {"compositeImage":{"FrameId":{"name":"97345851-f78a-4ae5-bff0-483cb8315434","path":"sprites/spr_gustavopresentdown/spr_gustavopresentdown.yy",},"LayerId":null,"resourceVersion":"1.0","name":"composite","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"97345851-f78a-4ae5-bff0-483cb8315434","path":"sprites/spr_gustavopresentdown/spr_gustavopresentdown.yy",},"LayerId":{"name":"0e17d074-e9f9-4912-bb9a-c9d3a4f88297","path":"sprites/spr_gustavopresentdown/spr_gustavopresentdown.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-      ],"parent":{"name":"spr_gustavopresentdown","path":"sprites/spr_gustavopresentdown/spr_gustavopresentdown.yy",},"resourceVersion":"1.0","name":"97345851-f78a-4ae5-bff0-483cb8315434","tags":[],"resourceType":"GMSpriteFrame",},
-    {"compositeImage":{"FrameId":{"name":"a072de9b-a66a-4ab3-b20d-bf01a84d8535","path":"sprites/spr_gustavopresentdown/spr_gustavopresentdown.yy",},"LayerId":null,"resourceVersion":"1.0","name":"composite","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"a072de9b-a66a-4ab3-b20d-bf01a84d8535","path":"sprites/spr_gustavopresentdown/spr_gustavopresentdown.yy",},"LayerId":{"name":"0e17d074-e9f9-4912-bb9a-c9d3a4f88297","path":"sprites/spr_gustavopresentdown/spr_gustavopresentdown.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-      ],"parent":{"name":"spr_gustavopresentdown","path":"sprites/spr_gustavopresentdown/spr_gustavopresentdown.yy",},"resourceVersion":"1.0","name":"a072de9b-a66a-4ab3-b20d-bf01a84d8535","tags":[],"resourceType":"GMSpriteFrame",},
-    {"compositeImage":{"FrameId":{"name":"f30f1ba8-6234-4156-bc4e-b16b4de5d9bb","path":"sprites/spr_gustavopresentdown/spr_gustavopresentdown.yy",},"LayerId":null,"resourceVersion":"1.0","name":"composite","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"f30f1ba8-6234-4156-bc4e-b16b4de5d9bb","path":"sprites/spr_gustavopresentdown/spr_gustavopresentdown.yy",},"LayerId":{"name":"0e17d074-e9f9-4912-bb9a-c9d3a4f88297","path":"sprites/spr_gustavopresentdown/spr_gustavopresentdown.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-      ],"parent":{"name":"spr_gustavopresentdown","path":"sprites/spr_gustavopresentdown/spr_gustavopresentdown.yy",},"resourceVersion":"1.0","name":"f30f1ba8-6234-4156-bc4e-b16b4de5d9bb","tags":[],"resourceType":"GMSpriteFrame",},
+    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"97345851-f78a-4ae5-bff0-483cb8315434",},
+    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"a072de9b-a66a-4ab3-b20d-bf01a84d8535",},
+    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"f30f1ba8-6234-4156-bc4e-b16b4de5d9bb",},
   ],
   "sequence": {
-    "spriteId": {"name":"spr_gustavopresentdown","path":"sprites/spr_gustavopresentdown/spr_gustavopresentdown.yy",},
+    "resourceType": "GMSequence",
+    "resourceVersion": "1.4",
+    "name": "",
     "timeUnits": 1,
     "playback": 1,
     "playbackSpeed": 1.0,
@@ -46,11 +46,11 @@
     "events": {"Keyframes":[],"resourceVersion":"1.0","resourceType":"KeyframeStore<MessageEventKeyframe>",},
     "moments": {"Keyframes":[],"resourceVersion":"1.0","resourceType":"KeyframeStore<MomentsEventKeyframe>",},
     "tracks": [
-      {"name":"frames","spriteId":null,"keyframes":{"Keyframes":[
+      {"resourceType":"GMSpriteFramesTrack","resourceVersion":"1.0","name":"frames","spriteId":null,"keyframes":{"Keyframes":[
             {"id":"9d3fce93-141a-4bb9-bbe4-08822d5150c0","Key":0.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"97345851-f78a-4ae5-bff0-483cb8315434","path":"sprites/spr_gustavopresentdown/spr_gustavopresentdown.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
             {"id":"6e29ec62-a986-428f-b066-218342ac4ca5","Key":1.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"a072de9b-a66a-4ab3-b20d-bf01a84d8535","path":"sprites/spr_gustavopresentdown/spr_gustavopresentdown.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
             {"id":"b0f958ed-ad76-47eb-9151-f8500ae42861","Key":2.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"f30f1ba8-6234-4156-bc4e-b16b4de5d9bb","path":"sprites/spr_gustavopresentdown/spr_gustavopresentdown.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
-          ],"resourceVersion":"1.0","resourceType":"KeyframeStore<SpriteFrameKeyframe>",},"trackColour":0,"inheritsTrackColour":true,"builtinName":0,"traits":0,"interpolation":1,"tracks":[],"events":[],"isCreationTrack":false,"resourceVersion":"1.0","tags":[],"resourceType":"GMSpriteFramesTrack","modifiers":[],},
+          ],"resourceVersion":"1.0","resourceType":"KeyframeStore<SpriteFrameKeyframe>",},"trackColour":0,"inheritsTrackColour":true,"builtinName":0,"traits":0,"interpolation":1,"tracks":[],"events":[],"isCreationTrack":false,"modifiers":[],},
     ],
     "visibleRange": {"x":0.0,"y":0.0,},
     "lockOrigin": false,
@@ -66,22 +66,13 @@
     "yorigin": 50,
     "eventToFunction": {},
     "eventStubScript": null,
-    "parent": {"name":"spr_gustavopresentdown","path":"sprites/spr_gustavopresentdown/spr_gustavopresentdown.yy",},
-    "resourceVersion": "1.4",
-    "name": "",
-    "tags": [],
-    "resourceType": "GMSequence",
   },
   "layers": [
-    {"visible":true,"isLocked":false,"blendMode":0,"opacity":100.0,"displayName":"default","resourceVersion":"1.0","name":"0e17d074-e9f9-4912-bb9a-c9d3a4f88297","tags":[],"resourceType":"GMImageLayer",},
+    {"resourceType":"GMImageLayer","resourceVersion":"1.0","name":"0e17d074-e9f9-4912-bb9a-c9d3a4f88297","visible":true,"isLocked":false,"blendMode":0,"opacity":100.0,"displayName":"default",},
   ],
   "nineSlice": null,
   "parent": {
     "name": "XMAS",
     "path": "folders/Sprites/demo_event/XMAS.yy",
   },
-  "resourceVersion": "1.0",
-  "name": "spr_gustavopresentdown",
-  "tags": [],
-  "resourceType": "GMSprite",
 }

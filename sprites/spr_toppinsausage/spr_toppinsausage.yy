@@ -1,4 +1,7 @@
 {
+  "resourceType": "GMSprite",
+  "resourceVersion": "1.0",
+  "name": "spr_toppinsausage",
   "bboxMode": 0,
   "collisionKind": 1,
   "type": 0,
@@ -14,6 +17,7 @@
   "HTile": false,
   "VTile": false,
   "For3D": false,
+  "DynamicTexturePage": false,
   "width": 32,
   "height": 64,
   "textureGroupId": {
@@ -24,27 +28,17 @@
   "gridX": 0,
   "gridY": 0,
   "frames": [
-    {"compositeImage":{"FrameId":{"name":"4974c9c6-6722-4b8f-a0e2-aa7fb33dce04","path":"sprites/spr_toppinsausage/spr_toppinsausage.yy",},"LayerId":null,"resourceVersion":"1.0","name":"composite","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"4974c9c6-6722-4b8f-a0e2-aa7fb33dce04","path":"sprites/spr_toppinsausage/spr_toppinsausage.yy",},"LayerId":{"name":"84e05330-e7c9-486a-bf7d-344b0dbeb46d","path":"sprites/spr_toppinsausage/spr_toppinsausage.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-      ],"parent":{"name":"spr_toppinsausage","path":"sprites/spr_toppinsausage/spr_toppinsausage.yy",},"resourceVersion":"1.0","name":"4974c9c6-6722-4b8f-a0e2-aa7fb33dce04","tags":[],"resourceType":"GMSpriteFrame",},
-    {"compositeImage":{"FrameId":{"name":"e5f01908-dd7f-4ded-9d07-581739534e6a","path":"sprites/spr_toppinsausage/spr_toppinsausage.yy",},"LayerId":null,"resourceVersion":"1.0","name":"composite","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"e5f01908-dd7f-4ded-9d07-581739534e6a","path":"sprites/spr_toppinsausage/spr_toppinsausage.yy",},"LayerId":{"name":"84e05330-e7c9-486a-bf7d-344b0dbeb46d","path":"sprites/spr_toppinsausage/spr_toppinsausage.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-      ],"parent":{"name":"spr_toppinsausage","path":"sprites/spr_toppinsausage/spr_toppinsausage.yy",},"resourceVersion":"1.0","name":"e5f01908-dd7f-4ded-9d07-581739534e6a","tags":[],"resourceType":"GMSpriteFrame",},
-    {"compositeImage":{"FrameId":{"name":"b55f820a-23a8-4b72-80c1-029925b9bb6d","path":"sprites/spr_toppinsausage/spr_toppinsausage.yy",},"LayerId":null,"resourceVersion":"1.0","name":"composite","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"b55f820a-23a8-4b72-80c1-029925b9bb6d","path":"sprites/spr_toppinsausage/spr_toppinsausage.yy",},"LayerId":{"name":"84e05330-e7c9-486a-bf7d-344b0dbeb46d","path":"sprites/spr_toppinsausage/spr_toppinsausage.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-      ],"parent":{"name":"spr_toppinsausage","path":"sprites/spr_toppinsausage/spr_toppinsausage.yy",},"resourceVersion":"1.0","name":"b55f820a-23a8-4b72-80c1-029925b9bb6d","tags":[],"resourceType":"GMSpriteFrame",},
-    {"compositeImage":{"FrameId":{"name":"ee4e1674-b1c9-42fb-b9d8-f3a998418ff5","path":"sprites/spr_toppinsausage/spr_toppinsausage.yy",},"LayerId":null,"resourceVersion":"1.0","name":"composite","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"ee4e1674-b1c9-42fb-b9d8-f3a998418ff5","path":"sprites/spr_toppinsausage/spr_toppinsausage.yy",},"LayerId":{"name":"84e05330-e7c9-486a-bf7d-344b0dbeb46d","path":"sprites/spr_toppinsausage/spr_toppinsausage.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-      ],"parent":{"name":"spr_toppinsausage","path":"sprites/spr_toppinsausage/spr_toppinsausage.yy",},"resourceVersion":"1.0","name":"ee4e1674-b1c9-42fb-b9d8-f3a998418ff5","tags":[],"resourceType":"GMSpriteFrame",},
-    {"compositeImage":{"FrameId":{"name":"4b7565be-155d-4e06-a22d-72dc27d59786","path":"sprites/spr_toppinsausage/spr_toppinsausage.yy",},"LayerId":null,"resourceVersion":"1.0","name":"composite","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"4b7565be-155d-4e06-a22d-72dc27d59786","path":"sprites/spr_toppinsausage/spr_toppinsausage.yy",},"LayerId":{"name":"84e05330-e7c9-486a-bf7d-344b0dbeb46d","path":"sprites/spr_toppinsausage/spr_toppinsausage.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-      ],"parent":{"name":"spr_toppinsausage","path":"sprites/spr_toppinsausage/spr_toppinsausage.yy",},"resourceVersion":"1.0","name":"4b7565be-155d-4e06-a22d-72dc27d59786","tags":[],"resourceType":"GMSpriteFrame",},
-    {"compositeImage":{"FrameId":{"name":"0b873c46-a06d-43f1-a07f-0c4fa3fedc2f","path":"sprites/spr_toppinsausage/spr_toppinsausage.yy",},"LayerId":null,"resourceVersion":"1.0","name":"composite","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"0b873c46-a06d-43f1-a07f-0c4fa3fedc2f","path":"sprites/spr_toppinsausage/spr_toppinsausage.yy",},"LayerId":{"name":"84e05330-e7c9-486a-bf7d-344b0dbeb46d","path":"sprites/spr_toppinsausage/spr_toppinsausage.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-      ],"parent":{"name":"spr_toppinsausage","path":"sprites/spr_toppinsausage/spr_toppinsausage.yy",},"resourceVersion":"1.0","name":"0b873c46-a06d-43f1-a07f-0c4fa3fedc2f","tags":[],"resourceType":"GMSpriteFrame",},
+    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"4974c9c6-6722-4b8f-a0e2-aa7fb33dce04",},
+    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"e5f01908-dd7f-4ded-9d07-581739534e6a",},
+    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"b55f820a-23a8-4b72-80c1-029925b9bb6d",},
+    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"ee4e1674-b1c9-42fb-b9d8-f3a998418ff5",},
+    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"4b7565be-155d-4e06-a22d-72dc27d59786",},
+    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"0b873c46-a06d-43f1-a07f-0c4fa3fedc2f",},
   ],
   "sequence": {
-    "spriteId": {"name":"spr_toppinsausage","path":"sprites/spr_toppinsausage/spr_toppinsausage.yy",},
+    "resourceType": "GMSequence",
+    "resourceVersion": "1.4",
+    "name": "",
     "timeUnits": 1,
     "playback": 1,
     "playbackSpeed": 1.0,
@@ -55,14 +49,14 @@
     "events": {"Keyframes":[],"resourceVersion":"1.0","resourceType":"KeyframeStore<MessageEventKeyframe>",},
     "moments": {"Keyframes":[],"resourceVersion":"1.0","resourceType":"KeyframeStore<MomentsEventKeyframe>",},
     "tracks": [
-      {"name":"frames","spriteId":null,"keyframes":{"Keyframes":[
+      {"resourceType":"GMSpriteFramesTrack","resourceVersion":"1.0","name":"frames","spriteId":null,"keyframes":{"Keyframes":[
             {"id":"70bb4507-ccd0-4746-90ec-86e50b197cfc","Key":0.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"4974c9c6-6722-4b8f-a0e2-aa7fb33dce04","path":"sprites/spr_toppinsausage/spr_toppinsausage.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
             {"id":"3ca724b0-ba85-456e-a95f-5fb9e2c65a3e","Key":1.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"e5f01908-dd7f-4ded-9d07-581739534e6a","path":"sprites/spr_toppinsausage/spr_toppinsausage.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
             {"id":"ab01f2e1-e24a-408f-8a5f-c50197eaa3d5","Key":2.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"b55f820a-23a8-4b72-80c1-029925b9bb6d","path":"sprites/spr_toppinsausage/spr_toppinsausage.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
             {"id":"b9f9287a-3a4b-4b5e-aae7-7169bd3c12bc","Key":3.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"ee4e1674-b1c9-42fb-b9d8-f3a998418ff5","path":"sprites/spr_toppinsausage/spr_toppinsausage.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
             {"id":"0c8d2e16-27f4-4d64-a4eb-fe3edf0fe8f8","Key":4.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"4b7565be-155d-4e06-a22d-72dc27d59786","path":"sprites/spr_toppinsausage/spr_toppinsausage.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
             {"id":"5c475582-08db-4961-bcb3-7691164ba918","Key":5.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"0b873c46-a06d-43f1-a07f-0c4fa3fedc2f","path":"sprites/spr_toppinsausage/spr_toppinsausage.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
-          ],"resourceVersion":"1.0","resourceType":"KeyframeStore<SpriteFrameKeyframe>",},"trackColour":0,"inheritsTrackColour":true,"builtinName":0,"traits":0,"interpolation":1,"tracks":[],"events":[],"isCreationTrack":false,"resourceVersion":"1.0","tags":[],"resourceType":"GMSpriteFramesTrack","modifiers":[],},
+          ],"resourceVersion":"1.0","resourceType":"KeyframeStore<SpriteFrameKeyframe>",},"trackColour":0,"inheritsTrackColour":true,"builtinName":0,"traits":0,"interpolation":1,"tracks":[],"events":[],"isCreationTrack":false,"modifiers":[],},
     ],
     "visibleRange": {"x":0.0,"y":0.0,},
     "lockOrigin": false,
@@ -78,22 +72,13 @@
     "yorigin": 20,
     "eventToFunction": {},
     "eventStubScript": null,
-    "parent": {"name":"spr_toppinsausage","path":"sprites/spr_toppinsausage/spr_toppinsausage.yy",},
-    "resourceVersion": "1.4",
-    "name": "",
-    "tags": [],
-    "resourceType": "GMSequence",
   },
   "layers": [
-    {"visible":true,"isLocked":false,"blendMode":0,"opacity":100.0,"displayName":"default","resourceVersion":"1.0","name":"84e05330-e7c9-486a-bf7d-344b0dbeb46d","tags":[],"resourceType":"GMImageLayer",},
+    {"resourceType":"GMImageLayer","resourceVersion":"1.0","name":"84e05330-e7c9-486a-bf7d-344b0dbeb46d","visible":true,"isLocked":false,"blendMode":0,"opacity":100.0,"displayName":"default",},
   ],
   "nineSlice": null,
   "parent": {
     "name": "toppin",
     "path": "folders/Sprites/followers/toppin.yy",
   },
-  "resourceVersion": "1.0",
-  "name": "spr_toppinsausage",
-  "tags": [],
-  "resourceType": "GMSprite",
 }

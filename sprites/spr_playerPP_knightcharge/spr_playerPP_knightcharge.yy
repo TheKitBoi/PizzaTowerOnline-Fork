@@ -1,4 +1,7 @@
 {
+  "resourceType": "GMSprite",
+  "resourceVersion": "1.0",
+  "name": "spr_playerPP_knightcharge",
   "ConfigValues": {
     "debug": {"textureGroupId":"{\"name\":\"tg_player\",\"path\":\"texturegroups/tg_player\"}",},
   },
@@ -17,6 +20,7 @@
   "HTile": false,
   "VTile": false,
   "For3D": false,
+  "DynamicTexturePage": false,
   "width": 150,
   "height": 150,
   "textureGroupId": {
@@ -27,18 +31,14 @@
   "gridX": 0,
   "gridY": 0,
   "frames": [
-    {"compositeImage":{"FrameId":{"name":"aa049c43-1f6f-43a6-adf6-25edfccbe72e","path":"sprites/spr_playerPP_knightcharge/spr_playerPP_knightcharge.yy",},"LayerId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"aa049c43-1f6f-43a6-adf6-25edfccbe72e","path":"sprites/spr_playerPP_knightcharge/spr_playerPP_knightcharge.yy",},"LayerId":{"name":"2e4bbd56-4714-41e3-9b9c-31e8c2d717fc","path":"sprites/spr_playerPP_knightcharge/spr_playerPP_knightcharge.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-      ],"parent":{"name":"spr_playerPP_knightcharge","path":"sprites/spr_playerPP_knightcharge/spr_playerPP_knightcharge.yy",},"resourceVersion":"1.0","name":"aa049c43-1f6f-43a6-adf6-25edfccbe72e","tags":[],"resourceType":"GMSpriteFrame",},
-    {"compositeImage":{"FrameId":{"name":"e084d22f-425f-4c11-aeea-ff91d0e52b97","path":"sprites/spr_playerPP_knightcharge/spr_playerPP_knightcharge.yy",},"LayerId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"e084d22f-425f-4c11-aeea-ff91d0e52b97","path":"sprites/spr_playerPP_knightcharge/spr_playerPP_knightcharge.yy",},"LayerId":{"name":"2e4bbd56-4714-41e3-9b9c-31e8c2d717fc","path":"sprites/spr_playerPP_knightcharge/spr_playerPP_knightcharge.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-      ],"parent":{"name":"spr_playerPP_knightcharge","path":"sprites/spr_playerPP_knightcharge/spr_playerPP_knightcharge.yy",},"resourceVersion":"1.0","name":"e084d22f-425f-4c11-aeea-ff91d0e52b97","tags":[],"resourceType":"GMSpriteFrame",},
-    {"compositeImage":{"FrameId":{"name":"ca9bc6e1-6adb-48fb-ab00-5fca72959e6d","path":"sprites/spr_playerPP_knightcharge/spr_playerPP_knightcharge.yy",},"LayerId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"ca9bc6e1-6adb-48fb-ab00-5fca72959e6d","path":"sprites/spr_playerPP_knightcharge/spr_playerPP_knightcharge.yy",},"LayerId":{"name":"2e4bbd56-4714-41e3-9b9c-31e8c2d717fc","path":"sprites/spr_playerPP_knightcharge/spr_playerPP_knightcharge.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-      ],"parent":{"name":"spr_playerPP_knightcharge","path":"sprites/spr_playerPP_knightcharge/spr_playerPP_knightcharge.yy",},"resourceVersion":"1.0","name":"ca9bc6e1-6adb-48fb-ab00-5fca72959e6d","tags":[],"resourceType":"GMSpriteFrame",},
+    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"aa049c43-1f6f-43a6-adf6-25edfccbe72e",},
+    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"e084d22f-425f-4c11-aeea-ff91d0e52b97",},
+    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"ca9bc6e1-6adb-48fb-ab00-5fca72959e6d",},
   ],
   "sequence": {
-    "spriteId": {"name":"spr_playerPP_knightcharge","path":"sprites/spr_playerPP_knightcharge/spr_playerPP_knightcharge.yy",},
+    "resourceType": "GMSequence",
+    "resourceVersion": "1.4",
+    "name": "spr_playerPP_knightcharge",
     "timeUnits": 1,
     "playback": 1,
     "playbackSpeed": 1.0,
@@ -49,11 +49,11 @@
     "events": {"Keyframes":[],"resourceVersion":"1.0","resourceType":"KeyframeStore<MessageEventKeyframe>",},
     "moments": {"Keyframes":[],"resourceVersion":"1.0","resourceType":"KeyframeStore<MomentsEventKeyframe>",},
     "tracks": [
-      {"name":"frames","spriteId":null,"keyframes":{"Keyframes":[
+      {"resourceType":"GMSpriteFramesTrack","resourceVersion":"1.0","name":"frames","spriteId":null,"keyframes":{"Keyframes":[
             {"id":"7fd2f1b5-56f3-4895-9f12-bc8be03a2fa5","Key":0.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"aa049c43-1f6f-43a6-adf6-25edfccbe72e","path":"sprites/spr_playerPP_knightcharge/spr_playerPP_knightcharge.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
             {"id":"833035e2-0bc3-47ba-a888-054b451a5927","Key":1.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"e084d22f-425f-4c11-aeea-ff91d0e52b97","path":"sprites/spr_playerPP_knightcharge/spr_playerPP_knightcharge.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
             {"id":"b13ee9bb-6c77-41df-a707-5504e4a782e4","Key":2.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"ca9bc6e1-6adb-48fb-ab00-5fca72959e6d","path":"sprites/spr_playerPP_knightcharge/spr_playerPP_knightcharge.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
-          ],"resourceVersion":"1.0","resourceType":"KeyframeStore<SpriteFrameKeyframe>",},"trackColour":0,"inheritsTrackColour":true,"builtinName":0,"traits":0,"interpolation":1,"tracks":[],"events":[],"isCreationTrack":false,"resourceVersion":"1.0","tags":[],"resourceType":"GMSpriteFramesTrack","modifiers":[],},
+          ],"resourceVersion":"1.0","resourceType":"KeyframeStore<SpriteFrameKeyframe>",},"trackColour":0,"inheritsTrackColour":true,"builtinName":0,"traits":0,"interpolation":1,"tracks":[],"events":[],"isCreationTrack":false,"modifiers":[],},
     ],
     "visibleRange": null,
     "lockOrigin": false,
@@ -69,22 +69,13 @@
     "yorigin": 75,
     "eventToFunction": {},
     "eventStubScript": null,
-    "parent": {"name":"spr_playerPP_knightcharge","path":"sprites/spr_playerPP_knightcharge/spr_playerPP_knightcharge.yy",},
-    "resourceVersion": "1.4",
-    "name": "spr_playerPP_knightcharge",
-    "tags": [],
-    "resourceType": "GMSequence",
   },
   "layers": [
-    {"visible":true,"isLocked":false,"blendMode":0,"opacity":100.0,"displayName":"default","resourceVersion":"1.0","name":"2e4bbd56-4714-41e3-9b9c-31e8c2d717fc","tags":[],"resourceType":"GMImageLayer",},
+    {"resourceType":"GMImageLayer","resourceVersion":"1.0","name":"2e4bbd56-4714-41e3-9b9c-31e8c2d717fc","visible":true,"isLocked":false,"blendMode":0,"opacity":100.0,"displayName":"default",},
   ],
   "nineSlice": null,
   "parent": {
     "name": "knightpep",
     "path": "folders/Sprites/players/pissino/knightpep.yy",
   },
-  "resourceVersion": "1.0",
-  "name": "spr_playerPP_knightcharge",
-  "tags": [],
-  "resourceType": "GMSprite",
 }

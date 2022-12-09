@@ -1,4 +1,7 @@
 {
+  "resourceType": "GMSprite",
+  "resourceVersion": "1.0",
+  "name": "spr_meteorpep_flying",
   "ConfigValues": {
     "debug": {"textureGroupId":"{\"name\":\"tg_player\",\"path\":\"texturegroups/tg_player\"}",},
   },
@@ -17,6 +20,7 @@
   "HTile": false,
   "VTile": false,
   "For3D": false,
+  "DynamicTexturePage": false,
   "width": 100,
   "height": 100,
   "textureGroupId": {
@@ -27,18 +31,14 @@
   "gridX": 0,
   "gridY": 0,
   "frames": [
-    {"compositeImage":{"FrameId":{"name":"d14bfa11-5fdf-4f59-86bb-6bc34deb48a6","path":"sprites/spr_meteorpep_flying/spr_meteorpep_flying.yy",},"LayerId":null,"resourceVersion":"1.0","name":"composite","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"d14bfa11-5fdf-4f59-86bb-6bc34deb48a6","path":"sprites/spr_meteorpep_flying/spr_meteorpep_flying.yy",},"LayerId":{"name":"f78980e4-8310-4d32-b561-b2344cd43acf","path":"sprites/spr_meteorpep_flying/spr_meteorpep_flying.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-      ],"parent":{"name":"spr_meteorpep_flying","path":"sprites/spr_meteorpep_flying/spr_meteorpep_flying.yy",},"resourceVersion":"1.0","name":"d14bfa11-5fdf-4f59-86bb-6bc34deb48a6","tags":[],"resourceType":"GMSpriteFrame",},
-    {"compositeImage":{"FrameId":{"name":"82feb48d-c2d6-4fc3-b40e-a822470084dc","path":"sprites/spr_meteorpep_flying/spr_meteorpep_flying.yy",},"LayerId":null,"resourceVersion":"1.0","name":"composite","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"82feb48d-c2d6-4fc3-b40e-a822470084dc","path":"sprites/spr_meteorpep_flying/spr_meteorpep_flying.yy",},"LayerId":{"name":"f78980e4-8310-4d32-b561-b2344cd43acf","path":"sprites/spr_meteorpep_flying/spr_meteorpep_flying.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-      ],"parent":{"name":"spr_meteorpep_flying","path":"sprites/spr_meteorpep_flying/spr_meteorpep_flying.yy",},"resourceVersion":"1.0","name":"82feb48d-c2d6-4fc3-b40e-a822470084dc","tags":[],"resourceType":"GMSpriteFrame",},
-    {"compositeImage":{"FrameId":{"name":"33f61757-3d5f-4122-bf12-2ae26f845db0","path":"sprites/spr_meteorpep_flying/spr_meteorpep_flying.yy",},"LayerId":null,"resourceVersion":"1.0","name":"composite","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"33f61757-3d5f-4122-bf12-2ae26f845db0","path":"sprites/spr_meteorpep_flying/spr_meteorpep_flying.yy",},"LayerId":{"name":"f78980e4-8310-4d32-b561-b2344cd43acf","path":"sprites/spr_meteorpep_flying/spr_meteorpep_flying.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-      ],"parent":{"name":"spr_meteorpep_flying","path":"sprites/spr_meteorpep_flying/spr_meteorpep_flying.yy",},"resourceVersion":"1.0","name":"33f61757-3d5f-4122-bf12-2ae26f845db0","tags":[],"resourceType":"GMSpriteFrame",},
+    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"d14bfa11-5fdf-4f59-86bb-6bc34deb48a6",},
+    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"82feb48d-c2d6-4fc3-b40e-a822470084dc",},
+    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"33f61757-3d5f-4122-bf12-2ae26f845db0",},
   ],
   "sequence": {
-    "spriteId": {"name":"spr_meteorpep_flying","path":"sprites/spr_meteorpep_flying/spr_meteorpep_flying.yy",},
+    "resourceType": "GMSequence",
+    "resourceVersion": "1.4",
+    "name": "",
     "timeUnits": 1,
     "playback": 1,
     "playbackSpeed": 1.0,
@@ -49,11 +49,11 @@
     "events": {"Keyframes":[],"resourceVersion":"1.0","resourceType":"KeyframeStore<MessageEventKeyframe>",},
     "moments": {"Keyframes":[],"resourceVersion":"1.0","resourceType":"KeyframeStore<MomentsEventKeyframe>",},
     "tracks": [
-      {"name":"frames","spriteId":null,"keyframes":{"Keyframes":[
+      {"resourceType":"GMSpriteFramesTrack","resourceVersion":"1.0","name":"frames","spriteId":null,"keyframes":{"Keyframes":[
             {"id":"a3bf2201-de5f-4c7c-9bb9-a510264906a3","Key":0.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"d14bfa11-5fdf-4f59-86bb-6bc34deb48a6","path":"sprites/spr_meteorpep_flying/spr_meteorpep_flying.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
             {"id":"92ada693-07af-434f-9e42-451b6c53e370","Key":1.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"82feb48d-c2d6-4fc3-b40e-a822470084dc","path":"sprites/spr_meteorpep_flying/spr_meteorpep_flying.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
             {"id":"4a0dbf81-3140-4b46-a1e9-c76e79d94c7d","Key":2.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"33f61757-3d5f-4122-bf12-2ae26f845db0","path":"sprites/spr_meteorpep_flying/spr_meteorpep_flying.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
-          ],"resourceVersion":"1.0","resourceType":"KeyframeStore<SpriteFrameKeyframe>",},"trackColour":0,"inheritsTrackColour":true,"builtinName":0,"traits":0,"interpolation":1,"tracks":[],"events":[],"isCreationTrack":false,"resourceVersion":"1.0","tags":[],"resourceType":"GMSpriteFramesTrack","modifiers":[],},
+          ],"resourceVersion":"1.0","resourceType":"KeyframeStore<SpriteFrameKeyframe>",},"trackColour":0,"inheritsTrackColour":true,"builtinName":0,"traits":0,"interpolation":1,"tracks":[],"events":[],"isCreationTrack":false,"modifiers":[],},
     ],
     "visibleRange": null,
     "lockOrigin": false,
@@ -69,22 +69,13 @@
     "yorigin": 50,
     "eventToFunction": {},
     "eventStubScript": null,
-    "parent": {"name":"spr_meteorpep_flying","path":"sprites/spr_meteorpep_flying/spr_meteorpep_flying.yy",},
-    "resourceVersion": "1.4",
-    "name": "",
-    "tags": [],
-    "resourceType": "GMSequence",
   },
   "layers": [
-    {"visible":true,"isLocked":false,"blendMode":0,"opacity":100.0,"displayName":"default","resourceVersion":"1.0","name":"f78980e4-8310-4d32-b561-b2344cd43acf","tags":[],"resourceType":"GMImageLayer",},
+    {"resourceType":"GMImageLayer","resourceVersion":"1.0","name":"f78980e4-8310-4d32-b561-b2344cd43acf","visible":true,"isLocked":false,"blendMode":0,"opacity":100.0,"displayName":"default",},
   ],
   "nineSlice": null,
   "parent": {
     "name": "meteorpep",
     "path": "folders/Sprites/players/pepino/meteorpep.yy",
   },
-  "resourceVersion": "1.0",
-  "name": "spr_meteorpep_flying",
-  "tags": [],
-  "resourceType": "GMSprite",
 }

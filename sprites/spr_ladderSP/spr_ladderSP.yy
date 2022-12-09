@@ -1,4 +1,7 @@
 {
+  "resourceType": "GMSprite",
+  "resourceVersion": "1.0",
+  "name": "spr_ladderSP",
   "ConfigValues": {
     "debug": {"textureGroupId":"{\"name\":\"tg_sugaryspire\",\"path\":\"texturegroups/tg_sugaryspire\"}",},
   },
@@ -17,6 +20,7 @@
   "HTile": false,
   "VTile": false,
   "For3D": false,
+  "DynamicTexturePage": false,
   "width": 32,
   "height": 32,
   "textureGroupId": {
@@ -27,18 +31,14 @@
   "gridX": 0,
   "gridY": 0,
   "frames": [
-    {"compositeImage":{"FrameId":{"name":"ae2e2a30-2ebb-4ba5-8c60-e7a3fdbe8731","path":"sprites/spr_ladderSP/spr_ladderSP.yy",},"LayerId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"ae2e2a30-2ebb-4ba5-8c60-e7a3fdbe8731","path":"sprites/spr_ladderSP/spr_ladderSP.yy",},"LayerId":{"name":"d2cc091a-deb5-4df6-95d0-19584e8422ea","path":"sprites/spr_ladderSP/spr_ladderSP.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-      ],"parent":{"name":"spr_ladderSP","path":"sprites/spr_ladderSP/spr_ladderSP.yy",},"resourceVersion":"1.0","name":"ae2e2a30-2ebb-4ba5-8c60-e7a3fdbe8731","tags":[],"resourceType":"GMSpriteFrame",},
-    {"compositeImage":{"FrameId":{"name":"e8aedfcc-2683-435d-b341-e4e3acda187e","path":"sprites/spr_ladderSP/spr_ladderSP.yy",},"LayerId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"e8aedfcc-2683-435d-b341-e4e3acda187e","path":"sprites/spr_ladderSP/spr_ladderSP.yy",},"LayerId":{"name":"d2cc091a-deb5-4df6-95d0-19584e8422ea","path":"sprites/spr_ladderSP/spr_ladderSP.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-      ],"parent":{"name":"spr_ladderSP","path":"sprites/spr_ladderSP/spr_ladderSP.yy",},"resourceVersion":"1.0","name":"e8aedfcc-2683-435d-b341-e4e3acda187e","tags":[],"resourceType":"GMSpriteFrame",},
-    {"compositeImage":{"FrameId":{"name":"7277b8dc-46ba-46e9-99df-859774fa525c","path":"sprites/spr_ladderSP/spr_ladderSP.yy",},"LayerId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"7277b8dc-46ba-46e9-99df-859774fa525c","path":"sprites/spr_ladderSP/spr_ladderSP.yy",},"LayerId":{"name":"d2cc091a-deb5-4df6-95d0-19584e8422ea","path":"sprites/spr_ladderSP/spr_ladderSP.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-      ],"parent":{"name":"spr_ladderSP","path":"sprites/spr_ladderSP/spr_ladderSP.yy",},"resourceVersion":"1.0","name":"7277b8dc-46ba-46e9-99df-859774fa525c","tags":[],"resourceType":"GMSpriteFrame",},
+    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"ae2e2a30-2ebb-4ba5-8c60-e7a3fdbe8731",},
+    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"e8aedfcc-2683-435d-b341-e4e3acda187e",},
+    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"7277b8dc-46ba-46e9-99df-859774fa525c",},
   ],
   "sequence": {
-    "spriteId": {"name":"spr_ladderSP","path":"sprites/spr_ladderSP/spr_ladderSP.yy",},
+    "resourceType": "GMSequence",
+    "resourceVersion": "1.4",
+    "name": "spr_ladderSP",
     "timeUnits": 1,
     "playback": 1,
     "playbackSpeed": 1.0,
@@ -49,11 +49,11 @@
     "events": {"Keyframes":[],"resourceVersion":"1.0","resourceType":"KeyframeStore<MessageEventKeyframe>",},
     "moments": {"Keyframes":[],"resourceVersion":"1.0","resourceType":"KeyframeStore<MomentsEventKeyframe>",},
     "tracks": [
-      {"name":"frames","spriteId":null,"keyframes":{"Keyframes":[
+      {"resourceType":"GMSpriteFramesTrack","resourceVersion":"1.0","name":"frames","spriteId":null,"keyframes":{"Keyframes":[
             {"id":"6d241289-9311-4e97-ae76-e1be7b829cbf","Key":0.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"ae2e2a30-2ebb-4ba5-8c60-e7a3fdbe8731","path":"sprites/spr_ladderSP/spr_ladderSP.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
             {"id":"4615214f-657b-4225-a773-a8f88cbc74e2","Key":1.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"e8aedfcc-2683-435d-b341-e4e3acda187e","path":"sprites/spr_ladderSP/spr_ladderSP.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
             {"id":"8c773191-0b63-4d28-8f92-acdda53c29af","Key":2.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"7277b8dc-46ba-46e9-99df-859774fa525c","path":"sprites/spr_ladderSP/spr_ladderSP.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
-          ],"resourceVersion":"1.0","resourceType":"KeyframeStore<SpriteFrameKeyframe>",},"trackColour":0,"inheritsTrackColour":true,"builtinName":0,"traits":0,"interpolation":1,"tracks":[],"events":[],"isCreationTrack":false,"resourceVersion":"1.0","tags":[],"resourceType":"GMSpriteFramesTrack","modifiers":[],},
+          ],"resourceVersion":"1.0","resourceType":"KeyframeStore<SpriteFrameKeyframe>",},"trackColour":0,"inheritsTrackColour":true,"builtinName":0,"traits":0,"interpolation":1,"tracks":[],"events":[],"isCreationTrack":false,"modifiers":[],},
     ],
     "visibleRange": null,
     "lockOrigin": false,
@@ -69,22 +69,13 @@
     "yorigin": 0,
     "eventToFunction": {},
     "eventStubScript": null,
-    "parent": {"name":"spr_ladderSP","path":"sprites/spr_ladderSP/spr_ladderSP.yy",},
-    "resourceVersion": "1.4",
-    "name": "spr_ladderSP",
-    "tags": [],
-    "resourceType": "GMSequence",
   },
   "layers": [
-    {"visible":true,"isLocked":false,"blendMode":0,"opacity":100.0,"displayName":"default","resourceVersion":"1.0","name":"d2cc091a-deb5-4df6-95d0-19584e8422ea","tags":[],"resourceType":"GMImageLayer",},
+    {"resourceType":"GMImageLayer","resourceVersion":"1.0","name":"d2cc091a-deb5-4df6-95d0-19584e8422ea","visible":true,"isLocked":false,"blendMode":0,"opacity":100.0,"displayName":"default",},
   ],
   "nineSlice": null,
   "parent": {
     "name": "ladder",
     "path": "folders/Sprites/SUGARY SPIRE/ladder.yy",
   },
-  "resourceVersion": "1.0",
-  "name": "spr_ladderSP",
-  "tags": [],
-  "resourceType": "GMSprite",
 }

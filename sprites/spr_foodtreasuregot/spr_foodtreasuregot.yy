@@ -1,4 +1,7 @@
 {
+  "resourceType": "GMSprite",
+  "resourceVersion": "1.0",
+  "name": "spr_foodtreasuregot",
   "bboxMode": 0,
   "collisionKind": 1,
   "type": 0,
@@ -14,6 +17,7 @@
   "HTile": false,
   "VTile": false,
   "For3D": false,
+  "DynamicTexturePage": false,
   "width": 100,
   "height": 100,
   "textureGroupId": {
@@ -24,18 +28,14 @@
   "gridX": 0,
   "gridY": 0,
   "frames": [
-    {"compositeImage":{"FrameId":{"name":"f065e56e-cc55-4c90-a539-ee0ca85dd4bd","path":"sprites/spr_foodtreasuregot/spr_foodtreasuregot.yy",},"LayerId":null,"resourceVersion":"1.0","name":"composite","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"f065e56e-cc55-4c90-a539-ee0ca85dd4bd","path":"sprites/spr_foodtreasuregot/spr_foodtreasuregot.yy",},"LayerId":{"name":"10ac6f94-d7a7-4f83-b5c2-19506476ab36","path":"sprites/spr_foodtreasuregot/spr_foodtreasuregot.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-      ],"parent":{"name":"spr_foodtreasuregot","path":"sprites/spr_foodtreasuregot/spr_foodtreasuregot.yy",},"resourceVersion":"1.0","name":"f065e56e-cc55-4c90-a539-ee0ca85dd4bd","tags":[],"resourceType":"GMSpriteFrame",},
-    {"compositeImage":{"FrameId":{"name":"da24b608-824e-4fab-9f42-b4fd014429d3","path":"sprites/spr_foodtreasuregot/spr_foodtreasuregot.yy",},"LayerId":null,"resourceVersion":"1.0","name":"composite","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"da24b608-824e-4fab-9f42-b4fd014429d3","path":"sprites/spr_foodtreasuregot/spr_foodtreasuregot.yy",},"LayerId":{"name":"10ac6f94-d7a7-4f83-b5c2-19506476ab36","path":"sprites/spr_foodtreasuregot/spr_foodtreasuregot.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-      ],"parent":{"name":"spr_foodtreasuregot","path":"sprites/spr_foodtreasuregot/spr_foodtreasuregot.yy",},"resourceVersion":"1.0","name":"da24b608-824e-4fab-9f42-b4fd014429d3","tags":[],"resourceType":"GMSpriteFrame",},
-    {"compositeImage":{"FrameId":{"name":"12e57608-6e19-472c-8068-f2f23c90d523","path":"sprites/spr_foodtreasuregot/spr_foodtreasuregot.yy",},"LayerId":null,"resourceVersion":"1.0","name":"composite","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"12e57608-6e19-472c-8068-f2f23c90d523","path":"sprites/spr_foodtreasuregot/spr_foodtreasuregot.yy",},"LayerId":{"name":"10ac6f94-d7a7-4f83-b5c2-19506476ab36","path":"sprites/spr_foodtreasuregot/spr_foodtreasuregot.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-      ],"parent":{"name":"spr_foodtreasuregot","path":"sprites/spr_foodtreasuregot/spr_foodtreasuregot.yy",},"resourceVersion":"1.0","name":"12e57608-6e19-472c-8068-f2f23c90d523","tags":[],"resourceType":"GMSpriteFrame",},
+    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"f065e56e-cc55-4c90-a539-ee0ca85dd4bd",},
+    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"da24b608-824e-4fab-9f42-b4fd014429d3",},
+    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"12e57608-6e19-472c-8068-f2f23c90d523",},
   ],
   "sequence": {
-    "spriteId": {"name":"spr_foodtreasuregot","path":"sprites/spr_foodtreasuregot/spr_foodtreasuregot.yy",},
+    "resourceType": "GMSequence",
+    "resourceVersion": "1.4",
+    "name": "",
     "timeUnits": 1,
     "playback": 1,
     "playbackSpeed": 1.0,
@@ -46,11 +46,11 @@
     "events": {"Keyframes":[],"resourceVersion":"1.0","resourceType":"KeyframeStore<MessageEventKeyframe>",},
     "moments": {"Keyframes":[],"resourceVersion":"1.0","resourceType":"KeyframeStore<MomentsEventKeyframe>",},
     "tracks": [
-      {"name":"frames","spriteId":null,"keyframes":{"Keyframes":[
+      {"resourceType":"GMSpriteFramesTrack","resourceVersion":"1.0","name":"frames","spriteId":null,"keyframes":{"Keyframes":[
             {"id":"c86563bd-3151-4d0e-a84e-3c09fd7f9368","Key":0.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"f065e56e-cc55-4c90-a539-ee0ca85dd4bd","path":"sprites/spr_foodtreasuregot/spr_foodtreasuregot.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
             {"id":"41fa211d-8a06-411f-bc13-4eef826d00ad","Key":1.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"da24b608-824e-4fab-9f42-b4fd014429d3","path":"sprites/spr_foodtreasuregot/spr_foodtreasuregot.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
             {"id":"92c83f10-cd53-46a6-99e8-2f6f8d99d93f","Key":2.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"12e57608-6e19-472c-8068-f2f23c90d523","path":"sprites/spr_foodtreasuregot/spr_foodtreasuregot.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
-          ],"resourceVersion":"1.0","resourceType":"KeyframeStore<SpriteFrameKeyframe>",},"trackColour":0,"inheritsTrackColour":true,"builtinName":0,"traits":0,"interpolation":1,"tracks":[],"events":[],"isCreationTrack":false,"resourceVersion":"1.0","tags":[],"resourceType":"GMSpriteFramesTrack","modifiers":[],},
+          ],"resourceVersion":"1.0","resourceType":"KeyframeStore<SpriteFrameKeyframe>",},"trackColour":0,"inheritsTrackColour":true,"builtinName":0,"traits":0,"interpolation":1,"tracks":[],"events":[],"isCreationTrack":false,"modifiers":[],},
     ],
     "visibleRange": null,
     "lockOrigin": false,
@@ -66,22 +66,13 @@
     "yorigin": 55,
     "eventToFunction": {},
     "eventStubScript": null,
-    "parent": {"name":"spr_foodtreasuregot","path":"sprites/spr_foodtreasuregot/spr_foodtreasuregot.yy",},
-    "resourceVersion": "1.4",
-    "name": "",
-    "tags": [],
-    "resourceType": "GMSequence",
   },
   "layers": [
-    {"visible":true,"isLocked":false,"blendMode":0,"opacity":100.0,"displayName":"default","resourceVersion":"1.0","name":"10ac6f94-d7a7-4f83-b5c2-19506476ab36","tags":[],"resourceType":"GMImageLayer",},
+    {"resourceType":"GMImageLayer","resourceVersion":"1.0","name":"10ac6f94-d7a7-4f83-b5c2-19506476ab36","visible":true,"isLocked":false,"blendMode":0,"opacity":100.0,"displayName":"default",},
   ],
   "nineSlice": null,
   "parent": {
     "name": "collectibles",
     "path": "folders/Sprites/generalobjects/collectibles.yy",
   },
-  "resourceVersion": "1.0",
-  "name": "spr_foodtreasuregot",
-  "tags": [],
-  "resourceType": "GMSprite",
 }

@@ -1,4 +1,7 @@
 {
+  "resourceType": "GMSprite",
+  "resourceVersion": "1.0",
+  "name": "spr_pizzacollect3halloween",
   "bboxMode": 0,
   "collisionKind": 1,
   "type": 0,
@@ -14,6 +17,7 @@
   "HTile": false,
   "VTile": false,
   "For3D": false,
+  "DynamicTexturePage": false,
   "width": 64,
   "height": 64,
   "textureGroupId": {
@@ -24,18 +28,14 @@
   "gridX": 0,
   "gridY": 0,
   "frames": [
-    {"compositeImage":{"FrameId":{"name":"3f8ee5c3-1114-4042-8d68-5f43a04fea4e","path":"sprites/spr_pizzacollect3halloween/spr_pizzacollect3halloween.yy",},"LayerId":null,"resourceVersion":"1.0","name":"composite","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"3f8ee5c3-1114-4042-8d68-5f43a04fea4e","path":"sprites/spr_pizzacollect3halloween/spr_pizzacollect3halloween.yy",},"LayerId":{"name":"882c518a-3eee-4ed5-a68e-ab7b6c7a6dc8","path":"sprites/spr_pizzacollect3halloween/spr_pizzacollect3halloween.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-      ],"parent":{"name":"spr_pizzacollect3halloween","path":"sprites/spr_pizzacollect3halloween/spr_pizzacollect3halloween.yy",},"resourceVersion":"1.0","name":"3f8ee5c3-1114-4042-8d68-5f43a04fea4e","tags":[],"resourceType":"GMSpriteFrame",},
-    {"compositeImage":{"FrameId":{"name":"2fe5e6e4-edfd-4897-9d8a-957b33f72f38","path":"sprites/spr_pizzacollect3halloween/spr_pizzacollect3halloween.yy",},"LayerId":null,"resourceVersion":"1.0","name":"composite","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"2fe5e6e4-edfd-4897-9d8a-957b33f72f38","path":"sprites/spr_pizzacollect3halloween/spr_pizzacollect3halloween.yy",},"LayerId":{"name":"882c518a-3eee-4ed5-a68e-ab7b6c7a6dc8","path":"sprites/spr_pizzacollect3halloween/spr_pizzacollect3halloween.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-      ],"parent":{"name":"spr_pizzacollect3halloween","path":"sprites/spr_pizzacollect3halloween/spr_pizzacollect3halloween.yy",},"resourceVersion":"1.0","name":"2fe5e6e4-edfd-4897-9d8a-957b33f72f38","tags":[],"resourceType":"GMSpriteFrame",},
-    {"compositeImage":{"FrameId":{"name":"8fa6859d-ecd8-4a05-ac2e-130ccf9a0b56","path":"sprites/spr_pizzacollect3halloween/spr_pizzacollect3halloween.yy",},"LayerId":null,"resourceVersion":"1.0","name":"composite","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"8fa6859d-ecd8-4a05-ac2e-130ccf9a0b56","path":"sprites/spr_pizzacollect3halloween/spr_pizzacollect3halloween.yy",},"LayerId":{"name":"882c518a-3eee-4ed5-a68e-ab7b6c7a6dc8","path":"sprites/spr_pizzacollect3halloween/spr_pizzacollect3halloween.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-      ],"parent":{"name":"spr_pizzacollect3halloween","path":"sprites/spr_pizzacollect3halloween/spr_pizzacollect3halloween.yy",},"resourceVersion":"1.0","name":"8fa6859d-ecd8-4a05-ac2e-130ccf9a0b56","tags":[],"resourceType":"GMSpriteFrame",},
+    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"3f8ee5c3-1114-4042-8d68-5f43a04fea4e",},
+    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"2fe5e6e4-edfd-4897-9d8a-957b33f72f38",},
+    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"8fa6859d-ecd8-4a05-ac2e-130ccf9a0b56",},
   ],
   "sequence": {
-    "spriteId": {"name":"spr_pizzacollect3halloween","path":"sprites/spr_pizzacollect3halloween/spr_pizzacollect3halloween.yy",},
+    "resourceType": "GMSequence",
+    "resourceVersion": "1.4",
+    "name": "",
     "timeUnits": 1,
     "playback": 1,
     "playbackSpeed": 1.0,
@@ -46,11 +46,11 @@
     "events": {"Keyframes":[],"resourceVersion":"1.0","resourceType":"KeyframeStore<MessageEventKeyframe>",},
     "moments": {"Keyframes":[],"resourceVersion":"1.0","resourceType":"KeyframeStore<MomentsEventKeyframe>",},
     "tracks": [
-      {"name":"frames","spriteId":null,"keyframes":{"Keyframes":[
+      {"resourceType":"GMSpriteFramesTrack","resourceVersion":"1.0","name":"frames","spriteId":null,"keyframes":{"Keyframes":[
             {"id":"819ca176-6f65-479d-88cc-f2d479770d08","Key":0.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"3f8ee5c3-1114-4042-8d68-5f43a04fea4e","path":"sprites/spr_pizzacollect3halloween/spr_pizzacollect3halloween.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
             {"id":"3f8bd6ab-03f8-44cf-9639-cf6661b41718","Key":1.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"2fe5e6e4-edfd-4897-9d8a-957b33f72f38","path":"sprites/spr_pizzacollect3halloween/spr_pizzacollect3halloween.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
             {"id":"f59447ea-4bf1-4616-a441-312da75cbb19","Key":2.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"8fa6859d-ecd8-4a05-ac2e-130ccf9a0b56","path":"sprites/spr_pizzacollect3halloween/spr_pizzacollect3halloween.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
-          ],"resourceVersion":"1.0","resourceType":"KeyframeStore<SpriteFrameKeyframe>",},"trackColour":0,"inheritsTrackColour":true,"builtinName":0,"traits":0,"interpolation":1,"tracks":[],"events":[],"isCreationTrack":false,"resourceVersion":"1.0","tags":[],"resourceType":"GMSpriteFramesTrack","modifiers":[],},
+          ],"resourceVersion":"1.0","resourceType":"KeyframeStore<SpriteFrameKeyframe>",},"trackColour":0,"inheritsTrackColour":true,"builtinName":0,"traits":0,"interpolation":1,"tracks":[],"events":[],"isCreationTrack":false,"modifiers":[],},
     ],
     "visibleRange": null,
     "lockOrigin": false,
@@ -66,22 +66,13 @@
     "yorigin": 32,
     "eventToFunction": {},
     "eventStubScript": null,
-    "parent": {"name":"spr_pizzacollect3halloween","path":"sprites/spr_pizzacollect3halloween/spr_pizzacollect3halloween.yy",},
-    "resourceVersion": "1.4",
-    "name": "",
-    "tags": [],
-    "resourceType": "GMSequence",
   },
   "layers": [
-    {"visible":true,"isLocked":false,"blendMode":0,"opacity":100.0,"displayName":"default","resourceVersion":"1.0","name":"882c518a-3eee-4ed5-a68e-ab7b6c7a6dc8","tags":[],"resourceType":"GMImageLayer",},
+    {"resourceType":"GMImageLayer","resourceVersion":"1.0","name":"882c518a-3eee-4ed5-a68e-ab7b6c7a6dc8","visible":true,"isLocked":false,"blendMode":0,"opacity":100.0,"displayName":"default",},
   ],
   "nineSlice": null,
   "parent": {
     "name": "collectibles",
     "path": "folders/Sprites/generalobjects/collectibles.yy",
   },
-  "resourceVersion": "1.0",
-  "name": "spr_pizzacollect3halloween",
-  "tags": [],
-  "resourceType": "GMSprite",
 }

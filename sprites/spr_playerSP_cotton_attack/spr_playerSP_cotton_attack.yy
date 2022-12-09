@@ -1,4 +1,7 @@
 {
+  "resourceType": "GMSprite",
+  "resourceVersion": "1.0",
+  "name": "spr_playerSP_cotton_attack",
   "ConfigValues": {
     "debug": {"textureGroupId":"{\"name\":\"tg_player\",\"path\":\"texturegroups/tg_player\"}",},
   },
@@ -17,6 +20,7 @@
   "HTile": false,
   "VTile": false,
   "For3D": false,
+  "DynamicTexturePage": false,
   "width": 125,
   "height": 100,
   "textureGroupId": {
@@ -27,33 +31,19 @@
   "gridX": 0,
   "gridY": 0,
   "frames": [
-    {"compositeImage":{"FrameId":{"name":"b2caea90-baf9-4c7d-9c38-137dd2ef253f","path":"sprites/spr_playerSP_cotton_attack/spr_playerSP_cotton_attack.yy",},"LayerId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"b2caea90-baf9-4c7d-9c38-137dd2ef253f","path":"sprites/spr_playerSP_cotton_attack/spr_playerSP_cotton_attack.yy",},"LayerId":{"name":"71467583-07f0-498b-adb8-a314e2347343","path":"sprites/spr_playerSP_cotton_attack/spr_playerSP_cotton_attack.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-      ],"parent":{"name":"spr_playerSP_cotton_attack","path":"sprites/spr_playerSP_cotton_attack/spr_playerSP_cotton_attack.yy",},"resourceVersion":"1.0","name":"b2caea90-baf9-4c7d-9c38-137dd2ef253f","tags":[],"resourceType":"GMSpriteFrame",},
-    {"compositeImage":{"FrameId":{"name":"54edd286-2b62-4224-a589-5e868dcf89f7","path":"sprites/spr_playerSP_cotton_attack/spr_playerSP_cotton_attack.yy",},"LayerId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"54edd286-2b62-4224-a589-5e868dcf89f7","path":"sprites/spr_playerSP_cotton_attack/spr_playerSP_cotton_attack.yy",},"LayerId":{"name":"71467583-07f0-498b-adb8-a314e2347343","path":"sprites/spr_playerSP_cotton_attack/spr_playerSP_cotton_attack.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-      ],"parent":{"name":"spr_playerSP_cotton_attack","path":"sprites/spr_playerSP_cotton_attack/spr_playerSP_cotton_attack.yy",},"resourceVersion":"1.0","name":"54edd286-2b62-4224-a589-5e868dcf89f7","tags":[],"resourceType":"GMSpriteFrame",},
-    {"compositeImage":{"FrameId":{"name":"31fe91af-2a0d-410c-90a1-3ed90f6c54b3","path":"sprites/spr_playerSP_cotton_attack/spr_playerSP_cotton_attack.yy",},"LayerId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"31fe91af-2a0d-410c-90a1-3ed90f6c54b3","path":"sprites/spr_playerSP_cotton_attack/spr_playerSP_cotton_attack.yy",},"LayerId":{"name":"71467583-07f0-498b-adb8-a314e2347343","path":"sprites/spr_playerSP_cotton_attack/spr_playerSP_cotton_attack.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-      ],"parent":{"name":"spr_playerSP_cotton_attack","path":"sprites/spr_playerSP_cotton_attack/spr_playerSP_cotton_attack.yy",},"resourceVersion":"1.0","name":"31fe91af-2a0d-410c-90a1-3ed90f6c54b3","tags":[],"resourceType":"GMSpriteFrame",},
-    {"compositeImage":{"FrameId":{"name":"634fed0e-e73d-4645-97fd-6758ce7b3fa4","path":"sprites/spr_playerSP_cotton_attack/spr_playerSP_cotton_attack.yy",},"LayerId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"634fed0e-e73d-4645-97fd-6758ce7b3fa4","path":"sprites/spr_playerSP_cotton_attack/spr_playerSP_cotton_attack.yy",},"LayerId":{"name":"71467583-07f0-498b-adb8-a314e2347343","path":"sprites/spr_playerSP_cotton_attack/spr_playerSP_cotton_attack.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-      ],"parent":{"name":"spr_playerSP_cotton_attack","path":"sprites/spr_playerSP_cotton_attack/spr_playerSP_cotton_attack.yy",},"resourceVersion":"1.0","name":"634fed0e-e73d-4645-97fd-6758ce7b3fa4","tags":[],"resourceType":"GMSpriteFrame",},
-    {"compositeImage":{"FrameId":{"name":"e95f81e4-1ccf-48ac-8e12-710a081bbe6d","path":"sprites/spr_playerSP_cotton_attack/spr_playerSP_cotton_attack.yy",},"LayerId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"e95f81e4-1ccf-48ac-8e12-710a081bbe6d","path":"sprites/spr_playerSP_cotton_attack/spr_playerSP_cotton_attack.yy",},"LayerId":{"name":"71467583-07f0-498b-adb8-a314e2347343","path":"sprites/spr_playerSP_cotton_attack/spr_playerSP_cotton_attack.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-      ],"parent":{"name":"spr_playerSP_cotton_attack","path":"sprites/spr_playerSP_cotton_attack/spr_playerSP_cotton_attack.yy",},"resourceVersion":"1.0","name":"e95f81e4-1ccf-48ac-8e12-710a081bbe6d","tags":[],"resourceType":"GMSpriteFrame",},
-    {"compositeImage":{"FrameId":{"name":"c05337a1-40e3-41eb-b4c7-02e3543a3d49","path":"sprites/spr_playerSP_cotton_attack/spr_playerSP_cotton_attack.yy",},"LayerId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"c05337a1-40e3-41eb-b4c7-02e3543a3d49","path":"sprites/spr_playerSP_cotton_attack/spr_playerSP_cotton_attack.yy",},"LayerId":{"name":"71467583-07f0-498b-adb8-a314e2347343","path":"sprites/spr_playerSP_cotton_attack/spr_playerSP_cotton_attack.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-      ],"parent":{"name":"spr_playerSP_cotton_attack","path":"sprites/spr_playerSP_cotton_attack/spr_playerSP_cotton_attack.yy",},"resourceVersion":"1.0","name":"c05337a1-40e3-41eb-b4c7-02e3543a3d49","tags":[],"resourceType":"GMSpriteFrame",},
-    {"compositeImage":{"FrameId":{"name":"23072670-f825-4991-93d1-b2327a7621c1","path":"sprites/spr_playerSP_cotton_attack/spr_playerSP_cotton_attack.yy",},"LayerId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"23072670-f825-4991-93d1-b2327a7621c1","path":"sprites/spr_playerSP_cotton_attack/spr_playerSP_cotton_attack.yy",},"LayerId":{"name":"71467583-07f0-498b-adb8-a314e2347343","path":"sprites/spr_playerSP_cotton_attack/spr_playerSP_cotton_attack.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-      ],"parent":{"name":"spr_playerSP_cotton_attack","path":"sprites/spr_playerSP_cotton_attack/spr_playerSP_cotton_attack.yy",},"resourceVersion":"1.0","name":"23072670-f825-4991-93d1-b2327a7621c1","tags":[],"resourceType":"GMSpriteFrame",},
-    {"compositeImage":{"FrameId":{"name":"e280ee35-d4ad-4e8a-b7c6-89769286040c","path":"sprites/spr_playerSP_cotton_attack/spr_playerSP_cotton_attack.yy",},"LayerId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"e280ee35-d4ad-4e8a-b7c6-89769286040c","path":"sprites/spr_playerSP_cotton_attack/spr_playerSP_cotton_attack.yy",},"LayerId":{"name":"71467583-07f0-498b-adb8-a314e2347343","path":"sprites/spr_playerSP_cotton_attack/spr_playerSP_cotton_attack.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-      ],"parent":{"name":"spr_playerSP_cotton_attack","path":"sprites/spr_playerSP_cotton_attack/spr_playerSP_cotton_attack.yy",},"resourceVersion":"1.0","name":"e280ee35-d4ad-4e8a-b7c6-89769286040c","tags":[],"resourceType":"GMSpriteFrame",},
+    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"b2caea90-baf9-4c7d-9c38-137dd2ef253f",},
+    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"54edd286-2b62-4224-a589-5e868dcf89f7",},
+    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"31fe91af-2a0d-410c-90a1-3ed90f6c54b3",},
+    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"634fed0e-e73d-4645-97fd-6758ce7b3fa4",},
+    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"e95f81e4-1ccf-48ac-8e12-710a081bbe6d",},
+    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"c05337a1-40e3-41eb-b4c7-02e3543a3d49",},
+    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"23072670-f825-4991-93d1-b2327a7621c1",},
+    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"e280ee35-d4ad-4e8a-b7c6-89769286040c",},
   ],
   "sequence": {
-    "spriteId": {"name":"spr_playerSP_cotton_attack","path":"sprites/spr_playerSP_cotton_attack/spr_playerSP_cotton_attack.yy",},
+    "resourceType": "GMSequence",
+    "resourceVersion": "1.4",
+    "name": "spr_playerSP_cotton_attack",
     "timeUnits": 1,
     "playback": 1,
     "playbackSpeed": 1.0,
@@ -64,7 +54,7 @@
     "events": {"Keyframes":[],"resourceVersion":"1.0","resourceType":"KeyframeStore<MessageEventKeyframe>",},
     "moments": {"Keyframes":[],"resourceVersion":"1.0","resourceType":"KeyframeStore<MomentsEventKeyframe>",},
     "tracks": [
-      {"name":"frames","spriteId":null,"keyframes":{"Keyframes":[
+      {"resourceType":"GMSpriteFramesTrack","resourceVersion":"1.0","name":"frames","spriteId":null,"keyframes":{"Keyframes":[
             {"id":"76206569-25eb-44ec-8d74-b03f18be7dd5","Key":0.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"b2caea90-baf9-4c7d-9c38-137dd2ef253f","path":"sprites/spr_playerSP_cotton_attack/spr_playerSP_cotton_attack.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
             {"id":"7401f6e8-31e9-4055-8fe2-724cbe9708e5","Key":1.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"54edd286-2b62-4224-a589-5e868dcf89f7","path":"sprites/spr_playerSP_cotton_attack/spr_playerSP_cotton_attack.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
             {"id":"d0ed1e2c-df2e-4c51-b347-cd917ef055e8","Key":2.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"31fe91af-2a0d-410c-90a1-3ed90f6c54b3","path":"sprites/spr_playerSP_cotton_attack/spr_playerSP_cotton_attack.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
@@ -73,7 +63,7 @@
             {"id":"88f4c15b-e150-4d72-8f49-6731070e6d78","Key":5.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"c05337a1-40e3-41eb-b4c7-02e3543a3d49","path":"sprites/spr_playerSP_cotton_attack/spr_playerSP_cotton_attack.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
             {"id":"b46fcfae-184f-4af7-b1eb-35ae4f9c1c35","Key":6.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"23072670-f825-4991-93d1-b2327a7621c1","path":"sprites/spr_playerSP_cotton_attack/spr_playerSP_cotton_attack.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
             {"id":"92555c97-e714-4d2b-b466-90ae1930df9c","Key":7.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"e280ee35-d4ad-4e8a-b7c6-89769286040c","path":"sprites/spr_playerSP_cotton_attack/spr_playerSP_cotton_attack.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
-          ],"resourceVersion":"1.0","resourceType":"KeyframeStore<SpriteFrameKeyframe>",},"trackColour":0,"inheritsTrackColour":true,"builtinName":0,"traits":0,"interpolation":1,"tracks":[],"events":[],"isCreationTrack":false,"resourceVersion":"1.0","tags":[],"resourceType":"GMSpriteFramesTrack","modifiers":[],},
+          ],"resourceVersion":"1.0","resourceType":"KeyframeStore<SpriteFrameKeyframe>",},"trackColour":0,"inheritsTrackColour":true,"builtinName":0,"traits":0,"interpolation":1,"tracks":[],"events":[],"isCreationTrack":false,"modifiers":[],},
     ],
     "visibleRange": null,
     "lockOrigin": false,
@@ -89,22 +79,13 @@
     "yorigin": 50,
     "eventToFunction": {},
     "eventStubScript": null,
-    "parent": {"name":"spr_playerSP_cotton_attack","path":"sprites/spr_playerSP_cotton_attack/spr_playerSP_cotton_attack.yy",},
-    "resourceVersion": "1.4",
-    "name": "spr_playerSP_cotton_attack",
-    "tags": [],
-    "resourceType": "GMSequence",
   },
   "layers": [
-    {"visible":true,"isLocked":false,"blendMode":0,"opacity":100.0,"displayName":"default","resourceVersion":"1.0","name":"71467583-07f0-498b-adb8-a314e2347343","tags":[],"resourceType":"GMImageLayer",},
+    {"resourceType":"GMImageLayer","resourceVersion":"1.0","name":"71467583-07f0-498b-adb8-a314e2347343","visible":true,"isLocked":false,"blendMode":0,"opacity":100.0,"displayName":"default",},
   ],
   "nineSlice": null,
   "parent": {
     "name": "cotton",
     "path": "folders/Sprites/players/pizzelle/transfo/cotton.yy",
   },
-  "resourceVersion": "1.0",
-  "name": "spr_playerSP_cotton_attack",
-  "tags": [],
-  "resourceType": "GMSprite",
 }

@@ -1,4 +1,7 @@
 {
+  "resourceType": "GMSprite",
+  "resourceVersion": "1.0",
+  "name": "spr_pizzacuttersaw",
   "bboxMode": 0,
   "collisionKind": 4,
   "type": 0,
@@ -14,6 +17,7 @@
   "HTile": false,
   "VTile": false,
   "For3D": false,
+  "DynamicTexturePage": false,
   "width": 64,
   "height": 130,
   "textureGroupId": {
@@ -24,18 +28,14 @@
   "gridX": 0,
   "gridY": 0,
   "frames": [
-    {"compositeImage":{"FrameId":{"name":"9e60385f-7e55-487f-909f-0852420f62f7","path":"sprites/spr_pizzacuttersaw/spr_pizzacuttersaw.yy",},"LayerId":null,"resourceVersion":"1.0","name":"composite","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"9e60385f-7e55-487f-909f-0852420f62f7","path":"sprites/spr_pizzacuttersaw/spr_pizzacuttersaw.yy",},"LayerId":{"name":"06cbdfb7-e13e-4293-99b1-2b863b4d7b79","path":"sprites/spr_pizzacuttersaw/spr_pizzacuttersaw.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-      ],"parent":{"name":"spr_pizzacuttersaw","path":"sprites/spr_pizzacuttersaw/spr_pizzacuttersaw.yy",},"resourceVersion":"1.0","name":"9e60385f-7e55-487f-909f-0852420f62f7","tags":[],"resourceType":"GMSpriteFrame",},
-    {"compositeImage":{"FrameId":{"name":"9192a38e-388b-48a5-82a6-33cf2eb762ee","path":"sprites/spr_pizzacuttersaw/spr_pizzacuttersaw.yy",},"LayerId":null,"resourceVersion":"1.0","name":"composite","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"9192a38e-388b-48a5-82a6-33cf2eb762ee","path":"sprites/spr_pizzacuttersaw/spr_pizzacuttersaw.yy",},"LayerId":{"name":"06cbdfb7-e13e-4293-99b1-2b863b4d7b79","path":"sprites/spr_pizzacuttersaw/spr_pizzacuttersaw.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-      ],"parent":{"name":"spr_pizzacuttersaw","path":"sprites/spr_pizzacuttersaw/spr_pizzacuttersaw.yy",},"resourceVersion":"1.0","name":"9192a38e-388b-48a5-82a6-33cf2eb762ee","tags":[],"resourceType":"GMSpriteFrame",},
-    {"compositeImage":{"FrameId":{"name":"b1ce980b-98c3-4a80-a0ed-9bb72bd95488","path":"sprites/spr_pizzacuttersaw/spr_pizzacuttersaw.yy",},"LayerId":null,"resourceVersion":"1.0","name":"composite","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"b1ce980b-98c3-4a80-a0ed-9bb72bd95488","path":"sprites/spr_pizzacuttersaw/spr_pizzacuttersaw.yy",},"LayerId":{"name":"06cbdfb7-e13e-4293-99b1-2b863b4d7b79","path":"sprites/spr_pizzacuttersaw/spr_pizzacuttersaw.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-      ],"parent":{"name":"spr_pizzacuttersaw","path":"sprites/spr_pizzacuttersaw/spr_pizzacuttersaw.yy",},"resourceVersion":"1.0","name":"b1ce980b-98c3-4a80-a0ed-9bb72bd95488","tags":[],"resourceType":"GMSpriteFrame",},
+    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"9e60385f-7e55-487f-909f-0852420f62f7",},
+    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"9192a38e-388b-48a5-82a6-33cf2eb762ee",},
+    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"b1ce980b-98c3-4a80-a0ed-9bb72bd95488",},
   ],
   "sequence": {
-    "spriteId": {"name":"spr_pizzacuttersaw","path":"sprites/spr_pizzacuttersaw/spr_pizzacuttersaw.yy",},
+    "resourceType": "GMSequence",
+    "resourceVersion": "1.4",
+    "name": "",
     "timeUnits": 1,
     "playback": 1,
     "playbackSpeed": 1.0,
@@ -46,11 +46,11 @@
     "events": {"Keyframes":[],"resourceVersion":"1.0","resourceType":"KeyframeStore<MessageEventKeyframe>",},
     "moments": {"Keyframes":[],"resourceVersion":"1.0","resourceType":"KeyframeStore<MomentsEventKeyframe>",},
     "tracks": [
-      {"name":"frames","spriteId":null,"keyframes":{"Keyframes":[
+      {"resourceType":"GMSpriteFramesTrack","resourceVersion":"1.0","name":"frames","spriteId":null,"keyframes":{"Keyframes":[
             {"id":"5d738d87-6216-4167-bd2a-585ca1ea02ba","Key":0.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"9e60385f-7e55-487f-909f-0852420f62f7","path":"sprites/spr_pizzacuttersaw/spr_pizzacuttersaw.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
             {"id":"917ea54b-aa4e-42e9-b6ce-d94abd0aee54","Key":1.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"9192a38e-388b-48a5-82a6-33cf2eb762ee","path":"sprites/spr_pizzacuttersaw/spr_pizzacuttersaw.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
             {"id":"eb769c04-54da-4730-b167-42ab9e0061a0","Key":2.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"b1ce980b-98c3-4a80-a0ed-9bb72bd95488","path":"sprites/spr_pizzacuttersaw/spr_pizzacuttersaw.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
-          ],"resourceVersion":"1.0","resourceType":"KeyframeStore<SpriteFrameKeyframe>",},"trackColour":0,"inheritsTrackColour":true,"builtinName":0,"traits":0,"interpolation":1,"tracks":[],"events":[],"isCreationTrack":false,"resourceVersion":"1.0","tags":[],"resourceType":"GMSpriteFramesTrack","modifiers":[],},
+          ],"resourceVersion":"1.0","resourceType":"KeyframeStore<SpriteFrameKeyframe>",},"trackColour":0,"inheritsTrackColour":true,"builtinName":0,"traits":0,"interpolation":1,"tracks":[],"events":[],"isCreationTrack":false,"modifiers":[],},
     ],
     "visibleRange": null,
     "lockOrigin": false,
@@ -66,22 +66,13 @@
     "yorigin": 119,
     "eventToFunction": {},
     "eventStubScript": null,
-    "parent": {"name":"spr_pizzacuttersaw","path":"sprites/spr_pizzacuttersaw/spr_pizzacuttersaw.yy",},
-    "resourceVersion": "1.4",
-    "name": "",
-    "tags": [],
-    "resourceType": "GMSequence",
   },
   "layers": [
-    {"visible":true,"isLocked":false,"blendMode":0,"opacity":100.0,"displayName":"default","resourceVersion":"1.0","name":"06cbdfb7-e13e-4293-99b1-2b863b4d7b79","tags":[],"resourceType":"GMImageLayer",},
+    {"resourceType":"GMImageLayer","resourceVersion":"1.0","name":"06cbdfb7-e13e-4293-99b1-2b863b4d7b79","visible":true,"isLocked":false,"blendMode":0,"opacity":100.0,"displayName":"default",},
   ],
   "nineSlice": null,
   "parent": {
     "name": "others",
     "path": "folders/Sprites/others.yy",
   },
-  "resourceVersion": "1.0",
-  "name": "spr_pizzacuttersaw",
-  "tags": [],
-  "resourceType": "GMSprite",
 }

@@ -1,4 +1,7 @@
 {
+  "resourceType": "GMSprite",
+  "resourceVersion": "1.0",
+  "name": "bg_minigolf4",
   "ConfigValues": {
     "debug": {"textureGroupId":"{\"name\":\"tg_golf\",\"path\":\"texturegroups/tg_golf\"}",},
   },
@@ -17,6 +20,7 @@
   "HTile": false,
   "VTile": false,
   "For3D": false,
+  "DynamicTexturePage": false,
   "width": 1100,
   "height": 540,
   "textureGroupId": {
@@ -27,12 +31,12 @@
   "gridX": 0,
   "gridY": 0,
   "frames": [
-    {"compositeImage":{"FrameId":{"name":"fa64f5a0-0139-4011-8014-87531001270e","path":"sprites/bg_minigolf4/bg_minigolf4.yy",},"LayerId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"fa64f5a0-0139-4011-8014-87531001270e","path":"sprites/bg_minigolf4/bg_minigolf4.yy",},"LayerId":{"name":"1bb100d1-11f0-4ebd-ae77-4c7cdc4d5cee","path":"sprites/bg_minigolf4/bg_minigolf4.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-      ],"parent":{"name":"bg_minigolf4","path":"sprites/bg_minigolf4/bg_minigolf4.yy",},"resourceVersion":"1.0","name":"fa64f5a0-0139-4011-8014-87531001270e","tags":[],"resourceType":"GMSpriteFrame",},
+    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"fa64f5a0-0139-4011-8014-87531001270e",},
   ],
   "sequence": {
-    "spriteId": {"name":"bg_minigolf4","path":"sprites/bg_minigolf4/bg_minigolf4.yy",},
+    "resourceType": "GMSequence",
+    "resourceVersion": "1.4",
+    "name": "bg_minigolf4",
     "timeUnits": 1,
     "playback": 1,
     "playbackSpeed": 1.0,
@@ -43,9 +47,9 @@
     "events": {"Keyframes":[],"resourceVersion":"1.0","resourceType":"KeyframeStore<MessageEventKeyframe>",},
     "moments": {"Keyframes":[],"resourceVersion":"1.0","resourceType":"KeyframeStore<MomentsEventKeyframe>",},
     "tracks": [
-      {"name":"frames","spriteId":null,"keyframes":{"Keyframes":[
+      {"resourceType":"GMSpriteFramesTrack","resourceVersion":"1.0","name":"frames","spriteId":null,"keyframes":{"Keyframes":[
             {"id":"99eac481-eb41-4e6d-ba3c-02147da667b8","Key":0.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"fa64f5a0-0139-4011-8014-87531001270e","path":"sprites/bg_minigolf4/bg_minigolf4.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
-          ],"resourceVersion":"1.0","resourceType":"KeyframeStore<SpriteFrameKeyframe>",},"trackColour":0,"inheritsTrackColour":true,"builtinName":0,"traits":0,"interpolation":1,"tracks":[],"events":[],"isCreationTrack":false,"resourceVersion":"1.0","tags":[],"resourceType":"GMSpriteFramesTrack","modifiers":[],},
+          ],"resourceVersion":"1.0","resourceType":"KeyframeStore<SpriteFrameKeyframe>",},"trackColour":0,"inheritsTrackColour":true,"builtinName":0,"traits":0,"interpolation":1,"tracks":[],"events":[],"isCreationTrack":false,"modifiers":[],},
     ],
     "visibleRange": null,
     "lockOrigin": false,
@@ -61,22 +65,13 @@
     "yorigin": 0,
     "eventToFunction": {},
     "eventStubScript": null,
-    "parent": {"name":"bg_minigolf4","path":"sprites/bg_minigolf4/bg_minigolf4.yy",},
-    "resourceVersion": "1.4",
-    "name": "bg_minigolf4",
-    "tags": [],
-    "resourceType": "GMSequence",
   },
   "layers": [
-    {"visible":true,"isLocked":false,"blendMode":0,"opacity":100.0,"displayName":"default","resourceVersion":"1.0","name":"1bb100d1-11f0-4ebd-ae77-4c7cdc4d5cee","tags":[],"resourceType":"GMImageLayer",},
+    {"resourceType":"GMImageLayer","resourceVersion":"1.0","name":"1bb100d1-11f0-4ebd-ae77-4c7cdc4d5cee","visible":true,"isLocked":false,"blendMode":0,"opacity":100.0,"displayName":"default",},
   ],
   "nineSlice": null,
   "parent": {
     "name": "minigolf",
     "path": "folders/Sprites/tilesets/minigolf.yy",
   },
-  "resourceVersion": "1.0",
-  "name": "bg_minigolf4",
-  "tags": [],
-  "resourceType": "GMSprite",
 }

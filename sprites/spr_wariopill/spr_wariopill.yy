@@ -1,4 +1,7 @@
 {
+  "resourceType": "GMSprite",
+  "resourceVersion": "1.0",
+  "name": "spr_wariopill",
   "bboxMode": 0,
   "collisionKind": 1,
   "type": 0,
@@ -14,6 +17,7 @@
   "HTile": false,
   "VTile": false,
   "For3D": false,
+  "DynamicTexturePage": false,
   "width": 32,
   "height": 32,
   "textureGroupId": {
@@ -24,18 +28,14 @@
   "gridX": 0,
   "gridY": 0,
   "frames": [
-    {"compositeImage":{"FrameId":{"name":"2afc50ff-01d0-4e5f-84a9-c9ef7d5c0635","path":"sprites/spr_wariopill/spr_wariopill.yy",},"LayerId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"2afc50ff-01d0-4e5f-84a9-c9ef7d5c0635","path":"sprites/spr_wariopill/spr_wariopill.yy",},"LayerId":{"name":"3a37791b-09ef-4d0e-a36c-5cb5b0b83fea","path":"sprites/spr_wariopill/spr_wariopill.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-      ],"parent":{"name":"spr_wariopill","path":"sprites/spr_wariopill/spr_wariopill.yy",},"resourceVersion":"1.0","name":"2afc50ff-01d0-4e5f-84a9-c9ef7d5c0635","tags":[],"resourceType":"GMSpriteFrame",},
-    {"compositeImage":{"FrameId":{"name":"18cdb5c5-1d39-46ba-bd1d-b6650c098a98","path":"sprites/spr_wariopill/spr_wariopill.yy",},"LayerId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"18cdb5c5-1d39-46ba-bd1d-b6650c098a98","path":"sprites/spr_wariopill/spr_wariopill.yy",},"LayerId":{"name":"3a37791b-09ef-4d0e-a36c-5cb5b0b83fea","path":"sprites/spr_wariopill/spr_wariopill.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-      ],"parent":{"name":"spr_wariopill","path":"sprites/spr_wariopill/spr_wariopill.yy",},"resourceVersion":"1.0","name":"18cdb5c5-1d39-46ba-bd1d-b6650c098a98","tags":[],"resourceType":"GMSpriteFrame",},
-    {"compositeImage":{"FrameId":{"name":"ae4a3c1e-91d9-4769-bf81-db7ca4b88253","path":"sprites/spr_wariopill/spr_wariopill.yy",},"LayerId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"ae4a3c1e-91d9-4769-bf81-db7ca4b88253","path":"sprites/spr_wariopill/spr_wariopill.yy",},"LayerId":{"name":"3a37791b-09ef-4d0e-a36c-5cb5b0b83fea","path":"sprites/spr_wariopill/spr_wariopill.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-      ],"parent":{"name":"spr_wariopill","path":"sprites/spr_wariopill/spr_wariopill.yy",},"resourceVersion":"1.0","name":"ae4a3c1e-91d9-4769-bf81-db7ca4b88253","tags":[],"resourceType":"GMSpriteFrame",},
+    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"2afc50ff-01d0-4e5f-84a9-c9ef7d5c0635",},
+    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"18cdb5c5-1d39-46ba-bd1d-b6650c098a98",},
+    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"ae4a3c1e-91d9-4769-bf81-db7ca4b88253",},
   ],
   "sequence": {
-    "spriteId": {"name":"spr_wariopill","path":"sprites/spr_wariopill/spr_wariopill.yy",},
+    "resourceType": "GMSequence",
+    "resourceVersion": "1.4",
+    "name": "spr_wariopill",
     "timeUnits": 1,
     "playback": 1,
     "playbackSpeed": 1.0,
@@ -46,11 +46,11 @@
     "events": {"Keyframes":[],"resourceVersion":"1.0","resourceType":"KeyframeStore<MessageEventKeyframe>",},
     "moments": {"Keyframes":[],"resourceVersion":"1.0","resourceType":"KeyframeStore<MomentsEventKeyframe>",},
     "tracks": [
-      {"name":"frames","spriteId":null,"keyframes":{"Keyframes":[
+      {"resourceType":"GMSpriteFramesTrack","resourceVersion":"1.0","name":"frames","spriteId":null,"keyframes":{"Keyframes":[
             {"id":"d4472ccf-ce4f-4b37-9d56-e341bb2341ff","Key":0.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"2afc50ff-01d0-4e5f-84a9-c9ef7d5c0635","path":"sprites/spr_wariopill/spr_wariopill.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
             {"id":"45d48b1b-206b-4943-bbc3-2042b8e7f49c","Key":1.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"18cdb5c5-1d39-46ba-bd1d-b6650c098a98","path":"sprites/spr_wariopill/spr_wariopill.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
             {"id":"118e278a-9bcb-4bbd-8bf6-c2b7301e4b01","Key":2.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"ae4a3c1e-91d9-4769-bf81-db7ca4b88253","path":"sprites/spr_wariopill/spr_wariopill.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
-          ],"resourceVersion":"1.0","resourceType":"KeyframeStore<SpriteFrameKeyframe>",},"trackColour":0,"inheritsTrackColour":true,"builtinName":0,"traits":0,"interpolation":1,"tracks":[],"events":[],"isCreationTrack":false,"resourceVersion":"1.0","tags":[],"resourceType":"GMSpriteFramesTrack","modifiers":[],},
+          ],"resourceVersion":"1.0","resourceType":"KeyframeStore<SpriteFrameKeyframe>",},"trackColour":0,"inheritsTrackColour":true,"builtinName":0,"traits":0,"interpolation":1,"tracks":[],"events":[],"isCreationTrack":false,"modifiers":[],},
     ],
     "visibleRange": null,
     "lockOrigin": false,
@@ -66,22 +66,13 @@
     "yorigin": 0,
     "eventToFunction": {},
     "eventStubScript": null,
-    "parent": {"name":"spr_wariopill","path":"sprites/spr_wariopill/spr_wariopill.yy",},
-    "resourceVersion": "1.4",
-    "name": "spr_wariopill",
-    "tags": [],
-    "resourceType": "GMSequence",
   },
   "layers": [
-    {"visible":true,"isLocked":false,"blendMode":0,"opacity":100.0,"displayName":"default","resourceVersion":"1.0","name":"3a37791b-09ef-4d0e-a36c-5cb5b0b83fea","tags":[],"resourceType":"GMImageLayer",},
+    {"resourceType":"GMImageLayer","resourceVersion":"1.0","name":"3a37791b-09ef-4d0e-a36c-5cb5b0b83fea","visible":true,"isLocked":false,"blendMode":0,"opacity":100.0,"displayName":"default",},
   ],
   "nineSlice": null,
   "parent": {
     "name": "PTO extra",
     "path": "folders/Sprites/PTO extra.yy",
   },
-  "resourceVersion": "1.0",
-  "name": "spr_wariopill",
-  "tags": [],
-  "resourceType": "GMSprite",
 }

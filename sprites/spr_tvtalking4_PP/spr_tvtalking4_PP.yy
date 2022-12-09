@@ -1,4 +1,7 @@
 {
+  "resourceType": "GMSprite",
+  "resourceVersion": "1.0",
+  "name": "spr_tvtalking4_PP",
   "bboxMode": 0,
   "collisionKind": 1,
   "type": 0,
@@ -14,6 +17,7 @@
   "HTile": false,
   "VTile": false,
   "For3D": false,
+  "DynamicTexturePage": false,
   "width": 164,
   "height": 177,
   "textureGroupId": {
@@ -24,15 +28,13 @@
   "gridX": 0,
   "gridY": 0,
   "frames": [
-    {"compositeImage":{"FrameId":{"name":"90a8805c-104e-4a63-b8ad-1c1b36864b36","path":"sprites/spr_tvtalking4_PP/spr_tvtalking4_PP.yy",},"LayerId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"90a8805c-104e-4a63-b8ad-1c1b36864b36","path":"sprites/spr_tvtalking4_PP/spr_tvtalking4_PP.yy",},"LayerId":{"name":"a9992100-fa45-407e-866d-f5d927fe4cba","path":"sprites/spr_tvtalking4_PP/spr_tvtalking4_PP.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-      ],"parent":{"name":"spr_tvtalking4_PP","path":"sprites/spr_tvtalking4_PP/spr_tvtalking4_PP.yy",},"resourceVersion":"1.0","name":"90a8805c-104e-4a63-b8ad-1c1b36864b36","tags":[],"resourceType":"GMSpriteFrame",},
-    {"compositeImage":{"FrameId":{"name":"c7e51ec5-5c15-4ee5-922f-d49d603289f7","path":"sprites/spr_tvtalking4_PP/spr_tvtalking4_PP.yy",},"LayerId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"c7e51ec5-5c15-4ee5-922f-d49d603289f7","path":"sprites/spr_tvtalking4_PP/spr_tvtalking4_PP.yy",},"LayerId":{"name":"a9992100-fa45-407e-866d-f5d927fe4cba","path":"sprites/spr_tvtalking4_PP/spr_tvtalking4_PP.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-      ],"parent":{"name":"spr_tvtalking4_PP","path":"sprites/spr_tvtalking4_PP/spr_tvtalking4_PP.yy",},"resourceVersion":"1.0","name":"c7e51ec5-5c15-4ee5-922f-d49d603289f7","tags":[],"resourceType":"GMSpriteFrame",},
+    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"90a8805c-104e-4a63-b8ad-1c1b36864b36",},
+    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"c7e51ec5-5c15-4ee5-922f-d49d603289f7",},
   ],
   "sequence": {
-    "spriteId": {"name":"spr_tvtalking4_PP","path":"sprites/spr_tvtalking4_PP/spr_tvtalking4_PP.yy",},
+    "resourceType": "GMSequence",
+    "resourceVersion": "1.4",
+    "name": "spr_tvtalking4_PP",
     "timeUnits": 1,
     "playback": 1,
     "playbackSpeed": 1.0,
@@ -43,10 +45,10 @@
     "events": {"Keyframes":[],"resourceVersion":"1.0","resourceType":"KeyframeStore<MessageEventKeyframe>",},
     "moments": {"Keyframes":[],"resourceVersion":"1.0","resourceType":"KeyframeStore<MomentsEventKeyframe>",},
     "tracks": [
-      {"name":"frames","spriteId":null,"keyframes":{"Keyframes":[
+      {"resourceType":"GMSpriteFramesTrack","resourceVersion":"1.0","name":"frames","spriteId":null,"keyframes":{"Keyframes":[
             {"id":"b93f2c77-93ab-43cc-b3c7-200ee92ce29d","Key":0.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"90a8805c-104e-4a63-b8ad-1c1b36864b36","path":"sprites/spr_tvtalking4_PP/spr_tvtalking4_PP.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
             {"id":"16bb4041-2b13-4078-ac6b-9c186b4eab28","Key":1.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"c7e51ec5-5c15-4ee5-922f-d49d603289f7","path":"sprites/spr_tvtalking4_PP/spr_tvtalking4_PP.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
-          ],"resourceVersion":"1.0","resourceType":"KeyframeStore<SpriteFrameKeyframe>",},"trackColour":0,"inheritsTrackColour":true,"builtinName":0,"traits":0,"interpolation":1,"tracks":[],"events":[],"isCreationTrack":false,"resourceVersion":"1.0","tags":[],"resourceType":"GMSpriteFramesTrack","modifiers":[],},
+          ],"resourceVersion":"1.0","resourceType":"KeyframeStore<SpriteFrameKeyframe>",},"trackColour":0,"inheritsTrackColour":true,"builtinName":0,"traits":0,"interpolation":1,"tracks":[],"events":[],"isCreationTrack":false,"modifiers":[],},
     ],
     "visibleRange": null,
     "lockOrigin": false,
@@ -62,22 +64,13 @@
     "yorigin": 88,
     "eventToFunction": {},
     "eventStubScript": null,
-    "parent": {"name":"spr_tvtalking4_PP","path":"sprites/spr_tvtalking4_PP/spr_tvtalking4_PP.yy",},
-    "resourceVersion": "1.4",
-    "name": "spr_tvtalking4_PP",
-    "tags": [],
-    "resourceType": "GMSequence",
   },
   "layers": [
-    {"visible":true,"isLocked":false,"blendMode":0,"opacity":100.0,"displayName":"default","resourceVersion":"1.0","name":"a9992100-fa45-407e-866d-f5d927fe4cba","tags":[],"resourceType":"GMImageLayer",},
+    {"resourceType":"GMImageLayer","resourceVersion":"1.0","name":"a9992100-fa45-407e-866d-f5d927fe4cba","visible":true,"isLocked":false,"blendMode":0,"opacity":100.0,"displayName":"default",},
   ],
   "nineSlice": null,
   "parent": {
     "name": "hud (old)",
     "path": "folders/Sprites/players/pissino/hud (old).yy",
   },
-  "resourceVersion": "1.0",
-  "name": "spr_tvtalking4_PP",
-  "tags": [],
-  "resourceType": "GMSprite",
 }

@@ -1,4 +1,7 @@
 {
+  "resourceType": "GMSprite",
+  "resourceVersion": "1.0",
+  "name": "spr_coneballturn",
   "bboxMode": 0,
   "collisionKind": 1,
   "type": 0,
@@ -14,6 +17,7 @@
   "HTile": false,
   "VTile": false,
   "For3D": false,
+  "DynamicTexturePage": false,
   "width": 200,
   "height": 200,
   "textureGroupId": {
@@ -24,36 +28,20 @@
   "gridX": 0,
   "gridY": 0,
   "frames": [
-    {"compositeImage":{"FrameId":{"name":"cba3baae-6d52-43e8-9529-8cae32cc0ca4","path":"sprites/spr_coneballturn/spr_coneballturn.yy",},"LayerId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"cba3baae-6d52-43e8-9529-8cae32cc0ca4","path":"sprites/spr_coneballturn/spr_coneballturn.yy",},"LayerId":{"name":"83ce6695-d49f-427f-a307-76973de80a58","path":"sprites/spr_coneballturn/spr_coneballturn.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-      ],"parent":{"name":"spr_coneballturn","path":"sprites/spr_coneballturn/spr_coneballturn.yy",},"resourceVersion":"1.0","name":"cba3baae-6d52-43e8-9529-8cae32cc0ca4","tags":[],"resourceType":"GMSpriteFrame",},
-    {"compositeImage":{"FrameId":{"name":"3a323546-8a99-444d-b2fb-ff2ad2898b37","path":"sprites/spr_coneballturn/spr_coneballturn.yy",},"LayerId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"3a323546-8a99-444d-b2fb-ff2ad2898b37","path":"sprites/spr_coneballturn/spr_coneballturn.yy",},"LayerId":{"name":"83ce6695-d49f-427f-a307-76973de80a58","path":"sprites/spr_coneballturn/spr_coneballturn.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-      ],"parent":{"name":"spr_coneballturn","path":"sprites/spr_coneballturn/spr_coneballturn.yy",},"resourceVersion":"1.0","name":"3a323546-8a99-444d-b2fb-ff2ad2898b37","tags":[],"resourceType":"GMSpriteFrame",},
-    {"compositeImage":{"FrameId":{"name":"0b84598b-d1c0-4dea-a428-fcc8fb884930","path":"sprites/spr_coneballturn/spr_coneballturn.yy",},"LayerId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"0b84598b-d1c0-4dea-a428-fcc8fb884930","path":"sprites/spr_coneballturn/spr_coneballturn.yy",},"LayerId":{"name":"83ce6695-d49f-427f-a307-76973de80a58","path":"sprites/spr_coneballturn/spr_coneballturn.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-      ],"parent":{"name":"spr_coneballturn","path":"sprites/spr_coneballturn/spr_coneballturn.yy",},"resourceVersion":"1.0","name":"0b84598b-d1c0-4dea-a428-fcc8fb884930","tags":[],"resourceType":"GMSpriteFrame",},
-    {"compositeImage":{"FrameId":{"name":"cb7ec186-e2b4-460e-bdf6-c9032f3d2a3f","path":"sprites/spr_coneballturn/spr_coneballturn.yy",},"LayerId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"cb7ec186-e2b4-460e-bdf6-c9032f3d2a3f","path":"sprites/spr_coneballturn/spr_coneballturn.yy",},"LayerId":{"name":"83ce6695-d49f-427f-a307-76973de80a58","path":"sprites/spr_coneballturn/spr_coneballturn.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-      ],"parent":{"name":"spr_coneballturn","path":"sprites/spr_coneballturn/spr_coneballturn.yy",},"resourceVersion":"1.0","name":"cb7ec186-e2b4-460e-bdf6-c9032f3d2a3f","tags":[],"resourceType":"GMSpriteFrame",},
-    {"compositeImage":{"FrameId":{"name":"ffef731e-f43e-42ee-bb90-f1273fdc2482","path":"sprites/spr_coneballturn/spr_coneballturn.yy",},"LayerId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"ffef731e-f43e-42ee-bb90-f1273fdc2482","path":"sprites/spr_coneballturn/spr_coneballturn.yy",},"LayerId":{"name":"83ce6695-d49f-427f-a307-76973de80a58","path":"sprites/spr_coneballturn/spr_coneballturn.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-      ],"parent":{"name":"spr_coneballturn","path":"sprites/spr_coneballturn/spr_coneballturn.yy",},"resourceVersion":"1.0","name":"ffef731e-f43e-42ee-bb90-f1273fdc2482","tags":[],"resourceType":"GMSpriteFrame",},
-    {"compositeImage":{"FrameId":{"name":"fea15e10-f2fc-4afb-a302-1c73069bbcac","path":"sprites/spr_coneballturn/spr_coneballturn.yy",},"LayerId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"fea15e10-f2fc-4afb-a302-1c73069bbcac","path":"sprites/spr_coneballturn/spr_coneballturn.yy",},"LayerId":{"name":"83ce6695-d49f-427f-a307-76973de80a58","path":"sprites/spr_coneballturn/spr_coneballturn.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-      ],"parent":{"name":"spr_coneballturn","path":"sprites/spr_coneballturn/spr_coneballturn.yy",},"resourceVersion":"1.0","name":"fea15e10-f2fc-4afb-a302-1c73069bbcac","tags":[],"resourceType":"GMSpriteFrame",},
-    {"compositeImage":{"FrameId":{"name":"99b8a341-ba39-40c7-aca6-372aa2f2df3d","path":"sprites/spr_coneballturn/spr_coneballturn.yy",},"LayerId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"99b8a341-ba39-40c7-aca6-372aa2f2df3d","path":"sprites/spr_coneballturn/spr_coneballturn.yy",},"LayerId":{"name":"83ce6695-d49f-427f-a307-76973de80a58","path":"sprites/spr_coneballturn/spr_coneballturn.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-      ],"parent":{"name":"spr_coneballturn","path":"sprites/spr_coneballturn/spr_coneballturn.yy",},"resourceVersion":"1.0","name":"99b8a341-ba39-40c7-aca6-372aa2f2df3d","tags":[],"resourceType":"GMSpriteFrame",},
-    {"compositeImage":{"FrameId":{"name":"3decba29-c012-4088-9068-890563c80910","path":"sprites/spr_coneballturn/spr_coneballturn.yy",},"LayerId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"3decba29-c012-4088-9068-890563c80910","path":"sprites/spr_coneballturn/spr_coneballturn.yy",},"LayerId":{"name":"83ce6695-d49f-427f-a307-76973de80a58","path":"sprites/spr_coneballturn/spr_coneballturn.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-      ],"parent":{"name":"spr_coneballturn","path":"sprites/spr_coneballturn/spr_coneballturn.yy",},"resourceVersion":"1.0","name":"3decba29-c012-4088-9068-890563c80910","tags":[],"resourceType":"GMSpriteFrame",},
-    {"compositeImage":{"FrameId":{"name":"4be7a1c4-4383-4f95-8a93-9d20e9626f9d","path":"sprites/spr_coneballturn/spr_coneballturn.yy",},"LayerId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"4be7a1c4-4383-4f95-8a93-9d20e9626f9d","path":"sprites/spr_coneballturn/spr_coneballturn.yy",},"LayerId":{"name":"83ce6695-d49f-427f-a307-76973de80a58","path":"sprites/spr_coneballturn/spr_coneballturn.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-      ],"parent":{"name":"spr_coneballturn","path":"sprites/spr_coneballturn/spr_coneballturn.yy",},"resourceVersion":"1.0","name":"4be7a1c4-4383-4f95-8a93-9d20e9626f9d","tags":[],"resourceType":"GMSpriteFrame",},
+    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"cba3baae-6d52-43e8-9529-8cae32cc0ca4",},
+    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"3a323546-8a99-444d-b2fb-ff2ad2898b37",},
+    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"0b84598b-d1c0-4dea-a428-fcc8fb884930",},
+    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"cb7ec186-e2b4-460e-bdf6-c9032f3d2a3f",},
+    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"ffef731e-f43e-42ee-bb90-f1273fdc2482",},
+    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"fea15e10-f2fc-4afb-a302-1c73069bbcac",},
+    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"99b8a341-ba39-40c7-aca6-372aa2f2df3d",},
+    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"3decba29-c012-4088-9068-890563c80910",},
+    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"4be7a1c4-4383-4f95-8a93-9d20e9626f9d",},
   ],
   "sequence": {
-    "spriteId": {"name":"spr_coneballturn","path":"sprites/spr_coneballturn/spr_coneballturn.yy",},
+    "resourceType": "GMSequence",
+    "resourceVersion": "1.4",
+    "name": "spr_coneballturn",
     "timeUnits": 1,
     "playback": 1,
     "playbackSpeed": 1.0,
@@ -64,7 +52,7 @@
     "events": {"Keyframes":[],"resourceVersion":"1.0","resourceType":"KeyframeStore<MessageEventKeyframe>",},
     "moments": {"Keyframes":[],"resourceVersion":"1.0","resourceType":"KeyframeStore<MomentsEventKeyframe>",},
     "tracks": [
-      {"name":"frames","spriteId":null,"keyframes":{"Keyframes":[
+      {"resourceType":"GMSpriteFramesTrack","resourceVersion":"1.0","name":"frames","spriteId":null,"keyframes":{"Keyframes":[
             {"id":"816926af-a766-488d-b077-ff252fdbe97a","Key":0.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"cba3baae-6d52-43e8-9529-8cae32cc0ca4","path":"sprites/spr_coneballturn/spr_coneballturn.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
             {"id":"3ffdbbe5-b2df-43a0-8cc5-106d4b26ac75","Key":1.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"3a323546-8a99-444d-b2fb-ff2ad2898b37","path":"sprites/spr_coneballturn/spr_coneballturn.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
             {"id":"89fc4693-a7d3-4497-b9da-b2bc1e5d3ab2","Key":2.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"0b84598b-d1c0-4dea-a428-fcc8fb884930","path":"sprites/spr_coneballturn/spr_coneballturn.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
@@ -74,7 +62,7 @@
             {"id":"6fd56195-8f27-4298-89de-0c2e8248e40e","Key":6.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"99b8a341-ba39-40c7-aca6-372aa2f2df3d","path":"sprites/spr_coneballturn/spr_coneballturn.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
             {"id":"d64e2c24-7f73-47b9-bffc-51cc3aeeedfc","Key":7.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"3decba29-c012-4088-9068-890563c80910","path":"sprites/spr_coneballturn/spr_coneballturn.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
             {"id":"d40ec38f-0ed6-416b-a18a-6e15b361b6a9","Key":8.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"4be7a1c4-4383-4f95-8a93-9d20e9626f9d","path":"sprites/spr_coneballturn/spr_coneballturn.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
-          ],"resourceVersion":"1.0","resourceType":"KeyframeStore<SpriteFrameKeyframe>",},"trackColour":0,"inheritsTrackColour":true,"builtinName":0,"traits":0,"interpolation":1,"tracks":[],"events":[],"isCreationTrack":false,"resourceVersion":"1.0","tags":[],"resourceType":"GMSpriteFramesTrack","modifiers":[],},
+          ],"resourceVersion":"1.0","resourceType":"KeyframeStore<SpriteFrameKeyframe>",},"trackColour":0,"inheritsTrackColour":true,"builtinName":0,"traits":0,"interpolation":1,"tracks":[],"events":[],"isCreationTrack":false,"modifiers":[],},
     ],
     "visibleRange": null,
     "lockOrigin": false,
@@ -90,22 +78,13 @@
     "yorigin": 100,
     "eventToFunction": {},
     "eventStubScript": null,
-    "parent": {"name":"spr_coneballturn","path":"sprites/spr_coneballturn/spr_coneballturn.yy",},
-    "resourceVersion": "1.4",
-    "name": "spr_coneballturn",
-    "tags": [],
-    "resourceType": "GMSequence",
   },
   "layers": [
-    {"visible":true,"isLocked":false,"blendMode":0,"opacity":100.0,"displayName":"default","resourceVersion":"1.0","name":"83ce6695-d49f-427f-a307-76973de80a58","tags":[],"resourceType":"GMImageLayer",},
+    {"resourceType":"GMImageLayer","resourceVersion":"1.0","name":"83ce6695-d49f-427f-a307-76973de80a58","visible":true,"isLocked":false,"blendMode":0,"opacity":100.0,"displayName":"default",},
   ],
   "nineSlice": null,
   "parent": {
     "name": "coneball",
     "path": "folders/Sprites/SUGARY SPIRE/coneball.yy",
   },
-  "resourceVersion": "1.0",
-  "name": "spr_coneballturn",
-  "tags": [],
-  "resourceType": "GMSprite",
 }

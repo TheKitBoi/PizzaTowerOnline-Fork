@@ -1,4 +1,7 @@
 {
+  "resourceType": "GMSprite",
+  "resourceVersion": "1.0",
+  "name": "spr_treasure1pick",
   "bboxMode": 0,
   "collisionKind": 1,
   "type": 0,
@@ -14,6 +17,7 @@
   "HTile": false,
   "VTile": false,
   "For3D": false,
+  "DynamicTexturePage": false,
   "width": 100,
   "height": 100,
   "textureGroupId": {
@@ -24,18 +28,14 @@
   "gridX": 0,
   "gridY": 0,
   "frames": [
-    {"compositeImage":{"FrameId":{"name":"e117db25-dbce-4c04-ae61-0f8557f51489","path":"sprites/spr_treasure1pick/spr_treasure1pick.yy",},"LayerId":null,"resourceVersion":"1.0","name":"composite","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"e117db25-dbce-4c04-ae61-0f8557f51489","path":"sprites/spr_treasure1pick/spr_treasure1pick.yy",},"LayerId":{"name":"76328491-2054-4090-82c0-af7727d08c19","path":"sprites/spr_treasure1pick/spr_treasure1pick.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-      ],"parent":{"name":"spr_treasure1pick","path":"sprites/spr_treasure1pick/spr_treasure1pick.yy",},"resourceVersion":"1.0","name":"e117db25-dbce-4c04-ae61-0f8557f51489","tags":[],"resourceType":"GMSpriteFrame",},
-    {"compositeImage":{"FrameId":{"name":"7ca6c232-246f-4dd6-8a88-cae3ddad972f","path":"sprites/spr_treasure1pick/spr_treasure1pick.yy",},"LayerId":null,"resourceVersion":"1.0","name":"composite","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"7ca6c232-246f-4dd6-8a88-cae3ddad972f","path":"sprites/spr_treasure1pick/spr_treasure1pick.yy",},"LayerId":{"name":"76328491-2054-4090-82c0-af7727d08c19","path":"sprites/spr_treasure1pick/spr_treasure1pick.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-      ],"parent":{"name":"spr_treasure1pick","path":"sprites/spr_treasure1pick/spr_treasure1pick.yy",},"resourceVersion":"1.0","name":"7ca6c232-246f-4dd6-8a88-cae3ddad972f","tags":[],"resourceType":"GMSpriteFrame",},
-    {"compositeImage":{"FrameId":{"name":"5f969615-6e97-4bfc-8542-00c90b286059","path":"sprites/spr_treasure1pick/spr_treasure1pick.yy",},"LayerId":null,"resourceVersion":"1.0","name":"composite","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"5f969615-6e97-4bfc-8542-00c90b286059","path":"sprites/spr_treasure1pick/spr_treasure1pick.yy",},"LayerId":{"name":"76328491-2054-4090-82c0-af7727d08c19","path":"sprites/spr_treasure1pick/spr_treasure1pick.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-      ],"parent":{"name":"spr_treasure1pick","path":"sprites/spr_treasure1pick/spr_treasure1pick.yy",},"resourceVersion":"1.0","name":"5f969615-6e97-4bfc-8542-00c90b286059","tags":[],"resourceType":"GMSpriteFrame",},
+    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"e117db25-dbce-4c04-ae61-0f8557f51489",},
+    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"7ca6c232-246f-4dd6-8a88-cae3ddad972f",},
+    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"5f969615-6e97-4bfc-8542-00c90b286059",},
   ],
   "sequence": {
-    "spriteId": {"name":"spr_treasure1pick","path":"sprites/spr_treasure1pick/spr_treasure1pick.yy",},
+    "resourceType": "GMSequence",
+    "resourceVersion": "1.4",
+    "name": "",
     "timeUnits": 1,
     "playback": 1,
     "playbackSpeed": 1.0,
@@ -46,11 +46,11 @@
     "events": {"Keyframes":[],"resourceVersion":"1.0","resourceType":"KeyframeStore<MessageEventKeyframe>",},
     "moments": {"Keyframes":[],"resourceVersion":"1.0","resourceType":"KeyframeStore<MomentsEventKeyframe>",},
     "tracks": [
-      {"name":"frames","spriteId":null,"keyframes":{"Keyframes":[
+      {"resourceType":"GMSpriteFramesTrack","resourceVersion":"1.0","name":"frames","spriteId":null,"keyframes":{"Keyframes":[
             {"id":"7af2808f-e039-4d0f-91da-d2079b925a72","Key":0.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"e117db25-dbce-4c04-ae61-0f8557f51489","path":"sprites/spr_treasure1pick/spr_treasure1pick.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
             {"id":"9fca26cd-df6c-4c67-b144-92e69ebf6b3a","Key":1.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"7ca6c232-246f-4dd6-8a88-cae3ddad972f","path":"sprites/spr_treasure1pick/spr_treasure1pick.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
             {"id":"b9c42bd4-bd4c-4c27-a56d-e43bb47610b1","Key":2.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"5f969615-6e97-4bfc-8542-00c90b286059","path":"sprites/spr_treasure1pick/spr_treasure1pick.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
-          ],"resourceVersion":"1.0","resourceType":"KeyframeStore<SpriteFrameKeyframe>",},"trackColour":0,"inheritsTrackColour":true,"builtinName":0,"traits":0,"interpolation":1,"tracks":[],"events":[],"isCreationTrack":false,"resourceVersion":"1.0","tags":[],"resourceType":"GMSpriteFramesTrack","modifiers":[],},
+          ],"resourceVersion":"1.0","resourceType":"KeyframeStore<SpriteFrameKeyframe>",},"trackColour":0,"inheritsTrackColour":true,"builtinName":0,"traits":0,"interpolation":1,"tracks":[],"events":[],"isCreationTrack":false,"modifiers":[],},
     ],
     "visibleRange": null,
     "lockOrigin": false,
@@ -66,22 +66,13 @@
     "yorigin": 55,
     "eventToFunction": {},
     "eventStubScript": null,
-    "parent": {"name":"spr_treasure1pick","path":"sprites/spr_treasure1pick/spr_treasure1pick.yy",},
-    "resourceVersion": "1.4",
-    "name": "",
-    "tags": [],
-    "resourceType": "GMSequence",
   },
   "layers": [
-    {"visible":true,"isLocked":false,"blendMode":0,"opacity":100.0,"displayName":"default","resourceVersion":"1.0","name":"76328491-2054-4090-82c0-af7727d08c19","tags":[],"resourceType":"GMImageLayer",},
+    {"resourceType":"GMImageLayer","resourceVersion":"1.0","name":"76328491-2054-4090-82c0-af7727d08c19","visible":true,"isLocked":false,"blendMode":0,"opacity":100.0,"displayName":"default",},
   ],
   "nineSlice": null,
   "parent": {
     "name": "collectibles",
     "path": "folders/Sprites/generalobjects/collectibles.yy",
   },
-  "resourceVersion": "1.0",
-  "name": "spr_treasure1pick",
-  "tags": [],
-  "resourceType": "GMSprite",
 }

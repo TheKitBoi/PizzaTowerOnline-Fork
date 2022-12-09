@@ -1,4 +1,7 @@
 {
+  "resourceType": "GMSprite",
+  "resourceVersion": "1.0",
+  "name": "spr_banditochicken_projectile",
   "ConfigValues": {
     "debug": {"textureGroupId":"{\"name\":\"tg_baddie\",\"path\":\"texturegroups/tg_baddie\"}",},
   },
@@ -17,6 +20,7 @@
   "HTile": false,
   "VTile": false,
   "For3D": false,
+  "DynamicTexturePage": false,
   "width": 100,
   "height": 100,
   "textureGroupId": {
@@ -27,33 +31,19 @@
   "gridX": 0,
   "gridY": 0,
   "frames": [
-    {"compositeImage":{"FrameId":{"name":"2a74e867-ae09-4f92-a221-6963ba083277","path":"sprites/spr_banditochicken_projectile/spr_banditochicken_projectile.yy",},"LayerId":null,"resourceVersion":"1.0","name":"composite","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"2a74e867-ae09-4f92-a221-6963ba083277","path":"sprites/spr_banditochicken_projectile/spr_banditochicken_projectile.yy",},"LayerId":{"name":"ea50fff8-b7ac-4144-9d13-56295c1d4dd6","path":"sprites/spr_banditochicken_projectile/spr_banditochicken_projectile.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-      ],"parent":{"name":"spr_banditochicken_projectile","path":"sprites/spr_banditochicken_projectile/spr_banditochicken_projectile.yy",},"resourceVersion":"1.0","name":"2a74e867-ae09-4f92-a221-6963ba083277","tags":[],"resourceType":"GMSpriteFrame",},
-    {"compositeImage":{"FrameId":{"name":"567e53b5-82a9-4b2c-9a43-2a573e9a4fa2","path":"sprites/spr_banditochicken_projectile/spr_banditochicken_projectile.yy",},"LayerId":null,"resourceVersion":"1.0","name":"composite","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"567e53b5-82a9-4b2c-9a43-2a573e9a4fa2","path":"sprites/spr_banditochicken_projectile/spr_banditochicken_projectile.yy",},"LayerId":{"name":"ea50fff8-b7ac-4144-9d13-56295c1d4dd6","path":"sprites/spr_banditochicken_projectile/spr_banditochicken_projectile.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-      ],"parent":{"name":"spr_banditochicken_projectile","path":"sprites/spr_banditochicken_projectile/spr_banditochicken_projectile.yy",},"resourceVersion":"1.0","name":"567e53b5-82a9-4b2c-9a43-2a573e9a4fa2","tags":[],"resourceType":"GMSpriteFrame",},
-    {"compositeImage":{"FrameId":{"name":"3b4f9df5-e3cc-4aba-89a3-cba9b9ac86bc","path":"sprites/spr_banditochicken_projectile/spr_banditochicken_projectile.yy",},"LayerId":null,"resourceVersion":"1.0","name":"composite","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"3b4f9df5-e3cc-4aba-89a3-cba9b9ac86bc","path":"sprites/spr_banditochicken_projectile/spr_banditochicken_projectile.yy",},"LayerId":{"name":"ea50fff8-b7ac-4144-9d13-56295c1d4dd6","path":"sprites/spr_banditochicken_projectile/spr_banditochicken_projectile.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-      ],"parent":{"name":"spr_banditochicken_projectile","path":"sprites/spr_banditochicken_projectile/spr_banditochicken_projectile.yy",},"resourceVersion":"1.0","name":"3b4f9df5-e3cc-4aba-89a3-cba9b9ac86bc","tags":[],"resourceType":"GMSpriteFrame",},
-    {"compositeImage":{"FrameId":{"name":"5db646af-0605-42d9-b022-a9144d393670","path":"sprites/spr_banditochicken_projectile/spr_banditochicken_projectile.yy",},"LayerId":null,"resourceVersion":"1.0","name":"composite","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"5db646af-0605-42d9-b022-a9144d393670","path":"sprites/spr_banditochicken_projectile/spr_banditochicken_projectile.yy",},"LayerId":{"name":"ea50fff8-b7ac-4144-9d13-56295c1d4dd6","path":"sprites/spr_banditochicken_projectile/spr_banditochicken_projectile.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-      ],"parent":{"name":"spr_banditochicken_projectile","path":"sprites/spr_banditochicken_projectile/spr_banditochicken_projectile.yy",},"resourceVersion":"1.0","name":"5db646af-0605-42d9-b022-a9144d393670","tags":[],"resourceType":"GMSpriteFrame",},
-    {"compositeImage":{"FrameId":{"name":"9f5afbcb-86de-4fe3-9016-e3d4e41fb3ca","path":"sprites/spr_banditochicken_projectile/spr_banditochicken_projectile.yy",},"LayerId":null,"resourceVersion":"1.0","name":"composite","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"9f5afbcb-86de-4fe3-9016-e3d4e41fb3ca","path":"sprites/spr_banditochicken_projectile/spr_banditochicken_projectile.yy",},"LayerId":{"name":"ea50fff8-b7ac-4144-9d13-56295c1d4dd6","path":"sprites/spr_banditochicken_projectile/spr_banditochicken_projectile.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-      ],"parent":{"name":"spr_banditochicken_projectile","path":"sprites/spr_banditochicken_projectile/spr_banditochicken_projectile.yy",},"resourceVersion":"1.0","name":"9f5afbcb-86de-4fe3-9016-e3d4e41fb3ca","tags":[],"resourceType":"GMSpriteFrame",},
-    {"compositeImage":{"FrameId":{"name":"88555422-4532-430c-b2ff-b0cf00c45d31","path":"sprites/spr_banditochicken_projectile/spr_banditochicken_projectile.yy",},"LayerId":null,"resourceVersion":"1.0","name":"composite","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"88555422-4532-430c-b2ff-b0cf00c45d31","path":"sprites/spr_banditochicken_projectile/spr_banditochicken_projectile.yy",},"LayerId":{"name":"ea50fff8-b7ac-4144-9d13-56295c1d4dd6","path":"sprites/spr_banditochicken_projectile/spr_banditochicken_projectile.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-      ],"parent":{"name":"spr_banditochicken_projectile","path":"sprites/spr_banditochicken_projectile/spr_banditochicken_projectile.yy",},"resourceVersion":"1.0","name":"88555422-4532-430c-b2ff-b0cf00c45d31","tags":[],"resourceType":"GMSpriteFrame",},
-    {"compositeImage":{"FrameId":{"name":"cad84d8b-805b-4e94-8b67-6ec91d3b4bd7","path":"sprites/spr_banditochicken_projectile/spr_banditochicken_projectile.yy",},"LayerId":null,"resourceVersion":"1.0","name":"composite","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"cad84d8b-805b-4e94-8b67-6ec91d3b4bd7","path":"sprites/spr_banditochicken_projectile/spr_banditochicken_projectile.yy",},"LayerId":{"name":"ea50fff8-b7ac-4144-9d13-56295c1d4dd6","path":"sprites/spr_banditochicken_projectile/spr_banditochicken_projectile.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-      ],"parent":{"name":"spr_banditochicken_projectile","path":"sprites/spr_banditochicken_projectile/spr_banditochicken_projectile.yy",},"resourceVersion":"1.0","name":"cad84d8b-805b-4e94-8b67-6ec91d3b4bd7","tags":[],"resourceType":"GMSpriteFrame",},
-    {"compositeImage":{"FrameId":{"name":"b79c8d0e-3419-41c8-b183-e2f10746279e","path":"sprites/spr_banditochicken_projectile/spr_banditochicken_projectile.yy",},"LayerId":null,"resourceVersion":"1.0","name":"composite","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"b79c8d0e-3419-41c8-b183-e2f10746279e","path":"sprites/spr_banditochicken_projectile/spr_banditochicken_projectile.yy",},"LayerId":{"name":"ea50fff8-b7ac-4144-9d13-56295c1d4dd6","path":"sprites/spr_banditochicken_projectile/spr_banditochicken_projectile.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-      ],"parent":{"name":"spr_banditochicken_projectile","path":"sprites/spr_banditochicken_projectile/spr_banditochicken_projectile.yy",},"resourceVersion":"1.0","name":"b79c8d0e-3419-41c8-b183-e2f10746279e","tags":[],"resourceType":"GMSpriteFrame",},
+    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"2a74e867-ae09-4f92-a221-6963ba083277",},
+    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"567e53b5-82a9-4b2c-9a43-2a573e9a4fa2",},
+    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"3b4f9df5-e3cc-4aba-89a3-cba9b9ac86bc",},
+    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"5db646af-0605-42d9-b022-a9144d393670",},
+    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"9f5afbcb-86de-4fe3-9016-e3d4e41fb3ca",},
+    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"88555422-4532-430c-b2ff-b0cf00c45d31",},
+    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"cad84d8b-805b-4e94-8b67-6ec91d3b4bd7",},
+    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"b79c8d0e-3419-41c8-b183-e2f10746279e",},
   ],
   "sequence": {
-    "spriteId": {"name":"spr_banditochicken_projectile","path":"sprites/spr_banditochicken_projectile/spr_banditochicken_projectile.yy",},
+    "resourceType": "GMSequence",
+    "resourceVersion": "1.4",
+    "name": "",
     "timeUnits": 1,
     "playback": 1,
     "playbackSpeed": 1.0,
@@ -64,7 +54,7 @@
     "events": {"Keyframes":[],"resourceVersion":"1.0","resourceType":"KeyframeStore<MessageEventKeyframe>",},
     "moments": {"Keyframes":[],"resourceVersion":"1.0","resourceType":"KeyframeStore<MomentsEventKeyframe>",},
     "tracks": [
-      {"name":"frames","spriteId":null,"keyframes":{"Keyframes":[
+      {"resourceType":"GMSpriteFramesTrack","resourceVersion":"1.0","name":"frames","spriteId":null,"keyframes":{"Keyframes":[
             {"id":"3c6a5a8d-ce2d-4755-a80a-c66a538034c4","Key":0.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"2a74e867-ae09-4f92-a221-6963ba083277","path":"sprites/spr_banditochicken_projectile/spr_banditochicken_projectile.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
             {"id":"98f76a14-4708-422a-999a-53838d5410d3","Key":1.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"567e53b5-82a9-4b2c-9a43-2a573e9a4fa2","path":"sprites/spr_banditochicken_projectile/spr_banditochicken_projectile.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
             {"id":"302a4b25-8903-4a51-9093-a5b8ebce99e3","Key":2.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"3b4f9df5-e3cc-4aba-89a3-cba9b9ac86bc","path":"sprites/spr_banditochicken_projectile/spr_banditochicken_projectile.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
@@ -73,7 +63,7 @@
             {"id":"001f5444-2a2e-4ca2-95fe-a7fad9ecc6f2","Key":5.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"88555422-4532-430c-b2ff-b0cf00c45d31","path":"sprites/spr_banditochicken_projectile/spr_banditochicken_projectile.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
             {"id":"3ca67df2-1850-4500-b882-af48b9a1b9be","Key":6.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"cad84d8b-805b-4e94-8b67-6ec91d3b4bd7","path":"sprites/spr_banditochicken_projectile/spr_banditochicken_projectile.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
             {"id":"9321ccef-8e6b-4472-ba3a-830b9e2e93b4","Key":7.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"b79c8d0e-3419-41c8-b183-e2f10746279e","path":"sprites/spr_banditochicken_projectile/spr_banditochicken_projectile.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
-          ],"resourceVersion":"1.0","resourceType":"KeyframeStore<SpriteFrameKeyframe>",},"trackColour":0,"inheritsTrackColour":true,"builtinName":0,"traits":0,"interpolation":1,"tracks":[],"events":[],"isCreationTrack":false,"resourceVersion":"1.0","tags":[],"resourceType":"GMSpriteFramesTrack","modifiers":[],},
+          ],"resourceVersion":"1.0","resourceType":"KeyframeStore<SpriteFrameKeyframe>",},"trackColour":0,"inheritsTrackColour":true,"builtinName":0,"traits":0,"interpolation":1,"tracks":[],"events":[],"isCreationTrack":false,"modifiers":[],},
     ],
     "visibleRange": null,
     "lockOrigin": false,
@@ -89,22 +79,13 @@
     "yorigin": 50,
     "eventToFunction": {},
     "eventStubScript": null,
-    "parent": {"name":"spr_banditochicken_projectile","path":"sprites/spr_banditochicken_projectile/spr_banditochicken_projectile.yy",},
-    "resourceVersion": "1.4",
-    "name": "",
-    "tags": [],
-    "resourceType": "GMSequence",
   },
   "layers": [
-    {"visible":true,"isLocked":false,"blendMode":0,"opacity":100.0,"displayName":"default","resourceVersion":"1.0","name":"ea50fff8-b7ac-4144-9d13-56295c1d4dd6","tags":[],"resourceType":"GMImageLayer",},
+    {"resourceType":"GMImageLayer","resourceVersion":"1.0","name":"ea50fff8-b7ac-4144-9d13-56295c1d4dd6","visible":true,"isLocked":false,"blendMode":0,"opacity":100.0,"displayName":"default",},
   ],
   "nineSlice": null,
   "parent": {
     "name": "banditochicken",
     "path": "folders/Sprites/baddie/banditochicken.yy",
   },
-  "resourceVersion": "1.0",
-  "name": "spr_banditochicken_projectile",
-  "tags": [],
-  "resourceType": "GMSprite",
 }

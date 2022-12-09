@@ -1,4 +1,7 @@
 {
+  "resourceType": "GMSprite",
+  "resourceVersion": "1.0",
+  "name": "spr_tv_shotgunSP",
   "bboxMode": 0,
   "collisionKind": 1,
   "type": 0,
@@ -14,6 +17,7 @@
   "HTile": false,
   "VTile": false,
   "For3D": false,
+  "DynamicTexturePage": false,
   "width": 278,
   "height": 268,
   "textureGroupId": {
@@ -24,15 +28,13 @@
   "gridX": 0,
   "gridY": 0,
   "frames": [
-    {"compositeImage":{"FrameId":{"name":"c5c2a6cd-6fe6-42db-b380-1db7fcf4aeb5","path":"sprites/spr_tv_shotgunSP/spr_tv_shotgunSP.yy",},"LayerId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"c5c2a6cd-6fe6-42db-b380-1db7fcf4aeb5","path":"sprites/spr_tv_shotgunSP/spr_tv_shotgunSP.yy",},"LayerId":{"name":"7486f0de-d089-46bf-8314-af61b3b2162c","path":"sprites/spr_tv_shotgunSP/spr_tv_shotgunSP.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-      ],"parent":{"name":"spr_tv_shotgunSP","path":"sprites/spr_tv_shotgunSP/spr_tv_shotgunSP.yy",},"resourceVersion":"1.0","name":"c5c2a6cd-6fe6-42db-b380-1db7fcf4aeb5","tags":[],"resourceType":"GMSpriteFrame",},
-    {"compositeImage":{"FrameId":{"name":"d02d1bcf-1559-48cf-bbee-785a2516d1b5","path":"sprites/spr_tv_shotgunSP/spr_tv_shotgunSP.yy",},"LayerId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"d02d1bcf-1559-48cf-bbee-785a2516d1b5","path":"sprites/spr_tv_shotgunSP/spr_tv_shotgunSP.yy",},"LayerId":{"name":"7486f0de-d089-46bf-8314-af61b3b2162c","path":"sprites/spr_tv_shotgunSP/spr_tv_shotgunSP.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-      ],"parent":{"name":"spr_tv_shotgunSP","path":"sprites/spr_tv_shotgunSP/spr_tv_shotgunSP.yy",},"resourceVersion":"1.0","name":"d02d1bcf-1559-48cf-bbee-785a2516d1b5","tags":[],"resourceType":"GMSpriteFrame",},
+    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"c5c2a6cd-6fe6-42db-b380-1db7fcf4aeb5",},
+    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"d02d1bcf-1559-48cf-bbee-785a2516d1b5",},
   ],
   "sequence": {
-    "spriteId": {"name":"spr_tv_shotgunSP","path":"sprites/spr_tv_shotgunSP/spr_tv_shotgunSP.yy",},
+    "resourceType": "GMSequence",
+    "resourceVersion": "1.4",
+    "name": "spr_tv_shotgunSP",
     "timeUnits": 1,
     "playback": 1,
     "playbackSpeed": 0.5,
@@ -43,10 +45,10 @@
     "events": {"Keyframes":[],"resourceVersion":"1.0","resourceType":"KeyframeStore<MessageEventKeyframe>",},
     "moments": {"Keyframes":[],"resourceVersion":"1.0","resourceType":"KeyframeStore<MomentsEventKeyframe>",},
     "tracks": [
-      {"name":"frames","spriteId":null,"keyframes":{"Keyframes":[
+      {"resourceType":"GMSpriteFramesTrack","resourceVersion":"1.0","name":"frames","spriteId":null,"keyframes":{"Keyframes":[
             {"id":"08f3b80b-bd21-40a7-87d5-3e75007fdd3a","Key":0.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"c5c2a6cd-6fe6-42db-b380-1db7fcf4aeb5","path":"sprites/spr_tv_shotgunSP/spr_tv_shotgunSP.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
             {"id":"ab17cc44-18ad-408a-a518-140c6b800073","Key":1.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"d02d1bcf-1559-48cf-bbee-785a2516d1b5","path":"sprites/spr_tv_shotgunSP/spr_tv_shotgunSP.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
-          ],"resourceVersion":"1.0","resourceType":"KeyframeStore<SpriteFrameKeyframe>",},"trackColour":0,"inheritsTrackColour":true,"builtinName":0,"traits":0,"interpolation":1,"tracks":[],"events":[],"isCreationTrack":false,"resourceVersion":"1.0","tags":[],"resourceType":"GMSpriteFramesTrack","modifiers":[],},
+          ],"resourceVersion":"1.0","resourceType":"KeyframeStore<SpriteFrameKeyframe>",},"trackColour":0,"inheritsTrackColour":true,"builtinName":0,"traits":0,"interpolation":1,"tracks":[],"events":[],"isCreationTrack":false,"modifiers":[],},
     ],
     "visibleRange": null,
     "lockOrigin": false,
@@ -62,22 +64,13 @@
     "yorigin": 133,
     "eventToFunction": {},
     "eventStubScript": null,
-    "parent": {"name":"spr_tv_shotgunSP","path":"sprites/spr_tv_shotgunSP/spr_tv_shotgunSP.yy",},
-    "resourceVersion": "1.4",
-    "name": "spr_tv_shotgunSP",
-    "tags": [],
-    "resourceType": "GMSequence",
   },
   "layers": [
-    {"visible":true,"isLocked":false,"blendMode":0,"opacity":100.0,"displayName":"default","resourceVersion":"1.0","name":"7486f0de-d089-46bf-8314-af61b3b2162c","tags":[],"resourceType":"GMImageLayer",},
+    {"resourceType":"GMImageLayer","resourceVersion":"1.0","name":"7486f0de-d089-46bf-8314-af61b3b2162c","visible":true,"isLocked":false,"blendMode":0,"opacity":100.0,"displayName":"default",},
   ],
   "nineSlice": null,
   "parent": {
     "name": "pizzelle",
     "path": "folders/Sprites/HUD/new hud/tv/pizzelle.yy",
   },
-  "resourceVersion": "1.0",
-  "name": "spr_tv_shotgunSP",
-  "tags": [],
-  "resourceType": "GMSprite",
 }

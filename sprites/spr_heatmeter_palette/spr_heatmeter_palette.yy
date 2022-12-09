@@ -1,4 +1,7 @@
 {
+  "resourceType": "GMSprite",
+  "resourceVersion": "1.0",
+  "name": "spr_heatmeter_palette",
   "ConfigValues": {
     "debug": {"textureGroupId":"{\"name\":\"tg_hud\",\"path\":\"texturegroups/tg_hud\"}",},
   },
@@ -17,6 +20,7 @@
   "HTile": false,
   "VTile": false,
   "For3D": false,
+  "DynamicTexturePage": false,
   "width": 4,
   "height": 4,
   "textureGroupId": {
@@ -27,12 +31,12 @@
   "gridX": 0,
   "gridY": 0,
   "frames": [
-    {"compositeImage":{"FrameId":{"name":"668b9331-2b76-45f8-b8cc-6712d0aa1779","path":"sprites/spr_heatmeter_palette/spr_heatmeter_palette.yy",},"LayerId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"668b9331-2b76-45f8-b8cc-6712d0aa1779","path":"sprites/spr_heatmeter_palette/spr_heatmeter_palette.yy",},"LayerId":{"name":"0ece0d7d-36f0-4b9e-8311-0a7aa59b262a","path":"sprites/spr_heatmeter_palette/spr_heatmeter_palette.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-      ],"parent":{"name":"spr_heatmeter_palette","path":"sprites/spr_heatmeter_palette/spr_heatmeter_palette.yy",},"resourceVersion":"1.0","name":"668b9331-2b76-45f8-b8cc-6712d0aa1779","tags":[],"resourceType":"GMSpriteFrame",},
+    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"668b9331-2b76-45f8-b8cc-6712d0aa1779",},
   ],
   "sequence": {
-    "spriteId": {"name":"spr_heatmeter_palette","path":"sprites/spr_heatmeter_palette/spr_heatmeter_palette.yy",},
+    "resourceType": "GMSequence",
+    "resourceVersion": "1.4",
+    "name": "spr_heatmeter_palette",
     "timeUnits": 1,
     "playback": 1,
     "playbackSpeed": 1.0,
@@ -43,9 +47,9 @@
     "events": {"Keyframes":[],"resourceVersion":"1.0","resourceType":"KeyframeStore<MessageEventKeyframe>",},
     "moments": {"Keyframes":[],"resourceVersion":"1.0","resourceType":"KeyframeStore<MomentsEventKeyframe>",},
     "tracks": [
-      {"name":"frames","spriteId":null,"keyframes":{"Keyframes":[
+      {"resourceType":"GMSpriteFramesTrack","resourceVersion":"1.0","name":"frames","spriteId":null,"keyframes":{"Keyframes":[
             {"id":"5e08ae72-3a9b-43fb-b2ba-b1a5773ff3d3","Key":0.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"668b9331-2b76-45f8-b8cc-6712d0aa1779","path":"sprites/spr_heatmeter_palette/spr_heatmeter_palette.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
-          ],"resourceVersion":"1.0","resourceType":"KeyframeStore<SpriteFrameKeyframe>",},"trackColour":0,"inheritsTrackColour":true,"builtinName":0,"traits":0,"interpolation":1,"tracks":[],"events":[],"isCreationTrack":false,"resourceVersion":"1.0","tags":[],"resourceType":"GMSpriteFramesTrack","modifiers":[],},
+          ],"resourceVersion":"1.0","resourceType":"KeyframeStore<SpriteFrameKeyframe>",},"trackColour":0,"inheritsTrackColour":true,"builtinName":0,"traits":0,"interpolation":1,"tracks":[],"events":[],"isCreationTrack":false,"modifiers":[],},
     ],
     "visibleRange": null,
     "lockOrigin": false,
@@ -61,22 +65,13 @@
     "yorigin": 0,
     "eventToFunction": {},
     "eventStubScript": null,
-    "parent": {"name":"spr_heatmeter_palette","path":"sprites/spr_heatmeter_palette/spr_heatmeter_palette.yy",},
-    "resourceVersion": "1.4",
-    "name": "spr_heatmeter_palette",
-    "tags": [],
-    "resourceType": "GMSequence",
   },
   "layers": [
-    {"visible":true,"isLocked":false,"blendMode":0,"opacity":100.0,"displayName":"default","resourceVersion":"1.0","name":"0ece0d7d-36f0-4b9e-8311-0a7aa59b262a","tags":[],"resourceType":"GMImageLayer",},
+    {"resourceType":"GMImageLayer","resourceVersion":"1.0","name":"0ece0d7d-36f0-4b9e-8311-0a7aa59b262a","visible":true,"isLocked":false,"blendMode":0,"opacity":100.0,"displayName":"default",},
   ],
   "nineSlice": null,
   "parent": {
     "name": "pizza",
     "path": "folders/Sprites/HUD/new hud/pizza.yy",
   },
-  "resourceVersion": "1.0",
-  "name": "spr_heatmeter_palette",
-  "tags": [],
-  "resourceType": "GMSprite",
 }

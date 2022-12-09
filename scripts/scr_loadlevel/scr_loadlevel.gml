@@ -30,7 +30,7 @@ function scr_loadlevel(argument0)
 		obj_editor_cursor,
 		obj_otherplayer,
 		obj_wc,
-		rousrDissonance,
+		nekoPresence,
 		obj_drpc_updater,
 		obj_player,
 		obj_player1,

@@ -1,4 +1,7 @@
 {
+  "resourceType": "GMSprite",
+  "resourceVersion": "1.0",
+  "name": "spr_coolpineastun",
   "ConfigValues": {
     "debug": {"textureGroupId":"{\"name\":\"tg_baddie\",\"path\":\"texturegroups/tg_baddie\"}",},
   },
@@ -17,6 +20,7 @@
   "HTile": false,
   "VTile": false,
   "For3D": false,
+  "DynamicTexturePage": false,
   "width": 100,
   "height": 100,
   "textureGroupId": {
@@ -27,18 +31,14 @@
   "gridX": 0,
   "gridY": 0,
   "frames": [
-    {"compositeImage":{"FrameId":{"name":"92a0a603-4639-48d3-8ee9-f69fa7386648","path":"sprites/spr_coolpineastun/spr_coolpineastun.yy",},"LayerId":null,"resourceVersion":"1.0","name":"composite","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"92a0a603-4639-48d3-8ee9-f69fa7386648","path":"sprites/spr_coolpineastun/spr_coolpineastun.yy",},"LayerId":{"name":"81879daf-2584-4133-a8f9-9d79da4af800","path":"sprites/spr_coolpineastun/spr_coolpineastun.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-      ],"parent":{"name":"spr_coolpineastun","path":"sprites/spr_coolpineastun/spr_coolpineastun.yy",},"resourceVersion":"1.0","name":"92a0a603-4639-48d3-8ee9-f69fa7386648","tags":[],"resourceType":"GMSpriteFrame",},
-    {"compositeImage":{"FrameId":{"name":"dbc60944-5b28-4ddd-b7e3-1c3da499b167","path":"sprites/spr_coolpineastun/spr_coolpineastun.yy",},"LayerId":null,"resourceVersion":"1.0","name":"composite","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"dbc60944-5b28-4ddd-b7e3-1c3da499b167","path":"sprites/spr_coolpineastun/spr_coolpineastun.yy",},"LayerId":{"name":"81879daf-2584-4133-a8f9-9d79da4af800","path":"sprites/spr_coolpineastun/spr_coolpineastun.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-      ],"parent":{"name":"spr_coolpineastun","path":"sprites/spr_coolpineastun/spr_coolpineastun.yy",},"resourceVersion":"1.0","name":"dbc60944-5b28-4ddd-b7e3-1c3da499b167","tags":[],"resourceType":"GMSpriteFrame",},
-    {"compositeImage":{"FrameId":{"name":"0c267040-f67f-41ec-b864-9a99dc6e0f92","path":"sprites/spr_coolpineastun/spr_coolpineastun.yy",},"LayerId":null,"resourceVersion":"1.0","name":"composite","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"0c267040-f67f-41ec-b864-9a99dc6e0f92","path":"sprites/spr_coolpineastun/spr_coolpineastun.yy",},"LayerId":{"name":"81879daf-2584-4133-a8f9-9d79da4af800","path":"sprites/spr_coolpineastun/spr_coolpineastun.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-      ],"parent":{"name":"spr_coolpineastun","path":"sprites/spr_coolpineastun/spr_coolpineastun.yy",},"resourceVersion":"1.0","name":"0c267040-f67f-41ec-b864-9a99dc6e0f92","tags":[],"resourceType":"GMSpriteFrame",},
+    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"92a0a603-4639-48d3-8ee9-f69fa7386648",},
+    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"dbc60944-5b28-4ddd-b7e3-1c3da499b167",},
+    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"0c267040-f67f-41ec-b864-9a99dc6e0f92",},
   ],
   "sequence": {
-    "spriteId": {"name":"spr_coolpineastun","path":"sprites/spr_coolpineastun/spr_coolpineastun.yy",},
+    "resourceType": "GMSequence",
+    "resourceVersion": "1.4",
+    "name": "",
     "timeUnits": 1,
     "playback": 1,
     "playbackSpeed": 1.0,
@@ -49,11 +49,11 @@
     "events": {"Keyframes":[],"resourceVersion":"1.0","resourceType":"KeyframeStore<MessageEventKeyframe>",},
     "moments": {"Keyframes":[],"resourceVersion":"1.0","resourceType":"KeyframeStore<MomentsEventKeyframe>",},
     "tracks": [
-      {"name":"frames","spriteId":null,"keyframes":{"Keyframes":[
+      {"resourceType":"GMSpriteFramesTrack","resourceVersion":"1.0","name":"frames","spriteId":null,"keyframes":{"Keyframes":[
             {"id":"16d5e251-d0f8-41a9-8472-4465f26db643","Key":0.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"92a0a603-4639-48d3-8ee9-f69fa7386648","path":"sprites/spr_coolpineastun/spr_coolpineastun.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
             {"id":"85b4c14f-97c9-425d-afff-f9661a60e2f8","Key":1.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"dbc60944-5b28-4ddd-b7e3-1c3da499b167","path":"sprites/spr_coolpineastun/spr_coolpineastun.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
             {"id":"606e3f19-0b4f-4c22-b3e5-1fa7a874514a","Key":2.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"0c267040-f67f-41ec-b864-9a99dc6e0f92","path":"sprites/spr_coolpineastun/spr_coolpineastun.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
-          ],"resourceVersion":"1.0","resourceType":"KeyframeStore<SpriteFrameKeyframe>",},"trackColour":0,"inheritsTrackColour":true,"builtinName":0,"traits":0,"interpolation":1,"tracks":[],"events":[],"isCreationTrack":false,"resourceVersion":"1.0","tags":[],"resourceType":"GMSpriteFramesTrack","modifiers":[],},
+          ],"resourceVersion":"1.0","resourceType":"KeyframeStore<SpriteFrameKeyframe>",},"trackColour":0,"inheritsTrackColour":true,"builtinName":0,"traits":0,"interpolation":1,"tracks":[],"events":[],"isCreationTrack":false,"modifiers":[],},
     ],
     "visibleRange": {"x":0.0,"y":0.0,},
     "lockOrigin": false,
@@ -69,22 +69,13 @@
     "yorigin": 50,
     "eventToFunction": {},
     "eventStubScript": null,
-    "parent": {"name":"spr_coolpineastun","path":"sprites/spr_coolpineastun/spr_coolpineastun.yy",},
-    "resourceVersion": "1.4",
-    "name": "",
-    "tags": [],
-    "resourceType": "GMSequence",
   },
   "layers": [
-    {"visible":true,"isLocked":false,"blendMode":0,"opacity":100.0,"displayName":"default","resourceVersion":"1.0","name":"81879daf-2584-4133-a8f9-9d79da4af800","tags":[],"resourceType":"GMImageLayer",},
+    {"resourceType":"GMImageLayer","resourceVersion":"1.0","name":"81879daf-2584-4133-a8f9-9d79da4af800","visible":true,"isLocked":false,"blendMode":0,"opacity":100.0,"displayName":"default",},
   ],
   "nineSlice": null,
   "parent": {
     "name": "coolpinea",
     "path": "folders/Sprites/baddie/coolpinea.yy",
   },
-  "resourceVersion": "1.0",
-  "name": "spr_coolpineastun",
-  "tags": [],
-  "resourceType": "GMSprite",
 }

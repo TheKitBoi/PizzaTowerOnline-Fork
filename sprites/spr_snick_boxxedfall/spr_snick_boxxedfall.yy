@@ -1,4 +1,7 @@
 {
+  "resourceType": "GMSprite",
+  "resourceVersion": "1.0",
+  "name": "spr_snick_boxxedfall",
   "bboxMode": 0,
   "collisionKind": 1,
   "type": 0,
@@ -14,6 +17,7 @@
   "HTile": false,
   "VTile": false,
   "For3D": false,
+  "DynamicTexturePage": false,
   "width": 100,
   "height": 100,
   "textureGroupId": {
@@ -24,18 +28,14 @@
   "gridX": 0,
   "gridY": 0,
   "frames": [
-    {"compositeImage":{"FrameId":{"name":"a9d7321b-2f1c-4d8d-85f3-ee152fe7c55b","path":"sprites/spr_snick_boxxedfall/spr_snick_boxxedfall.yy",},"LayerId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"a9d7321b-2f1c-4d8d-85f3-ee152fe7c55b","path":"sprites/spr_snick_boxxedfall/spr_snick_boxxedfall.yy",},"LayerId":{"name":"39249381-3bda-4b7e-8016-5e657070d600","path":"sprites/spr_snick_boxxedfall/spr_snick_boxxedfall.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-      ],"parent":{"name":"spr_snick_boxxedfall","path":"sprites/spr_snick_boxxedfall/spr_snick_boxxedfall.yy",},"resourceVersion":"1.0","name":"a9d7321b-2f1c-4d8d-85f3-ee152fe7c55b","tags":[],"resourceType":"GMSpriteFrame",},
-    {"compositeImage":{"FrameId":{"name":"9bbb6376-9986-494b-b455-f942a7319ac4","path":"sprites/spr_snick_boxxedfall/spr_snick_boxxedfall.yy",},"LayerId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"9bbb6376-9986-494b-b455-f942a7319ac4","path":"sprites/spr_snick_boxxedfall/spr_snick_boxxedfall.yy",},"LayerId":{"name":"39249381-3bda-4b7e-8016-5e657070d600","path":"sprites/spr_snick_boxxedfall/spr_snick_boxxedfall.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-      ],"parent":{"name":"spr_snick_boxxedfall","path":"sprites/spr_snick_boxxedfall/spr_snick_boxxedfall.yy",},"resourceVersion":"1.0","name":"9bbb6376-9986-494b-b455-f942a7319ac4","tags":[],"resourceType":"GMSpriteFrame",},
-    {"compositeImage":{"FrameId":{"name":"13748e3f-6308-4fb8-a2c0-e73674ec17b7","path":"sprites/spr_snick_boxxedfall/spr_snick_boxxedfall.yy",},"LayerId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"13748e3f-6308-4fb8-a2c0-e73674ec17b7","path":"sprites/spr_snick_boxxedfall/spr_snick_boxxedfall.yy",},"LayerId":{"name":"39249381-3bda-4b7e-8016-5e657070d600","path":"sprites/spr_snick_boxxedfall/spr_snick_boxxedfall.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-      ],"parent":{"name":"spr_snick_boxxedfall","path":"sprites/spr_snick_boxxedfall/spr_snick_boxxedfall.yy",},"resourceVersion":"1.0","name":"13748e3f-6308-4fb8-a2c0-e73674ec17b7","tags":[],"resourceType":"GMSpriteFrame",},
+    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"a9d7321b-2f1c-4d8d-85f3-ee152fe7c55b",},
+    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"9bbb6376-9986-494b-b455-f942a7319ac4",},
+    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"13748e3f-6308-4fb8-a2c0-e73674ec17b7",},
   ],
   "sequence": {
-    "spriteId": {"name":"spr_snick_boxxedfall","path":"sprites/spr_snick_boxxedfall/spr_snick_boxxedfall.yy",},
+    "resourceType": "GMSequence",
+    "resourceVersion": "1.4",
+    "name": "spr_snick_boxxedfall",
     "timeUnits": 1,
     "playback": 1,
     "playbackSpeed": 1.0,
@@ -46,11 +46,11 @@
     "events": {"Keyframes":[],"resourceVersion":"1.0","resourceType":"KeyframeStore<MessageEventKeyframe>",},
     "moments": {"Keyframes":[],"resourceVersion":"1.0","resourceType":"KeyframeStore<MomentsEventKeyframe>",},
     "tracks": [
-      {"name":"frames","spriteId":null,"keyframes":{"Keyframes":[
+      {"resourceType":"GMSpriteFramesTrack","resourceVersion":"1.0","name":"frames","spriteId":null,"keyframes":{"Keyframes":[
             {"id":"8e9810e7-34ba-4b21-8781-b5c847ee8a83","Key":0.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"a9d7321b-2f1c-4d8d-85f3-ee152fe7c55b","path":"sprites/spr_snick_boxxedfall/spr_snick_boxxedfall.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
             {"id":"ef668203-d8ca-4cd6-9492-b200db596350","Key":1.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"9bbb6376-9986-494b-b455-f942a7319ac4","path":"sprites/spr_snick_boxxedfall/spr_snick_boxxedfall.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
             {"id":"72cd9e96-22e1-4c2d-830f-2f60bf251ea7","Key":2.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"13748e3f-6308-4fb8-a2c0-e73674ec17b7","path":"sprites/spr_snick_boxxedfall/spr_snick_boxxedfall.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
-          ],"resourceVersion":"1.0","resourceType":"KeyframeStore<SpriteFrameKeyframe>",},"trackColour":0,"inheritsTrackColour":true,"builtinName":0,"traits":0,"interpolation":1,"tracks":[],"events":[],"isCreationTrack":false,"resourceVersion":"1.0","tags":[],"resourceType":"GMSpriteFramesTrack","modifiers":[],},
+          ],"resourceVersion":"1.0","resourceType":"KeyframeStore<SpriteFrameKeyframe>",},"trackColour":0,"inheritsTrackColour":true,"builtinName":0,"traits":0,"interpolation":1,"tracks":[],"events":[],"isCreationTrack":false,"modifiers":[],},
     ],
     "visibleRange": null,
     "lockOrigin": false,
@@ -66,22 +66,13 @@
     "yorigin": 34,
     "eventToFunction": {},
     "eventStubScript": null,
-    "parent": {"name":"spr_snick_boxxedfall","path":"sprites/spr_snick_boxxedfall/spr_snick_boxxedfall.yy",},
-    "resourceVersion": "1.4",
-    "name": "spr_snick_boxxedfall",
-    "tags": [],
-    "resourceType": "GMSequence",
   },
   "layers": [
-    {"visible":true,"isLocked":false,"blendMode":0,"opacity":100.0,"displayName":"default","resourceVersion":"1.0","name":"39249381-3bda-4b7e-8016-5e657070d600","tags":[],"resourceType":"GMImageLayer",},
+    {"resourceType":"GMImageLayer","resourceVersion":"1.0","name":"39249381-3bda-4b7e-8016-5e657070d600","visible":true,"isLocked":false,"blendMode":0,"opacity":100.0,"displayName":"default",},
   ],
   "nineSlice": null,
   "parent": {
     "name": "snick",
     "path": "folders/Sprites/players/snick.yy",
   },
-  "resourceVersion": "1.0",
-  "name": "spr_snick_boxxedfall",
-  "tags": [],
-  "resourceType": "GMSprite",
 }

@@ -1,4 +1,7 @@
 {
+  "resourceType": "GMSprite",
+  "resourceVersion": "1.0",
+  "name": "spr_canonbot_shoot",
   "ConfigValues": {
     "debug": {"textureGroupId":"{\"name\":\"tg_baddie\",\"path\":\"texturegroups/tg_baddie\"}",},
   },
@@ -17,6 +20,7 @@
   "HTile": false,
   "VTile": false,
   "For3D": false,
+  "DynamicTexturePage": false,
   "width": 100,
   "height": 100,
   "textureGroupId": {
@@ -27,27 +31,17 @@
   "gridX": 0,
   "gridY": 0,
   "frames": [
-    {"compositeImage":{"FrameId":{"name":"8192d2c4-b162-4009-b375-873fafdff02d","path":"sprites/spr_canonbot_shoot/spr_canonbot_shoot.yy",},"LayerId":null,"resourceVersion":"1.0","name":"composite","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"8192d2c4-b162-4009-b375-873fafdff02d","path":"sprites/spr_canonbot_shoot/spr_canonbot_shoot.yy",},"LayerId":{"name":"827a22d5-0488-4be4-9a96-093c83766c8c","path":"sprites/spr_canonbot_shoot/spr_canonbot_shoot.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-      ],"parent":{"name":"spr_canonbot_shoot","path":"sprites/spr_canonbot_shoot/spr_canonbot_shoot.yy",},"resourceVersion":"1.0","name":"8192d2c4-b162-4009-b375-873fafdff02d","tags":[],"resourceType":"GMSpriteFrame",},
-    {"compositeImage":{"FrameId":{"name":"6d99d246-86e7-48d7-8f40-79512750b477","path":"sprites/spr_canonbot_shoot/spr_canonbot_shoot.yy",},"LayerId":null,"resourceVersion":"1.0","name":"composite","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"6d99d246-86e7-48d7-8f40-79512750b477","path":"sprites/spr_canonbot_shoot/spr_canonbot_shoot.yy",},"LayerId":{"name":"827a22d5-0488-4be4-9a96-093c83766c8c","path":"sprites/spr_canonbot_shoot/spr_canonbot_shoot.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-      ],"parent":{"name":"spr_canonbot_shoot","path":"sprites/spr_canonbot_shoot/spr_canonbot_shoot.yy",},"resourceVersion":"1.0","name":"6d99d246-86e7-48d7-8f40-79512750b477","tags":[],"resourceType":"GMSpriteFrame",},
-    {"compositeImage":{"FrameId":{"name":"00239b5f-d3f6-4a98-a4fa-0457172f42a8","path":"sprites/spr_canonbot_shoot/spr_canonbot_shoot.yy",},"LayerId":null,"resourceVersion":"1.0","name":"composite","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"00239b5f-d3f6-4a98-a4fa-0457172f42a8","path":"sprites/spr_canonbot_shoot/spr_canonbot_shoot.yy",},"LayerId":{"name":"827a22d5-0488-4be4-9a96-093c83766c8c","path":"sprites/spr_canonbot_shoot/spr_canonbot_shoot.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-      ],"parent":{"name":"spr_canonbot_shoot","path":"sprites/spr_canonbot_shoot/spr_canonbot_shoot.yy",},"resourceVersion":"1.0","name":"00239b5f-d3f6-4a98-a4fa-0457172f42a8","tags":[],"resourceType":"GMSpriteFrame",},
-    {"compositeImage":{"FrameId":{"name":"0bd65d16-ca0e-4d7d-8493-eaff7937552b","path":"sprites/spr_canonbot_shoot/spr_canonbot_shoot.yy",},"LayerId":null,"resourceVersion":"1.0","name":"composite","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"0bd65d16-ca0e-4d7d-8493-eaff7937552b","path":"sprites/spr_canonbot_shoot/spr_canonbot_shoot.yy",},"LayerId":{"name":"827a22d5-0488-4be4-9a96-093c83766c8c","path":"sprites/spr_canonbot_shoot/spr_canonbot_shoot.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-      ],"parent":{"name":"spr_canonbot_shoot","path":"sprites/spr_canonbot_shoot/spr_canonbot_shoot.yy",},"resourceVersion":"1.0","name":"0bd65d16-ca0e-4d7d-8493-eaff7937552b","tags":[],"resourceType":"GMSpriteFrame",},
-    {"compositeImage":{"FrameId":{"name":"832aef79-4221-41cc-95bb-f0042506fcda","path":"sprites/spr_canonbot_shoot/spr_canonbot_shoot.yy",},"LayerId":null,"resourceVersion":"1.0","name":"composite","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"832aef79-4221-41cc-95bb-f0042506fcda","path":"sprites/spr_canonbot_shoot/spr_canonbot_shoot.yy",},"LayerId":{"name":"827a22d5-0488-4be4-9a96-093c83766c8c","path":"sprites/spr_canonbot_shoot/spr_canonbot_shoot.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-      ],"parent":{"name":"spr_canonbot_shoot","path":"sprites/spr_canonbot_shoot/spr_canonbot_shoot.yy",},"resourceVersion":"1.0","name":"832aef79-4221-41cc-95bb-f0042506fcda","tags":[],"resourceType":"GMSpriteFrame",},
-    {"compositeImage":{"FrameId":{"name":"3d26d6b7-0bb9-45f5-8afa-fa0c77a08641","path":"sprites/spr_canonbot_shoot/spr_canonbot_shoot.yy",},"LayerId":null,"resourceVersion":"1.0","name":"composite","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"3d26d6b7-0bb9-45f5-8afa-fa0c77a08641","path":"sprites/spr_canonbot_shoot/spr_canonbot_shoot.yy",},"LayerId":{"name":"827a22d5-0488-4be4-9a96-093c83766c8c","path":"sprites/spr_canonbot_shoot/spr_canonbot_shoot.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-      ],"parent":{"name":"spr_canonbot_shoot","path":"sprites/spr_canonbot_shoot/spr_canonbot_shoot.yy",},"resourceVersion":"1.0","name":"3d26d6b7-0bb9-45f5-8afa-fa0c77a08641","tags":[],"resourceType":"GMSpriteFrame",},
+    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"8192d2c4-b162-4009-b375-873fafdff02d",},
+    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"6d99d246-86e7-48d7-8f40-79512750b477",},
+    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"00239b5f-d3f6-4a98-a4fa-0457172f42a8",},
+    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"0bd65d16-ca0e-4d7d-8493-eaff7937552b",},
+    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"832aef79-4221-41cc-95bb-f0042506fcda",},
+    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"3d26d6b7-0bb9-45f5-8afa-fa0c77a08641",},
   ],
   "sequence": {
-    "spriteId": {"name":"spr_canonbot_shoot","path":"sprites/spr_canonbot_shoot/spr_canonbot_shoot.yy",},
+    "resourceType": "GMSequence",
+    "resourceVersion": "1.4",
+    "name": "",
     "timeUnits": 1,
     "playback": 1,
     "playbackSpeed": 1.0,
@@ -58,14 +52,14 @@
     "events": {"Keyframes":[],"resourceVersion":"1.0","resourceType":"KeyframeStore<MessageEventKeyframe>",},
     "moments": {"Keyframes":[],"resourceVersion":"1.0","resourceType":"KeyframeStore<MomentsEventKeyframe>",},
     "tracks": [
-      {"name":"frames","spriteId":null,"keyframes":{"Keyframes":[
+      {"resourceType":"GMSpriteFramesTrack","resourceVersion":"1.0","name":"frames","spriteId":null,"keyframes":{"Keyframes":[
             {"id":"f35689c9-0c3f-4b2d-a8bf-588ec73dff8b","Key":0.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"8192d2c4-b162-4009-b375-873fafdff02d","path":"sprites/spr_canonbot_shoot/spr_canonbot_shoot.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
             {"id":"07715406-3f83-4edf-8318-22b40d9ea262","Key":1.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"6d99d246-86e7-48d7-8f40-79512750b477","path":"sprites/spr_canonbot_shoot/spr_canonbot_shoot.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
             {"id":"229a1397-2864-4007-824b-ed779411f057","Key":2.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"00239b5f-d3f6-4a98-a4fa-0457172f42a8","path":"sprites/spr_canonbot_shoot/spr_canonbot_shoot.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
             {"id":"5bec2fdb-fd4d-45ef-925f-0d0e35f17d67","Key":3.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"0bd65d16-ca0e-4d7d-8493-eaff7937552b","path":"sprites/spr_canonbot_shoot/spr_canonbot_shoot.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
             {"id":"6582684a-8b85-4363-815e-6046b0598a28","Key":4.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"832aef79-4221-41cc-95bb-f0042506fcda","path":"sprites/spr_canonbot_shoot/spr_canonbot_shoot.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
             {"id":"beff32ab-9976-4f4a-970e-80a819d4ceb0","Key":5.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"3d26d6b7-0bb9-45f5-8afa-fa0c77a08641","path":"sprites/spr_canonbot_shoot/spr_canonbot_shoot.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
-          ],"resourceVersion":"1.0","resourceType":"KeyframeStore<SpriteFrameKeyframe>",},"trackColour":0,"inheritsTrackColour":true,"builtinName":0,"traits":0,"interpolation":1,"tracks":[],"events":[],"isCreationTrack":false,"resourceVersion":"1.0","tags":[],"resourceType":"GMSpriteFramesTrack","modifiers":[],},
+          ],"resourceVersion":"1.0","resourceType":"KeyframeStore<SpriteFrameKeyframe>",},"trackColour":0,"inheritsTrackColour":true,"builtinName":0,"traits":0,"interpolation":1,"tracks":[],"events":[],"isCreationTrack":false,"modifiers":[],},
     ],
     "visibleRange": {"x":0.0,"y":0.0,},
     "lockOrigin": false,
@@ -81,22 +75,13 @@
     "yorigin": 50,
     "eventToFunction": {},
     "eventStubScript": null,
-    "parent": {"name":"spr_canonbot_shoot","path":"sprites/spr_canonbot_shoot/spr_canonbot_shoot.yy",},
-    "resourceVersion": "1.4",
-    "name": "",
-    "tags": [],
-    "resourceType": "GMSequence",
   },
   "layers": [
-    {"visible":true,"isLocked":false,"blendMode":0,"opacity":100.0,"displayName":"default","resourceVersion":"1.0","name":"827a22d5-0488-4be4-9a96-093c83766c8c","tags":[],"resourceType":"GMImageLayer",},
+    {"resourceType":"GMImageLayer","resourceVersion":"1.0","name":"827a22d5-0488-4be4-9a96-093c83766c8c","visible":true,"isLocked":false,"blendMode":0,"opacity":100.0,"displayName":"default",},
   ],
   "nineSlice": null,
   "parent": {
     "name": "canonbot",
     "path": "folders/Sprites/baddie/canonbot.yy",
   },
-  "resourceVersion": "1.0",
-  "name": "spr_canonbot_shoot",
-  "tags": [],
-  "resourceType": "GMSprite",
 }

@@ -1,4 +1,7 @@
 {
+  "resourceType": "GMSprite",
+  "resourceVersion": "1.0",
+  "name": "spr_forestbigtree",
   "ConfigValues": {
     "debug": {"textureGroupId":"{\"name\":\"tg_forest\",\"path\":\"texturegroups/tg_forest\"}",},
   },
@@ -17,6 +20,7 @@
   "HTile": false,
   "VTile": false,
   "For3D": false,
+  "DynamicTexturePage": false,
   "width": 335,
   "height": 415,
   "textureGroupId": {
@@ -27,12 +31,12 @@
   "gridX": 0,
   "gridY": 0,
   "frames": [
-    {"compositeImage":{"FrameId":{"name":"d21d01bf-ac9e-422e-a7c3-ebee1ff6942a","path":"sprites/spr_forestbigtree/spr_forestbigtree.yy",},"LayerId":null,"resourceVersion":"1.0","name":"composite","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"d21d01bf-ac9e-422e-a7c3-ebee1ff6942a","path":"sprites/spr_forestbigtree/spr_forestbigtree.yy",},"LayerId":{"name":"db3f59c9-cfe8-4506-a7fd-4e0551bc2a9a","path":"sprites/spr_forestbigtree/spr_forestbigtree.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-      ],"parent":{"name":"spr_forestbigtree","path":"sprites/spr_forestbigtree/spr_forestbigtree.yy",},"resourceVersion":"1.0","name":"d21d01bf-ac9e-422e-a7c3-ebee1ff6942a","tags":[],"resourceType":"GMSpriteFrame",},
+    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"d21d01bf-ac9e-422e-a7c3-ebee1ff6942a",},
   ],
   "sequence": {
-    "spriteId": {"name":"spr_forestbigtree","path":"sprites/spr_forestbigtree/spr_forestbigtree.yy",},
+    "resourceType": "GMSequence",
+    "resourceVersion": "1.4",
+    "name": "",
     "timeUnits": 1,
     "playback": 1,
     "playbackSpeed": 1.0,
@@ -43,9 +47,9 @@
     "events": {"Keyframes":[],"resourceVersion":"1.0","resourceType":"KeyframeStore<MessageEventKeyframe>",},
     "moments": {"Keyframes":[],"resourceVersion":"1.0","resourceType":"KeyframeStore<MomentsEventKeyframe>",},
     "tracks": [
-      {"name":"frames","spriteId":null,"keyframes":{"Keyframes":[
+      {"resourceType":"GMSpriteFramesTrack","resourceVersion":"1.0","name":"frames","spriteId":null,"keyframes":{"Keyframes":[
             {"id":"3e87bfa3-a6e5-4750-b5a3-5709384c7092","Key":0.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"d21d01bf-ac9e-422e-a7c3-ebee1ff6942a","path":"sprites/spr_forestbigtree/spr_forestbigtree.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
-          ],"resourceVersion":"1.0","resourceType":"KeyframeStore<SpriteFrameKeyframe>",},"trackColour":0,"inheritsTrackColour":true,"builtinName":0,"traits":0,"interpolation":1,"tracks":[],"events":[],"isCreationTrack":false,"resourceVersion":"1.0","tags":[],"resourceType":"GMSpriteFramesTrack","modifiers":[],},
+          ],"resourceVersion":"1.0","resourceType":"KeyframeStore<SpriteFrameKeyframe>",},"trackColour":0,"inheritsTrackColour":true,"builtinName":0,"traits":0,"interpolation":1,"tracks":[],"events":[],"isCreationTrack":false,"modifiers":[],},
     ],
     "visibleRange": {"x":0.0,"y":0.0,},
     "lockOrigin": false,
@@ -61,22 +65,13 @@
     "yorigin": 414,
     "eventToFunction": {},
     "eventStubScript": null,
-    "parent": {"name":"spr_forestbigtree","path":"sprites/spr_forestbigtree/spr_forestbigtree.yy",},
-    "resourceVersion": "1.4",
-    "name": "",
-    "tags": [],
-    "resourceType": "GMSequence",
   },
   "layers": [
-    {"visible":true,"isLocked":false,"blendMode":0,"opacity":100.0,"displayName":"default","resourceVersion":"1.0","name":"db3f59c9-cfe8-4506-a7fd-4e0551bc2a9a","tags":[],"resourceType":"GMImageLayer",},
+    {"resourceType":"GMImageLayer","resourceVersion":"1.0","name":"db3f59c9-cfe8-4506-a7fd-4e0551bc2a9a","visible":true,"isLocked":false,"blendMode":0,"opacity":100.0,"displayName":"default",},
   ],
   "nineSlice": null,
   "parent": {
     "name": "forest",
     "path": "folders/Sprites/tilesets/forest.yy",
   },
-  "resourceVersion": "1.0",
-  "name": "spr_forestbigtree",
-  "tags": [],
-  "resourceType": "GMSprite",
 }

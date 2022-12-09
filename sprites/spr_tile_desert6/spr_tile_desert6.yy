@@ -1,4 +1,7 @@
 {
+  "resourceType": "GMSprite",
+  "resourceVersion": "1.0",
+  "name": "spr_tile_desert6",
   "ConfigValues": {
     "debug": {"textureGroupId":"{\"name\":\"tg_leveleditor\",\"path\":\"texturegroups/tg_leveleditor\"}",},
   },
@@ -17,6 +20,7 @@
   "HTile": false,
   "VTile": false,
   "For3D": false,
+  "DynamicTexturePage": false,
   "width": 32,
   "height": 32,
   "textureGroupId": {
@@ -27,18 +31,14 @@
   "gridX": 0,
   "gridY": 0,
   "frames": [
-    {"compositeImage":{"FrameId":{"name":"f3cccd87-982f-42ec-835e-5ceb9f0e05b0","path":"sprites/spr_tile_desert6/spr_tile_desert6.yy",},"LayerId":null,"resourceVersion":"1.0","name":"composite","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"f3cccd87-982f-42ec-835e-5ceb9f0e05b0","path":"sprites/spr_tile_desert6/spr_tile_desert6.yy",},"LayerId":{"name":"41c9ba72-9763-4d54-a7d8-e8684e387124","path":"sprites/spr_tile_desert6/spr_tile_desert6.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-      ],"parent":{"name":"spr_tile_desert6","path":"sprites/spr_tile_desert6/spr_tile_desert6.yy",},"resourceVersion":"1.0","name":"f3cccd87-982f-42ec-835e-5ceb9f0e05b0","tags":[],"resourceType":"GMSpriteFrame",},
-    {"compositeImage":{"FrameId":{"name":"327b3787-3926-4de4-a925-ba34d0322435","path":"sprites/spr_tile_desert6/spr_tile_desert6.yy",},"LayerId":null,"resourceVersion":"1.0","name":"composite","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"327b3787-3926-4de4-a925-ba34d0322435","path":"sprites/spr_tile_desert6/spr_tile_desert6.yy",},"LayerId":{"name":"41c9ba72-9763-4d54-a7d8-e8684e387124","path":"sprites/spr_tile_desert6/spr_tile_desert6.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-      ],"parent":{"name":"spr_tile_desert6","path":"sprites/spr_tile_desert6/spr_tile_desert6.yy",},"resourceVersion":"1.0","name":"327b3787-3926-4de4-a925-ba34d0322435","tags":[],"resourceType":"GMSpriteFrame",},
-    {"compositeImage":{"FrameId":{"name":"9b98a5ac-22b0-4168-b87d-3633d8799b44","path":"sprites/spr_tile_desert6/spr_tile_desert6.yy",},"LayerId":null,"resourceVersion":"1.0","name":"composite","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"9b98a5ac-22b0-4168-b87d-3633d8799b44","path":"sprites/spr_tile_desert6/spr_tile_desert6.yy",},"LayerId":{"name":"41c9ba72-9763-4d54-a7d8-e8684e387124","path":"sprites/spr_tile_desert6/spr_tile_desert6.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-      ],"parent":{"name":"spr_tile_desert6","path":"sprites/spr_tile_desert6/spr_tile_desert6.yy",},"resourceVersion":"1.0","name":"9b98a5ac-22b0-4168-b87d-3633d8799b44","tags":[],"resourceType":"GMSpriteFrame",},
+    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"f3cccd87-982f-42ec-835e-5ceb9f0e05b0",},
+    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"327b3787-3926-4de4-a925-ba34d0322435",},
+    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"9b98a5ac-22b0-4168-b87d-3633d8799b44",},
   ],
   "sequence": {
-    "spriteId": {"name":"spr_tile_desert6","path":"sprites/spr_tile_desert6/spr_tile_desert6.yy",},
+    "resourceType": "GMSequence",
+    "resourceVersion": "1.4",
+    "name": "",
     "timeUnits": 1,
     "playback": 1,
     "playbackSpeed": 1.0,
@@ -49,11 +49,11 @@
     "events": {"Keyframes":[],"resourceVersion":"1.0","resourceType":"KeyframeStore<MessageEventKeyframe>",},
     "moments": {"Keyframes":[],"resourceVersion":"1.0","resourceType":"KeyframeStore<MomentsEventKeyframe>",},
     "tracks": [
-      {"name":"frames","spriteId":null,"keyframes":{"Keyframes":[
+      {"resourceType":"GMSpriteFramesTrack","resourceVersion":"1.0","name":"frames","spriteId":null,"keyframes":{"Keyframes":[
             {"id":"bc449433-1cc4-400c-b13b-591e6daefc18","Key":0.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"f3cccd87-982f-42ec-835e-5ceb9f0e05b0","path":"sprites/spr_tile_desert6/spr_tile_desert6.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
             {"id":"94050594-f0c6-4d0e-b9e3-2cf724fb3931","Key":1.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"327b3787-3926-4de4-a925-ba34d0322435","path":"sprites/spr_tile_desert6/spr_tile_desert6.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
             {"id":"9a4ffbfe-3109-4049-8ac5-eb3af106d237","Key":2.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"9b98a5ac-22b0-4168-b87d-3633d8799b44","path":"sprites/spr_tile_desert6/spr_tile_desert6.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
-          ],"resourceVersion":"1.0","resourceType":"KeyframeStore<SpriteFrameKeyframe>",},"trackColour":0,"inheritsTrackColour":true,"builtinName":0,"traits":0,"interpolation":1,"tracks":[],"events":[],"isCreationTrack":false,"resourceVersion":"1.0","tags":[],"resourceType":"GMSpriteFramesTrack","modifiers":[],},
+          ],"resourceVersion":"1.0","resourceType":"KeyframeStore<SpriteFrameKeyframe>",},"trackColour":0,"inheritsTrackColour":true,"builtinName":0,"traits":0,"interpolation":1,"tracks":[],"events":[],"isCreationTrack":false,"modifiers":[],},
     ],
     "visibleRange": {"x":0.0,"y":0.0,},
     "lockOrigin": false,
@@ -69,22 +69,13 @@
     "yorigin": 0,
     "eventToFunction": {},
     "eventStubScript": null,
-    "parent": {"name":"spr_tile_desert6","path":"sprites/spr_tile_desert6/spr_tile_desert6.yy",},
-    "resourceVersion": "1.4",
-    "name": "",
-    "tags": [],
-    "resourceType": "GMSequence",
   },
   "layers": [
-    {"visible":true,"isLocked":false,"blendMode":0,"opacity":100.0,"displayName":"default","resourceVersion":"1.0","name":"41c9ba72-9763-4d54-a7d8-e8684e387124","tags":[],"resourceType":"GMImageLayer",},
+    {"resourceType":"GMImageLayer","resourceVersion":"1.0","name":"41c9ba72-9763-4d54-a7d8-e8684e387124","visible":true,"isLocked":false,"blendMode":0,"opacity":100.0,"displayName":"default",},
   ],
   "nineSlice": null,
   "parent": {
     "name": "Tiles",
     "path": "folders/Sprites/sertif's editor/Tiles.yy",
   },
-  "resourceVersion": "1.0",
-  "name": "spr_tile_desert6",
-  "tags": [],
-  "resourceType": "GMSprite",
 }

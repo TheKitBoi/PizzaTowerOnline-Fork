@@ -1,4 +1,7 @@
 {
+  "resourceType": "GMSprite",
+  "resourceVersion": "1.0",
+  "name": "spr_teleportportal",
   "ConfigValues": {
     "debug": {"textureGroupId":"{\"name\":\"Default\",\"path\":\"texturegroups/Default\"}",},
   },
@@ -17,6 +20,7 @@
   "HTile": false,
   "VTile": false,
   "For3D": false,
+  "DynamicTexturePage": false,
   "width": 64,
   "height": 64,
   "textureGroupId": {
@@ -27,33 +31,19 @@
   "gridX": 0,
   "gridY": 0,
   "frames": [
-    {"compositeImage":{"FrameId":{"name":"6ee4831b-40f0-4296-a027-7444d77b0323","path":"sprites/spr_teleportportal/spr_teleportportal.yy",},"LayerId":null,"resourceVersion":"1.0","name":"composite","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"6ee4831b-40f0-4296-a027-7444d77b0323","path":"sprites/spr_teleportportal/spr_teleportportal.yy",},"LayerId":{"name":"1a567755-c899-421a-950f-925686ebb13b","path":"sprites/spr_teleportportal/spr_teleportportal.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-      ],"parent":{"name":"spr_teleportportal","path":"sprites/spr_teleportportal/spr_teleportportal.yy",},"resourceVersion":"1.0","name":"6ee4831b-40f0-4296-a027-7444d77b0323","tags":[],"resourceType":"GMSpriteFrame",},
-    {"compositeImage":{"FrameId":{"name":"98313616-1e90-4f65-bd0c-1e50ecba4fbe","path":"sprites/spr_teleportportal/spr_teleportportal.yy",},"LayerId":null,"resourceVersion":"1.0","name":"composite","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"98313616-1e90-4f65-bd0c-1e50ecba4fbe","path":"sprites/spr_teleportportal/spr_teleportportal.yy",},"LayerId":{"name":"1a567755-c899-421a-950f-925686ebb13b","path":"sprites/spr_teleportportal/spr_teleportportal.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-      ],"parent":{"name":"spr_teleportportal","path":"sprites/spr_teleportportal/spr_teleportportal.yy",},"resourceVersion":"1.0","name":"98313616-1e90-4f65-bd0c-1e50ecba4fbe","tags":[],"resourceType":"GMSpriteFrame",},
-    {"compositeImage":{"FrameId":{"name":"5a614ede-6015-4baa-925b-0d9fb45b03bd","path":"sprites/spr_teleportportal/spr_teleportportal.yy",},"LayerId":null,"resourceVersion":"1.0","name":"composite","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"5a614ede-6015-4baa-925b-0d9fb45b03bd","path":"sprites/spr_teleportportal/spr_teleportportal.yy",},"LayerId":{"name":"1a567755-c899-421a-950f-925686ebb13b","path":"sprites/spr_teleportportal/spr_teleportportal.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-      ],"parent":{"name":"spr_teleportportal","path":"sprites/spr_teleportportal/spr_teleportportal.yy",},"resourceVersion":"1.0","name":"5a614ede-6015-4baa-925b-0d9fb45b03bd","tags":[],"resourceType":"GMSpriteFrame",},
-    {"compositeImage":{"FrameId":{"name":"5283e617-3d44-4399-bf95-ab516004af0a","path":"sprites/spr_teleportportal/spr_teleportportal.yy",},"LayerId":null,"resourceVersion":"1.0","name":"composite","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"5283e617-3d44-4399-bf95-ab516004af0a","path":"sprites/spr_teleportportal/spr_teleportportal.yy",},"LayerId":{"name":"1a567755-c899-421a-950f-925686ebb13b","path":"sprites/spr_teleportportal/spr_teleportportal.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-      ],"parent":{"name":"spr_teleportportal","path":"sprites/spr_teleportportal/spr_teleportportal.yy",},"resourceVersion":"1.0","name":"5283e617-3d44-4399-bf95-ab516004af0a","tags":[],"resourceType":"GMSpriteFrame",},
-    {"compositeImage":{"FrameId":{"name":"7fcd021b-f6a6-4271-ab2e-fc0322cb35d3","path":"sprites/spr_teleportportal/spr_teleportportal.yy",},"LayerId":null,"resourceVersion":"1.0","name":"composite","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"7fcd021b-f6a6-4271-ab2e-fc0322cb35d3","path":"sprites/spr_teleportportal/spr_teleportportal.yy",},"LayerId":{"name":"1a567755-c899-421a-950f-925686ebb13b","path":"sprites/spr_teleportportal/spr_teleportportal.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-      ],"parent":{"name":"spr_teleportportal","path":"sprites/spr_teleportportal/spr_teleportportal.yy",},"resourceVersion":"1.0","name":"7fcd021b-f6a6-4271-ab2e-fc0322cb35d3","tags":[],"resourceType":"GMSpriteFrame",},
-    {"compositeImage":{"FrameId":{"name":"2f7d6435-90f1-4092-8616-b6d7e40090ad","path":"sprites/spr_teleportportal/spr_teleportportal.yy",},"LayerId":null,"resourceVersion":"1.0","name":"composite","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"2f7d6435-90f1-4092-8616-b6d7e40090ad","path":"sprites/spr_teleportportal/spr_teleportportal.yy",},"LayerId":{"name":"1a567755-c899-421a-950f-925686ebb13b","path":"sprites/spr_teleportportal/spr_teleportportal.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-      ],"parent":{"name":"spr_teleportportal","path":"sprites/spr_teleportportal/spr_teleportportal.yy",},"resourceVersion":"1.0","name":"2f7d6435-90f1-4092-8616-b6d7e40090ad","tags":[],"resourceType":"GMSpriteFrame",},
-    {"compositeImage":{"FrameId":{"name":"9893a996-9770-48b4-a707-44240b456205","path":"sprites/spr_teleportportal/spr_teleportportal.yy",},"LayerId":null,"resourceVersion":"1.0","name":"composite","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"9893a996-9770-48b4-a707-44240b456205","path":"sprites/spr_teleportportal/spr_teleportportal.yy",},"LayerId":{"name":"1a567755-c899-421a-950f-925686ebb13b","path":"sprites/spr_teleportportal/spr_teleportportal.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-      ],"parent":{"name":"spr_teleportportal","path":"sprites/spr_teleportportal/spr_teleportportal.yy",},"resourceVersion":"1.0","name":"9893a996-9770-48b4-a707-44240b456205","tags":[],"resourceType":"GMSpriteFrame",},
-    {"compositeImage":{"FrameId":{"name":"0fab95c1-0fb1-46d8-9495-12d9dfc38011","path":"sprites/spr_teleportportal/spr_teleportportal.yy",},"LayerId":null,"resourceVersion":"1.0","name":"composite","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"0fab95c1-0fb1-46d8-9495-12d9dfc38011","path":"sprites/spr_teleportportal/spr_teleportportal.yy",},"LayerId":{"name":"1a567755-c899-421a-950f-925686ebb13b","path":"sprites/spr_teleportportal/spr_teleportportal.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-      ],"parent":{"name":"spr_teleportportal","path":"sprites/spr_teleportportal/spr_teleportportal.yy",},"resourceVersion":"1.0","name":"0fab95c1-0fb1-46d8-9495-12d9dfc38011","tags":[],"resourceType":"GMSpriteFrame",},
+    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"6ee4831b-40f0-4296-a027-7444d77b0323",},
+    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"98313616-1e90-4f65-bd0c-1e50ecba4fbe",},
+    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"5a614ede-6015-4baa-925b-0d9fb45b03bd",},
+    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"5283e617-3d44-4399-bf95-ab516004af0a",},
+    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"7fcd021b-f6a6-4271-ab2e-fc0322cb35d3",},
+    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"2f7d6435-90f1-4092-8616-b6d7e40090ad",},
+    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"9893a996-9770-48b4-a707-44240b456205",},
+    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"0fab95c1-0fb1-46d8-9495-12d9dfc38011",},
   ],
   "sequence": {
-    "spriteId": {"name":"spr_teleportportal","path":"sprites/spr_teleportportal/spr_teleportportal.yy",},
+    "resourceType": "GMSequence",
+    "resourceVersion": "1.4",
+    "name": "",
     "timeUnits": 1,
     "playback": 1,
     "playbackSpeed": 1.0,
@@ -64,7 +54,7 @@
     "events": {"Keyframes":[],"resourceVersion":"1.0","resourceType":"KeyframeStore<MessageEventKeyframe>",},
     "moments": {"Keyframes":[],"resourceVersion":"1.0","resourceType":"KeyframeStore<MomentsEventKeyframe>",},
     "tracks": [
-      {"name":"frames","spriteId":null,"keyframes":{"Keyframes":[
+      {"resourceType":"GMSpriteFramesTrack","resourceVersion":"1.0","name":"frames","spriteId":null,"keyframes":{"Keyframes":[
             {"id":"bf14f4c9-c2cf-464d-9670-41bddeba0ecc","Key":0.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"6ee4831b-40f0-4296-a027-7444d77b0323","path":"sprites/spr_teleportportal/spr_teleportportal.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
             {"id":"41178c62-1fbf-4f13-a242-c42640269bc7","Key":1.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"98313616-1e90-4f65-bd0c-1e50ecba4fbe","path":"sprites/spr_teleportportal/spr_teleportportal.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
             {"id":"c10f2cd0-1eee-437d-976a-8f21edb4b36f","Key":2.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"5a614ede-6015-4baa-925b-0d9fb45b03bd","path":"sprites/spr_teleportportal/spr_teleportportal.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
@@ -73,7 +63,7 @@
             {"id":"90594554-2045-4a6e-be8c-a96b6bb46854","Key":5.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"2f7d6435-90f1-4092-8616-b6d7e40090ad","path":"sprites/spr_teleportportal/spr_teleportportal.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
             {"id":"346370d3-eff0-4fa6-a0a8-ec15a250ae12","Key":6.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"9893a996-9770-48b4-a707-44240b456205","path":"sprites/spr_teleportportal/spr_teleportportal.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
             {"id":"f419cbc0-464e-491e-bf5c-7b0e82d3a267","Key":7.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"0fab95c1-0fb1-46d8-9495-12d9dfc38011","path":"sprites/spr_teleportportal/spr_teleportportal.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
-          ],"resourceVersion":"1.0","resourceType":"KeyframeStore<SpriteFrameKeyframe>",},"trackColour":0,"inheritsTrackColour":true,"builtinName":0,"traits":0,"interpolation":1,"tracks":[],"events":[],"isCreationTrack":false,"resourceVersion":"1.0","tags":[],"resourceType":"GMSpriteFramesTrack","modifiers":[],},
+          ],"resourceVersion":"1.0","resourceType":"KeyframeStore<SpriteFrameKeyframe>",},"trackColour":0,"inheritsTrackColour":true,"builtinName":0,"traits":0,"interpolation":1,"tracks":[],"events":[],"isCreationTrack":false,"modifiers":[],},
     ],
     "visibleRange": null,
     "lockOrigin": false,
@@ -89,14 +79,9 @@
     "yorigin": 32,
     "eventToFunction": {},
     "eventStubScript": null,
-    "parent": {"name":"spr_teleportportal","path":"sprites/spr_teleportportal/spr_teleportportal.yy",},
-    "resourceVersion": "1.4",
-    "name": "",
-    "tags": [],
-    "resourceType": "GMSequence",
   },
   "layers": [
-    {"visible":true,"isLocked":false,"blendMode":0,"opacity":100.0,"displayName":"default","resourceVersion":"1.0","name":"1a567755-c899-421a-950f-925686ebb13b","tags":[],"resourceType":"GMImageLayer",},
+    {"resourceType":"GMImageLayer","resourceVersion":"1.0","name":"1a567755-c899-421a-950f-925686ebb13b","visible":true,"isLocked":false,"blendMode":0,"opacity":100.0,"displayName":"default",},
   ],
   "nineSlice": {
     "left": 0,
@@ -127,8 +112,4 @@
     "name": "generalobjects",
     "path": "folders/Sprites/generalobjects.yy",
   },
-  "resourceVersion": "1.0",
-  "name": "spr_teleportportal",
-  "tags": [],
-  "resourceType": "GMSprite",
 }

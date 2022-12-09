@@ -1,4 +1,7 @@
 {
+  "resourceType": "GMSprite",
+  "resourceVersion": "1.0",
+  "name": "spr_baconcollect",
   "bboxMode": 0,
   "collisionKind": 1,
   "type": 0,
@@ -14,6 +17,7 @@
   "HTile": false,
   "VTile": false,
   "For3D": false,
+  "DynamicTexturePage": false,
   "width": 32,
   "height": 32,
   "textureGroupId": {
@@ -24,18 +28,14 @@
   "gridX": 0,
   "gridY": 0,
   "frames": [
-    {"compositeImage":{"FrameId":{"name":"bdd8857d-910c-43dd-ac63-d92536078f20","path":"sprites/spr_baconcollect/spr_baconcollect.yy",},"LayerId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"bdd8857d-910c-43dd-ac63-d92536078f20","path":"sprites/spr_baconcollect/spr_baconcollect.yy",},"LayerId":{"name":"763e5e6d-4f77-45d4-9517-ad9d9c7cee09","path":"sprites/spr_baconcollect/spr_baconcollect.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-      ],"parent":{"name":"spr_baconcollect","path":"sprites/spr_baconcollect/spr_baconcollect.yy",},"resourceVersion":"1.0","name":"bdd8857d-910c-43dd-ac63-d92536078f20","tags":[],"resourceType":"GMSpriteFrame",},
-    {"compositeImage":{"FrameId":{"name":"a383d278-5c42-4474-b847-de9dc2ed59bf","path":"sprites/spr_baconcollect/spr_baconcollect.yy",},"LayerId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"a383d278-5c42-4474-b847-de9dc2ed59bf","path":"sprites/spr_baconcollect/spr_baconcollect.yy",},"LayerId":{"name":"763e5e6d-4f77-45d4-9517-ad9d9c7cee09","path":"sprites/spr_baconcollect/spr_baconcollect.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-      ],"parent":{"name":"spr_baconcollect","path":"sprites/spr_baconcollect/spr_baconcollect.yy",},"resourceVersion":"1.0","name":"a383d278-5c42-4474-b847-de9dc2ed59bf","tags":[],"resourceType":"GMSpriteFrame",},
-    {"compositeImage":{"FrameId":{"name":"cd968ab2-b061-4d12-b90e-bfeb10f0908d","path":"sprites/spr_baconcollect/spr_baconcollect.yy",},"LayerId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"cd968ab2-b061-4d12-b90e-bfeb10f0908d","path":"sprites/spr_baconcollect/spr_baconcollect.yy",},"LayerId":{"name":"763e5e6d-4f77-45d4-9517-ad9d9c7cee09","path":"sprites/spr_baconcollect/spr_baconcollect.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-      ],"parent":{"name":"spr_baconcollect","path":"sprites/spr_baconcollect/spr_baconcollect.yy",},"resourceVersion":"1.0","name":"cd968ab2-b061-4d12-b90e-bfeb10f0908d","tags":[],"resourceType":"GMSpriteFrame",},
+    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"bdd8857d-910c-43dd-ac63-d92536078f20",},
+    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"a383d278-5c42-4474-b847-de9dc2ed59bf",},
+    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"cd968ab2-b061-4d12-b90e-bfeb10f0908d",},
   ],
   "sequence": {
-    "spriteId": {"name":"spr_baconcollect","path":"sprites/spr_baconcollect/spr_baconcollect.yy",},
+    "resourceType": "GMSequence",
+    "resourceVersion": "1.4",
+    "name": "spr_baconcollect",
     "timeUnits": 1,
     "playback": 1,
     "playbackSpeed": 1.0,
@@ -46,11 +46,11 @@
     "events": {"Keyframes":[],"resourceVersion":"1.0","resourceType":"KeyframeStore<MessageEventKeyframe>",},
     "moments": {"Keyframes":[],"resourceVersion":"1.0","resourceType":"KeyframeStore<MomentsEventKeyframe>",},
     "tracks": [
-      {"name":"frames","spriteId":null,"keyframes":{"Keyframes":[
+      {"resourceType":"GMSpriteFramesTrack","resourceVersion":"1.0","name":"frames","spriteId":null,"keyframes":{"Keyframes":[
             {"id":"bafd59a2-d7e8-4d50-9105-b8f3e469642e","Key":0.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"bdd8857d-910c-43dd-ac63-d92536078f20","path":"sprites/spr_baconcollect/spr_baconcollect.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
             {"id":"15fceebb-2a1f-4bc8-9567-91ce3a12331c","Key":1.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"a383d278-5c42-4474-b847-de9dc2ed59bf","path":"sprites/spr_baconcollect/spr_baconcollect.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
             {"id":"3ed2cc1b-99b3-4153-b2ab-042b5a0c5ef9","Key":2.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"cd968ab2-b061-4d12-b90e-bfeb10f0908d","path":"sprites/spr_baconcollect/spr_baconcollect.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
-          ],"resourceVersion":"1.0","resourceType":"KeyframeStore<SpriteFrameKeyframe>",},"trackColour":0,"inheritsTrackColour":true,"builtinName":0,"traits":0,"interpolation":1,"tracks":[],"events":[],"isCreationTrack":false,"resourceVersion":"1.0","tags":[],"resourceType":"GMSpriteFramesTrack","modifiers":[],},
+          ],"resourceVersion":"1.0","resourceType":"KeyframeStore<SpriteFrameKeyframe>",},"trackColour":0,"inheritsTrackColour":true,"builtinName":0,"traits":0,"interpolation":1,"tracks":[],"events":[],"isCreationTrack":false,"modifiers":[],},
     ],
     "visibleRange": null,
     "lockOrigin": false,
@@ -66,22 +66,13 @@
     "yorigin": 0,
     "eventToFunction": {},
     "eventStubScript": null,
-    "parent": {"name":"spr_baconcollect","path":"sprites/spr_baconcollect/spr_baconcollect.yy",},
-    "resourceVersion": "1.4",
-    "name": "spr_baconcollect",
-    "tags": [],
-    "resourceType": "GMSequence",
   },
   "layers": [
-    {"visible":true,"isLocked":false,"blendMode":0,"opacity":100.0,"displayName":"default","resourceVersion":"1.0","name":"763e5e6d-4f77-45d4-9517-ad9d9c7cee09","tags":[],"resourceType":"GMImageLayer",},
+    {"resourceType":"GMImageLayer","resourceVersion":"1.0","name":"763e5e6d-4f77-45d4-9517-ad9d9c7cee09","visible":true,"isLocked":false,"blendMode":0,"opacity":100.0,"displayName":"default",},
   ],
   "nineSlice": null,
   "parent": {
     "name": "collectibles",
     "path": "folders/Sprites/generalobjects/collectibles.yy",
   },
-  "resourceVersion": "1.0",
-  "name": "spr_baconcollect",
-  "tags": [],
-  "resourceType": "GMSprite",
 }

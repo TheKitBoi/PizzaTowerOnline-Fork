@@ -1,4 +1,7 @@
 {
+  "resourceType": "GMSprite",
+  "resourceVersion": "1.0",
+  "name": "spr_ninja_kickattack",
   "ConfigValues": {
     "debug": {"textureGroupId":"{\"name\":\"tg_baddie\",\"path\":\"texturegroups/tg_baddie\"}",},
   },
@@ -17,6 +20,7 @@
   "HTile": false,
   "VTile": false,
   "For3D": false,
+  "DynamicTexturePage": false,
   "width": 183,
   "height": 100,
   "textureGroupId": {
@@ -27,54 +31,26 @@
   "gridX": 0,
   "gridY": 0,
   "frames": [
-    {"compositeImage":{"FrameId":{"name":"431d89ab-13a9-45a7-a930-9ee5eb0e535b","path":"sprites/spr_ninja_kickattack/spr_ninja_kickattack.yy",},"LayerId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"431d89ab-13a9-45a7-a930-9ee5eb0e535b","path":"sprites/spr_ninja_kickattack/spr_ninja_kickattack.yy",},"LayerId":{"name":"0f0879c0-68d7-4ae5-92d1-d16daccc96a0","path":"sprites/spr_ninja_kickattack/spr_ninja_kickattack.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-      ],"parent":{"name":"spr_ninja_kickattack","path":"sprites/spr_ninja_kickattack/spr_ninja_kickattack.yy",},"resourceVersion":"1.0","name":"431d89ab-13a9-45a7-a930-9ee5eb0e535b","tags":[],"resourceType":"GMSpriteFrame",},
-    {"compositeImage":{"FrameId":{"name":"1c915ddf-a8ef-436b-a07c-50ca45adb05f","path":"sprites/spr_ninja_kickattack/spr_ninja_kickattack.yy",},"LayerId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"1c915ddf-a8ef-436b-a07c-50ca45adb05f","path":"sprites/spr_ninja_kickattack/spr_ninja_kickattack.yy",},"LayerId":{"name":"0f0879c0-68d7-4ae5-92d1-d16daccc96a0","path":"sprites/spr_ninja_kickattack/spr_ninja_kickattack.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-      ],"parent":{"name":"spr_ninja_kickattack","path":"sprites/spr_ninja_kickattack/spr_ninja_kickattack.yy",},"resourceVersion":"1.0","name":"1c915ddf-a8ef-436b-a07c-50ca45adb05f","tags":[],"resourceType":"GMSpriteFrame",},
-    {"compositeImage":{"FrameId":{"name":"83735341-e63d-4b49-9078-622cfd718be5","path":"sprites/spr_ninja_kickattack/spr_ninja_kickattack.yy",},"LayerId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"83735341-e63d-4b49-9078-622cfd718be5","path":"sprites/spr_ninja_kickattack/spr_ninja_kickattack.yy",},"LayerId":{"name":"0f0879c0-68d7-4ae5-92d1-d16daccc96a0","path":"sprites/spr_ninja_kickattack/spr_ninja_kickattack.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-      ],"parent":{"name":"spr_ninja_kickattack","path":"sprites/spr_ninja_kickattack/spr_ninja_kickattack.yy",},"resourceVersion":"1.0","name":"83735341-e63d-4b49-9078-622cfd718be5","tags":[],"resourceType":"GMSpriteFrame",},
-    {"compositeImage":{"FrameId":{"name":"2b5b35ee-7e38-4722-b5c9-fd5b7d87592a","path":"sprites/spr_ninja_kickattack/spr_ninja_kickattack.yy",},"LayerId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"2b5b35ee-7e38-4722-b5c9-fd5b7d87592a","path":"sprites/spr_ninja_kickattack/spr_ninja_kickattack.yy",},"LayerId":{"name":"0f0879c0-68d7-4ae5-92d1-d16daccc96a0","path":"sprites/spr_ninja_kickattack/spr_ninja_kickattack.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-      ],"parent":{"name":"spr_ninja_kickattack","path":"sprites/spr_ninja_kickattack/spr_ninja_kickattack.yy",},"resourceVersion":"1.0","name":"2b5b35ee-7e38-4722-b5c9-fd5b7d87592a","tags":[],"resourceType":"GMSpriteFrame",},
-    {"compositeImage":{"FrameId":{"name":"03489b14-d1fe-4b23-8119-25b2df6bb85f","path":"sprites/spr_ninja_kickattack/spr_ninja_kickattack.yy",},"LayerId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"03489b14-d1fe-4b23-8119-25b2df6bb85f","path":"sprites/spr_ninja_kickattack/spr_ninja_kickattack.yy",},"LayerId":{"name":"0f0879c0-68d7-4ae5-92d1-d16daccc96a0","path":"sprites/spr_ninja_kickattack/spr_ninja_kickattack.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-      ],"parent":{"name":"spr_ninja_kickattack","path":"sprites/spr_ninja_kickattack/spr_ninja_kickattack.yy",},"resourceVersion":"1.0","name":"03489b14-d1fe-4b23-8119-25b2df6bb85f","tags":[],"resourceType":"GMSpriteFrame",},
-    {"compositeImage":{"FrameId":{"name":"e4775db6-4321-43d0-83ea-b509db769e62","path":"sprites/spr_ninja_kickattack/spr_ninja_kickattack.yy",},"LayerId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"e4775db6-4321-43d0-83ea-b509db769e62","path":"sprites/spr_ninja_kickattack/spr_ninja_kickattack.yy",},"LayerId":{"name":"0f0879c0-68d7-4ae5-92d1-d16daccc96a0","path":"sprites/spr_ninja_kickattack/spr_ninja_kickattack.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-      ],"parent":{"name":"spr_ninja_kickattack","path":"sprites/spr_ninja_kickattack/spr_ninja_kickattack.yy",},"resourceVersion":"1.0","name":"e4775db6-4321-43d0-83ea-b509db769e62","tags":[],"resourceType":"GMSpriteFrame",},
-    {"compositeImage":{"FrameId":{"name":"a4ca727d-100e-4b7a-8a4d-0238300a5092","path":"sprites/spr_ninja_kickattack/spr_ninja_kickattack.yy",},"LayerId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"a4ca727d-100e-4b7a-8a4d-0238300a5092","path":"sprites/spr_ninja_kickattack/spr_ninja_kickattack.yy",},"LayerId":{"name":"0f0879c0-68d7-4ae5-92d1-d16daccc96a0","path":"sprites/spr_ninja_kickattack/spr_ninja_kickattack.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-      ],"parent":{"name":"spr_ninja_kickattack","path":"sprites/spr_ninja_kickattack/spr_ninja_kickattack.yy",},"resourceVersion":"1.0","name":"a4ca727d-100e-4b7a-8a4d-0238300a5092","tags":[],"resourceType":"GMSpriteFrame",},
-    {"compositeImage":{"FrameId":{"name":"65898209-62cd-46fc-b162-17ee365acebf","path":"sprites/spr_ninja_kickattack/spr_ninja_kickattack.yy",},"LayerId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"65898209-62cd-46fc-b162-17ee365acebf","path":"sprites/spr_ninja_kickattack/spr_ninja_kickattack.yy",},"LayerId":{"name":"0f0879c0-68d7-4ae5-92d1-d16daccc96a0","path":"sprites/spr_ninja_kickattack/spr_ninja_kickattack.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-      ],"parent":{"name":"spr_ninja_kickattack","path":"sprites/spr_ninja_kickattack/spr_ninja_kickattack.yy",},"resourceVersion":"1.0","name":"65898209-62cd-46fc-b162-17ee365acebf","tags":[],"resourceType":"GMSpriteFrame",},
-    {"compositeImage":{"FrameId":{"name":"ee467a18-48fb-494a-97b5-652413bc9ee6","path":"sprites/spr_ninja_kickattack/spr_ninja_kickattack.yy",},"LayerId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"ee467a18-48fb-494a-97b5-652413bc9ee6","path":"sprites/spr_ninja_kickattack/spr_ninja_kickattack.yy",},"LayerId":{"name":"0f0879c0-68d7-4ae5-92d1-d16daccc96a0","path":"sprites/spr_ninja_kickattack/spr_ninja_kickattack.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-      ],"parent":{"name":"spr_ninja_kickattack","path":"sprites/spr_ninja_kickattack/spr_ninja_kickattack.yy",},"resourceVersion":"1.0","name":"ee467a18-48fb-494a-97b5-652413bc9ee6","tags":[],"resourceType":"GMSpriteFrame",},
-    {"compositeImage":{"FrameId":{"name":"22c11fd1-faea-495b-9bb0-d24a39ded9cd","path":"sprites/spr_ninja_kickattack/spr_ninja_kickattack.yy",},"LayerId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"22c11fd1-faea-495b-9bb0-d24a39ded9cd","path":"sprites/spr_ninja_kickattack/spr_ninja_kickattack.yy",},"LayerId":{"name":"0f0879c0-68d7-4ae5-92d1-d16daccc96a0","path":"sprites/spr_ninja_kickattack/spr_ninja_kickattack.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-      ],"parent":{"name":"spr_ninja_kickattack","path":"sprites/spr_ninja_kickattack/spr_ninja_kickattack.yy",},"resourceVersion":"1.0","name":"22c11fd1-faea-495b-9bb0-d24a39ded9cd","tags":[],"resourceType":"GMSpriteFrame",},
-    {"compositeImage":{"FrameId":{"name":"e385d249-ded5-4ce9-880b-1866f3c48dff","path":"sprites/spr_ninja_kickattack/spr_ninja_kickattack.yy",},"LayerId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"e385d249-ded5-4ce9-880b-1866f3c48dff","path":"sprites/spr_ninja_kickattack/spr_ninja_kickattack.yy",},"LayerId":{"name":"0f0879c0-68d7-4ae5-92d1-d16daccc96a0","path":"sprites/spr_ninja_kickattack/spr_ninja_kickattack.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-      ],"parent":{"name":"spr_ninja_kickattack","path":"sprites/spr_ninja_kickattack/spr_ninja_kickattack.yy",},"resourceVersion":"1.0","name":"e385d249-ded5-4ce9-880b-1866f3c48dff","tags":[],"resourceType":"GMSpriteFrame",},
-    {"compositeImage":{"FrameId":{"name":"aa8c2419-2662-405d-a785-ff75c284e3a6","path":"sprites/spr_ninja_kickattack/spr_ninja_kickattack.yy",},"LayerId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"aa8c2419-2662-405d-a785-ff75c284e3a6","path":"sprites/spr_ninja_kickattack/spr_ninja_kickattack.yy",},"LayerId":{"name":"0f0879c0-68d7-4ae5-92d1-d16daccc96a0","path":"sprites/spr_ninja_kickattack/spr_ninja_kickattack.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-      ],"parent":{"name":"spr_ninja_kickattack","path":"sprites/spr_ninja_kickattack/spr_ninja_kickattack.yy",},"resourceVersion":"1.0","name":"aa8c2419-2662-405d-a785-ff75c284e3a6","tags":[],"resourceType":"GMSpriteFrame",},
-    {"compositeImage":{"FrameId":{"name":"2b0afc0b-d1be-46d0-bfc6-d5fca1b6d4c9","path":"sprites/spr_ninja_kickattack/spr_ninja_kickattack.yy",},"LayerId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"2b0afc0b-d1be-46d0-bfc6-d5fca1b6d4c9","path":"sprites/spr_ninja_kickattack/spr_ninja_kickattack.yy",},"LayerId":{"name":"0f0879c0-68d7-4ae5-92d1-d16daccc96a0","path":"sprites/spr_ninja_kickattack/spr_ninja_kickattack.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-      ],"parent":{"name":"spr_ninja_kickattack","path":"sprites/spr_ninja_kickattack/spr_ninja_kickattack.yy",},"resourceVersion":"1.0","name":"2b0afc0b-d1be-46d0-bfc6-d5fca1b6d4c9","tags":[],"resourceType":"GMSpriteFrame",},
-    {"compositeImage":{"FrameId":{"name":"e4dc75a4-5549-4e28-87cf-f25353f4d2d4","path":"sprites/spr_ninja_kickattack/spr_ninja_kickattack.yy",},"LayerId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"e4dc75a4-5549-4e28-87cf-f25353f4d2d4","path":"sprites/spr_ninja_kickattack/spr_ninja_kickattack.yy",},"LayerId":{"name":"0f0879c0-68d7-4ae5-92d1-d16daccc96a0","path":"sprites/spr_ninja_kickattack/spr_ninja_kickattack.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-      ],"parent":{"name":"spr_ninja_kickattack","path":"sprites/spr_ninja_kickattack/spr_ninja_kickattack.yy",},"resourceVersion":"1.0","name":"e4dc75a4-5549-4e28-87cf-f25353f4d2d4","tags":[],"resourceType":"GMSpriteFrame",},
-    {"compositeImage":{"FrameId":{"name":"de82e826-9c34-4c4a-afda-b500ea1daab0","path":"sprites/spr_ninja_kickattack/spr_ninja_kickattack.yy",},"LayerId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"de82e826-9c34-4c4a-afda-b500ea1daab0","path":"sprites/spr_ninja_kickattack/spr_ninja_kickattack.yy",},"LayerId":{"name":"0f0879c0-68d7-4ae5-92d1-d16daccc96a0","path":"sprites/spr_ninja_kickattack/spr_ninja_kickattack.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-      ],"parent":{"name":"spr_ninja_kickattack","path":"sprites/spr_ninja_kickattack/spr_ninja_kickattack.yy",},"resourceVersion":"1.0","name":"de82e826-9c34-4c4a-afda-b500ea1daab0","tags":[],"resourceType":"GMSpriteFrame",},
+    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"431d89ab-13a9-45a7-a930-9ee5eb0e535b",},
+    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"1c915ddf-a8ef-436b-a07c-50ca45adb05f",},
+    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"83735341-e63d-4b49-9078-622cfd718be5",},
+    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"2b5b35ee-7e38-4722-b5c9-fd5b7d87592a",},
+    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"03489b14-d1fe-4b23-8119-25b2df6bb85f",},
+    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"e4775db6-4321-43d0-83ea-b509db769e62",},
+    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"a4ca727d-100e-4b7a-8a4d-0238300a5092",},
+    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"65898209-62cd-46fc-b162-17ee365acebf",},
+    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"ee467a18-48fb-494a-97b5-652413bc9ee6",},
+    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"22c11fd1-faea-495b-9bb0-d24a39ded9cd",},
+    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"e385d249-ded5-4ce9-880b-1866f3c48dff",},
+    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"aa8c2419-2662-405d-a785-ff75c284e3a6",},
+    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"2b0afc0b-d1be-46d0-bfc6-d5fca1b6d4c9",},
+    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"e4dc75a4-5549-4e28-87cf-f25353f4d2d4",},
+    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"de82e826-9c34-4c4a-afda-b500ea1daab0",},
   ],
   "sequence": {
-    "spriteId": {"name":"spr_ninja_kickattack","path":"sprites/spr_ninja_kickattack/spr_ninja_kickattack.yy",},
+    "resourceType": "GMSequence",
+    "resourceVersion": "1.4",
+    "name": "spr_ninja_kickattack",
     "timeUnits": 1,
     "playback": 1,
     "playbackSpeed": 1.0,
@@ -85,7 +61,7 @@
     "events": {"Keyframes":[],"resourceVersion":"1.0","resourceType":"KeyframeStore<MessageEventKeyframe>",},
     "moments": {"Keyframes":[],"resourceVersion":"1.0","resourceType":"KeyframeStore<MomentsEventKeyframe>",},
     "tracks": [
-      {"name":"frames","spriteId":null,"keyframes":{"Keyframes":[
+      {"resourceType":"GMSpriteFramesTrack","resourceVersion":"1.0","name":"frames","spriteId":null,"keyframes":{"Keyframes":[
             {"id":"3057db13-e515-47b1-be27-a2f938807f7c","Key":0.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"431d89ab-13a9-45a7-a930-9ee5eb0e535b","path":"sprites/spr_ninja_kickattack/spr_ninja_kickattack.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
             {"id":"5174d224-8e25-4e56-9715-e693cfd7d114","Key":1.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"1c915ddf-a8ef-436b-a07c-50ca45adb05f","path":"sprites/spr_ninja_kickattack/spr_ninja_kickattack.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
             {"id":"9743b293-ca4a-4616-85ad-39acddb9aab8","Key":2.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"83735341-e63d-4b49-9078-622cfd718be5","path":"sprites/spr_ninja_kickattack/spr_ninja_kickattack.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
@@ -101,7 +77,7 @@
             {"id":"f5512b97-eb3d-4b26-8b71-0d110389da49","Key":12.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"2b0afc0b-d1be-46d0-bfc6-d5fca1b6d4c9","path":"sprites/spr_ninja_kickattack/spr_ninja_kickattack.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
             {"id":"425bb58c-277f-43f1-b86b-73c0bb1c9797","Key":13.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"e4dc75a4-5549-4e28-87cf-f25353f4d2d4","path":"sprites/spr_ninja_kickattack/spr_ninja_kickattack.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
             {"id":"31e3ec07-e463-4530-818e-6a9936912d2a","Key":14.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"de82e826-9c34-4c4a-afda-b500ea1daab0","path":"sprites/spr_ninja_kickattack/spr_ninja_kickattack.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
-          ],"resourceVersion":"1.0","resourceType":"KeyframeStore<SpriteFrameKeyframe>",},"trackColour":0,"inheritsTrackColour":true,"builtinName":0,"traits":0,"interpolation":1,"tracks":[],"events":[],"isCreationTrack":false,"resourceVersion":"1.0","tags":[],"resourceType":"GMSpriteFramesTrack","modifiers":[],},
+          ],"resourceVersion":"1.0","resourceType":"KeyframeStore<SpriteFrameKeyframe>",},"trackColour":0,"inheritsTrackColour":true,"builtinName":0,"traits":0,"interpolation":1,"tracks":[],"events":[],"isCreationTrack":false,"modifiers":[],},
     ],
     "visibleRange": null,
     "lockOrigin": false,
@@ -117,22 +93,13 @@
     "yorigin": 50,
     "eventToFunction": {},
     "eventStubScript": null,
-    "parent": {"name":"spr_ninja_kickattack","path":"sprites/spr_ninja_kickattack/spr_ninja_kickattack.yy",},
-    "resourceVersion": "1.4",
-    "name": "spr_ninja_kickattack",
-    "tags": [],
-    "resourceType": "GMSequence",
   },
   "layers": [
-    {"visible":true,"isLocked":false,"blendMode":0,"opacity":100.0,"displayName":"default","resourceVersion":"1.0","name":"0f0879c0-68d7-4ae5-92d1-d16daccc96a0","tags":[],"resourceType":"GMImageLayer",},
+    {"resourceType":"GMImageLayer","resourceVersion":"1.0","name":"0f0879c0-68d7-4ae5-92d1-d16daccc96a0","visible":true,"isLocked":false,"blendMode":0,"opacity":100.0,"displayName":"default",},
   ],
   "nineSlice": null,
   "parent": {
     "name": "NEW",
     "path": "folders/Sprites/baddie/ninja/NEW.yy",
   },
-  "resourceVersion": "1.0",
-  "name": "spr_ninja_kickattack",
-  "tags": [],
-  "resourceType": "GMSprite",
 }

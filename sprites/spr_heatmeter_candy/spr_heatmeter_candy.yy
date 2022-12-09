@@ -1,4 +1,7 @@
 {
+  "resourceType": "GMSprite",
+  "resourceVersion": "1.0",
+  "name": "spr_heatmeter_candy",
   "ConfigValues": {
     "debug": {"textureGroupId":"{\"name\":\"tg_hud\",\"path\":\"texturegroups/tg_hud\"}",},
   },
@@ -17,6 +20,7 @@
   "HTile": false,
   "VTile": false,
   "For3D": false,
+  "DynamicTexturePage": false,
   "width": 271,
   "height": 175,
   "textureGroupId": {
@@ -27,48 +31,24 @@
   "gridX": 0,
   "gridY": 0,
   "frames": [
-    {"compositeImage":{"FrameId":{"name":"c006dc80-6144-4589-ad4d-f8345512eacf","path":"sprites/spr_heatmeter_candy/spr_heatmeter_candy.yy",},"LayerId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"c006dc80-6144-4589-ad4d-f8345512eacf","path":"sprites/spr_heatmeter_candy/spr_heatmeter_candy.yy",},"LayerId":{"name":"1d1c34f5-2aa8-4621-8f5b-ba216af5e95d","path":"sprites/spr_heatmeter_candy/spr_heatmeter_candy.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-      ],"parent":{"name":"spr_heatmeter_candy","path":"sprites/spr_heatmeter_candy/spr_heatmeter_candy.yy",},"resourceVersion":"1.0","name":"c006dc80-6144-4589-ad4d-f8345512eacf","tags":[],"resourceType":"GMSpriteFrame",},
-    {"compositeImage":{"FrameId":{"name":"489a05f4-63e1-49e6-9028-bd2590f7a3a2","path":"sprites/spr_heatmeter_candy/spr_heatmeter_candy.yy",},"LayerId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"489a05f4-63e1-49e6-9028-bd2590f7a3a2","path":"sprites/spr_heatmeter_candy/spr_heatmeter_candy.yy",},"LayerId":{"name":"1d1c34f5-2aa8-4621-8f5b-ba216af5e95d","path":"sprites/spr_heatmeter_candy/spr_heatmeter_candy.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-      ],"parent":{"name":"spr_heatmeter_candy","path":"sprites/spr_heatmeter_candy/spr_heatmeter_candy.yy",},"resourceVersion":"1.0","name":"489a05f4-63e1-49e6-9028-bd2590f7a3a2","tags":[],"resourceType":"GMSpriteFrame",},
-    {"compositeImage":{"FrameId":{"name":"3d43107c-c645-4ef0-8b42-03e11023ddce","path":"sprites/spr_heatmeter_candy/spr_heatmeter_candy.yy",},"LayerId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"3d43107c-c645-4ef0-8b42-03e11023ddce","path":"sprites/spr_heatmeter_candy/spr_heatmeter_candy.yy",},"LayerId":{"name":"1d1c34f5-2aa8-4621-8f5b-ba216af5e95d","path":"sprites/spr_heatmeter_candy/spr_heatmeter_candy.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-      ],"parent":{"name":"spr_heatmeter_candy","path":"sprites/spr_heatmeter_candy/spr_heatmeter_candy.yy",},"resourceVersion":"1.0","name":"3d43107c-c645-4ef0-8b42-03e11023ddce","tags":[],"resourceType":"GMSpriteFrame",},
-    {"compositeImage":{"FrameId":{"name":"f8006564-68c6-427f-a5df-9efebd25cc17","path":"sprites/spr_heatmeter_candy/spr_heatmeter_candy.yy",},"LayerId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"f8006564-68c6-427f-a5df-9efebd25cc17","path":"sprites/spr_heatmeter_candy/spr_heatmeter_candy.yy",},"LayerId":{"name":"1d1c34f5-2aa8-4621-8f5b-ba216af5e95d","path":"sprites/spr_heatmeter_candy/spr_heatmeter_candy.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-      ],"parent":{"name":"spr_heatmeter_candy","path":"sprites/spr_heatmeter_candy/spr_heatmeter_candy.yy",},"resourceVersion":"1.0","name":"f8006564-68c6-427f-a5df-9efebd25cc17","tags":[],"resourceType":"GMSpriteFrame",},
-    {"compositeImage":{"FrameId":{"name":"0db9abd3-251b-47ca-a8f7-3f8bec6f2684","path":"sprites/spr_heatmeter_candy/spr_heatmeter_candy.yy",},"LayerId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"0db9abd3-251b-47ca-a8f7-3f8bec6f2684","path":"sprites/spr_heatmeter_candy/spr_heatmeter_candy.yy",},"LayerId":{"name":"1d1c34f5-2aa8-4621-8f5b-ba216af5e95d","path":"sprites/spr_heatmeter_candy/spr_heatmeter_candy.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-      ],"parent":{"name":"spr_heatmeter_candy","path":"sprites/spr_heatmeter_candy/spr_heatmeter_candy.yy",},"resourceVersion":"1.0","name":"0db9abd3-251b-47ca-a8f7-3f8bec6f2684","tags":[],"resourceType":"GMSpriteFrame",},
-    {"compositeImage":{"FrameId":{"name":"ce44241d-3e47-43e7-be41-92ef8299eeb5","path":"sprites/spr_heatmeter_candy/spr_heatmeter_candy.yy",},"LayerId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"ce44241d-3e47-43e7-be41-92ef8299eeb5","path":"sprites/spr_heatmeter_candy/spr_heatmeter_candy.yy",},"LayerId":{"name":"1d1c34f5-2aa8-4621-8f5b-ba216af5e95d","path":"sprites/spr_heatmeter_candy/spr_heatmeter_candy.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-      ],"parent":{"name":"spr_heatmeter_candy","path":"sprites/spr_heatmeter_candy/spr_heatmeter_candy.yy",},"resourceVersion":"1.0","name":"ce44241d-3e47-43e7-be41-92ef8299eeb5","tags":[],"resourceType":"GMSpriteFrame",},
-    {"compositeImage":{"FrameId":{"name":"4ce764c2-20aa-4397-be5b-dfc37f16d4b4","path":"sprites/spr_heatmeter_candy/spr_heatmeter_candy.yy",},"LayerId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"4ce764c2-20aa-4397-be5b-dfc37f16d4b4","path":"sprites/spr_heatmeter_candy/spr_heatmeter_candy.yy",},"LayerId":{"name":"1d1c34f5-2aa8-4621-8f5b-ba216af5e95d","path":"sprites/spr_heatmeter_candy/spr_heatmeter_candy.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-      ],"parent":{"name":"spr_heatmeter_candy","path":"sprites/spr_heatmeter_candy/spr_heatmeter_candy.yy",},"resourceVersion":"1.0","name":"4ce764c2-20aa-4397-be5b-dfc37f16d4b4","tags":[],"resourceType":"GMSpriteFrame",},
-    {"compositeImage":{"FrameId":{"name":"40e35b3f-5522-49f9-9208-c42a4a77670c","path":"sprites/spr_heatmeter_candy/spr_heatmeter_candy.yy",},"LayerId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"40e35b3f-5522-49f9-9208-c42a4a77670c","path":"sprites/spr_heatmeter_candy/spr_heatmeter_candy.yy",},"LayerId":{"name":"1d1c34f5-2aa8-4621-8f5b-ba216af5e95d","path":"sprites/spr_heatmeter_candy/spr_heatmeter_candy.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-      ],"parent":{"name":"spr_heatmeter_candy","path":"sprites/spr_heatmeter_candy/spr_heatmeter_candy.yy",},"resourceVersion":"1.0","name":"40e35b3f-5522-49f9-9208-c42a4a77670c","tags":[],"resourceType":"GMSpriteFrame",},
-    {"compositeImage":{"FrameId":{"name":"30bd55ea-616f-4050-9940-d33e9487d0be","path":"sprites/spr_heatmeter_candy/spr_heatmeter_candy.yy",},"LayerId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"30bd55ea-616f-4050-9940-d33e9487d0be","path":"sprites/spr_heatmeter_candy/spr_heatmeter_candy.yy",},"LayerId":{"name":"1d1c34f5-2aa8-4621-8f5b-ba216af5e95d","path":"sprites/spr_heatmeter_candy/spr_heatmeter_candy.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-      ],"parent":{"name":"spr_heatmeter_candy","path":"sprites/spr_heatmeter_candy/spr_heatmeter_candy.yy",},"resourceVersion":"1.0","name":"30bd55ea-616f-4050-9940-d33e9487d0be","tags":[],"resourceType":"GMSpriteFrame",},
-    {"compositeImage":{"FrameId":{"name":"55c1739c-5c86-434f-93a4-9a11bb4c0d3e","path":"sprites/spr_heatmeter_candy/spr_heatmeter_candy.yy",},"LayerId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"55c1739c-5c86-434f-93a4-9a11bb4c0d3e","path":"sprites/spr_heatmeter_candy/spr_heatmeter_candy.yy",},"LayerId":{"name":"1d1c34f5-2aa8-4621-8f5b-ba216af5e95d","path":"sprites/spr_heatmeter_candy/spr_heatmeter_candy.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-      ],"parent":{"name":"spr_heatmeter_candy","path":"sprites/spr_heatmeter_candy/spr_heatmeter_candy.yy",},"resourceVersion":"1.0","name":"55c1739c-5c86-434f-93a4-9a11bb4c0d3e","tags":[],"resourceType":"GMSpriteFrame",},
-    {"compositeImage":{"FrameId":{"name":"3a39b173-a2d1-44fe-beec-e9228b553f0b","path":"sprites/spr_heatmeter_candy/spr_heatmeter_candy.yy",},"LayerId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"3a39b173-a2d1-44fe-beec-e9228b553f0b","path":"sprites/spr_heatmeter_candy/spr_heatmeter_candy.yy",},"LayerId":{"name":"1d1c34f5-2aa8-4621-8f5b-ba216af5e95d","path":"sprites/spr_heatmeter_candy/spr_heatmeter_candy.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-      ],"parent":{"name":"spr_heatmeter_candy","path":"sprites/spr_heatmeter_candy/spr_heatmeter_candy.yy",},"resourceVersion":"1.0","name":"3a39b173-a2d1-44fe-beec-e9228b553f0b","tags":[],"resourceType":"GMSpriteFrame",},
-    {"compositeImage":{"FrameId":{"name":"88a6019c-6cdf-4b47-a690-9e1c9dc688c6","path":"sprites/spr_heatmeter_candy/spr_heatmeter_candy.yy",},"LayerId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"88a6019c-6cdf-4b47-a690-9e1c9dc688c6","path":"sprites/spr_heatmeter_candy/spr_heatmeter_candy.yy",},"LayerId":{"name":"1d1c34f5-2aa8-4621-8f5b-ba216af5e95d","path":"sprites/spr_heatmeter_candy/spr_heatmeter_candy.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-      ],"parent":{"name":"spr_heatmeter_candy","path":"sprites/spr_heatmeter_candy/spr_heatmeter_candy.yy",},"resourceVersion":"1.0","name":"88a6019c-6cdf-4b47-a690-9e1c9dc688c6","tags":[],"resourceType":"GMSpriteFrame",},
-    {"compositeImage":{"FrameId":{"name":"e322ccc4-da90-48c0-88bb-3bfaa561b39d","path":"sprites/spr_heatmeter_candy/spr_heatmeter_candy.yy",},"LayerId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"e322ccc4-da90-48c0-88bb-3bfaa561b39d","path":"sprites/spr_heatmeter_candy/spr_heatmeter_candy.yy",},"LayerId":{"name":"1d1c34f5-2aa8-4621-8f5b-ba216af5e95d","path":"sprites/spr_heatmeter_candy/spr_heatmeter_candy.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-      ],"parent":{"name":"spr_heatmeter_candy","path":"sprites/spr_heatmeter_candy/spr_heatmeter_candy.yy",},"resourceVersion":"1.0","name":"e322ccc4-da90-48c0-88bb-3bfaa561b39d","tags":[],"resourceType":"GMSpriteFrame",},
+    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"c006dc80-6144-4589-ad4d-f8345512eacf",},
+    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"489a05f4-63e1-49e6-9028-bd2590f7a3a2",},
+    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"3d43107c-c645-4ef0-8b42-03e11023ddce",},
+    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"f8006564-68c6-427f-a5df-9efebd25cc17",},
+    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"0db9abd3-251b-47ca-a8f7-3f8bec6f2684",},
+    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"ce44241d-3e47-43e7-be41-92ef8299eeb5",},
+    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"4ce764c2-20aa-4397-be5b-dfc37f16d4b4",},
+    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"40e35b3f-5522-49f9-9208-c42a4a77670c",},
+    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"30bd55ea-616f-4050-9940-d33e9487d0be",},
+    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"55c1739c-5c86-434f-93a4-9a11bb4c0d3e",},
+    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"3a39b173-a2d1-44fe-beec-e9228b553f0b",},
+    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"88a6019c-6cdf-4b47-a690-9e1c9dc688c6",},
+    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"e322ccc4-da90-48c0-88bb-3bfaa561b39d",},
   ],
   "sequence": {
-    "spriteId": {"name":"spr_heatmeter_candy","path":"sprites/spr_heatmeter_candy/spr_heatmeter_candy.yy",},
+    "resourceType": "GMSequence",
+    "resourceVersion": "1.4",
+    "name": "spr_heatmeter_candy",
     "timeUnits": 1,
     "playback": 1,
     "playbackSpeed": 1.0,
@@ -79,7 +59,7 @@
     "events": {"Keyframes":[],"resourceVersion":"1.0","resourceType":"KeyframeStore<MessageEventKeyframe>",},
     "moments": {"Keyframes":[],"resourceVersion":"1.0","resourceType":"KeyframeStore<MomentsEventKeyframe>",},
     "tracks": [
-      {"name":"frames","spriteId":null,"keyframes":{"Keyframes":[
+      {"resourceType":"GMSpriteFramesTrack","resourceVersion":"1.0","name":"frames","spriteId":null,"keyframes":{"Keyframes":[
             {"id":"7b78670a-0b33-4e1d-a860-713a0af2b346","Key":0.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"c006dc80-6144-4589-ad4d-f8345512eacf","path":"sprites/spr_heatmeter_candy/spr_heatmeter_candy.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
             {"id":"9bcbfecb-8497-4090-81a9-1b8c40a99808","Key":1.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"489a05f4-63e1-49e6-9028-bd2590f7a3a2","path":"sprites/spr_heatmeter_candy/spr_heatmeter_candy.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
             {"id":"73982376-339f-4c46-bcb0-80709b886b83","Key":2.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"3d43107c-c645-4ef0-8b42-03e11023ddce","path":"sprites/spr_heatmeter_candy/spr_heatmeter_candy.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
@@ -93,7 +73,7 @@
             {"id":"18e4b4f0-cab0-4332-b333-6f516ca8b6bd","Key":10.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"3a39b173-a2d1-44fe-beec-e9228b553f0b","path":"sprites/spr_heatmeter_candy/spr_heatmeter_candy.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
             {"id":"ac49697d-457d-4c0e-9f22-76476a8b53c9","Key":11.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"88a6019c-6cdf-4b47-a690-9e1c9dc688c6","path":"sprites/spr_heatmeter_candy/spr_heatmeter_candy.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
             {"id":"7e8cfb20-cc21-4e5c-a954-3b3ac26dbf23","Key":12.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"e322ccc4-da90-48c0-88bb-3bfaa561b39d","path":"sprites/spr_heatmeter_candy/spr_heatmeter_candy.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
-          ],"resourceVersion":"1.0","resourceType":"KeyframeStore<SpriteFrameKeyframe>",},"trackColour":0,"inheritsTrackColour":true,"builtinName":0,"traits":0,"interpolation":1,"tracks":[],"events":[],"isCreationTrack":false,"resourceVersion":"1.0","tags":[],"resourceType":"GMSpriteFramesTrack","modifiers":[],},
+          ],"resourceVersion":"1.0","resourceType":"KeyframeStore<SpriteFrameKeyframe>",},"trackColour":0,"inheritsTrackColour":true,"builtinName":0,"traits":0,"interpolation":1,"tracks":[],"events":[],"isCreationTrack":false,"modifiers":[],},
     ],
     "visibleRange": null,
     "lockOrigin": false,
@@ -109,22 +89,13 @@
     "yorigin": 87,
     "eventToFunction": {},
     "eventStubScript": null,
-    "parent": {"name":"spr_heatmeter_candy","path":"sprites/spr_heatmeter_candy/spr_heatmeter_candy.yy",},
-    "resourceVersion": "1.4",
-    "name": "spr_heatmeter_candy",
-    "tags": [],
-    "resourceType": "GMSequence",
   },
   "layers": [
-    {"visible":true,"isLocked":false,"blendMode":0,"opacity":100.0,"displayName":"default","resourceVersion":"1.0","name":"1d1c34f5-2aa8-4621-8f5b-ba216af5e95d","tags":[],"resourceType":"GMImageLayer",},
+    {"resourceType":"GMImageLayer","resourceVersion":"1.0","name":"1d1c34f5-2aa8-4621-8f5b-ba216af5e95d","visible":true,"isLocked":false,"blendMode":0,"opacity":100.0,"displayName":"default",},
   ],
   "nineSlice": null,
   "parent": {
     "name": "sugary spire",
     "path": "folders/Sprites/HUD/new hud/pizza/sugary spire.yy",
   },
-  "resourceVersion": "1.0",
-  "name": "spr_heatmeter_candy",
-  "tags": [],
-  "resourceType": "GMSprite",
 }

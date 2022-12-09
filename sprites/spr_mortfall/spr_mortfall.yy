@@ -1,4 +1,7 @@
 {
+  "resourceType": "GMSprite",
+  "resourceVersion": "1.0",
+  "name": "spr_mortfall",
   "bboxMode": 0,
   "collisionKind": 1,
   "type": 0,
@@ -14,6 +17,7 @@
   "HTile": false,
   "VTile": false,
   "For3D": false,
+  "DynamicTexturePage": false,
   "width": 150,
   "height": 150,
   "textureGroupId": {
@@ -24,18 +28,14 @@
   "gridX": 0,
   "gridY": 0,
   "frames": [
-    {"compositeImage":{"FrameId":{"name":"a64f66bb-d9ef-45aa-9869-aed22851a185","path":"sprites/spr_mortfall/spr_mortfall.yy",},"LayerId":null,"resourceVersion":"1.0","name":"composite","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"a64f66bb-d9ef-45aa-9869-aed22851a185","path":"sprites/spr_mortfall/spr_mortfall.yy",},"LayerId":{"name":"a7140d34-35b6-40b0-9a49-ad1edefed47d","path":"sprites/spr_mortfall/spr_mortfall.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-      ],"parent":{"name":"spr_mortfall","path":"sprites/spr_mortfall/spr_mortfall.yy",},"resourceVersion":"1.0","name":"a64f66bb-d9ef-45aa-9869-aed22851a185","tags":[],"resourceType":"GMSpriteFrame",},
-    {"compositeImage":{"FrameId":{"name":"8d87f578-8c8a-4297-81d2-7179cd4684a3","path":"sprites/spr_mortfall/spr_mortfall.yy",},"LayerId":null,"resourceVersion":"1.0","name":"composite","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"8d87f578-8c8a-4297-81d2-7179cd4684a3","path":"sprites/spr_mortfall/spr_mortfall.yy",},"LayerId":{"name":"a7140d34-35b6-40b0-9a49-ad1edefed47d","path":"sprites/spr_mortfall/spr_mortfall.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-      ],"parent":{"name":"spr_mortfall","path":"sprites/spr_mortfall/spr_mortfall.yy",},"resourceVersion":"1.0","name":"8d87f578-8c8a-4297-81d2-7179cd4684a3","tags":[],"resourceType":"GMSpriteFrame",},
-    {"compositeImage":{"FrameId":{"name":"1562bef0-e30a-4915-a430-702bec5638a7","path":"sprites/spr_mortfall/spr_mortfall.yy",},"LayerId":null,"resourceVersion":"1.0","name":"composite","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"1562bef0-e30a-4915-a430-702bec5638a7","path":"sprites/spr_mortfall/spr_mortfall.yy",},"LayerId":{"name":"a7140d34-35b6-40b0-9a49-ad1edefed47d","path":"sprites/spr_mortfall/spr_mortfall.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-      ],"parent":{"name":"spr_mortfall","path":"sprites/spr_mortfall/spr_mortfall.yy",},"resourceVersion":"1.0","name":"1562bef0-e30a-4915-a430-702bec5638a7","tags":[],"resourceType":"GMSpriteFrame",},
+    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"a64f66bb-d9ef-45aa-9869-aed22851a185",},
+    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"8d87f578-8c8a-4297-81d2-7179cd4684a3",},
+    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"1562bef0-e30a-4915-a430-702bec5638a7",},
   ],
   "sequence": {
-    "spriteId": {"name":"spr_mortfall","path":"sprites/spr_mortfall/spr_mortfall.yy",},
+    "resourceType": "GMSequence",
+    "resourceVersion": "1.4",
+    "name": "",
     "timeUnits": 1,
     "playback": 1,
     "playbackSpeed": 1.0,
@@ -46,11 +46,11 @@
     "events": {"Keyframes":[],"resourceVersion":"1.0","resourceType":"KeyframeStore<MessageEventKeyframe>",},
     "moments": {"Keyframes":[],"resourceVersion":"1.0","resourceType":"KeyframeStore<MomentsEventKeyframe>",},
     "tracks": [
-      {"name":"frames","spriteId":null,"keyframes":{"Keyframes":[
+      {"resourceType":"GMSpriteFramesTrack","resourceVersion":"1.0","name":"frames","spriteId":null,"keyframes":{"Keyframes":[
             {"id":"0c949a44-1c4f-491f-b2c7-464b9ba76856","Key":0.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"a64f66bb-d9ef-45aa-9869-aed22851a185","path":"sprites/spr_mortfall/spr_mortfall.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
             {"id":"a378f2d9-1c56-447c-8623-eae5c2793cdf","Key":1.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"8d87f578-8c8a-4297-81d2-7179cd4684a3","path":"sprites/spr_mortfall/spr_mortfall.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
             {"id":"976671c8-c4d6-476e-8479-95ac00cd97e1","Key":2.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"1562bef0-e30a-4915-a430-702bec5638a7","path":"sprites/spr_mortfall/spr_mortfall.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
-          ],"resourceVersion":"1.0","resourceType":"KeyframeStore<SpriteFrameKeyframe>",},"trackColour":0,"inheritsTrackColour":true,"builtinName":0,"traits":0,"interpolation":1,"tracks":[],"events":[],"isCreationTrack":false,"resourceVersion":"1.0","tags":[],"resourceType":"GMSpriteFramesTrack","modifiers":[],},
+          ],"resourceVersion":"1.0","resourceType":"KeyframeStore<SpriteFrameKeyframe>",},"trackColour":0,"inheritsTrackColour":true,"builtinName":0,"traits":0,"interpolation":1,"tracks":[],"events":[],"isCreationTrack":false,"modifiers":[],},
     ],
     "visibleRange": {"x":0.0,"y":0.0,},
     "lockOrigin": false,
@@ -66,22 +66,13 @@
     "yorigin": 75,
     "eventToFunction": {},
     "eventStubScript": null,
-    "parent": {"name":"spr_mortfall","path":"sprites/spr_mortfall/spr_mortfall.yy",},
-    "resourceVersion": "1.4",
-    "name": "",
-    "tags": [],
-    "resourceType": "GMSequence",
   },
   "layers": [
-    {"visible":true,"isLocked":false,"blendMode":0,"opacity":100.0,"displayName":"default","resourceVersion":"1.0","name":"a7140d34-35b6-40b0-9a49-ad1edefed47d","tags":[],"resourceType":"GMImageLayer",},
+    {"resourceType":"GMImageLayer","resourceVersion":"1.0","name":"a7140d34-35b6-40b0-9a49-ad1edefed47d","visible":true,"isLocked":false,"blendMode":0,"opacity":100.0,"displayName":"default",},
   ],
   "nineSlice": null,
   "parent": {
     "name": "generalobjects",
     "path": "folders/Sprites/generalobjects.yy",
   },
-  "resourceVersion": "1.0",
-  "name": "spr_mortfall",
-  "tags": [],
-  "resourceType": "GMSprite",
 }

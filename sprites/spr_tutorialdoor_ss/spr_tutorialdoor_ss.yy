@@ -1,4 +1,7 @@
 {
+  "resourceType": "GMSprite",
+  "resourceVersion": "1.0",
+  "name": "spr_tutorialdoor_ss",
   "bboxMode": 0,
   "collisionKind": 1,
   "type": 0,
@@ -14,6 +17,7 @@
   "HTile": false,
   "VTile": false,
   "For3D": false,
+  "DynamicTexturePage": false,
   "width": 100,
   "height": 100,
   "textureGroupId": {
@@ -24,15 +28,13 @@
   "gridX": 0,
   "gridY": 0,
   "frames": [
-    {"compositeImage":{"FrameId":{"name":"52520d4c-d343-4bdf-bf94-3606b74a30e7","path":"sprites/spr_tutorialdoor_ss/spr_tutorialdoor_ss.yy",},"LayerId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"52520d4c-d343-4bdf-bf94-3606b74a30e7","path":"sprites/spr_tutorialdoor_ss/spr_tutorialdoor_ss.yy",},"LayerId":{"name":"693f125e-9abd-4cea-8cb4-07022427e64f","path":"sprites/spr_tutorialdoor_ss/spr_tutorialdoor_ss.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-      ],"parent":{"name":"spr_tutorialdoor_ss","path":"sprites/spr_tutorialdoor_ss/spr_tutorialdoor_ss.yy",},"resourceVersion":"1.0","name":"52520d4c-d343-4bdf-bf94-3606b74a30e7","tags":[],"resourceType":"GMSpriteFrame",},
-    {"compositeImage":{"FrameId":{"name":"8f78eec3-acc5-4cbe-8221-e60c5c02c463","path":"sprites/spr_tutorialdoor_ss/spr_tutorialdoor_ss.yy",},"LayerId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"8f78eec3-acc5-4cbe-8221-e60c5c02c463","path":"sprites/spr_tutorialdoor_ss/spr_tutorialdoor_ss.yy",},"LayerId":{"name":"693f125e-9abd-4cea-8cb4-07022427e64f","path":"sprites/spr_tutorialdoor_ss/spr_tutorialdoor_ss.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-      ],"parent":{"name":"spr_tutorialdoor_ss","path":"sprites/spr_tutorialdoor_ss/spr_tutorialdoor_ss.yy",},"resourceVersion":"1.0","name":"8f78eec3-acc5-4cbe-8221-e60c5c02c463","tags":[],"resourceType":"GMSpriteFrame",},
+    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"52520d4c-d343-4bdf-bf94-3606b74a30e7",},
+    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"8f78eec3-acc5-4cbe-8221-e60c5c02c463",},
   ],
   "sequence": {
-    "spriteId": {"name":"spr_tutorialdoor_ss","path":"sprites/spr_tutorialdoor_ss/spr_tutorialdoor_ss.yy",},
+    "resourceType": "GMSequence",
+    "resourceVersion": "1.4",
+    "name": "spr_tutorialdoor_ss",
     "timeUnits": 1,
     "playback": 1,
     "playbackSpeed": 1.0,
@@ -43,10 +45,10 @@
     "events": {"Keyframes":[],"resourceVersion":"1.0","resourceType":"KeyframeStore<MessageEventKeyframe>",},
     "moments": {"Keyframes":[],"resourceVersion":"1.0","resourceType":"KeyframeStore<MomentsEventKeyframe>",},
     "tracks": [
-      {"name":"frames","spriteId":null,"keyframes":{"Keyframes":[
+      {"resourceType":"GMSpriteFramesTrack","resourceVersion":"1.0","name":"frames","spriteId":null,"keyframes":{"Keyframes":[
             {"id":"b610295d-9014-4153-9f32-4a9f48008791","Key":0.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"52520d4c-d343-4bdf-bf94-3606b74a30e7","path":"sprites/spr_tutorialdoor_ss/spr_tutorialdoor_ss.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
             {"id":"d6fe64b6-9230-416b-a2e0-fdc5dc9dd0f8","Key":1.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"8f78eec3-acc5-4cbe-8221-e60c5c02c463","path":"sprites/spr_tutorialdoor_ss/spr_tutorialdoor_ss.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
-          ],"resourceVersion":"1.0","resourceType":"KeyframeStore<SpriteFrameKeyframe>",},"trackColour":0,"inheritsTrackColour":true,"builtinName":0,"traits":0,"interpolation":1,"tracks":[],"events":[],"isCreationTrack":false,"resourceVersion":"1.0","tags":[],"resourceType":"GMSpriteFramesTrack","modifiers":[],},
+          ],"resourceVersion":"1.0","resourceType":"KeyframeStore<SpriteFrameKeyframe>",},"trackColour":0,"inheritsTrackColour":true,"builtinName":0,"traits":0,"interpolation":1,"tracks":[],"events":[],"isCreationTrack":false,"modifiers":[],},
     ],
     "visibleRange": null,
     "lockOrigin": false,
@@ -62,22 +64,13 @@
     "yorigin": 0,
     "eventToFunction": {},
     "eventStubScript": null,
-    "parent": {"name":"spr_tutorialdoor_ss","path":"sprites/spr_tutorialdoor_ss/spr_tutorialdoor_ss.yy",},
-    "resourceVersion": "1.4",
-    "name": "spr_tutorialdoor_ss",
-    "tags": [],
-    "resourceType": "GMSequence",
   },
   "layers": [
-    {"visible":true,"isLocked":false,"blendMode":0,"opacity":100.0,"displayName":"default","resourceVersion":"1.0","name":"693f125e-9abd-4cea-8cb4-07022427e64f","tags":[],"resourceType":"GMImageLayer",},
+    {"resourceType":"GMImageLayer","resourceVersion":"1.0","name":"693f125e-9abd-4cea-8cb4-07022427e64f","visible":true,"isLocked":false,"blendMode":0,"opacity":100.0,"displayName":"default",},
   ],
   "nineSlice": null,
   "parent": {
     "name": "door",
     "path": "folders/Sprites/SUGARY SPIRE/door.yy",
   },
-  "resourceVersion": "1.0",
-  "name": "spr_tutorialdoor_ss",
-  "tags": [],
-  "resourceType": "GMSprite",
 }

@@ -1,4 +1,7 @@
 {
+  "resourceType": "GMSprite",
+  "resourceVersion": "1.0",
+  "name": "spr_tile_chateau1",
   "ConfigValues": {
     "debug": {"textureGroupId":"{\"name\":\"tg_leveleditor\",\"path\":\"texturegroups/tg_leveleditor\"}",},
   },
@@ -17,6 +20,7 @@
   "HTile": false,
   "VTile": false,
   "For3D": false,
+  "DynamicTexturePage": false,
   "width": 32,
   "height": 32,
   "textureGroupId": {
@@ -27,150 +31,58 @@
   "gridX": 0,
   "gridY": 0,
   "frames": [
-    {"compositeImage":{"FrameId":{"name":"941cca3f-e87b-47bd-980c-ece9770a28e1","path":"sprites/spr_tile_chateau1/spr_tile_chateau1.yy",},"LayerId":null,"resourceVersion":"1.0","name":"composite","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"941cca3f-e87b-47bd-980c-ece9770a28e1","path":"sprites/spr_tile_chateau1/spr_tile_chateau1.yy",},"LayerId":{"name":"8b8422db-3e6c-4ca9-bbcb-df95fabc2f98","path":"sprites/spr_tile_chateau1/spr_tile_chateau1.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-      ],"parent":{"name":"spr_tile_chateau1","path":"sprites/spr_tile_chateau1/spr_tile_chateau1.yy",},"resourceVersion":"1.0","name":"941cca3f-e87b-47bd-980c-ece9770a28e1","tags":[],"resourceType":"GMSpriteFrame",},
-    {"compositeImage":{"FrameId":{"name":"94f20c3c-be77-418b-b5a5-96669870228e","path":"sprites/spr_tile_chateau1/spr_tile_chateau1.yy",},"LayerId":null,"resourceVersion":"1.0","name":"composite","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"94f20c3c-be77-418b-b5a5-96669870228e","path":"sprites/spr_tile_chateau1/spr_tile_chateau1.yy",},"LayerId":{"name":"8b8422db-3e6c-4ca9-bbcb-df95fabc2f98","path":"sprites/spr_tile_chateau1/spr_tile_chateau1.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-      ],"parent":{"name":"spr_tile_chateau1","path":"sprites/spr_tile_chateau1/spr_tile_chateau1.yy",},"resourceVersion":"1.0","name":"94f20c3c-be77-418b-b5a5-96669870228e","tags":[],"resourceType":"GMSpriteFrame",},
-    {"compositeImage":{"FrameId":{"name":"ce2de8f3-b5bc-4bb4-ae92-df4027ff081e","path":"sprites/spr_tile_chateau1/spr_tile_chateau1.yy",},"LayerId":null,"resourceVersion":"1.0","name":"composite","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"ce2de8f3-b5bc-4bb4-ae92-df4027ff081e","path":"sprites/spr_tile_chateau1/spr_tile_chateau1.yy",},"LayerId":{"name":"8b8422db-3e6c-4ca9-bbcb-df95fabc2f98","path":"sprites/spr_tile_chateau1/spr_tile_chateau1.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-      ],"parent":{"name":"spr_tile_chateau1","path":"sprites/spr_tile_chateau1/spr_tile_chateau1.yy",},"resourceVersion":"1.0","name":"ce2de8f3-b5bc-4bb4-ae92-df4027ff081e","tags":[],"resourceType":"GMSpriteFrame",},
-    {"compositeImage":{"FrameId":{"name":"0c83b897-2bff-4c24-a4d1-445b7858da62","path":"sprites/spr_tile_chateau1/spr_tile_chateau1.yy",},"LayerId":null,"resourceVersion":"1.0","name":"composite","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"0c83b897-2bff-4c24-a4d1-445b7858da62","path":"sprites/spr_tile_chateau1/spr_tile_chateau1.yy",},"LayerId":{"name":"8b8422db-3e6c-4ca9-bbcb-df95fabc2f98","path":"sprites/spr_tile_chateau1/spr_tile_chateau1.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-      ],"parent":{"name":"spr_tile_chateau1","path":"sprites/spr_tile_chateau1/spr_tile_chateau1.yy",},"resourceVersion":"1.0","name":"0c83b897-2bff-4c24-a4d1-445b7858da62","tags":[],"resourceType":"GMSpriteFrame",},
-    {"compositeImage":{"FrameId":{"name":"3a45a227-30bf-4768-ba2c-5e70b92d8957","path":"sprites/spr_tile_chateau1/spr_tile_chateau1.yy",},"LayerId":null,"resourceVersion":"1.0","name":"composite","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"3a45a227-30bf-4768-ba2c-5e70b92d8957","path":"sprites/spr_tile_chateau1/spr_tile_chateau1.yy",},"LayerId":{"name":"8b8422db-3e6c-4ca9-bbcb-df95fabc2f98","path":"sprites/spr_tile_chateau1/spr_tile_chateau1.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-      ],"parent":{"name":"spr_tile_chateau1","path":"sprites/spr_tile_chateau1/spr_tile_chateau1.yy",},"resourceVersion":"1.0","name":"3a45a227-30bf-4768-ba2c-5e70b92d8957","tags":[],"resourceType":"GMSpriteFrame",},
-    {"compositeImage":{"FrameId":{"name":"8ef54b58-51b3-4f42-91be-b9194cf38f62","path":"sprites/spr_tile_chateau1/spr_tile_chateau1.yy",},"LayerId":null,"resourceVersion":"1.0","name":"composite","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"8ef54b58-51b3-4f42-91be-b9194cf38f62","path":"sprites/spr_tile_chateau1/spr_tile_chateau1.yy",},"LayerId":{"name":"8b8422db-3e6c-4ca9-bbcb-df95fabc2f98","path":"sprites/spr_tile_chateau1/spr_tile_chateau1.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-      ],"parent":{"name":"spr_tile_chateau1","path":"sprites/spr_tile_chateau1/spr_tile_chateau1.yy",},"resourceVersion":"1.0","name":"8ef54b58-51b3-4f42-91be-b9194cf38f62","tags":[],"resourceType":"GMSpriteFrame",},
-    {"compositeImage":{"FrameId":{"name":"c3cd1305-df30-4ff9-902f-94062ec3401c","path":"sprites/spr_tile_chateau1/spr_tile_chateau1.yy",},"LayerId":null,"resourceVersion":"1.0","name":"composite","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"c3cd1305-df30-4ff9-902f-94062ec3401c","path":"sprites/spr_tile_chateau1/spr_tile_chateau1.yy",},"LayerId":{"name":"8b8422db-3e6c-4ca9-bbcb-df95fabc2f98","path":"sprites/spr_tile_chateau1/spr_tile_chateau1.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-      ],"parent":{"name":"spr_tile_chateau1","path":"sprites/spr_tile_chateau1/spr_tile_chateau1.yy",},"resourceVersion":"1.0","name":"c3cd1305-df30-4ff9-902f-94062ec3401c","tags":[],"resourceType":"GMSpriteFrame",},
-    {"compositeImage":{"FrameId":{"name":"446e4287-5ae5-4bfe-9cf4-2f8db0164267","path":"sprites/spr_tile_chateau1/spr_tile_chateau1.yy",},"LayerId":null,"resourceVersion":"1.0","name":"composite","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"446e4287-5ae5-4bfe-9cf4-2f8db0164267","path":"sprites/spr_tile_chateau1/spr_tile_chateau1.yy",},"LayerId":{"name":"8b8422db-3e6c-4ca9-bbcb-df95fabc2f98","path":"sprites/spr_tile_chateau1/spr_tile_chateau1.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-      ],"parent":{"name":"spr_tile_chateau1","path":"sprites/spr_tile_chateau1/spr_tile_chateau1.yy",},"resourceVersion":"1.0","name":"446e4287-5ae5-4bfe-9cf4-2f8db0164267","tags":[],"resourceType":"GMSpriteFrame",},
-    {"compositeImage":{"FrameId":{"name":"0d975598-b563-4dbe-981d-4eb21a2b6b0a","path":"sprites/spr_tile_chateau1/spr_tile_chateau1.yy",},"LayerId":null,"resourceVersion":"1.0","name":"composite","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"0d975598-b563-4dbe-981d-4eb21a2b6b0a","path":"sprites/spr_tile_chateau1/spr_tile_chateau1.yy",},"LayerId":{"name":"8b8422db-3e6c-4ca9-bbcb-df95fabc2f98","path":"sprites/spr_tile_chateau1/spr_tile_chateau1.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-      ],"parent":{"name":"spr_tile_chateau1","path":"sprites/spr_tile_chateau1/spr_tile_chateau1.yy",},"resourceVersion":"1.0","name":"0d975598-b563-4dbe-981d-4eb21a2b6b0a","tags":[],"resourceType":"GMSpriteFrame",},
-    {"compositeImage":{"FrameId":{"name":"cc869fd0-e677-4c93-8f8b-6bbab8aa6e68","path":"sprites/spr_tile_chateau1/spr_tile_chateau1.yy",},"LayerId":null,"resourceVersion":"1.0","name":"composite","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"cc869fd0-e677-4c93-8f8b-6bbab8aa6e68","path":"sprites/spr_tile_chateau1/spr_tile_chateau1.yy",},"LayerId":{"name":"8b8422db-3e6c-4ca9-bbcb-df95fabc2f98","path":"sprites/spr_tile_chateau1/spr_tile_chateau1.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-      ],"parent":{"name":"spr_tile_chateau1","path":"sprites/spr_tile_chateau1/spr_tile_chateau1.yy",},"resourceVersion":"1.0","name":"cc869fd0-e677-4c93-8f8b-6bbab8aa6e68","tags":[],"resourceType":"GMSpriteFrame",},
-    {"compositeImage":{"FrameId":{"name":"c3f4a6cc-08c8-417a-82d0-f4cae8a9d09e","path":"sprites/spr_tile_chateau1/spr_tile_chateau1.yy",},"LayerId":null,"resourceVersion":"1.0","name":"composite","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"c3f4a6cc-08c8-417a-82d0-f4cae8a9d09e","path":"sprites/spr_tile_chateau1/spr_tile_chateau1.yy",},"LayerId":{"name":"8b8422db-3e6c-4ca9-bbcb-df95fabc2f98","path":"sprites/spr_tile_chateau1/spr_tile_chateau1.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-      ],"parent":{"name":"spr_tile_chateau1","path":"sprites/spr_tile_chateau1/spr_tile_chateau1.yy",},"resourceVersion":"1.0","name":"c3f4a6cc-08c8-417a-82d0-f4cae8a9d09e","tags":[],"resourceType":"GMSpriteFrame",},
-    {"compositeImage":{"FrameId":{"name":"54cf6222-289e-48b5-86a4-7982ab2effc8","path":"sprites/spr_tile_chateau1/spr_tile_chateau1.yy",},"LayerId":null,"resourceVersion":"1.0","name":"composite","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"54cf6222-289e-48b5-86a4-7982ab2effc8","path":"sprites/spr_tile_chateau1/spr_tile_chateau1.yy",},"LayerId":{"name":"8b8422db-3e6c-4ca9-bbcb-df95fabc2f98","path":"sprites/spr_tile_chateau1/spr_tile_chateau1.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-      ],"parent":{"name":"spr_tile_chateau1","path":"sprites/spr_tile_chateau1/spr_tile_chateau1.yy",},"resourceVersion":"1.0","name":"54cf6222-289e-48b5-86a4-7982ab2effc8","tags":[],"resourceType":"GMSpriteFrame",},
-    {"compositeImage":{"FrameId":{"name":"3252c606-403e-4c91-a31d-503b3623f5e0","path":"sprites/spr_tile_chateau1/spr_tile_chateau1.yy",},"LayerId":null,"resourceVersion":"1.0","name":"composite","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"3252c606-403e-4c91-a31d-503b3623f5e0","path":"sprites/spr_tile_chateau1/spr_tile_chateau1.yy",},"LayerId":{"name":"8b8422db-3e6c-4ca9-bbcb-df95fabc2f98","path":"sprites/spr_tile_chateau1/spr_tile_chateau1.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-      ],"parent":{"name":"spr_tile_chateau1","path":"sprites/spr_tile_chateau1/spr_tile_chateau1.yy",},"resourceVersion":"1.0","name":"3252c606-403e-4c91-a31d-503b3623f5e0","tags":[],"resourceType":"GMSpriteFrame",},
-    {"compositeImage":{"FrameId":{"name":"3830c164-7d3d-4386-9acb-64b3867a123e","path":"sprites/spr_tile_chateau1/spr_tile_chateau1.yy",},"LayerId":null,"resourceVersion":"1.0","name":"composite","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"3830c164-7d3d-4386-9acb-64b3867a123e","path":"sprites/spr_tile_chateau1/spr_tile_chateau1.yy",},"LayerId":{"name":"8b8422db-3e6c-4ca9-bbcb-df95fabc2f98","path":"sprites/spr_tile_chateau1/spr_tile_chateau1.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-      ],"parent":{"name":"spr_tile_chateau1","path":"sprites/spr_tile_chateau1/spr_tile_chateau1.yy",},"resourceVersion":"1.0","name":"3830c164-7d3d-4386-9acb-64b3867a123e","tags":[],"resourceType":"GMSpriteFrame",},
-    {"compositeImage":{"FrameId":{"name":"3778bbb2-9d55-4599-a150-89891e66f4ec","path":"sprites/spr_tile_chateau1/spr_tile_chateau1.yy",},"LayerId":null,"resourceVersion":"1.0","name":"composite","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"3778bbb2-9d55-4599-a150-89891e66f4ec","path":"sprites/spr_tile_chateau1/spr_tile_chateau1.yy",},"LayerId":{"name":"8b8422db-3e6c-4ca9-bbcb-df95fabc2f98","path":"sprites/spr_tile_chateau1/spr_tile_chateau1.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-      ],"parent":{"name":"spr_tile_chateau1","path":"sprites/spr_tile_chateau1/spr_tile_chateau1.yy",},"resourceVersion":"1.0","name":"3778bbb2-9d55-4599-a150-89891e66f4ec","tags":[],"resourceType":"GMSpriteFrame",},
-    {"compositeImage":{"FrameId":{"name":"e613b073-b362-46c0-adc3-238d5c872e8c","path":"sprites/spr_tile_chateau1/spr_tile_chateau1.yy",},"LayerId":null,"resourceVersion":"1.0","name":"composite","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"e613b073-b362-46c0-adc3-238d5c872e8c","path":"sprites/spr_tile_chateau1/spr_tile_chateau1.yy",},"LayerId":{"name":"8b8422db-3e6c-4ca9-bbcb-df95fabc2f98","path":"sprites/spr_tile_chateau1/spr_tile_chateau1.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-      ],"parent":{"name":"spr_tile_chateau1","path":"sprites/spr_tile_chateau1/spr_tile_chateau1.yy",},"resourceVersion":"1.0","name":"e613b073-b362-46c0-adc3-238d5c872e8c","tags":[],"resourceType":"GMSpriteFrame",},
-    {"compositeImage":{"FrameId":{"name":"e75021b9-1c0d-41eb-8243-36a0470d3449","path":"sprites/spr_tile_chateau1/spr_tile_chateau1.yy",},"LayerId":null,"resourceVersion":"1.0","name":"composite","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"e75021b9-1c0d-41eb-8243-36a0470d3449","path":"sprites/spr_tile_chateau1/spr_tile_chateau1.yy",},"LayerId":{"name":"8b8422db-3e6c-4ca9-bbcb-df95fabc2f98","path":"sprites/spr_tile_chateau1/spr_tile_chateau1.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-      ],"parent":{"name":"spr_tile_chateau1","path":"sprites/spr_tile_chateau1/spr_tile_chateau1.yy",},"resourceVersion":"1.0","name":"e75021b9-1c0d-41eb-8243-36a0470d3449","tags":[],"resourceType":"GMSpriteFrame",},
-    {"compositeImage":{"FrameId":{"name":"a9d62e9d-df43-447e-a709-11fc34173912","path":"sprites/spr_tile_chateau1/spr_tile_chateau1.yy",},"LayerId":null,"resourceVersion":"1.0","name":"composite","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"a9d62e9d-df43-447e-a709-11fc34173912","path":"sprites/spr_tile_chateau1/spr_tile_chateau1.yy",},"LayerId":{"name":"8b8422db-3e6c-4ca9-bbcb-df95fabc2f98","path":"sprites/spr_tile_chateau1/spr_tile_chateau1.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-      ],"parent":{"name":"spr_tile_chateau1","path":"sprites/spr_tile_chateau1/spr_tile_chateau1.yy",},"resourceVersion":"1.0","name":"a9d62e9d-df43-447e-a709-11fc34173912","tags":[],"resourceType":"GMSpriteFrame",},
-    {"compositeImage":{"FrameId":{"name":"ee54b64a-249f-475c-855f-c9f74939d99e","path":"sprites/spr_tile_chateau1/spr_tile_chateau1.yy",},"LayerId":null,"resourceVersion":"1.0","name":"composite","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"ee54b64a-249f-475c-855f-c9f74939d99e","path":"sprites/spr_tile_chateau1/spr_tile_chateau1.yy",},"LayerId":{"name":"8b8422db-3e6c-4ca9-bbcb-df95fabc2f98","path":"sprites/spr_tile_chateau1/spr_tile_chateau1.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-      ],"parent":{"name":"spr_tile_chateau1","path":"sprites/spr_tile_chateau1/spr_tile_chateau1.yy",},"resourceVersion":"1.0","name":"ee54b64a-249f-475c-855f-c9f74939d99e","tags":[],"resourceType":"GMSpriteFrame",},
-    {"compositeImage":{"FrameId":{"name":"28d1ab0b-6a5e-4034-8606-2db16d2da6b0","path":"sprites/spr_tile_chateau1/spr_tile_chateau1.yy",},"LayerId":null,"resourceVersion":"1.0","name":"composite","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"28d1ab0b-6a5e-4034-8606-2db16d2da6b0","path":"sprites/spr_tile_chateau1/spr_tile_chateau1.yy",},"LayerId":{"name":"8b8422db-3e6c-4ca9-bbcb-df95fabc2f98","path":"sprites/spr_tile_chateau1/spr_tile_chateau1.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-      ],"parent":{"name":"spr_tile_chateau1","path":"sprites/spr_tile_chateau1/spr_tile_chateau1.yy",},"resourceVersion":"1.0","name":"28d1ab0b-6a5e-4034-8606-2db16d2da6b0","tags":[],"resourceType":"GMSpriteFrame",},
-    {"compositeImage":{"FrameId":{"name":"360a45f7-244a-4d11-948f-9f6f1e0efdcc","path":"sprites/spr_tile_chateau1/spr_tile_chateau1.yy",},"LayerId":null,"resourceVersion":"1.0","name":"composite","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"360a45f7-244a-4d11-948f-9f6f1e0efdcc","path":"sprites/spr_tile_chateau1/spr_tile_chateau1.yy",},"LayerId":{"name":"8b8422db-3e6c-4ca9-bbcb-df95fabc2f98","path":"sprites/spr_tile_chateau1/spr_tile_chateau1.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-      ],"parent":{"name":"spr_tile_chateau1","path":"sprites/spr_tile_chateau1/spr_tile_chateau1.yy",},"resourceVersion":"1.0","name":"360a45f7-244a-4d11-948f-9f6f1e0efdcc","tags":[],"resourceType":"GMSpriteFrame",},
-    {"compositeImage":{"FrameId":{"name":"e3b3596f-ffdb-4055-b336-953104c2ff5e","path":"sprites/spr_tile_chateau1/spr_tile_chateau1.yy",},"LayerId":null,"resourceVersion":"1.0","name":"composite","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"e3b3596f-ffdb-4055-b336-953104c2ff5e","path":"sprites/spr_tile_chateau1/spr_tile_chateau1.yy",},"LayerId":{"name":"8b8422db-3e6c-4ca9-bbcb-df95fabc2f98","path":"sprites/spr_tile_chateau1/spr_tile_chateau1.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-      ],"parent":{"name":"spr_tile_chateau1","path":"sprites/spr_tile_chateau1/spr_tile_chateau1.yy",},"resourceVersion":"1.0","name":"e3b3596f-ffdb-4055-b336-953104c2ff5e","tags":[],"resourceType":"GMSpriteFrame",},
-    {"compositeImage":{"FrameId":{"name":"97ebeac8-0ca8-4326-85b7-7bc591b85462","path":"sprites/spr_tile_chateau1/spr_tile_chateau1.yy",},"LayerId":null,"resourceVersion":"1.0","name":"composite","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"97ebeac8-0ca8-4326-85b7-7bc591b85462","path":"sprites/spr_tile_chateau1/spr_tile_chateau1.yy",},"LayerId":{"name":"8b8422db-3e6c-4ca9-bbcb-df95fabc2f98","path":"sprites/spr_tile_chateau1/spr_tile_chateau1.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-      ],"parent":{"name":"spr_tile_chateau1","path":"sprites/spr_tile_chateau1/spr_tile_chateau1.yy",},"resourceVersion":"1.0","name":"97ebeac8-0ca8-4326-85b7-7bc591b85462","tags":[],"resourceType":"GMSpriteFrame",},
-    {"compositeImage":{"FrameId":{"name":"d603b2b6-5659-4bdc-93e5-a579300c6cac","path":"sprites/spr_tile_chateau1/spr_tile_chateau1.yy",},"LayerId":null,"resourceVersion":"1.0","name":"composite","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"d603b2b6-5659-4bdc-93e5-a579300c6cac","path":"sprites/spr_tile_chateau1/spr_tile_chateau1.yy",},"LayerId":{"name":"8b8422db-3e6c-4ca9-bbcb-df95fabc2f98","path":"sprites/spr_tile_chateau1/spr_tile_chateau1.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-      ],"parent":{"name":"spr_tile_chateau1","path":"sprites/spr_tile_chateau1/spr_tile_chateau1.yy",},"resourceVersion":"1.0","name":"d603b2b6-5659-4bdc-93e5-a579300c6cac","tags":[],"resourceType":"GMSpriteFrame",},
-    {"compositeImage":{"FrameId":{"name":"3bb6a6f9-b88e-47b2-8da4-e180cf90bb3e","path":"sprites/spr_tile_chateau1/spr_tile_chateau1.yy",},"LayerId":null,"resourceVersion":"1.0","name":"composite","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"3bb6a6f9-b88e-47b2-8da4-e180cf90bb3e","path":"sprites/spr_tile_chateau1/spr_tile_chateau1.yy",},"LayerId":{"name":"8b8422db-3e6c-4ca9-bbcb-df95fabc2f98","path":"sprites/spr_tile_chateau1/spr_tile_chateau1.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-      ],"parent":{"name":"spr_tile_chateau1","path":"sprites/spr_tile_chateau1/spr_tile_chateau1.yy",},"resourceVersion":"1.0","name":"3bb6a6f9-b88e-47b2-8da4-e180cf90bb3e","tags":[],"resourceType":"GMSpriteFrame",},
-    {"compositeImage":{"FrameId":{"name":"2e5fde3f-b2e8-4743-9227-32dc9fe2066e","path":"sprites/spr_tile_chateau1/spr_tile_chateau1.yy",},"LayerId":null,"resourceVersion":"1.0","name":"composite","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"2e5fde3f-b2e8-4743-9227-32dc9fe2066e","path":"sprites/spr_tile_chateau1/spr_tile_chateau1.yy",},"LayerId":{"name":"8b8422db-3e6c-4ca9-bbcb-df95fabc2f98","path":"sprites/spr_tile_chateau1/spr_tile_chateau1.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-      ],"parent":{"name":"spr_tile_chateau1","path":"sprites/spr_tile_chateau1/spr_tile_chateau1.yy",},"resourceVersion":"1.0","name":"2e5fde3f-b2e8-4743-9227-32dc9fe2066e","tags":[],"resourceType":"GMSpriteFrame",},
-    {"compositeImage":{"FrameId":{"name":"4babe9db-bf15-41a8-aca8-6391a5b0a649","path":"sprites/spr_tile_chateau1/spr_tile_chateau1.yy",},"LayerId":null,"resourceVersion":"1.0","name":"composite","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"4babe9db-bf15-41a8-aca8-6391a5b0a649","path":"sprites/spr_tile_chateau1/spr_tile_chateau1.yy",},"LayerId":{"name":"8b8422db-3e6c-4ca9-bbcb-df95fabc2f98","path":"sprites/spr_tile_chateau1/spr_tile_chateau1.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-      ],"parent":{"name":"spr_tile_chateau1","path":"sprites/spr_tile_chateau1/spr_tile_chateau1.yy",},"resourceVersion":"1.0","name":"4babe9db-bf15-41a8-aca8-6391a5b0a649","tags":[],"resourceType":"GMSpriteFrame",},
-    {"compositeImage":{"FrameId":{"name":"7f13988e-0e95-425c-9b09-66ad78c0e51a","path":"sprites/spr_tile_chateau1/spr_tile_chateau1.yy",},"LayerId":null,"resourceVersion":"1.0","name":"composite","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"7f13988e-0e95-425c-9b09-66ad78c0e51a","path":"sprites/spr_tile_chateau1/spr_tile_chateau1.yy",},"LayerId":{"name":"8b8422db-3e6c-4ca9-bbcb-df95fabc2f98","path":"sprites/spr_tile_chateau1/spr_tile_chateau1.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-      ],"parent":{"name":"spr_tile_chateau1","path":"sprites/spr_tile_chateau1/spr_tile_chateau1.yy",},"resourceVersion":"1.0","name":"7f13988e-0e95-425c-9b09-66ad78c0e51a","tags":[],"resourceType":"GMSpriteFrame",},
-    {"compositeImage":{"FrameId":{"name":"e61ae383-78d2-4e1e-9a4e-342a8d63a2a1","path":"sprites/spr_tile_chateau1/spr_tile_chateau1.yy",},"LayerId":null,"resourceVersion":"1.0","name":"composite","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"e61ae383-78d2-4e1e-9a4e-342a8d63a2a1","path":"sprites/spr_tile_chateau1/spr_tile_chateau1.yy",},"LayerId":{"name":"8b8422db-3e6c-4ca9-bbcb-df95fabc2f98","path":"sprites/spr_tile_chateau1/spr_tile_chateau1.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-      ],"parent":{"name":"spr_tile_chateau1","path":"sprites/spr_tile_chateau1/spr_tile_chateau1.yy",},"resourceVersion":"1.0","name":"e61ae383-78d2-4e1e-9a4e-342a8d63a2a1","tags":[],"resourceType":"GMSpriteFrame",},
-    {"compositeImage":{"FrameId":{"name":"a68a1124-0500-43c4-9185-03c5ac0b6a01","path":"sprites/spr_tile_chateau1/spr_tile_chateau1.yy",},"LayerId":null,"resourceVersion":"1.0","name":"composite","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"a68a1124-0500-43c4-9185-03c5ac0b6a01","path":"sprites/spr_tile_chateau1/spr_tile_chateau1.yy",},"LayerId":{"name":"8b8422db-3e6c-4ca9-bbcb-df95fabc2f98","path":"sprites/spr_tile_chateau1/spr_tile_chateau1.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-      ],"parent":{"name":"spr_tile_chateau1","path":"sprites/spr_tile_chateau1/spr_tile_chateau1.yy",},"resourceVersion":"1.0","name":"a68a1124-0500-43c4-9185-03c5ac0b6a01","tags":[],"resourceType":"GMSpriteFrame",},
-    {"compositeImage":{"FrameId":{"name":"6a4280b1-4040-4c12-8236-c5fbea73651c","path":"sprites/spr_tile_chateau1/spr_tile_chateau1.yy",},"LayerId":null,"resourceVersion":"1.0","name":"composite","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"6a4280b1-4040-4c12-8236-c5fbea73651c","path":"sprites/spr_tile_chateau1/spr_tile_chateau1.yy",},"LayerId":{"name":"8b8422db-3e6c-4ca9-bbcb-df95fabc2f98","path":"sprites/spr_tile_chateau1/spr_tile_chateau1.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-      ],"parent":{"name":"spr_tile_chateau1","path":"sprites/spr_tile_chateau1/spr_tile_chateau1.yy",},"resourceVersion":"1.0","name":"6a4280b1-4040-4c12-8236-c5fbea73651c","tags":[],"resourceType":"GMSpriteFrame",},
-    {"compositeImage":{"FrameId":{"name":"f5534929-9640-4929-8ce8-c92cb55385de","path":"sprites/spr_tile_chateau1/spr_tile_chateau1.yy",},"LayerId":null,"resourceVersion":"1.0","name":"composite","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"f5534929-9640-4929-8ce8-c92cb55385de","path":"sprites/spr_tile_chateau1/spr_tile_chateau1.yy",},"LayerId":{"name":"8b8422db-3e6c-4ca9-bbcb-df95fabc2f98","path":"sprites/spr_tile_chateau1/spr_tile_chateau1.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-      ],"parent":{"name":"spr_tile_chateau1","path":"sprites/spr_tile_chateau1/spr_tile_chateau1.yy",},"resourceVersion":"1.0","name":"f5534929-9640-4929-8ce8-c92cb55385de","tags":[],"resourceType":"GMSpriteFrame",},
-    {"compositeImage":{"FrameId":{"name":"08e36124-83b7-49a1-87ef-12d985bfec00","path":"sprites/spr_tile_chateau1/spr_tile_chateau1.yy",},"LayerId":null,"resourceVersion":"1.0","name":"composite","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"08e36124-83b7-49a1-87ef-12d985bfec00","path":"sprites/spr_tile_chateau1/spr_tile_chateau1.yy",},"LayerId":{"name":"8b8422db-3e6c-4ca9-bbcb-df95fabc2f98","path":"sprites/spr_tile_chateau1/spr_tile_chateau1.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-      ],"parent":{"name":"spr_tile_chateau1","path":"sprites/spr_tile_chateau1/spr_tile_chateau1.yy",},"resourceVersion":"1.0","name":"08e36124-83b7-49a1-87ef-12d985bfec00","tags":[],"resourceType":"GMSpriteFrame",},
-    {"compositeImage":{"FrameId":{"name":"d904c41c-f413-4536-a0ce-a9b03ae9e2aa","path":"sprites/spr_tile_chateau1/spr_tile_chateau1.yy",},"LayerId":null,"resourceVersion":"1.0","name":"composite","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"d904c41c-f413-4536-a0ce-a9b03ae9e2aa","path":"sprites/spr_tile_chateau1/spr_tile_chateau1.yy",},"LayerId":{"name":"8b8422db-3e6c-4ca9-bbcb-df95fabc2f98","path":"sprites/spr_tile_chateau1/spr_tile_chateau1.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-      ],"parent":{"name":"spr_tile_chateau1","path":"sprites/spr_tile_chateau1/spr_tile_chateau1.yy",},"resourceVersion":"1.0","name":"d904c41c-f413-4536-a0ce-a9b03ae9e2aa","tags":[],"resourceType":"GMSpriteFrame",},
-    {"compositeImage":{"FrameId":{"name":"a640c4ef-7707-4168-840e-459bef96f524","path":"sprites/spr_tile_chateau1/spr_tile_chateau1.yy",},"LayerId":null,"resourceVersion":"1.0","name":"composite","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"a640c4ef-7707-4168-840e-459bef96f524","path":"sprites/spr_tile_chateau1/spr_tile_chateau1.yy",},"LayerId":{"name":"8b8422db-3e6c-4ca9-bbcb-df95fabc2f98","path":"sprites/spr_tile_chateau1/spr_tile_chateau1.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-      ],"parent":{"name":"spr_tile_chateau1","path":"sprites/spr_tile_chateau1/spr_tile_chateau1.yy",},"resourceVersion":"1.0","name":"a640c4ef-7707-4168-840e-459bef96f524","tags":[],"resourceType":"GMSpriteFrame",},
-    {"compositeImage":{"FrameId":{"name":"9630bc76-cc45-4f97-84dc-55f7d2d28541","path":"sprites/spr_tile_chateau1/spr_tile_chateau1.yy",},"LayerId":null,"resourceVersion":"1.0","name":"composite","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"9630bc76-cc45-4f97-84dc-55f7d2d28541","path":"sprites/spr_tile_chateau1/spr_tile_chateau1.yy",},"LayerId":{"name":"8b8422db-3e6c-4ca9-bbcb-df95fabc2f98","path":"sprites/spr_tile_chateau1/spr_tile_chateau1.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-      ],"parent":{"name":"spr_tile_chateau1","path":"sprites/spr_tile_chateau1/spr_tile_chateau1.yy",},"resourceVersion":"1.0","name":"9630bc76-cc45-4f97-84dc-55f7d2d28541","tags":[],"resourceType":"GMSpriteFrame",},
-    {"compositeImage":{"FrameId":{"name":"5b53c02f-44aa-4672-8624-5164abe762b4","path":"sprites/spr_tile_chateau1/spr_tile_chateau1.yy",},"LayerId":null,"resourceVersion":"1.0","name":"composite","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"5b53c02f-44aa-4672-8624-5164abe762b4","path":"sprites/spr_tile_chateau1/spr_tile_chateau1.yy",},"LayerId":{"name":"8b8422db-3e6c-4ca9-bbcb-df95fabc2f98","path":"sprites/spr_tile_chateau1/spr_tile_chateau1.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-      ],"parent":{"name":"spr_tile_chateau1","path":"sprites/spr_tile_chateau1/spr_tile_chateau1.yy",},"resourceVersion":"1.0","name":"5b53c02f-44aa-4672-8624-5164abe762b4","tags":[],"resourceType":"GMSpriteFrame",},
-    {"compositeImage":{"FrameId":{"name":"005c6bab-8c6c-4365-a795-1931d76fdb7c","path":"sprites/spr_tile_chateau1/spr_tile_chateau1.yy",},"LayerId":null,"resourceVersion":"1.0","name":"composite","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"005c6bab-8c6c-4365-a795-1931d76fdb7c","path":"sprites/spr_tile_chateau1/spr_tile_chateau1.yy",},"LayerId":{"name":"8b8422db-3e6c-4ca9-bbcb-df95fabc2f98","path":"sprites/spr_tile_chateau1/spr_tile_chateau1.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-      ],"parent":{"name":"spr_tile_chateau1","path":"sprites/spr_tile_chateau1/spr_tile_chateau1.yy",},"resourceVersion":"1.0","name":"005c6bab-8c6c-4365-a795-1931d76fdb7c","tags":[],"resourceType":"GMSpriteFrame",},
-    {"compositeImage":{"FrameId":{"name":"01fb617a-4b82-4e17-972e-79a4c751db2c","path":"sprites/spr_tile_chateau1/spr_tile_chateau1.yy",},"LayerId":null,"resourceVersion":"1.0","name":"composite","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"01fb617a-4b82-4e17-972e-79a4c751db2c","path":"sprites/spr_tile_chateau1/spr_tile_chateau1.yy",},"LayerId":{"name":"8b8422db-3e6c-4ca9-bbcb-df95fabc2f98","path":"sprites/spr_tile_chateau1/spr_tile_chateau1.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-      ],"parent":{"name":"spr_tile_chateau1","path":"sprites/spr_tile_chateau1/spr_tile_chateau1.yy",},"resourceVersion":"1.0","name":"01fb617a-4b82-4e17-972e-79a4c751db2c","tags":[],"resourceType":"GMSpriteFrame",},
-    {"compositeImage":{"FrameId":{"name":"ee9f784d-fc12-4cc2-bbba-3c36df7d30fc","path":"sprites/spr_tile_chateau1/spr_tile_chateau1.yy",},"LayerId":null,"resourceVersion":"1.0","name":"composite","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"ee9f784d-fc12-4cc2-bbba-3c36df7d30fc","path":"sprites/spr_tile_chateau1/spr_tile_chateau1.yy",},"LayerId":{"name":"8b8422db-3e6c-4ca9-bbcb-df95fabc2f98","path":"sprites/spr_tile_chateau1/spr_tile_chateau1.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-      ],"parent":{"name":"spr_tile_chateau1","path":"sprites/spr_tile_chateau1/spr_tile_chateau1.yy",},"resourceVersion":"1.0","name":"ee9f784d-fc12-4cc2-bbba-3c36df7d30fc","tags":[],"resourceType":"GMSpriteFrame",},
-    {"compositeImage":{"FrameId":{"name":"b630c91e-184f-49ae-87ff-9fb07eac65d2","path":"sprites/spr_tile_chateau1/spr_tile_chateau1.yy",},"LayerId":null,"resourceVersion":"1.0","name":"composite","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"b630c91e-184f-49ae-87ff-9fb07eac65d2","path":"sprites/spr_tile_chateau1/spr_tile_chateau1.yy",},"LayerId":{"name":"8b8422db-3e6c-4ca9-bbcb-df95fabc2f98","path":"sprites/spr_tile_chateau1/spr_tile_chateau1.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-      ],"parent":{"name":"spr_tile_chateau1","path":"sprites/spr_tile_chateau1/spr_tile_chateau1.yy",},"resourceVersion":"1.0","name":"b630c91e-184f-49ae-87ff-9fb07eac65d2","tags":[],"resourceType":"GMSpriteFrame",},
-    {"compositeImage":{"FrameId":{"name":"a1e86e30-5613-4c20-b0a9-894224028751","path":"sprites/spr_tile_chateau1/spr_tile_chateau1.yy",},"LayerId":null,"resourceVersion":"1.0","name":"composite","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"a1e86e30-5613-4c20-b0a9-894224028751","path":"sprites/spr_tile_chateau1/spr_tile_chateau1.yy",},"LayerId":{"name":"8b8422db-3e6c-4ca9-bbcb-df95fabc2f98","path":"sprites/spr_tile_chateau1/spr_tile_chateau1.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-      ],"parent":{"name":"spr_tile_chateau1","path":"sprites/spr_tile_chateau1/spr_tile_chateau1.yy",},"resourceVersion":"1.0","name":"a1e86e30-5613-4c20-b0a9-894224028751","tags":[],"resourceType":"GMSpriteFrame",},
-    {"compositeImage":{"FrameId":{"name":"8e7ae75c-56de-4686-8cc9-66c5591f8116","path":"sprites/spr_tile_chateau1/spr_tile_chateau1.yy",},"LayerId":null,"resourceVersion":"1.0","name":"composite","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"8e7ae75c-56de-4686-8cc9-66c5591f8116","path":"sprites/spr_tile_chateau1/spr_tile_chateau1.yy",},"LayerId":{"name":"8b8422db-3e6c-4ca9-bbcb-df95fabc2f98","path":"sprites/spr_tile_chateau1/spr_tile_chateau1.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-      ],"parent":{"name":"spr_tile_chateau1","path":"sprites/spr_tile_chateau1/spr_tile_chateau1.yy",},"resourceVersion":"1.0","name":"8e7ae75c-56de-4686-8cc9-66c5591f8116","tags":[],"resourceType":"GMSpriteFrame",},
-    {"compositeImage":{"FrameId":{"name":"d231ff0a-b67b-4972-a177-d57e9fdf4f04","path":"sprites/spr_tile_chateau1/spr_tile_chateau1.yy",},"LayerId":null,"resourceVersion":"1.0","name":"composite","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"d231ff0a-b67b-4972-a177-d57e9fdf4f04","path":"sprites/spr_tile_chateau1/spr_tile_chateau1.yy",},"LayerId":{"name":"8b8422db-3e6c-4ca9-bbcb-df95fabc2f98","path":"sprites/spr_tile_chateau1/spr_tile_chateau1.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-      ],"parent":{"name":"spr_tile_chateau1","path":"sprites/spr_tile_chateau1/spr_tile_chateau1.yy",},"resourceVersion":"1.0","name":"d231ff0a-b67b-4972-a177-d57e9fdf4f04","tags":[],"resourceType":"GMSpriteFrame",},
-    {"compositeImage":{"FrameId":{"name":"2f01ce63-b3cd-4066-9f01-37a6d778e2a0","path":"sprites/spr_tile_chateau1/spr_tile_chateau1.yy",},"LayerId":null,"resourceVersion":"1.0","name":"composite","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"2f01ce63-b3cd-4066-9f01-37a6d778e2a0","path":"sprites/spr_tile_chateau1/spr_tile_chateau1.yy",},"LayerId":{"name":"8b8422db-3e6c-4ca9-bbcb-df95fabc2f98","path":"sprites/spr_tile_chateau1/spr_tile_chateau1.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-      ],"parent":{"name":"spr_tile_chateau1","path":"sprites/spr_tile_chateau1/spr_tile_chateau1.yy",},"resourceVersion":"1.0","name":"2f01ce63-b3cd-4066-9f01-37a6d778e2a0","tags":[],"resourceType":"GMSpriteFrame",},
-    {"compositeImage":{"FrameId":{"name":"85049301-7e49-4fd2-aa3e-03c38d405e4a","path":"sprites/spr_tile_chateau1/spr_tile_chateau1.yy",},"LayerId":null,"resourceVersion":"1.0","name":"composite","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"85049301-7e49-4fd2-aa3e-03c38d405e4a","path":"sprites/spr_tile_chateau1/spr_tile_chateau1.yy",},"LayerId":{"name":"8b8422db-3e6c-4ca9-bbcb-df95fabc2f98","path":"sprites/spr_tile_chateau1/spr_tile_chateau1.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-      ],"parent":{"name":"spr_tile_chateau1","path":"sprites/spr_tile_chateau1/spr_tile_chateau1.yy",},"resourceVersion":"1.0","name":"85049301-7e49-4fd2-aa3e-03c38d405e4a","tags":[],"resourceType":"GMSpriteFrame",},
-    {"compositeImage":{"FrameId":{"name":"4bbc4e39-ba52-4b3c-9581-e2c947f5256b","path":"sprites/spr_tile_chateau1/spr_tile_chateau1.yy",},"LayerId":null,"resourceVersion":"1.0","name":"composite","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"4bbc4e39-ba52-4b3c-9581-e2c947f5256b","path":"sprites/spr_tile_chateau1/spr_tile_chateau1.yy",},"LayerId":{"name":"8b8422db-3e6c-4ca9-bbcb-df95fabc2f98","path":"sprites/spr_tile_chateau1/spr_tile_chateau1.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-      ],"parent":{"name":"spr_tile_chateau1","path":"sprites/spr_tile_chateau1/spr_tile_chateau1.yy",},"resourceVersion":"1.0","name":"4bbc4e39-ba52-4b3c-9581-e2c947f5256b","tags":[],"resourceType":"GMSpriteFrame",},
+    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"941cca3f-e87b-47bd-980c-ece9770a28e1",},
+    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"94f20c3c-be77-418b-b5a5-96669870228e",},
+    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"ce2de8f3-b5bc-4bb4-ae92-df4027ff081e",},
+    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"0c83b897-2bff-4c24-a4d1-445b7858da62",},
+    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"3a45a227-30bf-4768-ba2c-5e70b92d8957",},
+    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"8ef54b58-51b3-4f42-91be-b9194cf38f62",},
+    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"c3cd1305-df30-4ff9-902f-94062ec3401c",},
+    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"446e4287-5ae5-4bfe-9cf4-2f8db0164267",},
+    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"0d975598-b563-4dbe-981d-4eb21a2b6b0a",},
+    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"cc869fd0-e677-4c93-8f8b-6bbab8aa6e68",},
+    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"c3f4a6cc-08c8-417a-82d0-f4cae8a9d09e",},
+    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"54cf6222-289e-48b5-86a4-7982ab2effc8",},
+    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"3252c606-403e-4c91-a31d-503b3623f5e0",},
+    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"3830c164-7d3d-4386-9acb-64b3867a123e",},
+    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"3778bbb2-9d55-4599-a150-89891e66f4ec",},
+    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"e613b073-b362-46c0-adc3-238d5c872e8c",},
+    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"e75021b9-1c0d-41eb-8243-36a0470d3449",},
+    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"a9d62e9d-df43-447e-a709-11fc34173912",},
+    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"ee54b64a-249f-475c-855f-c9f74939d99e",},
+    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"28d1ab0b-6a5e-4034-8606-2db16d2da6b0",},
+    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"360a45f7-244a-4d11-948f-9f6f1e0efdcc",},
+    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"e3b3596f-ffdb-4055-b336-953104c2ff5e",},
+    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"97ebeac8-0ca8-4326-85b7-7bc591b85462",},
+    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"d603b2b6-5659-4bdc-93e5-a579300c6cac",},
+    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"3bb6a6f9-b88e-47b2-8da4-e180cf90bb3e",},
+    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"2e5fde3f-b2e8-4743-9227-32dc9fe2066e",},
+    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"4babe9db-bf15-41a8-aca8-6391a5b0a649",},
+    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"7f13988e-0e95-425c-9b09-66ad78c0e51a",},
+    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"e61ae383-78d2-4e1e-9a4e-342a8d63a2a1",},
+    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"a68a1124-0500-43c4-9185-03c5ac0b6a01",},
+    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"6a4280b1-4040-4c12-8236-c5fbea73651c",},
+    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"f5534929-9640-4929-8ce8-c92cb55385de",},
+    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"08e36124-83b7-49a1-87ef-12d985bfec00",},
+    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"d904c41c-f413-4536-a0ce-a9b03ae9e2aa",},
+    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"a640c4ef-7707-4168-840e-459bef96f524",},
+    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"9630bc76-cc45-4f97-84dc-55f7d2d28541",},
+    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"5b53c02f-44aa-4672-8624-5164abe762b4",},
+    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"005c6bab-8c6c-4365-a795-1931d76fdb7c",},
+    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"01fb617a-4b82-4e17-972e-79a4c751db2c",},
+    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"ee9f784d-fc12-4cc2-bbba-3c36df7d30fc",},
+    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"b630c91e-184f-49ae-87ff-9fb07eac65d2",},
+    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"a1e86e30-5613-4c20-b0a9-894224028751",},
+    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"8e7ae75c-56de-4686-8cc9-66c5591f8116",},
+    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"d231ff0a-b67b-4972-a177-d57e9fdf4f04",},
+    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"2f01ce63-b3cd-4066-9f01-37a6d778e2a0",},
+    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"85049301-7e49-4fd2-aa3e-03c38d405e4a",},
+    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"4bbc4e39-ba52-4b3c-9581-e2c947f5256b",},
   ],
   "sequence": {
-    "spriteId": {"name":"spr_tile_chateau1","path":"sprites/spr_tile_chateau1/spr_tile_chateau1.yy",},
+    "resourceType": "GMSequence",
+    "resourceVersion": "1.4",
+    "name": "",
     "timeUnits": 1,
     "playback": 1,
     "playbackSpeed": 1.0,
@@ -181,7 +93,7 @@
     "events": {"Keyframes":[],"resourceVersion":"1.0","resourceType":"KeyframeStore<MessageEventKeyframe>",},
     "moments": {"Keyframes":[],"resourceVersion":"1.0","resourceType":"KeyframeStore<MomentsEventKeyframe>",},
     "tracks": [
-      {"name":"frames","spriteId":null,"keyframes":{"Keyframes":[
+      {"resourceType":"GMSpriteFramesTrack","resourceVersion":"1.0","name":"frames","spriteId":null,"keyframes":{"Keyframes":[
             {"id":"e06d556d-f6fa-4d0c-a389-4807fd85968a","Key":0.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"941cca3f-e87b-47bd-980c-ece9770a28e1","path":"sprites/spr_tile_chateau1/spr_tile_chateau1.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
             {"id":"ee53c86f-4e03-4dc4-9c49-4a7ae49a17db","Key":1.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"94f20c3c-be77-418b-b5a5-96669870228e","path":"sprites/spr_tile_chateau1/spr_tile_chateau1.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
             {"id":"636f22d4-dfb7-491f-98b6-f0b73cfb7bcf","Key":2.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"ce2de8f3-b5bc-4bb4-ae92-df4027ff081e","path":"sprites/spr_tile_chateau1/spr_tile_chateau1.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
@@ -229,7 +141,7 @@
             {"id":"346a47de-48ac-47d2-b9fb-74456f02ca35","Key":44.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"2f01ce63-b3cd-4066-9f01-37a6d778e2a0","path":"sprites/spr_tile_chateau1/spr_tile_chateau1.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
             {"id":"47fc1973-8710-47eb-914b-407c8eccd4fd","Key":45.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"85049301-7e49-4fd2-aa3e-03c38d405e4a","path":"sprites/spr_tile_chateau1/spr_tile_chateau1.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
             {"id":"49a48e22-f6d9-420c-9269-6660d701dd83","Key":46.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"4bbc4e39-ba52-4b3c-9581-e2c947f5256b","path":"sprites/spr_tile_chateau1/spr_tile_chateau1.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
-          ],"resourceVersion":"1.0","resourceType":"KeyframeStore<SpriteFrameKeyframe>",},"trackColour":0,"inheritsTrackColour":true,"builtinName":0,"traits":0,"interpolation":1,"tracks":[],"events":[],"isCreationTrack":false,"resourceVersion":"1.0","tags":[],"resourceType":"GMSpriteFramesTrack","modifiers":[],},
+          ],"resourceVersion":"1.0","resourceType":"KeyframeStore<SpriteFrameKeyframe>",},"trackColour":0,"inheritsTrackColour":true,"builtinName":0,"traits":0,"interpolation":1,"tracks":[],"events":[],"isCreationTrack":false,"modifiers":[],},
     ],
     "visibleRange": {"x":0.0,"y":0.0,},
     "lockOrigin": false,
@@ -245,22 +157,13 @@
     "yorigin": 0,
     "eventToFunction": {},
     "eventStubScript": null,
-    "parent": {"name":"spr_tile_chateau1","path":"sprites/spr_tile_chateau1/spr_tile_chateau1.yy",},
-    "resourceVersion": "1.4",
-    "name": "",
-    "tags": [],
-    "resourceType": "GMSequence",
   },
   "layers": [
-    {"visible":true,"isLocked":false,"blendMode":0,"opacity":100.0,"displayName":"default","resourceVersion":"1.0","name":"8b8422db-3e6c-4ca9-bbcb-df95fabc2f98","tags":[],"resourceType":"GMImageLayer",},
+    {"resourceType":"GMImageLayer","resourceVersion":"1.0","name":"8b8422db-3e6c-4ca9-bbcb-df95fabc2f98","visible":true,"isLocked":false,"blendMode":0,"opacity":100.0,"displayName":"default",},
   ],
   "nineSlice": null,
   "parent": {
     "name": "Tiles",
     "path": "folders/Sprites/sertif's editor/Tiles.yy",
   },
-  "resourceVersion": "1.0",
-  "name": "spr_tile_chateau1",
-  "tags": [],
-  "resourceType": "GMSprite",
 }

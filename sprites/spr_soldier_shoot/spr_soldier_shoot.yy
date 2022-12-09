@@ -1,4 +1,7 @@
 {
+  "resourceType": "GMSprite",
+  "resourceVersion": "1.0",
+  "name": "spr_soldier_shoot",
   "ConfigValues": {
     "debug": {"textureGroupId":"{\"name\":\"tg_baddie\",\"path\":\"texturegroups/tg_baddie\"}",},
   },
@@ -17,6 +20,7 @@
   "HTile": false,
   "VTile": false,
   "For3D": false,
+  "DynamicTexturePage": false,
   "width": 120,
   "height": 100,
   "textureGroupId": {
@@ -27,42 +31,22 @@
   "gridX": 0,
   "gridY": 0,
   "frames": [
-    {"compositeImage":{"FrameId":{"name":"b2c76674-b9e2-41d1-ac43-f12fdb0ccbaa","path":"sprites/spr_soldier_shoot/spr_soldier_shoot.yy",},"LayerId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"b2c76674-b9e2-41d1-ac43-f12fdb0ccbaa","path":"sprites/spr_soldier_shoot/spr_soldier_shoot.yy",},"LayerId":{"name":"e95bed8f-0a56-4b3a-8a36-5fc2b82da3ec","path":"sprites/spr_soldier_shoot/spr_soldier_shoot.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-      ],"parent":{"name":"spr_soldier_shoot","path":"sprites/spr_soldier_shoot/spr_soldier_shoot.yy",},"resourceVersion":"1.0","name":"b2c76674-b9e2-41d1-ac43-f12fdb0ccbaa","tags":[],"resourceType":"GMSpriteFrame",},
-    {"compositeImage":{"FrameId":{"name":"7d8c13da-69be-47ac-89e2-216c3eac9e48","path":"sprites/spr_soldier_shoot/spr_soldier_shoot.yy",},"LayerId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"7d8c13da-69be-47ac-89e2-216c3eac9e48","path":"sprites/spr_soldier_shoot/spr_soldier_shoot.yy",},"LayerId":{"name":"e95bed8f-0a56-4b3a-8a36-5fc2b82da3ec","path":"sprites/spr_soldier_shoot/spr_soldier_shoot.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-      ],"parent":{"name":"spr_soldier_shoot","path":"sprites/spr_soldier_shoot/spr_soldier_shoot.yy",},"resourceVersion":"1.0","name":"7d8c13da-69be-47ac-89e2-216c3eac9e48","tags":[],"resourceType":"GMSpriteFrame",},
-    {"compositeImage":{"FrameId":{"name":"c817f45a-a078-49c7-b612-a8b7dd522b3c","path":"sprites/spr_soldier_shoot/spr_soldier_shoot.yy",},"LayerId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"c817f45a-a078-49c7-b612-a8b7dd522b3c","path":"sprites/spr_soldier_shoot/spr_soldier_shoot.yy",},"LayerId":{"name":"e95bed8f-0a56-4b3a-8a36-5fc2b82da3ec","path":"sprites/spr_soldier_shoot/spr_soldier_shoot.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-      ],"parent":{"name":"spr_soldier_shoot","path":"sprites/spr_soldier_shoot/spr_soldier_shoot.yy",},"resourceVersion":"1.0","name":"c817f45a-a078-49c7-b612-a8b7dd522b3c","tags":[],"resourceType":"GMSpriteFrame",},
-    {"compositeImage":{"FrameId":{"name":"29980640-5ea4-4172-9f37-d158f6c58ac1","path":"sprites/spr_soldier_shoot/spr_soldier_shoot.yy",},"LayerId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"29980640-5ea4-4172-9f37-d158f6c58ac1","path":"sprites/spr_soldier_shoot/spr_soldier_shoot.yy",},"LayerId":{"name":"e95bed8f-0a56-4b3a-8a36-5fc2b82da3ec","path":"sprites/spr_soldier_shoot/spr_soldier_shoot.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-      ],"parent":{"name":"spr_soldier_shoot","path":"sprites/spr_soldier_shoot/spr_soldier_shoot.yy",},"resourceVersion":"1.0","name":"29980640-5ea4-4172-9f37-d158f6c58ac1","tags":[],"resourceType":"GMSpriteFrame",},
-    {"compositeImage":{"FrameId":{"name":"8a5e0fab-a18b-4a21-8eab-ae9bfe23e970","path":"sprites/spr_soldier_shoot/spr_soldier_shoot.yy",},"LayerId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"8a5e0fab-a18b-4a21-8eab-ae9bfe23e970","path":"sprites/spr_soldier_shoot/spr_soldier_shoot.yy",},"LayerId":{"name":"e95bed8f-0a56-4b3a-8a36-5fc2b82da3ec","path":"sprites/spr_soldier_shoot/spr_soldier_shoot.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-      ],"parent":{"name":"spr_soldier_shoot","path":"sprites/spr_soldier_shoot/spr_soldier_shoot.yy",},"resourceVersion":"1.0","name":"8a5e0fab-a18b-4a21-8eab-ae9bfe23e970","tags":[],"resourceType":"GMSpriteFrame",},
-    {"compositeImage":{"FrameId":{"name":"20177dec-23ad-4a9c-a4ce-f5ce06a87d00","path":"sprites/spr_soldier_shoot/spr_soldier_shoot.yy",},"LayerId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"20177dec-23ad-4a9c-a4ce-f5ce06a87d00","path":"sprites/spr_soldier_shoot/spr_soldier_shoot.yy",},"LayerId":{"name":"e95bed8f-0a56-4b3a-8a36-5fc2b82da3ec","path":"sprites/spr_soldier_shoot/spr_soldier_shoot.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-      ],"parent":{"name":"spr_soldier_shoot","path":"sprites/spr_soldier_shoot/spr_soldier_shoot.yy",},"resourceVersion":"1.0","name":"20177dec-23ad-4a9c-a4ce-f5ce06a87d00","tags":[],"resourceType":"GMSpriteFrame",},
-    {"compositeImage":{"FrameId":{"name":"4db4bbdb-6647-491c-be40-b72011894d3e","path":"sprites/spr_soldier_shoot/spr_soldier_shoot.yy",},"LayerId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"4db4bbdb-6647-491c-be40-b72011894d3e","path":"sprites/spr_soldier_shoot/spr_soldier_shoot.yy",},"LayerId":{"name":"e95bed8f-0a56-4b3a-8a36-5fc2b82da3ec","path":"sprites/spr_soldier_shoot/spr_soldier_shoot.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-      ],"parent":{"name":"spr_soldier_shoot","path":"sprites/spr_soldier_shoot/spr_soldier_shoot.yy",},"resourceVersion":"1.0","name":"4db4bbdb-6647-491c-be40-b72011894d3e","tags":[],"resourceType":"GMSpriteFrame",},
-    {"compositeImage":{"FrameId":{"name":"f7a2965b-568d-4b98-8590-e7b24f70cccb","path":"sprites/spr_soldier_shoot/spr_soldier_shoot.yy",},"LayerId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"f7a2965b-568d-4b98-8590-e7b24f70cccb","path":"sprites/spr_soldier_shoot/spr_soldier_shoot.yy",},"LayerId":{"name":"e95bed8f-0a56-4b3a-8a36-5fc2b82da3ec","path":"sprites/spr_soldier_shoot/spr_soldier_shoot.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-      ],"parent":{"name":"spr_soldier_shoot","path":"sprites/spr_soldier_shoot/spr_soldier_shoot.yy",},"resourceVersion":"1.0","name":"f7a2965b-568d-4b98-8590-e7b24f70cccb","tags":[],"resourceType":"GMSpriteFrame",},
-    {"compositeImage":{"FrameId":{"name":"9b88a08c-8e83-496e-8604-d6583d1d70ce","path":"sprites/spr_soldier_shoot/spr_soldier_shoot.yy",},"LayerId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"9b88a08c-8e83-496e-8604-d6583d1d70ce","path":"sprites/spr_soldier_shoot/spr_soldier_shoot.yy",},"LayerId":{"name":"e95bed8f-0a56-4b3a-8a36-5fc2b82da3ec","path":"sprites/spr_soldier_shoot/spr_soldier_shoot.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-      ],"parent":{"name":"spr_soldier_shoot","path":"sprites/spr_soldier_shoot/spr_soldier_shoot.yy",},"resourceVersion":"1.0","name":"9b88a08c-8e83-496e-8604-d6583d1d70ce","tags":[],"resourceType":"GMSpriteFrame",},
-    {"compositeImage":{"FrameId":{"name":"c6141658-af17-4aac-a393-88b1805d85c7","path":"sprites/spr_soldier_shoot/spr_soldier_shoot.yy",},"LayerId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"c6141658-af17-4aac-a393-88b1805d85c7","path":"sprites/spr_soldier_shoot/spr_soldier_shoot.yy",},"LayerId":{"name":"e95bed8f-0a56-4b3a-8a36-5fc2b82da3ec","path":"sprites/spr_soldier_shoot/spr_soldier_shoot.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-      ],"parent":{"name":"spr_soldier_shoot","path":"sprites/spr_soldier_shoot/spr_soldier_shoot.yy",},"resourceVersion":"1.0","name":"c6141658-af17-4aac-a393-88b1805d85c7","tags":[],"resourceType":"GMSpriteFrame",},
-    {"compositeImage":{"FrameId":{"name":"000708f5-79c7-41f6-b563-2ea03a35289b","path":"sprites/spr_soldier_shoot/spr_soldier_shoot.yy",},"LayerId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"000708f5-79c7-41f6-b563-2ea03a35289b","path":"sprites/spr_soldier_shoot/spr_soldier_shoot.yy",},"LayerId":{"name":"e95bed8f-0a56-4b3a-8a36-5fc2b82da3ec","path":"sprites/spr_soldier_shoot/spr_soldier_shoot.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-      ],"parent":{"name":"spr_soldier_shoot","path":"sprites/spr_soldier_shoot/spr_soldier_shoot.yy",},"resourceVersion":"1.0","name":"000708f5-79c7-41f6-b563-2ea03a35289b","tags":[],"resourceType":"GMSpriteFrame",},
+    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"b2c76674-b9e2-41d1-ac43-f12fdb0ccbaa",},
+    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"7d8c13da-69be-47ac-89e2-216c3eac9e48",},
+    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"c817f45a-a078-49c7-b612-a8b7dd522b3c",},
+    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"29980640-5ea4-4172-9f37-d158f6c58ac1",},
+    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"8a5e0fab-a18b-4a21-8eab-ae9bfe23e970",},
+    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"20177dec-23ad-4a9c-a4ce-f5ce06a87d00",},
+    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"4db4bbdb-6647-491c-be40-b72011894d3e",},
+    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"f7a2965b-568d-4b98-8590-e7b24f70cccb",},
+    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"9b88a08c-8e83-496e-8604-d6583d1d70ce",},
+    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"c6141658-af17-4aac-a393-88b1805d85c7",},
+    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"000708f5-79c7-41f6-b563-2ea03a35289b",},
   ],
   "sequence": {
-    "spriteId": {"name":"spr_soldier_shoot","path":"sprites/spr_soldier_shoot/spr_soldier_shoot.yy",},
+    "resourceType": "GMSequence",
+    "resourceVersion": "1.4",
+    "name": "spr_soldier_shoot",
     "timeUnits": 1,
     "playback": 1,
     "playbackSpeed": 1.0,
@@ -73,7 +57,7 @@
     "events": {"Keyframes":[],"resourceVersion":"1.0","resourceType":"KeyframeStore<MessageEventKeyframe>",},
     "moments": {"Keyframes":[],"resourceVersion":"1.0","resourceType":"KeyframeStore<MomentsEventKeyframe>",},
     "tracks": [
-      {"name":"frames","spriteId":null,"keyframes":{"Keyframes":[
+      {"resourceType":"GMSpriteFramesTrack","resourceVersion":"1.0","name":"frames","spriteId":null,"keyframes":{"Keyframes":[
             {"id":"4ac657bc-cc60-4b5f-a432-b7fe6f4f93c6","Key":0.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"b2c76674-b9e2-41d1-ac43-f12fdb0ccbaa","path":"sprites/spr_soldier_shoot/spr_soldier_shoot.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
             {"id":"66460c3f-da56-4fa6-9292-195765ed50b6","Key":1.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"7d8c13da-69be-47ac-89e2-216c3eac9e48","path":"sprites/spr_soldier_shoot/spr_soldier_shoot.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
             {"id":"841027cf-835f-4c52-9daa-9c048631fa1d","Key":2.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"c817f45a-a078-49c7-b612-a8b7dd522b3c","path":"sprites/spr_soldier_shoot/spr_soldier_shoot.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
@@ -85,7 +69,7 @@
             {"id":"3be2f628-c54c-460e-a6d9-c4cc23d6d1ce","Key":8.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"9b88a08c-8e83-496e-8604-d6583d1d70ce","path":"sprites/spr_soldier_shoot/spr_soldier_shoot.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
             {"id":"ca24f095-64f5-43c5-afc8-a74eddf16cc6","Key":9.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"c6141658-af17-4aac-a393-88b1805d85c7","path":"sprites/spr_soldier_shoot/spr_soldier_shoot.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
             {"id":"3351701d-0061-4616-9c35-260ab3d5cb0d","Key":10.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"000708f5-79c7-41f6-b563-2ea03a35289b","path":"sprites/spr_soldier_shoot/spr_soldier_shoot.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
-          ],"resourceVersion":"1.0","resourceType":"KeyframeStore<SpriteFrameKeyframe>",},"trackColour":0,"inheritsTrackColour":true,"builtinName":0,"traits":0,"interpolation":1,"tracks":[],"events":[],"isCreationTrack":false,"resourceVersion":"1.0","tags":[],"resourceType":"GMSpriteFramesTrack","modifiers":[],},
+          ],"resourceVersion":"1.0","resourceType":"KeyframeStore<SpriteFrameKeyframe>",},"trackColour":0,"inheritsTrackColour":true,"builtinName":0,"traits":0,"interpolation":1,"tracks":[],"events":[],"isCreationTrack":false,"modifiers":[],},
     ],
     "visibleRange": null,
     "lockOrigin": false,
@@ -101,22 +85,13 @@
     "yorigin": 50,
     "eventToFunction": {},
     "eventStubScript": null,
-    "parent": {"name":"spr_soldier_shoot","path":"sprites/spr_soldier_shoot/spr_soldier_shoot.yy",},
-    "resourceVersion": "1.4",
-    "name": "spr_soldier_shoot",
-    "tags": [],
-    "resourceType": "GMSequence",
   },
   "layers": [
-    {"visible":true,"isLocked":false,"blendMode":0,"opacity":100.0,"displayName":"default","resourceVersion":"1.0","name":"e95bed8f-0a56-4b3a-8a36-5fc2b82da3ec","tags":[],"resourceType":"GMImageLayer",},
+    {"resourceType":"GMImageLayer","resourceVersion":"1.0","name":"e95bed8f-0a56-4b3a-8a36-5fc2b82da3ec","visible":true,"isLocked":false,"blendMode":0,"opacity":100.0,"displayName":"default",},
   ],
   "nineSlice": null,
   "parent": {
     "name": "soldier",
     "path": "folders/Sprites/baddie/soldier.yy",
   },
-  "resourceVersion": "1.0",
-  "name": "spr_soldier_shoot",
-  "tags": [],
-  "resourceType": "GMSprite",
 }

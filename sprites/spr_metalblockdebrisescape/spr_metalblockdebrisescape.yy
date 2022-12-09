@@ -1,4 +1,7 @@
 {
+  "resourceType": "GMSprite",
+  "resourceVersion": "1.0",
+  "name": "spr_metalblockdebrisescape",
   "bboxMode": 0,
   "collisionKind": 1,
   "type": 0,
@@ -14,6 +17,7 @@
   "HTile": false,
   "VTile": false,
   "For3D": false,
+  "DynamicTexturePage": false,
   "width": 64,
   "height": 64,
   "textureGroupId": {
@@ -24,21 +28,15 @@
   "gridX": 0,
   "gridY": 0,
   "frames": [
-    {"compositeImage":{"FrameId":{"name":"2255a00f-7a72-4d38-b689-597e2bd69557","path":"sprites/spr_metalblockdebrisescape/spr_metalblockdebrisescape.yy",},"LayerId":null,"resourceVersion":"1.0","name":"composite","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"2255a00f-7a72-4d38-b689-597e2bd69557","path":"sprites/spr_metalblockdebrisescape/spr_metalblockdebrisescape.yy",},"LayerId":{"name":"892d187e-bb7d-46bc-ae83-36ae7c3812dc","path":"sprites/spr_metalblockdebrisescape/spr_metalblockdebrisescape.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-      ],"parent":{"name":"spr_metalblockdebrisescape","path":"sprites/spr_metalblockdebrisescape/spr_metalblockdebrisescape.yy",},"resourceVersion":"1.0","name":"2255a00f-7a72-4d38-b689-597e2bd69557","tags":[],"resourceType":"GMSpriteFrame",},
-    {"compositeImage":{"FrameId":{"name":"b04e7901-13c8-4419-bf9b-36df63689d73","path":"sprites/spr_metalblockdebrisescape/spr_metalblockdebrisescape.yy",},"LayerId":null,"resourceVersion":"1.0","name":"composite","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"b04e7901-13c8-4419-bf9b-36df63689d73","path":"sprites/spr_metalblockdebrisescape/spr_metalblockdebrisescape.yy",},"LayerId":{"name":"892d187e-bb7d-46bc-ae83-36ae7c3812dc","path":"sprites/spr_metalblockdebrisescape/spr_metalblockdebrisescape.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-      ],"parent":{"name":"spr_metalblockdebrisescape","path":"sprites/spr_metalblockdebrisescape/spr_metalblockdebrisescape.yy",},"resourceVersion":"1.0","name":"b04e7901-13c8-4419-bf9b-36df63689d73","tags":[],"resourceType":"GMSpriteFrame",},
-    {"compositeImage":{"FrameId":{"name":"78f9c59e-e173-42f5-9b8b-d01e1ca6cc7b","path":"sprites/spr_metalblockdebrisescape/spr_metalblockdebrisescape.yy",},"LayerId":null,"resourceVersion":"1.0","name":"composite","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"78f9c59e-e173-42f5-9b8b-d01e1ca6cc7b","path":"sprites/spr_metalblockdebrisescape/spr_metalblockdebrisescape.yy",},"LayerId":{"name":"892d187e-bb7d-46bc-ae83-36ae7c3812dc","path":"sprites/spr_metalblockdebrisescape/spr_metalblockdebrisescape.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-      ],"parent":{"name":"spr_metalblockdebrisescape","path":"sprites/spr_metalblockdebrisescape/spr_metalblockdebrisescape.yy",},"resourceVersion":"1.0","name":"78f9c59e-e173-42f5-9b8b-d01e1ca6cc7b","tags":[],"resourceType":"GMSpriteFrame",},
-    {"compositeImage":{"FrameId":{"name":"13f3e607-878c-4d77-b0c8-107ed0eff074","path":"sprites/spr_metalblockdebrisescape/spr_metalblockdebrisescape.yy",},"LayerId":null,"resourceVersion":"1.0","name":"composite","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"13f3e607-878c-4d77-b0c8-107ed0eff074","path":"sprites/spr_metalblockdebrisescape/spr_metalblockdebrisescape.yy",},"LayerId":{"name":"892d187e-bb7d-46bc-ae83-36ae7c3812dc","path":"sprites/spr_metalblockdebrisescape/spr_metalblockdebrisescape.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-      ],"parent":{"name":"spr_metalblockdebrisescape","path":"sprites/spr_metalblockdebrisescape/spr_metalblockdebrisescape.yy",},"resourceVersion":"1.0","name":"13f3e607-878c-4d77-b0c8-107ed0eff074","tags":[],"resourceType":"GMSpriteFrame",},
+    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"2255a00f-7a72-4d38-b689-597e2bd69557",},
+    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"b04e7901-13c8-4419-bf9b-36df63689d73",},
+    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"78f9c59e-e173-42f5-9b8b-d01e1ca6cc7b",},
+    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"13f3e607-878c-4d77-b0c8-107ed0eff074",},
   ],
   "sequence": {
-    "spriteId": {"name":"spr_metalblockdebrisescape","path":"sprites/spr_metalblockdebrisescape/spr_metalblockdebrisescape.yy",},
+    "resourceType": "GMSequence",
+    "resourceVersion": "1.4",
+    "name": "",
     "timeUnits": 1,
     "playback": 1,
     "playbackSpeed": 1.0,
@@ -49,12 +47,12 @@
     "events": {"Keyframes":[],"resourceVersion":"1.0","resourceType":"KeyframeStore<MessageEventKeyframe>",},
     "moments": {"Keyframes":[],"resourceVersion":"1.0","resourceType":"KeyframeStore<MomentsEventKeyframe>",},
     "tracks": [
-      {"name":"frames","spriteId":null,"keyframes":{"Keyframes":[
+      {"resourceType":"GMSpriteFramesTrack","resourceVersion":"1.0","name":"frames","spriteId":null,"keyframes":{"Keyframes":[
             {"id":"6fde0fcc-8a20-4bbb-8028-4cd34eef8e58","Key":0.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"2255a00f-7a72-4d38-b689-597e2bd69557","path":"sprites/spr_metalblockdebrisescape/spr_metalblockdebrisescape.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
             {"id":"249579c8-01e8-4251-8e97-458364c3afbf","Key":1.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"b04e7901-13c8-4419-bf9b-36df63689d73","path":"sprites/spr_metalblockdebrisescape/spr_metalblockdebrisescape.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
             {"id":"44582425-7e8c-4454-a41d-acfb9f60b3f2","Key":2.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"78f9c59e-e173-42f5-9b8b-d01e1ca6cc7b","path":"sprites/spr_metalblockdebrisescape/spr_metalblockdebrisescape.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
             {"id":"b2182eef-cb59-4fd4-ab63-a8a70df68627","Key":3.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"13f3e607-878c-4d77-b0c8-107ed0eff074","path":"sprites/spr_metalblockdebrisescape/spr_metalblockdebrisescape.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
-          ],"resourceVersion":"1.0","resourceType":"KeyframeStore<SpriteFrameKeyframe>",},"trackColour":0,"inheritsTrackColour":true,"builtinName":0,"traits":0,"interpolation":1,"tracks":[],"events":[],"isCreationTrack":false,"resourceVersion":"1.0","tags":[],"resourceType":"GMSpriteFramesTrack","modifiers":[],},
+          ],"resourceVersion":"1.0","resourceType":"KeyframeStore<SpriteFrameKeyframe>",},"trackColour":0,"inheritsTrackColour":true,"builtinName":0,"traits":0,"interpolation":1,"tracks":[],"events":[],"isCreationTrack":false,"modifiers":[],},
     ],
     "visibleRange": null,
     "lockOrigin": false,
@@ -70,22 +68,13 @@
     "yorigin": 32,
     "eventToFunction": {},
     "eventStubScript": null,
-    "parent": {"name":"spr_metalblockdebrisescape","path":"sprites/spr_metalblockdebrisescape/spr_metalblockdebrisescape.yy",},
-    "resourceVersion": "1.4",
-    "name": "",
-    "tags": [],
-    "resourceType": "GMSequence",
   },
   "layers": [
-    {"visible":true,"isLocked":false,"blendMode":0,"opacity":100.0,"displayName":"default","resourceVersion":"1.0","name":"892d187e-bb7d-46bc-ae83-36ae7c3812dc","tags":[],"resourceType":"GMImageLayer",},
+    {"resourceType":"GMImageLayer","resourceVersion":"1.0","name":"892d187e-bb7d-46bc-ae83-36ae7c3812dc","visible":true,"isLocked":false,"blendMode":0,"opacity":100.0,"displayName":"default",},
   ],
   "nineSlice": null,
   "parent": {
     "name": "others",
     "path": "folders/Sprites/others.yy",
   },
-  "resourceVersion": "1.0",
-  "name": "spr_metalblockdebrisescape",
-  "tags": [],
-  "resourceType": "GMSprite",
 }

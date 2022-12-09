@@ -1,4 +1,7 @@
 {
+  "resourceType": "GMSprite",
+  "resourceVersion": "1.0",
+  "name": "spr_smurfknight_turn",
   "ConfigValues": {
     "debug": {"textureGroupId":"{\"name\":\"tg_sugaryspire\",\"path\":\"texturegroups/tg_sugaryspire\"}",},
   },
@@ -17,6 +20,7 @@
   "HTile": false,
   "VTile": false,
   "For3D": false,
+  "DynamicTexturePage": false,
   "width": 124,
   "height": 100,
   "textureGroupId": {
@@ -27,72 +31,32 @@
   "gridX": 0,
   "gridY": 0,
   "frames": [
-    {"compositeImage":{"FrameId":{"name":"e469d488-3b2a-4644-bd3c-1bd9768e79d5","path":"sprites/spr_smurfknight_turn/spr_smurfknight_turn.yy",},"LayerId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"e469d488-3b2a-4644-bd3c-1bd9768e79d5","path":"sprites/spr_smurfknight_turn/spr_smurfknight_turn.yy",},"LayerId":{"name":"88c463b9-2a7e-49fd-ab88-cafadac4fd32","path":"sprites/spr_smurfknight_turn/spr_smurfknight_turn.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-      ],"parent":{"name":"spr_smurfknight_turn","path":"sprites/spr_smurfknight_turn/spr_smurfknight_turn.yy",},"resourceVersion":"1.0","name":"e469d488-3b2a-4644-bd3c-1bd9768e79d5","tags":[],"resourceType":"GMSpriteFrame",},
-    {"compositeImage":{"FrameId":{"name":"9467d1d4-83a1-402b-9da6-1476d1409d6c","path":"sprites/spr_smurfknight_turn/spr_smurfknight_turn.yy",},"LayerId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"9467d1d4-83a1-402b-9da6-1476d1409d6c","path":"sprites/spr_smurfknight_turn/spr_smurfknight_turn.yy",},"LayerId":{"name":"88c463b9-2a7e-49fd-ab88-cafadac4fd32","path":"sprites/spr_smurfknight_turn/spr_smurfknight_turn.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-      ],"parent":{"name":"spr_smurfknight_turn","path":"sprites/spr_smurfknight_turn/spr_smurfknight_turn.yy",},"resourceVersion":"1.0","name":"9467d1d4-83a1-402b-9da6-1476d1409d6c","tags":[],"resourceType":"GMSpriteFrame",},
-    {"compositeImage":{"FrameId":{"name":"476ff6de-9030-4e82-88b0-03e072874a7a","path":"sprites/spr_smurfknight_turn/spr_smurfknight_turn.yy",},"LayerId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"476ff6de-9030-4e82-88b0-03e072874a7a","path":"sprites/spr_smurfknight_turn/spr_smurfknight_turn.yy",},"LayerId":{"name":"88c463b9-2a7e-49fd-ab88-cafadac4fd32","path":"sprites/spr_smurfknight_turn/spr_smurfknight_turn.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-      ],"parent":{"name":"spr_smurfknight_turn","path":"sprites/spr_smurfknight_turn/spr_smurfknight_turn.yy",},"resourceVersion":"1.0","name":"476ff6de-9030-4e82-88b0-03e072874a7a","tags":[],"resourceType":"GMSpriteFrame",},
-    {"compositeImage":{"FrameId":{"name":"5b0837cf-f4d1-4d99-90f3-ace755a59ebd","path":"sprites/spr_smurfknight_turn/spr_smurfknight_turn.yy",},"LayerId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"5b0837cf-f4d1-4d99-90f3-ace755a59ebd","path":"sprites/spr_smurfknight_turn/spr_smurfknight_turn.yy",},"LayerId":{"name":"88c463b9-2a7e-49fd-ab88-cafadac4fd32","path":"sprites/spr_smurfknight_turn/spr_smurfknight_turn.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-      ],"parent":{"name":"spr_smurfknight_turn","path":"sprites/spr_smurfknight_turn/spr_smurfknight_turn.yy",},"resourceVersion":"1.0","name":"5b0837cf-f4d1-4d99-90f3-ace755a59ebd","tags":[],"resourceType":"GMSpriteFrame",},
-    {"compositeImage":{"FrameId":{"name":"c514e18c-87e1-40c2-952b-db98dc097fed","path":"sprites/spr_smurfknight_turn/spr_smurfknight_turn.yy",},"LayerId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"c514e18c-87e1-40c2-952b-db98dc097fed","path":"sprites/spr_smurfknight_turn/spr_smurfknight_turn.yy",},"LayerId":{"name":"88c463b9-2a7e-49fd-ab88-cafadac4fd32","path":"sprites/spr_smurfknight_turn/spr_smurfknight_turn.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-      ],"parent":{"name":"spr_smurfknight_turn","path":"sprites/spr_smurfknight_turn/spr_smurfknight_turn.yy",},"resourceVersion":"1.0","name":"c514e18c-87e1-40c2-952b-db98dc097fed","tags":[],"resourceType":"GMSpriteFrame",},
-    {"compositeImage":{"FrameId":{"name":"aa8b3c79-87ee-455c-8bce-4516ab4202c3","path":"sprites/spr_smurfknight_turn/spr_smurfknight_turn.yy",},"LayerId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"aa8b3c79-87ee-455c-8bce-4516ab4202c3","path":"sprites/spr_smurfknight_turn/spr_smurfknight_turn.yy",},"LayerId":{"name":"88c463b9-2a7e-49fd-ab88-cafadac4fd32","path":"sprites/spr_smurfknight_turn/spr_smurfknight_turn.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-      ],"parent":{"name":"spr_smurfknight_turn","path":"sprites/spr_smurfknight_turn/spr_smurfknight_turn.yy",},"resourceVersion":"1.0","name":"aa8b3c79-87ee-455c-8bce-4516ab4202c3","tags":[],"resourceType":"GMSpriteFrame",},
-    {"compositeImage":{"FrameId":{"name":"72cf9e95-327c-4576-a74b-80d6d5d101a5","path":"sprites/spr_smurfknight_turn/spr_smurfknight_turn.yy",},"LayerId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"72cf9e95-327c-4576-a74b-80d6d5d101a5","path":"sprites/spr_smurfknight_turn/spr_smurfknight_turn.yy",},"LayerId":{"name":"88c463b9-2a7e-49fd-ab88-cafadac4fd32","path":"sprites/spr_smurfknight_turn/spr_smurfknight_turn.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-      ],"parent":{"name":"spr_smurfknight_turn","path":"sprites/spr_smurfknight_turn/spr_smurfknight_turn.yy",},"resourceVersion":"1.0","name":"72cf9e95-327c-4576-a74b-80d6d5d101a5","tags":[],"resourceType":"GMSpriteFrame",},
-    {"compositeImage":{"FrameId":{"name":"04efa01d-5288-4e99-ad54-75e847498e53","path":"sprites/spr_smurfknight_turn/spr_smurfknight_turn.yy",},"LayerId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"04efa01d-5288-4e99-ad54-75e847498e53","path":"sprites/spr_smurfknight_turn/spr_smurfknight_turn.yy",},"LayerId":{"name":"88c463b9-2a7e-49fd-ab88-cafadac4fd32","path":"sprites/spr_smurfknight_turn/spr_smurfknight_turn.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-      ],"parent":{"name":"spr_smurfknight_turn","path":"sprites/spr_smurfknight_turn/spr_smurfknight_turn.yy",},"resourceVersion":"1.0","name":"04efa01d-5288-4e99-ad54-75e847498e53","tags":[],"resourceType":"GMSpriteFrame",},
-    {"compositeImage":{"FrameId":{"name":"c313ff67-cfa5-4fc9-a532-702502757384","path":"sprites/spr_smurfknight_turn/spr_smurfknight_turn.yy",},"LayerId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"c313ff67-cfa5-4fc9-a532-702502757384","path":"sprites/spr_smurfknight_turn/spr_smurfknight_turn.yy",},"LayerId":{"name":"88c463b9-2a7e-49fd-ab88-cafadac4fd32","path":"sprites/spr_smurfknight_turn/spr_smurfknight_turn.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-      ],"parent":{"name":"spr_smurfknight_turn","path":"sprites/spr_smurfknight_turn/spr_smurfknight_turn.yy",},"resourceVersion":"1.0","name":"c313ff67-cfa5-4fc9-a532-702502757384","tags":[],"resourceType":"GMSpriteFrame",},
-    {"compositeImage":{"FrameId":{"name":"eda26323-9c65-4db6-b320-5db5eff35160","path":"sprites/spr_smurfknight_turn/spr_smurfknight_turn.yy",},"LayerId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"eda26323-9c65-4db6-b320-5db5eff35160","path":"sprites/spr_smurfknight_turn/spr_smurfknight_turn.yy",},"LayerId":{"name":"88c463b9-2a7e-49fd-ab88-cafadac4fd32","path":"sprites/spr_smurfknight_turn/spr_smurfknight_turn.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-      ],"parent":{"name":"spr_smurfknight_turn","path":"sprites/spr_smurfknight_turn/spr_smurfknight_turn.yy",},"resourceVersion":"1.0","name":"eda26323-9c65-4db6-b320-5db5eff35160","tags":[],"resourceType":"GMSpriteFrame",},
-    {"compositeImage":{"FrameId":{"name":"a7f1c36c-c0f7-4912-9f83-381d5649d0be","path":"sprites/spr_smurfknight_turn/spr_smurfknight_turn.yy",},"LayerId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"a7f1c36c-c0f7-4912-9f83-381d5649d0be","path":"sprites/spr_smurfknight_turn/spr_smurfknight_turn.yy",},"LayerId":{"name":"88c463b9-2a7e-49fd-ab88-cafadac4fd32","path":"sprites/spr_smurfknight_turn/spr_smurfknight_turn.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-      ],"parent":{"name":"spr_smurfknight_turn","path":"sprites/spr_smurfknight_turn/spr_smurfknight_turn.yy",},"resourceVersion":"1.0","name":"a7f1c36c-c0f7-4912-9f83-381d5649d0be","tags":[],"resourceType":"GMSpriteFrame",},
-    {"compositeImage":{"FrameId":{"name":"604fdbd7-68ba-4d53-a928-4d333d3c6d6a","path":"sprites/spr_smurfknight_turn/spr_smurfknight_turn.yy",},"LayerId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"604fdbd7-68ba-4d53-a928-4d333d3c6d6a","path":"sprites/spr_smurfknight_turn/spr_smurfknight_turn.yy",},"LayerId":{"name":"88c463b9-2a7e-49fd-ab88-cafadac4fd32","path":"sprites/spr_smurfknight_turn/spr_smurfknight_turn.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-      ],"parent":{"name":"spr_smurfknight_turn","path":"sprites/spr_smurfknight_turn/spr_smurfknight_turn.yy",},"resourceVersion":"1.0","name":"604fdbd7-68ba-4d53-a928-4d333d3c6d6a","tags":[],"resourceType":"GMSpriteFrame",},
-    {"compositeImage":{"FrameId":{"name":"73ae2c05-f150-4bae-a402-88a4d4b4a2a3","path":"sprites/spr_smurfknight_turn/spr_smurfknight_turn.yy",},"LayerId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"73ae2c05-f150-4bae-a402-88a4d4b4a2a3","path":"sprites/spr_smurfknight_turn/spr_smurfknight_turn.yy",},"LayerId":{"name":"88c463b9-2a7e-49fd-ab88-cafadac4fd32","path":"sprites/spr_smurfknight_turn/spr_smurfknight_turn.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-      ],"parent":{"name":"spr_smurfknight_turn","path":"sprites/spr_smurfknight_turn/spr_smurfknight_turn.yy",},"resourceVersion":"1.0","name":"73ae2c05-f150-4bae-a402-88a4d4b4a2a3","tags":[],"resourceType":"GMSpriteFrame",},
-    {"compositeImage":{"FrameId":{"name":"8089f231-aecb-44a5-aefc-138c41fac53e","path":"sprites/spr_smurfknight_turn/spr_smurfknight_turn.yy",},"LayerId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"8089f231-aecb-44a5-aefc-138c41fac53e","path":"sprites/spr_smurfknight_turn/spr_smurfknight_turn.yy",},"LayerId":{"name":"88c463b9-2a7e-49fd-ab88-cafadac4fd32","path":"sprites/spr_smurfknight_turn/spr_smurfknight_turn.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-      ],"parent":{"name":"spr_smurfknight_turn","path":"sprites/spr_smurfknight_turn/spr_smurfknight_turn.yy",},"resourceVersion":"1.0","name":"8089f231-aecb-44a5-aefc-138c41fac53e","tags":[],"resourceType":"GMSpriteFrame",},
-    {"compositeImage":{"FrameId":{"name":"bba520e0-5234-4b5f-8da6-32fdb2add4a2","path":"sprites/spr_smurfknight_turn/spr_smurfknight_turn.yy",},"LayerId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"bba520e0-5234-4b5f-8da6-32fdb2add4a2","path":"sprites/spr_smurfknight_turn/spr_smurfknight_turn.yy",},"LayerId":{"name":"88c463b9-2a7e-49fd-ab88-cafadac4fd32","path":"sprites/spr_smurfknight_turn/spr_smurfknight_turn.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-      ],"parent":{"name":"spr_smurfknight_turn","path":"sprites/spr_smurfknight_turn/spr_smurfknight_turn.yy",},"resourceVersion":"1.0","name":"bba520e0-5234-4b5f-8da6-32fdb2add4a2","tags":[],"resourceType":"GMSpriteFrame",},
-    {"compositeImage":{"FrameId":{"name":"76b4b677-5422-4ed3-837a-2c705d9ec6fa","path":"sprites/spr_smurfknight_turn/spr_smurfknight_turn.yy",},"LayerId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"76b4b677-5422-4ed3-837a-2c705d9ec6fa","path":"sprites/spr_smurfknight_turn/spr_smurfknight_turn.yy",},"LayerId":{"name":"88c463b9-2a7e-49fd-ab88-cafadac4fd32","path":"sprites/spr_smurfknight_turn/spr_smurfknight_turn.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-      ],"parent":{"name":"spr_smurfknight_turn","path":"sprites/spr_smurfknight_turn/spr_smurfknight_turn.yy",},"resourceVersion":"1.0","name":"76b4b677-5422-4ed3-837a-2c705d9ec6fa","tags":[],"resourceType":"GMSpriteFrame",},
-    {"compositeImage":{"FrameId":{"name":"c7d10ba9-d77c-480a-8418-aebef33d9163","path":"sprites/spr_smurfknight_turn/spr_smurfknight_turn.yy",},"LayerId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"c7d10ba9-d77c-480a-8418-aebef33d9163","path":"sprites/spr_smurfknight_turn/spr_smurfknight_turn.yy",},"LayerId":{"name":"88c463b9-2a7e-49fd-ab88-cafadac4fd32","path":"sprites/spr_smurfknight_turn/spr_smurfknight_turn.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-      ],"parent":{"name":"spr_smurfknight_turn","path":"sprites/spr_smurfknight_turn/spr_smurfknight_turn.yy",},"resourceVersion":"1.0","name":"c7d10ba9-d77c-480a-8418-aebef33d9163","tags":[],"resourceType":"GMSpriteFrame",},
-    {"compositeImage":{"FrameId":{"name":"dab5853e-ec67-4206-8002-e82880b8c630","path":"sprites/spr_smurfknight_turn/spr_smurfknight_turn.yy",},"LayerId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"dab5853e-ec67-4206-8002-e82880b8c630","path":"sprites/spr_smurfknight_turn/spr_smurfknight_turn.yy",},"LayerId":{"name":"88c463b9-2a7e-49fd-ab88-cafadac4fd32","path":"sprites/spr_smurfknight_turn/spr_smurfknight_turn.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-      ],"parent":{"name":"spr_smurfknight_turn","path":"sprites/spr_smurfknight_turn/spr_smurfknight_turn.yy",},"resourceVersion":"1.0","name":"dab5853e-ec67-4206-8002-e82880b8c630","tags":[],"resourceType":"GMSpriteFrame",},
-    {"compositeImage":{"FrameId":{"name":"ad1305a4-2924-44ea-9897-f40125b18a92","path":"sprites/spr_smurfknight_turn/spr_smurfknight_turn.yy",},"LayerId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"ad1305a4-2924-44ea-9897-f40125b18a92","path":"sprites/spr_smurfknight_turn/spr_smurfknight_turn.yy",},"LayerId":{"name":"88c463b9-2a7e-49fd-ab88-cafadac4fd32","path":"sprites/spr_smurfknight_turn/spr_smurfknight_turn.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-      ],"parent":{"name":"spr_smurfknight_turn","path":"sprites/spr_smurfknight_turn/spr_smurfknight_turn.yy",},"resourceVersion":"1.0","name":"ad1305a4-2924-44ea-9897-f40125b18a92","tags":[],"resourceType":"GMSpriteFrame",},
-    {"compositeImage":{"FrameId":{"name":"cf63ec66-c773-424d-b3f9-638d8810995a","path":"sprites/spr_smurfknight_turn/spr_smurfknight_turn.yy",},"LayerId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"cf63ec66-c773-424d-b3f9-638d8810995a","path":"sprites/spr_smurfknight_turn/spr_smurfknight_turn.yy",},"LayerId":{"name":"88c463b9-2a7e-49fd-ab88-cafadac4fd32","path":"sprites/spr_smurfknight_turn/spr_smurfknight_turn.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-      ],"parent":{"name":"spr_smurfknight_turn","path":"sprites/spr_smurfknight_turn/spr_smurfknight_turn.yy",},"resourceVersion":"1.0","name":"cf63ec66-c773-424d-b3f9-638d8810995a","tags":[],"resourceType":"GMSpriteFrame",},
-    {"compositeImage":{"FrameId":{"name":"cd5232b0-d53d-44ec-8b2b-fa12e13c2a32","path":"sprites/spr_smurfknight_turn/spr_smurfknight_turn.yy",},"LayerId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"cd5232b0-d53d-44ec-8b2b-fa12e13c2a32","path":"sprites/spr_smurfknight_turn/spr_smurfknight_turn.yy",},"LayerId":{"name":"88c463b9-2a7e-49fd-ab88-cafadac4fd32","path":"sprites/spr_smurfknight_turn/spr_smurfknight_turn.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-      ],"parent":{"name":"spr_smurfknight_turn","path":"sprites/spr_smurfknight_turn/spr_smurfknight_turn.yy",},"resourceVersion":"1.0","name":"cd5232b0-d53d-44ec-8b2b-fa12e13c2a32","tags":[],"resourceType":"GMSpriteFrame",},
+    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"e469d488-3b2a-4644-bd3c-1bd9768e79d5",},
+    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"9467d1d4-83a1-402b-9da6-1476d1409d6c",},
+    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"476ff6de-9030-4e82-88b0-03e072874a7a",},
+    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"5b0837cf-f4d1-4d99-90f3-ace755a59ebd",},
+    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"c514e18c-87e1-40c2-952b-db98dc097fed",},
+    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"aa8b3c79-87ee-455c-8bce-4516ab4202c3",},
+    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"72cf9e95-327c-4576-a74b-80d6d5d101a5",},
+    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"04efa01d-5288-4e99-ad54-75e847498e53",},
+    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"c313ff67-cfa5-4fc9-a532-702502757384",},
+    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"eda26323-9c65-4db6-b320-5db5eff35160",},
+    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"a7f1c36c-c0f7-4912-9f83-381d5649d0be",},
+    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"604fdbd7-68ba-4d53-a928-4d333d3c6d6a",},
+    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"73ae2c05-f150-4bae-a402-88a4d4b4a2a3",},
+    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"8089f231-aecb-44a5-aefc-138c41fac53e",},
+    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"bba520e0-5234-4b5f-8da6-32fdb2add4a2",},
+    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"76b4b677-5422-4ed3-837a-2c705d9ec6fa",},
+    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"c7d10ba9-d77c-480a-8418-aebef33d9163",},
+    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"dab5853e-ec67-4206-8002-e82880b8c630",},
+    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"ad1305a4-2924-44ea-9897-f40125b18a92",},
+    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"cf63ec66-c773-424d-b3f9-638d8810995a",},
+    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"cd5232b0-d53d-44ec-8b2b-fa12e13c2a32",},
   ],
   "sequence": {
-    "spriteId": {"name":"spr_smurfknight_turn","path":"sprites/spr_smurfknight_turn/spr_smurfknight_turn.yy",},
+    "resourceType": "GMSequence",
+    "resourceVersion": "1.4",
+    "name": "spr_smurfknight_turn",
     "timeUnits": 1,
     "playback": 1,
     "playbackSpeed": 1.0,
@@ -103,7 +67,7 @@
     "events": {"Keyframes":[],"resourceVersion":"1.0","resourceType":"KeyframeStore<MessageEventKeyframe>",},
     "moments": {"Keyframes":[],"resourceVersion":"1.0","resourceType":"KeyframeStore<MomentsEventKeyframe>",},
     "tracks": [
-      {"name":"frames","spriteId":null,"keyframes":{"Keyframes":[
+      {"resourceType":"GMSpriteFramesTrack","resourceVersion":"1.0","name":"frames","spriteId":null,"keyframes":{"Keyframes":[
             {"id":"f12fa909-f467-45bb-9466-3dd5fc9b9945","Key":0.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"e469d488-3b2a-4644-bd3c-1bd9768e79d5","path":"sprites/spr_smurfknight_turn/spr_smurfknight_turn.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
             {"id":"6e750802-50fc-45f8-863c-0e60fda5c22c","Key":1.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"9467d1d4-83a1-402b-9da6-1476d1409d6c","path":"sprites/spr_smurfknight_turn/spr_smurfknight_turn.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
             {"id":"b3553959-d1c3-4577-a9d0-fa3b78808116","Key":2.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"476ff6de-9030-4e82-88b0-03e072874a7a","path":"sprites/spr_smurfknight_turn/spr_smurfknight_turn.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
@@ -125,7 +89,7 @@
             {"id":"9c8cb446-f3d6-4e0d-8f4d-ffedcf2d07f9","Key":18.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"ad1305a4-2924-44ea-9897-f40125b18a92","path":"sprites/spr_smurfknight_turn/spr_smurfknight_turn.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
             {"id":"94702096-f80f-4fd7-91b0-4d4413b72611","Key":19.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"cf63ec66-c773-424d-b3f9-638d8810995a","path":"sprites/spr_smurfknight_turn/spr_smurfknight_turn.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
             {"id":"a26a3a49-fcf9-4861-9d53-de68afad4674","Key":20.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"cd5232b0-d53d-44ec-8b2b-fa12e13c2a32","path":"sprites/spr_smurfknight_turn/spr_smurfknight_turn.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
-          ],"resourceVersion":"1.0","resourceType":"KeyframeStore<SpriteFrameKeyframe>",},"trackColour":0,"inheritsTrackColour":true,"builtinName":0,"traits":0,"interpolation":1,"tracks":[],"events":[],"isCreationTrack":false,"resourceVersion":"1.0","tags":[],"resourceType":"GMSpriteFramesTrack","modifiers":[],},
+          ],"resourceVersion":"1.0","resourceType":"KeyframeStore<SpriteFrameKeyframe>",},"trackColour":0,"inheritsTrackColour":true,"builtinName":0,"traits":0,"interpolation":1,"tracks":[],"events":[],"isCreationTrack":false,"modifiers":[],},
     ],
     "visibleRange": null,
     "lockOrigin": false,
@@ -141,22 +105,13 @@
     "yorigin": 50,
     "eventToFunction": {},
     "eventStubScript": null,
-    "parent": {"name":"spr_smurfknight_turn","path":"sprites/spr_smurfknight_turn/spr_smurfknight_turn.yy",},
-    "resourceVersion": "1.4",
-    "name": "spr_smurfknight_turn",
-    "tags": [],
-    "resourceType": "GMSequence",
   },
   "layers": [
-    {"visible":true,"isLocked":false,"blendMode":0,"opacity":100.0,"displayName":"default","resourceVersion":"1.0","name":"88c463b9-2a7e-49fd-ab88-cafadac4fd32","tags":[],"resourceType":"GMImageLayer",},
+    {"resourceType":"GMImageLayer","resourceVersion":"1.0","name":"88c463b9-2a7e-49fd-ab88-cafadac4fd32","visible":true,"isLocked":false,"blendMode":0,"opacity":100.0,"displayName":"default",},
   ],
   "nineSlice": null,
   "parent": {
     "name": "knight",
     "path": "folders/Sprites/SUGARY SPIRE/baddie/knight.yy",
   },
-  "resourceVersion": "1.0",
-  "name": "spr_smurfknight_turn",
-  "tags": [],
-  "resourceType": "GMSprite",
 }

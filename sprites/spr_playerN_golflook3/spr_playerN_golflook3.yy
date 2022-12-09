@@ -1,4 +1,7 @@
 {
+  "resourceType": "GMSprite",
+  "resourceVersion": "1.0",
+  "name": "spr_playerN_golflook3",
   "ConfigValues": {
     "debug": {"textureGroupId":"{\"name\":\"tg_player\",\"path\":\"texturegroups/tg_player\"}",},
   },
@@ -17,6 +20,7 @@
   "HTile": false,
   "VTile": false,
   "For3D": false,
+  "DynamicTexturePage": false,
   "width": 155,
   "height": 100,
   "textureGroupId": {
@@ -27,21 +31,15 @@
   "gridX": 0,
   "gridY": 0,
   "frames": [
-    {"compositeImage":{"FrameId":{"name":"a7b1138f-aa45-4a4e-91dc-92a7500c8a9d","path":"sprites/spr_playerN_golflook3/spr_playerN_golflook3.yy",},"LayerId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"a7b1138f-aa45-4a4e-91dc-92a7500c8a9d","path":"sprites/spr_playerN_golflook3/spr_playerN_golflook3.yy",},"LayerId":{"name":"55ece70c-ecd4-41bc-b828-b5defc881848","path":"sprites/spr_playerN_golflook3/spr_playerN_golflook3.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-      ],"parent":{"name":"spr_playerN_golflook3","path":"sprites/spr_playerN_golflook3/spr_playerN_golflook3.yy",},"resourceVersion":"1.0","name":"a7b1138f-aa45-4a4e-91dc-92a7500c8a9d","tags":[],"resourceType":"GMSpriteFrame",},
-    {"compositeImage":{"FrameId":{"name":"0c7ceccd-5d09-499b-8401-978c0455e776","path":"sprites/spr_playerN_golflook3/spr_playerN_golflook3.yy",},"LayerId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"0c7ceccd-5d09-499b-8401-978c0455e776","path":"sprites/spr_playerN_golflook3/spr_playerN_golflook3.yy",},"LayerId":{"name":"55ece70c-ecd4-41bc-b828-b5defc881848","path":"sprites/spr_playerN_golflook3/spr_playerN_golflook3.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-      ],"parent":{"name":"spr_playerN_golflook3","path":"sprites/spr_playerN_golflook3/spr_playerN_golflook3.yy",},"resourceVersion":"1.0","name":"0c7ceccd-5d09-499b-8401-978c0455e776","tags":[],"resourceType":"GMSpriteFrame",},
-    {"compositeImage":{"FrameId":{"name":"8aaaa8f6-22f6-422d-935e-9cc69a441024","path":"sprites/spr_playerN_golflook3/spr_playerN_golflook3.yy",},"LayerId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"8aaaa8f6-22f6-422d-935e-9cc69a441024","path":"sprites/spr_playerN_golflook3/spr_playerN_golflook3.yy",},"LayerId":{"name":"55ece70c-ecd4-41bc-b828-b5defc881848","path":"sprites/spr_playerN_golflook3/spr_playerN_golflook3.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-      ],"parent":{"name":"spr_playerN_golflook3","path":"sprites/spr_playerN_golflook3/spr_playerN_golflook3.yy",},"resourceVersion":"1.0","name":"8aaaa8f6-22f6-422d-935e-9cc69a441024","tags":[],"resourceType":"GMSpriteFrame",},
-    {"compositeImage":{"FrameId":{"name":"4f2ecdc8-2ee8-4d5d-8ca4-ec889fd35155","path":"sprites/spr_playerN_golflook3/spr_playerN_golflook3.yy",},"LayerId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"4f2ecdc8-2ee8-4d5d-8ca4-ec889fd35155","path":"sprites/spr_playerN_golflook3/spr_playerN_golflook3.yy",},"LayerId":{"name":"55ece70c-ecd4-41bc-b828-b5defc881848","path":"sprites/spr_playerN_golflook3/spr_playerN_golflook3.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-      ],"parent":{"name":"spr_playerN_golflook3","path":"sprites/spr_playerN_golflook3/spr_playerN_golflook3.yy",},"resourceVersion":"1.0","name":"4f2ecdc8-2ee8-4d5d-8ca4-ec889fd35155","tags":[],"resourceType":"GMSpriteFrame",},
+    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"a7b1138f-aa45-4a4e-91dc-92a7500c8a9d",},
+    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"0c7ceccd-5d09-499b-8401-978c0455e776",},
+    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"8aaaa8f6-22f6-422d-935e-9cc69a441024",},
+    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"4f2ecdc8-2ee8-4d5d-8ca4-ec889fd35155",},
   ],
   "sequence": {
-    "spriteId": {"name":"spr_playerN_golflook3","path":"sprites/spr_playerN_golflook3/spr_playerN_golflook3.yy",},
+    "resourceType": "GMSequence",
+    "resourceVersion": "1.4",
+    "name": "spr_playerN_golflook3",
     "timeUnits": 1,
     "playback": 1,
     "playbackSpeed": 1.0,
@@ -52,12 +50,12 @@
     "events": {"Keyframes":[],"resourceVersion":"1.0","resourceType":"KeyframeStore<MessageEventKeyframe>",},
     "moments": {"Keyframes":[],"resourceVersion":"1.0","resourceType":"KeyframeStore<MomentsEventKeyframe>",},
     "tracks": [
-      {"name":"frames","spriteId":null,"keyframes":{"Keyframes":[
+      {"resourceType":"GMSpriteFramesTrack","resourceVersion":"1.0","name":"frames","spriteId":null,"keyframes":{"Keyframes":[
             {"id":"e5c678e3-7673-4331-a81f-80a152cc5d67","Key":0.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"a7b1138f-aa45-4a4e-91dc-92a7500c8a9d","path":"sprites/spr_playerN_golflook3/spr_playerN_golflook3.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
             {"id":"a88cfcf6-6d0a-4993-bc96-81c6e97a90a7","Key":1.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"0c7ceccd-5d09-499b-8401-978c0455e776","path":"sprites/spr_playerN_golflook3/spr_playerN_golflook3.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
             {"id":"7078e712-0ecd-4661-a090-3ce36fd6663d","Key":2.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"8aaaa8f6-22f6-422d-935e-9cc69a441024","path":"sprites/spr_playerN_golflook3/spr_playerN_golflook3.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
             {"id":"958cde3a-4b32-46ef-89e1-9f56160fa75b","Key":3.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"4f2ecdc8-2ee8-4d5d-8ca4-ec889fd35155","path":"sprites/spr_playerN_golflook3/spr_playerN_golflook3.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
-          ],"resourceVersion":"1.0","resourceType":"KeyframeStore<SpriteFrameKeyframe>",},"trackColour":0,"inheritsTrackColour":true,"builtinName":0,"traits":0,"interpolation":1,"tracks":[],"events":[],"isCreationTrack":false,"resourceVersion":"1.0","tags":[],"resourceType":"GMSpriteFramesTrack","modifiers":[],},
+          ],"resourceVersion":"1.0","resourceType":"KeyframeStore<SpriteFrameKeyframe>",},"trackColour":0,"inheritsTrackColour":true,"builtinName":0,"traits":0,"interpolation":1,"tracks":[],"events":[],"isCreationTrack":false,"modifiers":[],},
     ],
     "visibleRange": null,
     "lockOrigin": false,
@@ -73,22 +71,13 @@
     "yorigin": 50,
     "eventToFunction": {},
     "eventStubScript": null,
-    "parent": {"name":"spr_playerN_golflook3","path":"sprites/spr_playerN_golflook3/spr_playerN_golflook3.yy",},
-    "resourceVersion": "1.4",
-    "name": "spr_playerN_golflook3",
-    "tags": [],
-    "resourceType": "GMSequence",
   },
   "layers": [
-    {"visible":true,"isLocked":false,"blendMode":0,"opacity":100.0,"displayName":"default","resourceVersion":"1.0","name":"55ece70c-ecd4-41bc-b828-b5defc881848","tags":[],"resourceType":"GMImageLayer",},
+    {"resourceType":"GMImageLayer","resourceVersion":"1.0","name":"55ece70c-ecd4-41bc-b828-b5defc881848","visible":true,"isLocked":false,"blendMode":0,"opacity":100.0,"displayName":"default",},
   ],
   "nineSlice": null,
   "parent": {
     "name": "golf",
     "path": "folders/Sprites/players/noise/golf.yy",
   },
-  "resourceVersion": "1.0",
-  "name": "spr_playerN_golflook3",
-  "tags": [],
-  "resourceType": "GMSprite",
 }

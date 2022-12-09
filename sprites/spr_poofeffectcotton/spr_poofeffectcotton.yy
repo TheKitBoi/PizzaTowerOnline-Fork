@@ -1,4 +1,7 @@
 {
+  "resourceType": "GMSprite",
+  "resourceVersion": "1.0",
+  "name": "spr_poofeffectcotton",
   "ConfigValues": {
     "debug": {"textureGroupId":"{\"name\":\"tg_sugaryspire\",\"path\":\"texturegroups/tg_sugaryspire\"}",},
   },
@@ -17,6 +20,7 @@
   "HTile": false,
   "VTile": false,
   "For3D": false,
+  "DynamicTexturePage": false,
   "width": 200,
   "height": 200,
   "textureGroupId": {
@@ -27,39 +31,21 @@
   "gridX": 0,
   "gridY": 0,
   "frames": [
-    {"compositeImage":{"FrameId":{"name":"f2308ac9-7a3f-4069-8ffe-ea5fc7765d77","path":"sprites/spr_poofeffectcotton/spr_poofeffectcotton.yy",},"LayerId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"f2308ac9-7a3f-4069-8ffe-ea5fc7765d77","path":"sprites/spr_poofeffectcotton/spr_poofeffectcotton.yy",},"LayerId":{"name":"df8b3e15-8ed1-4ad0-b577-3dff84ac43d1","path":"sprites/spr_poofeffectcotton/spr_poofeffectcotton.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-      ],"parent":{"name":"spr_poofeffectcotton","path":"sprites/spr_poofeffectcotton/spr_poofeffectcotton.yy",},"resourceVersion":"1.0","name":"f2308ac9-7a3f-4069-8ffe-ea5fc7765d77","tags":[],"resourceType":"GMSpriteFrame",},
-    {"compositeImage":{"FrameId":{"name":"fdb81abd-968a-4232-ba8d-c201ad75fb9a","path":"sprites/spr_poofeffectcotton/spr_poofeffectcotton.yy",},"LayerId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"fdb81abd-968a-4232-ba8d-c201ad75fb9a","path":"sprites/spr_poofeffectcotton/spr_poofeffectcotton.yy",},"LayerId":{"name":"df8b3e15-8ed1-4ad0-b577-3dff84ac43d1","path":"sprites/spr_poofeffectcotton/spr_poofeffectcotton.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-      ],"parent":{"name":"spr_poofeffectcotton","path":"sprites/spr_poofeffectcotton/spr_poofeffectcotton.yy",},"resourceVersion":"1.0","name":"fdb81abd-968a-4232-ba8d-c201ad75fb9a","tags":[],"resourceType":"GMSpriteFrame",},
-    {"compositeImage":{"FrameId":{"name":"e4b79e08-81c9-4610-aea7-f78299b4bd35","path":"sprites/spr_poofeffectcotton/spr_poofeffectcotton.yy",},"LayerId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"e4b79e08-81c9-4610-aea7-f78299b4bd35","path":"sprites/spr_poofeffectcotton/spr_poofeffectcotton.yy",},"LayerId":{"name":"df8b3e15-8ed1-4ad0-b577-3dff84ac43d1","path":"sprites/spr_poofeffectcotton/spr_poofeffectcotton.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-      ],"parent":{"name":"spr_poofeffectcotton","path":"sprites/spr_poofeffectcotton/spr_poofeffectcotton.yy",},"resourceVersion":"1.0","name":"e4b79e08-81c9-4610-aea7-f78299b4bd35","tags":[],"resourceType":"GMSpriteFrame",},
-    {"compositeImage":{"FrameId":{"name":"b359c8e2-e82e-41bc-afb7-2c29961d97f5","path":"sprites/spr_poofeffectcotton/spr_poofeffectcotton.yy",},"LayerId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"b359c8e2-e82e-41bc-afb7-2c29961d97f5","path":"sprites/spr_poofeffectcotton/spr_poofeffectcotton.yy",},"LayerId":{"name":"df8b3e15-8ed1-4ad0-b577-3dff84ac43d1","path":"sprites/spr_poofeffectcotton/spr_poofeffectcotton.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-      ],"parent":{"name":"spr_poofeffectcotton","path":"sprites/spr_poofeffectcotton/spr_poofeffectcotton.yy",},"resourceVersion":"1.0","name":"b359c8e2-e82e-41bc-afb7-2c29961d97f5","tags":[],"resourceType":"GMSpriteFrame",},
-    {"compositeImage":{"FrameId":{"name":"d5560209-0996-4a24-ae29-92548b69d49d","path":"sprites/spr_poofeffectcotton/spr_poofeffectcotton.yy",},"LayerId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"d5560209-0996-4a24-ae29-92548b69d49d","path":"sprites/spr_poofeffectcotton/spr_poofeffectcotton.yy",},"LayerId":{"name":"df8b3e15-8ed1-4ad0-b577-3dff84ac43d1","path":"sprites/spr_poofeffectcotton/spr_poofeffectcotton.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-      ],"parent":{"name":"spr_poofeffectcotton","path":"sprites/spr_poofeffectcotton/spr_poofeffectcotton.yy",},"resourceVersion":"1.0","name":"d5560209-0996-4a24-ae29-92548b69d49d","tags":[],"resourceType":"GMSpriteFrame",},
-    {"compositeImage":{"FrameId":{"name":"698c0f37-81e3-4725-ae59-9d0b8bc645c2","path":"sprites/spr_poofeffectcotton/spr_poofeffectcotton.yy",},"LayerId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"698c0f37-81e3-4725-ae59-9d0b8bc645c2","path":"sprites/spr_poofeffectcotton/spr_poofeffectcotton.yy",},"LayerId":{"name":"df8b3e15-8ed1-4ad0-b577-3dff84ac43d1","path":"sprites/spr_poofeffectcotton/spr_poofeffectcotton.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-      ],"parent":{"name":"spr_poofeffectcotton","path":"sprites/spr_poofeffectcotton/spr_poofeffectcotton.yy",},"resourceVersion":"1.0","name":"698c0f37-81e3-4725-ae59-9d0b8bc645c2","tags":[],"resourceType":"GMSpriteFrame",},
-    {"compositeImage":{"FrameId":{"name":"f18f34f8-4a21-412f-aa74-6dbf0a26a69f","path":"sprites/spr_poofeffectcotton/spr_poofeffectcotton.yy",},"LayerId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"f18f34f8-4a21-412f-aa74-6dbf0a26a69f","path":"sprites/spr_poofeffectcotton/spr_poofeffectcotton.yy",},"LayerId":{"name":"df8b3e15-8ed1-4ad0-b577-3dff84ac43d1","path":"sprites/spr_poofeffectcotton/spr_poofeffectcotton.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-      ],"parent":{"name":"spr_poofeffectcotton","path":"sprites/spr_poofeffectcotton/spr_poofeffectcotton.yy",},"resourceVersion":"1.0","name":"f18f34f8-4a21-412f-aa74-6dbf0a26a69f","tags":[],"resourceType":"GMSpriteFrame",},
-    {"compositeImage":{"FrameId":{"name":"05f44b24-c1dd-455a-a292-9c9373c21ae7","path":"sprites/spr_poofeffectcotton/spr_poofeffectcotton.yy",},"LayerId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"05f44b24-c1dd-455a-a292-9c9373c21ae7","path":"sprites/spr_poofeffectcotton/spr_poofeffectcotton.yy",},"LayerId":{"name":"df8b3e15-8ed1-4ad0-b577-3dff84ac43d1","path":"sprites/spr_poofeffectcotton/spr_poofeffectcotton.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-      ],"parent":{"name":"spr_poofeffectcotton","path":"sprites/spr_poofeffectcotton/spr_poofeffectcotton.yy",},"resourceVersion":"1.0","name":"05f44b24-c1dd-455a-a292-9c9373c21ae7","tags":[],"resourceType":"GMSpriteFrame",},
-    {"compositeImage":{"FrameId":{"name":"44607df9-3c47-496f-b901-99019d7c08e4","path":"sprites/spr_poofeffectcotton/spr_poofeffectcotton.yy",},"LayerId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"44607df9-3c47-496f-b901-99019d7c08e4","path":"sprites/spr_poofeffectcotton/spr_poofeffectcotton.yy",},"LayerId":{"name":"df8b3e15-8ed1-4ad0-b577-3dff84ac43d1","path":"sprites/spr_poofeffectcotton/spr_poofeffectcotton.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-      ],"parent":{"name":"spr_poofeffectcotton","path":"sprites/spr_poofeffectcotton/spr_poofeffectcotton.yy",},"resourceVersion":"1.0","name":"44607df9-3c47-496f-b901-99019d7c08e4","tags":[],"resourceType":"GMSpriteFrame",},
-    {"compositeImage":{"FrameId":{"name":"8cd24a76-2264-4c6e-bb5c-f36c1cf36bf5","path":"sprites/spr_poofeffectcotton/spr_poofeffectcotton.yy",},"LayerId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"8cd24a76-2264-4c6e-bb5c-f36c1cf36bf5","path":"sprites/spr_poofeffectcotton/spr_poofeffectcotton.yy",},"LayerId":{"name":"df8b3e15-8ed1-4ad0-b577-3dff84ac43d1","path":"sprites/spr_poofeffectcotton/spr_poofeffectcotton.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-      ],"parent":{"name":"spr_poofeffectcotton","path":"sprites/spr_poofeffectcotton/spr_poofeffectcotton.yy",},"resourceVersion":"1.0","name":"8cd24a76-2264-4c6e-bb5c-f36c1cf36bf5","tags":[],"resourceType":"GMSpriteFrame",},
+    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"f2308ac9-7a3f-4069-8ffe-ea5fc7765d77",},
+    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"fdb81abd-968a-4232-ba8d-c201ad75fb9a",},
+    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"e4b79e08-81c9-4610-aea7-f78299b4bd35",},
+    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"b359c8e2-e82e-41bc-afb7-2c29961d97f5",},
+    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"d5560209-0996-4a24-ae29-92548b69d49d",},
+    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"698c0f37-81e3-4725-ae59-9d0b8bc645c2",},
+    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"f18f34f8-4a21-412f-aa74-6dbf0a26a69f",},
+    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"05f44b24-c1dd-455a-a292-9c9373c21ae7",},
+    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"44607df9-3c47-496f-b901-99019d7c08e4",},
+    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"8cd24a76-2264-4c6e-bb5c-f36c1cf36bf5",},
   ],
   "sequence": {
-    "spriteId": {"name":"spr_poofeffectcotton","path":"sprites/spr_poofeffectcotton/spr_poofeffectcotton.yy",},
+    "resourceType": "GMSequence",
+    "resourceVersion": "1.4",
+    "name": "spr_poofeffectcotton",
     "timeUnits": 1,
     "playback": 1,
     "playbackSpeed": 1.0,
@@ -70,7 +56,7 @@
     "events": {"Keyframes":[],"resourceVersion":"1.0","resourceType":"KeyframeStore<MessageEventKeyframe>",},
     "moments": {"Keyframes":[],"resourceVersion":"1.0","resourceType":"KeyframeStore<MomentsEventKeyframe>",},
     "tracks": [
-      {"name":"frames","spriteId":null,"keyframes":{"Keyframes":[
+      {"resourceType":"GMSpriteFramesTrack","resourceVersion":"1.0","name":"frames","spriteId":null,"keyframes":{"Keyframes":[
             {"id":"e91e8c87-afcd-4b4c-8f71-15f9d1c79082","Key":0.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"f2308ac9-7a3f-4069-8ffe-ea5fc7765d77","path":"sprites/spr_poofeffectcotton/spr_poofeffectcotton.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
             {"id":"f6412e42-eaf0-4bb9-bd61-3f890087e70e","Key":1.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"fdb81abd-968a-4232-ba8d-c201ad75fb9a","path":"sprites/spr_poofeffectcotton/spr_poofeffectcotton.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
             {"id":"9e217f03-71e1-4322-aaaa-aaeaaf6d6d30","Key":2.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"e4b79e08-81c9-4610-aea7-f78299b4bd35","path":"sprites/spr_poofeffectcotton/spr_poofeffectcotton.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
@@ -81,7 +67,7 @@
             {"id":"78250e95-46cd-450b-beef-31416e6646a5","Key":7.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"05f44b24-c1dd-455a-a292-9c9373c21ae7","path":"sprites/spr_poofeffectcotton/spr_poofeffectcotton.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
             {"id":"31365ee9-f8d5-4ab7-8d78-c6f52ae505d7","Key":8.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"44607df9-3c47-496f-b901-99019d7c08e4","path":"sprites/spr_poofeffectcotton/spr_poofeffectcotton.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
             {"id":"a3f10679-44e8-4232-a61e-526e74a72f3c","Key":9.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"8cd24a76-2264-4c6e-bb5c-f36c1cf36bf5","path":"sprites/spr_poofeffectcotton/spr_poofeffectcotton.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
-          ],"resourceVersion":"1.0","resourceType":"KeyframeStore<SpriteFrameKeyframe>",},"trackColour":0,"inheritsTrackColour":true,"builtinName":0,"traits":0,"interpolation":1,"tracks":[],"events":[],"isCreationTrack":false,"resourceVersion":"1.0","tags":[],"resourceType":"GMSpriteFramesTrack","modifiers":[],},
+          ],"resourceVersion":"1.0","resourceType":"KeyframeStore<SpriteFrameKeyframe>",},"trackColour":0,"inheritsTrackColour":true,"builtinName":0,"traits":0,"interpolation":1,"tracks":[],"events":[],"isCreationTrack":false,"modifiers":[],},
     ],
     "visibleRange": null,
     "lockOrigin": false,
@@ -97,22 +83,13 @@
     "yorigin": 100,
     "eventToFunction": {},
     "eventStubScript": null,
-    "parent": {"name":"spr_poofeffectcotton","path":"sprites/spr_poofeffectcotton/spr_poofeffectcotton.yy",},
-    "resourceVersion": "1.4",
-    "name": "spr_poofeffectcotton",
-    "tags": [],
-    "resourceType": "GMSequence",
   },
   "layers": [
-    {"visible":true,"isLocked":false,"blendMode":0,"opacity":100.0,"displayName":"default","resourceVersion":"1.0","name":"df8b3e15-8ed1-4ad0-b577-3dff84ac43d1","tags":[],"resourceType":"GMImageLayer",},
+    {"resourceType":"GMImageLayer","resourceVersion":"1.0","name":"df8b3e15-8ed1-4ad0-b577-3dff84ac43d1","visible":true,"isLocked":false,"blendMode":0,"opacity":100.0,"displayName":"default",},
   ],
   "nineSlice": null,
   "parent": {
     "name": "particle",
     "path": "folders/Sprites/SUGARY SPIRE/particle.yy",
   },
-  "resourceVersion": "1.0",
-  "name": "spr_poofeffectcotton",
-  "tags": [],
-  "resourceType": "GMSprite",
 }

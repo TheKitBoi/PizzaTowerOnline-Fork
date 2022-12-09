@@ -1,4 +1,7 @@
 {
+  "resourceType": "GMSprite",
+  "resourceVersion": "1.0",
+  "name": "spr_computerfreezer",
   "bboxMode": 0,
   "collisionKind": 1,
   "type": 0,
@@ -14,6 +17,7 @@
   "HTile": false,
   "VTile": false,
   "For3D": false,
+  "DynamicTexturePage": false,
   "width": 100,
   "height": 100,
   "textureGroupId": {
@@ -24,15 +28,13 @@
   "gridX": 0,
   "gridY": 0,
   "frames": [
-    {"compositeImage":{"FrameId":{"name":"4a3d87e1-da6a-45aa-a645-6e23e812bf04","path":"sprites/spr_computerfreezer/spr_computerfreezer.yy",},"LayerId":null,"resourceVersion":"1.0","name":"composite","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"4a3d87e1-da6a-45aa-a645-6e23e812bf04","path":"sprites/spr_computerfreezer/spr_computerfreezer.yy",},"LayerId":{"name":"15493cc9-e2da-42d9-b746-1a0f05391c5f","path":"sprites/spr_computerfreezer/spr_computerfreezer.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-      ],"parent":{"name":"spr_computerfreezer","path":"sprites/spr_computerfreezer/spr_computerfreezer.yy",},"resourceVersion":"1.0","name":"4a3d87e1-da6a-45aa-a645-6e23e812bf04","tags":[],"resourceType":"GMSpriteFrame",},
-    {"compositeImage":{"FrameId":{"name":"82bd0f52-1a5d-4a6c-9a9b-c4f51cb6a427","path":"sprites/spr_computerfreezer/spr_computerfreezer.yy",},"LayerId":null,"resourceVersion":"1.0","name":"composite","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"82bd0f52-1a5d-4a6c-9a9b-c4f51cb6a427","path":"sprites/spr_computerfreezer/spr_computerfreezer.yy",},"LayerId":{"name":"15493cc9-e2da-42d9-b746-1a0f05391c5f","path":"sprites/spr_computerfreezer/spr_computerfreezer.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-      ],"parent":{"name":"spr_computerfreezer","path":"sprites/spr_computerfreezer/spr_computerfreezer.yy",},"resourceVersion":"1.0","name":"82bd0f52-1a5d-4a6c-9a9b-c4f51cb6a427","tags":[],"resourceType":"GMSpriteFrame",},
+    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"4a3d87e1-da6a-45aa-a645-6e23e812bf04",},
+    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"82bd0f52-1a5d-4a6c-9a9b-c4f51cb6a427",},
   ],
   "sequence": {
-    "spriteId": {"name":"spr_computerfreezer","path":"sprites/spr_computerfreezer/spr_computerfreezer.yy",},
+    "resourceType": "GMSequence",
+    "resourceVersion": "1.4",
+    "name": "",
     "timeUnits": 1,
     "playback": 1,
     "playbackSpeed": 0.35,
@@ -43,10 +45,10 @@
     "events": {"Keyframes":[],"resourceVersion":"1.0","resourceType":"KeyframeStore<MessageEventKeyframe>",},
     "moments": {"Keyframes":[],"resourceVersion":"1.0","resourceType":"KeyframeStore<MomentsEventKeyframe>",},
     "tracks": [
-      {"name":"frames","spriteId":null,"keyframes":{"Keyframes":[
+      {"resourceType":"GMSpriteFramesTrack","resourceVersion":"1.0","name":"frames","spriteId":null,"keyframes":{"Keyframes":[
             {"id":"ce300b40-766d-47d1-95db-9c8006f05e0b","Key":0.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"4a3d87e1-da6a-45aa-a645-6e23e812bf04","path":"sprites/spr_computerfreezer/spr_computerfreezer.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
             {"id":"569950e4-6fbd-4315-ab9c-14179ffc1da7","Key":1.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"82bd0f52-1a5d-4a6c-9a9b-c4f51cb6a427","path":"sprites/spr_computerfreezer/spr_computerfreezer.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
-          ],"resourceVersion":"1.0","resourceType":"KeyframeStore<SpriteFrameKeyframe>",},"trackColour":0,"inheritsTrackColour":true,"builtinName":0,"traits":0,"interpolation":1,"tracks":[],"events":[],"isCreationTrack":false,"resourceVersion":"1.0","tags":[],"resourceType":"GMSpriteFramesTrack","modifiers":[],},
+          ],"resourceVersion":"1.0","resourceType":"KeyframeStore<SpriteFrameKeyframe>",},"trackColour":0,"inheritsTrackColour":true,"builtinName":0,"traits":0,"interpolation":1,"tracks":[],"events":[],"isCreationTrack":false,"modifiers":[],},
     ],
     "visibleRange": null,
     "lockOrigin": false,
@@ -62,22 +64,13 @@
     "yorigin": 50,
     "eventToFunction": {},
     "eventStubScript": null,
-    "parent": {"name":"spr_computerfreezer","path":"sprites/spr_computerfreezer/spr_computerfreezer.yy",},
-    "resourceVersion": "1.4",
-    "name": "",
-    "tags": [],
-    "resourceType": "GMSequence",
   },
   "layers": [
-    {"visible":true,"isLocked":false,"blendMode":0,"opacity":100.0,"displayName":"default","resourceVersion":"1.0","name":"15493cc9-e2da-42d9-b746-1a0f05391c5f","tags":[],"resourceType":"GMImageLayer",},
+    {"resourceType":"GMImageLayer","resourceVersion":"1.0","name":"15493cc9-e2da-42d9-b746-1a0f05391c5f","visible":true,"isLocked":false,"blendMode":0,"opacity":100.0,"displayName":"default",},
   ],
   "nineSlice": null,
   "parent": {
     "name": "hub computers",
     "path": "folders/Sprites/hub computers.yy",
   },
-  "resourceVersion": "1.0",
-  "name": "spr_computerfreezer",
-  "tags": [],
-  "resourceType": "GMSprite",
 }

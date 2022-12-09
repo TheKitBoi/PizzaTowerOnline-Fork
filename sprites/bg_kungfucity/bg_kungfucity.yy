@@ -1,4 +1,7 @@
 {
+  "resourceType": "GMSprite",
+  "resourceVersion": "1.0",
+  "name": "bg_kungfucity",
   "ConfigValues": {
     "debug": {"textureGroupId":"{\"name\":\"tg_kungfu\",\"path\":\"texturegroups/tg_kungfu\"}",},
   },
@@ -17,6 +20,7 @@
   "HTile": false,
   "VTile": false,
   "For3D": false,
+  "DynamicTexturePage": false,
   "width": 1060,
   "height": 640,
   "textureGroupId": {
@@ -27,12 +31,12 @@
   "gridX": 0,
   "gridY": 0,
   "frames": [
-    {"compositeImage":{"FrameId":{"name":"9c3034f9-9215-41b7-b78d-6cc356c3d33a","path":"sprites/bg_kungfucity/bg_kungfucity.yy",},"LayerId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"9c3034f9-9215-41b7-b78d-6cc356c3d33a","path":"sprites/bg_kungfucity/bg_kungfucity.yy",},"LayerId":{"name":"36e6496c-78db-4f73-87f6-8ed716099134","path":"sprites/bg_kungfucity/bg_kungfucity.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-      ],"parent":{"name":"bg_kungfucity","path":"sprites/bg_kungfucity/bg_kungfucity.yy",},"resourceVersion":"1.0","name":"9c3034f9-9215-41b7-b78d-6cc356c3d33a","tags":[],"resourceType":"GMSpriteFrame",},
+    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"9c3034f9-9215-41b7-b78d-6cc356c3d33a",},
   ],
   "sequence": {
-    "spriteId": {"name":"bg_kungfucity","path":"sprites/bg_kungfucity/bg_kungfucity.yy",},
+    "resourceType": "GMSequence",
+    "resourceVersion": "1.4",
+    "name": "bg_kungfucity",
     "timeUnits": 1,
     "playback": 1,
     "playbackSpeed": 1.0,
@@ -43,9 +47,9 @@
     "events": {"Keyframes":[],"resourceVersion":"1.0","resourceType":"KeyframeStore<MessageEventKeyframe>",},
     "moments": {"Keyframes":[],"resourceVersion":"1.0","resourceType":"KeyframeStore<MomentsEventKeyframe>",},
     "tracks": [
-      {"name":"frames","spriteId":null,"keyframes":{"Keyframes":[
+      {"resourceType":"GMSpriteFramesTrack","resourceVersion":"1.0","name":"frames","spriteId":null,"keyframes":{"Keyframes":[
             {"id":"e7d529ca-2425-4a42-b8af-bf26ba82691e","Key":0.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"9c3034f9-9215-41b7-b78d-6cc356c3d33a","path":"sprites/bg_kungfucity/bg_kungfucity.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
-          ],"resourceVersion":"1.0","resourceType":"KeyframeStore<SpriteFrameKeyframe>",},"trackColour":0,"inheritsTrackColour":true,"builtinName":0,"traits":0,"interpolation":1,"tracks":[],"events":[],"isCreationTrack":false,"resourceVersion":"1.0","tags":[],"resourceType":"GMSpriteFramesTrack","modifiers":[],},
+          ],"resourceVersion":"1.0","resourceType":"KeyframeStore<SpriteFrameKeyframe>",},"trackColour":0,"inheritsTrackColour":true,"builtinName":0,"traits":0,"interpolation":1,"tracks":[],"events":[],"isCreationTrack":false,"modifiers":[],},
     ],
     "visibleRange": null,
     "lockOrigin": false,
@@ -61,22 +65,13 @@
     "yorigin": 0,
     "eventToFunction": {},
     "eventStubScript": null,
-    "parent": {"name":"bg_kungfucity","path":"sprites/bg_kungfucity/bg_kungfucity.yy",},
-    "resourceVersion": "1.4",
-    "name": "bg_kungfucity",
-    "tags": [],
-    "resourceType": "GMSequence",
   },
   "layers": [
-    {"visible":true,"isLocked":false,"blendMode":0,"opacity":100.0,"displayName":"default","resourceVersion":"1.0","name":"36e6496c-78db-4f73-87f6-8ed716099134","tags":[],"resourceType":"GMImageLayer",},
+    {"resourceType":"GMImageLayer","resourceVersion":"1.0","name":"36e6496c-78db-4f73-87f6-8ed716099134","visible":true,"isLocked":false,"blendMode":0,"opacity":100.0,"displayName":"default",},
   ],
   "nineSlice": null,
   "parent": {
     "name": "kungfu",
     "path": "folders/Sprites/tilesets/kungfu.yy",
   },
-  "resourceVersion": "1.0",
-  "name": "bg_kungfucity",
-  "tags": [],
-  "resourceType": "GMSprite",
 }

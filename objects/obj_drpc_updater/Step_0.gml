@@ -1,4 +1,4 @@
-if running
+if running && global.discord_initialized
 {
 	// little icon for character
 	if instance_exists(obj_player1) && room != Realtitlescreen && room != characterselect
@@ -10,31 +10,40 @@ if running
 			switch charprev
 			{
 				case "P":
-					rousr_dissonance_set_small_image("char_p", "Peppino");
+					small = "char_p";
+					np_setpresence_more("Peppino", "", false);
 					break;
 				case "N":
-					rousr_dissonance_set_small_image("char_n", "The Noise");
+					small = "char_n";
+					np_setpresence_more("The Noise", "", false);
 					break;
 				case "V":
-					rousr_dissonance_set_small_image("char_v", "Vigilante");
+					small = "char_v";
+					np_setpresence_more("Vigilante", "", false);
 					break;
 				case "S":
-					rousr_dissonance_set_small_image("char_s", "Snick");
+					small = "char_s";
+					np_setpresence_more("Snick", "", false);
 					break;
 				case "PP":
-					rousr_dissonance_set_small_image("char_pp", "Pissino");
+					small = "char_pp";
+					np_setpresence_more("Pissino", "", false);
 					break;
 				case "SP":
-					rousr_dissonance_set_small_image("char_sp", "Pizzelle");
+					small = "char_sp";
+					np_setpresence_more("Pizzelle", "", false);
 					break;
 				case "SN":
-					rousr_dissonance_set_small_image("char_sn", "Pizzano");
+					small = "char_sn";
+					np_setpresence_more("Pizzano", "", false);
 					break;
 				case "PUFFER":
-					rousr_dissonance_set_small_image("char_puffer", "Pufferfish");
+					small = "char_puffer";
+					np_setpresence_more("Pufferfish", "", false);
 					break;
 				default:
-					rousr_dissonance_set_small_image("char_unknown", lang_string("drpc.nullino"));
+					small = "char_unknown";
+					np_setpresence_more(lang_string("drpc.nullino"), "", false);
 					break;
 			}
 		}
@@ -43,6 +52,8 @@ if running
 	{
 		setda = true;
 		charprev = "";
-		rousr_dissonance_set_small_image("", "");
+		small = "";
+		np_setpresence_more("", "", false);
 	}
+	np_setpresence(state, det, large, small);
 }

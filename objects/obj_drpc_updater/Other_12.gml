@@ -23,4 +23,3 @@ if global.modifier != -1
 	if global.failedmod
 		modstate += " (failed)";
 }
-

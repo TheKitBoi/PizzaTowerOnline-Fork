@@ -1,4 +1,7 @@
 {
+  "resourceType": "GMSprite",
+  "resourceVersion": "1.0",
+  "name": "bg_entryway2_sunescape",
   "ConfigValues": {
     "debug": {"textureGroupId":"{\"name\":\"tg_sugaryspire\",\"path\":\"texturegroups/tg_sugaryspire\"}",},
   },
@@ -17,6 +20,7 @@
   "HTile": false,
   "VTile": false,
   "For3D": false,
+  "DynamicTexturePage": false,
   "width": 1100,
   "height": 600,
   "textureGroupId": {
@@ -27,12 +31,12 @@
   "gridX": 0,
   "gridY": 0,
   "frames": [
-    {"compositeImage":{"FrameId":{"name":"c1cac2af-1a2c-4b0b-b4e5-049bbcb32e3c","path":"sprites/bg_entryway2_sunescape/bg_entryway2_sunescape.yy",},"LayerId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"c1cac2af-1a2c-4b0b-b4e5-049bbcb32e3c","path":"sprites/bg_entryway2_sunescape/bg_entryway2_sunescape.yy",},"LayerId":{"name":"fd2c229e-2b95-4850-921e-0f6b5fe08c05","path":"sprites/bg_entryway2_sunescape/bg_entryway2_sunescape.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-      ],"parent":{"name":"bg_entryway2_sunescape","path":"sprites/bg_entryway2_sunescape/bg_entryway2_sunescape.yy",},"resourceVersion":"1.0","name":"c1cac2af-1a2c-4b0b-b4e5-049bbcb32e3c","tags":[],"resourceType":"GMSpriteFrame",},
+    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"c1cac2af-1a2c-4b0b-b4e5-049bbcb32e3c",},
   ],
   "sequence": {
-    "spriteId": {"name":"bg_entryway2_sunescape","path":"sprites/bg_entryway2_sunescape/bg_entryway2_sunescape.yy",},
+    "resourceType": "GMSequence",
+    "resourceVersion": "1.4",
+    "name": "bg_entryway2_sunescape",
     "timeUnits": 1,
     "playback": 1,
     "playbackSpeed": 1.0,
@@ -43,9 +47,9 @@
     "events": {"Keyframes":[],"resourceVersion":"1.0","resourceType":"KeyframeStore<MessageEventKeyframe>",},
     "moments": {"Keyframes":[],"resourceVersion":"1.0","resourceType":"KeyframeStore<MomentsEventKeyframe>",},
     "tracks": [
-      {"name":"frames","spriteId":null,"keyframes":{"Keyframes":[
+      {"resourceType":"GMSpriteFramesTrack","resourceVersion":"1.0","name":"frames","spriteId":null,"keyframes":{"Keyframes":[
             {"id":"957b178c-9d5b-445a-9a61-e8170bdd97b6","Key":0.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"c1cac2af-1a2c-4b0b-b4e5-049bbcb32e3c","path":"sprites/bg_entryway2_sunescape/bg_entryway2_sunescape.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
-          ],"resourceVersion":"1.0","resourceType":"KeyframeStore<SpriteFrameKeyframe>",},"trackColour":0,"inheritsTrackColour":true,"builtinName":0,"traits":0,"interpolation":1,"tracks":[],"events":[],"isCreationTrack":false,"resourceVersion":"1.0","tags":[],"resourceType":"GMSpriteFramesTrack","modifiers":[],},
+          ],"resourceVersion":"1.0","resourceType":"KeyframeStore<SpriteFrameKeyframe>",},"trackColour":0,"inheritsTrackColour":true,"builtinName":0,"traits":0,"interpolation":1,"tracks":[],"events":[],"isCreationTrack":false,"modifiers":[],},
     ],
     "visibleRange": null,
     "lockOrigin": false,
@@ -61,22 +65,13 @@
     "yorigin": 0,
     "eventToFunction": {},
     "eventStubScript": null,
-    "parent": {"name":"bg_entryway2_sunescape","path":"sprites/bg_entryway2_sunescape/bg_entryway2_sunescape.yy",},
-    "resourceVersion": "1.4",
-    "name": "bg_entryway2_sunescape",
-    "tags": [],
-    "resourceType": "GMSequence",
   },
   "layers": [
-    {"visible":true,"isLocked":false,"blendMode":0,"opacity":100.0,"displayName":"default","resourceVersion":"1.0","name":"fd2c229e-2b95-4850-921e-0f6b5fe08c05","tags":[],"resourceType":"GMImageLayer",},
+    {"resourceType":"GMImageLayer","resourceVersion":"1.0","name":"fd2c229e-2b95-4850-921e-0f6b5fe08c05","visible":true,"isLocked":false,"blendMode":0,"opacity":100.0,"displayName":"default",},
   ],
   "nineSlice": null,
   "parent": {
     "name": "escape",
     "path": "folders/Sprites/SUGARY SPIRE/tilesets/entryway/escape.yy",
   },
-  "resourceVersion": "1.0",
-  "name": "bg_entryway2_sunescape",
-  "tags": [],
-  "resourceType": "GMSprite",
 }

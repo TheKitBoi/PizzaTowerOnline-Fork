@@ -1,4 +1,7 @@
 {
+  "resourceType": "GMSprite",
+  "resourceVersion": "1.0",
+  "name": "spr_piraneapplewater",
   "bboxMode": 0,
   "collisionKind": 1,
   "type": 0,
@@ -14,6 +17,7 @@
   "HTile": false,
   "VTile": false,
   "For3D": false,
+  "DynamicTexturePage": false,
   "width": 100,
   "height": 100,
   "textureGroupId": {
@@ -24,33 +28,19 @@
   "gridX": 0,
   "gridY": 0,
   "frames": [
-    {"compositeImage":{"FrameId":{"name":"7d617706-467b-44b9-b63b-1dcd7eedcf62","path":"sprites/spr_piraneapplewater/spr_piraneapplewater.yy",},"LayerId":null,"resourceVersion":"1.0","name":"composite","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"7d617706-467b-44b9-b63b-1dcd7eedcf62","path":"sprites/spr_piraneapplewater/spr_piraneapplewater.yy",},"LayerId":{"name":"c36a3ea0-6fb9-4792-a48a-e71b3e65fdea","path":"sprites/spr_piraneapplewater/spr_piraneapplewater.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-      ],"parent":{"name":"spr_piraneapplewater","path":"sprites/spr_piraneapplewater/spr_piraneapplewater.yy",},"resourceVersion":"1.0","name":"7d617706-467b-44b9-b63b-1dcd7eedcf62","tags":[],"resourceType":"GMSpriteFrame",},
-    {"compositeImage":{"FrameId":{"name":"4c28f491-29a6-434c-bd48-d7c85332c627","path":"sprites/spr_piraneapplewater/spr_piraneapplewater.yy",},"LayerId":null,"resourceVersion":"1.0","name":"composite","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"4c28f491-29a6-434c-bd48-d7c85332c627","path":"sprites/spr_piraneapplewater/spr_piraneapplewater.yy",},"LayerId":{"name":"c36a3ea0-6fb9-4792-a48a-e71b3e65fdea","path":"sprites/spr_piraneapplewater/spr_piraneapplewater.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-      ],"parent":{"name":"spr_piraneapplewater","path":"sprites/spr_piraneapplewater/spr_piraneapplewater.yy",},"resourceVersion":"1.0","name":"4c28f491-29a6-434c-bd48-d7c85332c627","tags":[],"resourceType":"GMSpriteFrame",},
-    {"compositeImage":{"FrameId":{"name":"d1bfd172-074f-4f57-8c9f-67429e0a824e","path":"sprites/spr_piraneapplewater/spr_piraneapplewater.yy",},"LayerId":null,"resourceVersion":"1.0","name":"composite","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"d1bfd172-074f-4f57-8c9f-67429e0a824e","path":"sprites/spr_piraneapplewater/spr_piraneapplewater.yy",},"LayerId":{"name":"c36a3ea0-6fb9-4792-a48a-e71b3e65fdea","path":"sprites/spr_piraneapplewater/spr_piraneapplewater.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-      ],"parent":{"name":"spr_piraneapplewater","path":"sprites/spr_piraneapplewater/spr_piraneapplewater.yy",},"resourceVersion":"1.0","name":"d1bfd172-074f-4f57-8c9f-67429e0a824e","tags":[],"resourceType":"GMSpriteFrame",},
-    {"compositeImage":{"FrameId":{"name":"464a16ba-4239-4005-b302-2f39db662b4d","path":"sprites/spr_piraneapplewater/spr_piraneapplewater.yy",},"LayerId":null,"resourceVersion":"1.0","name":"composite","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"464a16ba-4239-4005-b302-2f39db662b4d","path":"sprites/spr_piraneapplewater/spr_piraneapplewater.yy",},"LayerId":{"name":"c36a3ea0-6fb9-4792-a48a-e71b3e65fdea","path":"sprites/spr_piraneapplewater/spr_piraneapplewater.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-      ],"parent":{"name":"spr_piraneapplewater","path":"sprites/spr_piraneapplewater/spr_piraneapplewater.yy",},"resourceVersion":"1.0","name":"464a16ba-4239-4005-b302-2f39db662b4d","tags":[],"resourceType":"GMSpriteFrame",},
-    {"compositeImage":{"FrameId":{"name":"7bd65ef0-eacf-497e-bc6b-03e86868f265","path":"sprites/spr_piraneapplewater/spr_piraneapplewater.yy",},"LayerId":null,"resourceVersion":"1.0","name":"composite","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"7bd65ef0-eacf-497e-bc6b-03e86868f265","path":"sprites/spr_piraneapplewater/spr_piraneapplewater.yy",},"LayerId":{"name":"c36a3ea0-6fb9-4792-a48a-e71b3e65fdea","path":"sprites/spr_piraneapplewater/spr_piraneapplewater.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-      ],"parent":{"name":"spr_piraneapplewater","path":"sprites/spr_piraneapplewater/spr_piraneapplewater.yy",},"resourceVersion":"1.0","name":"7bd65ef0-eacf-497e-bc6b-03e86868f265","tags":[],"resourceType":"GMSpriteFrame",},
-    {"compositeImage":{"FrameId":{"name":"86425526-3fb0-4f8f-932f-794ee55034af","path":"sprites/spr_piraneapplewater/spr_piraneapplewater.yy",},"LayerId":null,"resourceVersion":"1.0","name":"composite","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"86425526-3fb0-4f8f-932f-794ee55034af","path":"sprites/spr_piraneapplewater/spr_piraneapplewater.yy",},"LayerId":{"name":"c36a3ea0-6fb9-4792-a48a-e71b3e65fdea","path":"sprites/spr_piraneapplewater/spr_piraneapplewater.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-      ],"parent":{"name":"spr_piraneapplewater","path":"sprites/spr_piraneapplewater/spr_piraneapplewater.yy",},"resourceVersion":"1.0","name":"86425526-3fb0-4f8f-932f-794ee55034af","tags":[],"resourceType":"GMSpriteFrame",},
-    {"compositeImage":{"FrameId":{"name":"5abad063-80b2-4d9f-9ae6-048bee7b043f","path":"sprites/spr_piraneapplewater/spr_piraneapplewater.yy",},"LayerId":null,"resourceVersion":"1.0","name":"composite","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"5abad063-80b2-4d9f-9ae6-048bee7b043f","path":"sprites/spr_piraneapplewater/spr_piraneapplewater.yy",},"LayerId":{"name":"c36a3ea0-6fb9-4792-a48a-e71b3e65fdea","path":"sprites/spr_piraneapplewater/spr_piraneapplewater.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-      ],"parent":{"name":"spr_piraneapplewater","path":"sprites/spr_piraneapplewater/spr_piraneapplewater.yy",},"resourceVersion":"1.0","name":"5abad063-80b2-4d9f-9ae6-048bee7b043f","tags":[],"resourceType":"GMSpriteFrame",},
-    {"compositeImage":{"FrameId":{"name":"53ec2ede-f093-4a80-bbb5-b684b550613e","path":"sprites/spr_piraneapplewater/spr_piraneapplewater.yy",},"LayerId":null,"resourceVersion":"1.0","name":"composite","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"53ec2ede-f093-4a80-bbb5-b684b550613e","path":"sprites/spr_piraneapplewater/spr_piraneapplewater.yy",},"LayerId":{"name":"c36a3ea0-6fb9-4792-a48a-e71b3e65fdea","path":"sprites/spr_piraneapplewater/spr_piraneapplewater.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-      ],"parent":{"name":"spr_piraneapplewater","path":"sprites/spr_piraneapplewater/spr_piraneapplewater.yy",},"resourceVersion":"1.0","name":"53ec2ede-f093-4a80-bbb5-b684b550613e","tags":[],"resourceType":"GMSpriteFrame",},
+    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"7d617706-467b-44b9-b63b-1dcd7eedcf62",},
+    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"4c28f491-29a6-434c-bd48-d7c85332c627",},
+    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"d1bfd172-074f-4f57-8c9f-67429e0a824e",},
+    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"464a16ba-4239-4005-b302-2f39db662b4d",},
+    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"7bd65ef0-eacf-497e-bc6b-03e86868f265",},
+    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"86425526-3fb0-4f8f-932f-794ee55034af",},
+    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"5abad063-80b2-4d9f-9ae6-048bee7b043f",},
+    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"53ec2ede-f093-4a80-bbb5-b684b550613e",},
   ],
   "sequence": {
-    "spriteId": {"name":"spr_piraneapplewater","path":"sprites/spr_piraneapplewater/spr_piraneapplewater.yy",},
+    "resourceType": "GMSequence",
+    "resourceVersion": "1.4",
+    "name": "",
     "timeUnits": 1,
     "playback": 1,
     "playbackSpeed": 1.0,
@@ -61,7 +51,7 @@
     "events": {"Keyframes":[],"resourceVersion":"1.0","resourceType":"KeyframeStore<MessageEventKeyframe>",},
     "moments": {"Keyframes":[],"resourceVersion":"1.0","resourceType":"KeyframeStore<MomentsEventKeyframe>",},
     "tracks": [
-      {"name":"frames","spriteId":null,"keyframes":{"Keyframes":[
+      {"resourceType":"GMSpriteFramesTrack","resourceVersion":"1.0","name":"frames","spriteId":null,"keyframes":{"Keyframes":[
             {"id":"c62eab7d-ac6e-4aa3-85cf-4a08c46ab3a3","Key":0.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"7d617706-467b-44b9-b63b-1dcd7eedcf62","path":"sprites/spr_piraneapplewater/spr_piraneapplewater.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
             {"id":"392941c7-c466-4d2b-843c-a1d73a40c786","Key":1.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"4c28f491-29a6-434c-bd48-d7c85332c627","path":"sprites/spr_piraneapplewater/spr_piraneapplewater.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
             {"id":"92bb8317-c9ef-4ac5-847d-23492c6642fa","Key":2.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"d1bfd172-074f-4f57-8c9f-67429e0a824e","path":"sprites/spr_piraneapplewater/spr_piraneapplewater.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
@@ -70,7 +60,7 @@
             {"id":"29db417a-58d7-44e8-aa08-301632031172","Key":5.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"86425526-3fb0-4f8f-932f-794ee55034af","path":"sprites/spr_piraneapplewater/spr_piraneapplewater.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
             {"id":"d0462ee1-e703-40a0-8786-b0fc70a5531a","Key":6.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"5abad063-80b2-4d9f-9ae6-048bee7b043f","path":"sprites/spr_piraneapplewater/spr_piraneapplewater.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
             {"id":"a0099abb-4b5e-47c0-b620-5e4f213c338f","Key":7.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"53ec2ede-f093-4a80-bbb5-b684b550613e","path":"sprites/spr_piraneapplewater/spr_piraneapplewater.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
-          ],"resourceVersion":"1.0","resourceType":"KeyframeStore<SpriteFrameKeyframe>",},"trackColour":0,"inheritsTrackColour":true,"builtinName":0,"traits":0,"interpolation":1,"tracks":[],"events":[],"isCreationTrack":false,"resourceVersion":"1.0","tags":[],"resourceType":"GMSpriteFramesTrack","modifiers":[],},
+          ],"resourceVersion":"1.0","resourceType":"KeyframeStore<SpriteFrameKeyframe>",},"trackColour":0,"inheritsTrackColour":true,"builtinName":0,"traits":0,"interpolation":1,"tracks":[],"events":[],"isCreationTrack":false,"modifiers":[],},
     ],
     "visibleRange": null,
     "lockOrigin": false,
@@ -86,22 +76,13 @@
     "yorigin": 50,
     "eventToFunction": {},
     "eventStubScript": null,
-    "parent": {"name":"spr_piraneapplewater","path":"sprites/spr_piraneapplewater/spr_piraneapplewater.yy",},
-    "resourceVersion": "1.4",
-    "name": "",
-    "tags": [],
-    "resourceType": "GMSequence",
   },
   "layers": [
-    {"visible":true,"isLocked":false,"blendMode":0,"opacity":100.0,"displayName":"default","resourceVersion":"1.0","name":"c36a3ea0-6fb9-4792-a48a-e71b3e65fdea","tags":[],"resourceType":"GMImageLayer",},
+    {"resourceType":"GMImageLayer","resourceVersion":"1.0","name":"c36a3ea0-6fb9-4792-a48a-e71b3e65fdea","visible":true,"isLocked":false,"blendMode":0,"opacity":100.0,"displayName":"default",},
   ],
   "nineSlice": null,
   "parent": {
     "name": "generalobjects",
     "path": "folders/Sprites/generalobjects.yy",
   },
-  "resourceVersion": "1.0",
-  "name": "spr_piraneapplewater",
-  "tags": [],
-  "resourceType": "GMSprite",
 }

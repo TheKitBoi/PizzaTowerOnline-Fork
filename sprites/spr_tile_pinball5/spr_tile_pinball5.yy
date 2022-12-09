@@ -1,4 +1,7 @@
 {
+  "resourceType": "GMSprite",
+  "resourceVersion": "1.0",
+  "name": "spr_tile_pinball5",
   "ConfigValues": {
     "debug": {"textureGroupId":"{\"name\":\"tg_leveleditor\",\"path\":\"texturegroups/tg_leveleditor\"}",},
   },
@@ -17,6 +20,7 @@
   "HTile": false,
   "VTile": false,
   "For3D": false,
+  "DynamicTexturePage": false,
   "width": 32,
   "height": 32,
   "textureGroupId": {
@@ -27,150 +31,58 @@
   "gridX": 0,
   "gridY": 0,
   "frames": [
-    {"compositeImage":{"FrameId":{"name":"403d5543-0c22-420b-a4da-b4f59d0b561e","path":"sprites/spr_tile_pinball5/spr_tile_pinball5.yy",},"LayerId":null,"resourceVersion":"1.0","name":"composite","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"403d5543-0c22-420b-a4da-b4f59d0b561e","path":"sprites/spr_tile_pinball5/spr_tile_pinball5.yy",},"LayerId":{"name":"938518a2-d0ac-4063-be4f-b6d4e34e2b16","path":"sprites/spr_tile_pinball5/spr_tile_pinball5.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-      ],"parent":{"name":"spr_tile_pinball5","path":"sprites/spr_tile_pinball5/spr_tile_pinball5.yy",},"resourceVersion":"1.0","name":"403d5543-0c22-420b-a4da-b4f59d0b561e","tags":[],"resourceType":"GMSpriteFrame",},
-    {"compositeImage":{"FrameId":{"name":"8ff982b5-0fd3-4820-9399-3365be92c023","path":"sprites/spr_tile_pinball5/spr_tile_pinball5.yy",},"LayerId":null,"resourceVersion":"1.0","name":"composite","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"8ff982b5-0fd3-4820-9399-3365be92c023","path":"sprites/spr_tile_pinball5/spr_tile_pinball5.yy",},"LayerId":{"name":"938518a2-d0ac-4063-be4f-b6d4e34e2b16","path":"sprites/spr_tile_pinball5/spr_tile_pinball5.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-      ],"parent":{"name":"spr_tile_pinball5","path":"sprites/spr_tile_pinball5/spr_tile_pinball5.yy",},"resourceVersion":"1.0","name":"8ff982b5-0fd3-4820-9399-3365be92c023","tags":[],"resourceType":"GMSpriteFrame",},
-    {"compositeImage":{"FrameId":{"name":"8144adfa-6474-4cc4-808d-05526999d850","path":"sprites/spr_tile_pinball5/spr_tile_pinball5.yy",},"LayerId":null,"resourceVersion":"1.0","name":"composite","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"8144adfa-6474-4cc4-808d-05526999d850","path":"sprites/spr_tile_pinball5/spr_tile_pinball5.yy",},"LayerId":{"name":"938518a2-d0ac-4063-be4f-b6d4e34e2b16","path":"sprites/spr_tile_pinball5/spr_tile_pinball5.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-      ],"parent":{"name":"spr_tile_pinball5","path":"sprites/spr_tile_pinball5/spr_tile_pinball5.yy",},"resourceVersion":"1.0","name":"8144adfa-6474-4cc4-808d-05526999d850","tags":[],"resourceType":"GMSpriteFrame",},
-    {"compositeImage":{"FrameId":{"name":"9f7c38bc-89b2-4457-9480-995ccb964ef2","path":"sprites/spr_tile_pinball5/spr_tile_pinball5.yy",},"LayerId":null,"resourceVersion":"1.0","name":"composite","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"9f7c38bc-89b2-4457-9480-995ccb964ef2","path":"sprites/spr_tile_pinball5/spr_tile_pinball5.yy",},"LayerId":{"name":"938518a2-d0ac-4063-be4f-b6d4e34e2b16","path":"sprites/spr_tile_pinball5/spr_tile_pinball5.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-      ],"parent":{"name":"spr_tile_pinball5","path":"sprites/spr_tile_pinball5/spr_tile_pinball5.yy",},"resourceVersion":"1.0","name":"9f7c38bc-89b2-4457-9480-995ccb964ef2","tags":[],"resourceType":"GMSpriteFrame",},
-    {"compositeImage":{"FrameId":{"name":"aa8d8e8e-1905-4a2e-926a-ce4001325dfd","path":"sprites/spr_tile_pinball5/spr_tile_pinball5.yy",},"LayerId":null,"resourceVersion":"1.0","name":"composite","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"aa8d8e8e-1905-4a2e-926a-ce4001325dfd","path":"sprites/spr_tile_pinball5/spr_tile_pinball5.yy",},"LayerId":{"name":"938518a2-d0ac-4063-be4f-b6d4e34e2b16","path":"sprites/spr_tile_pinball5/spr_tile_pinball5.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-      ],"parent":{"name":"spr_tile_pinball5","path":"sprites/spr_tile_pinball5/spr_tile_pinball5.yy",},"resourceVersion":"1.0","name":"aa8d8e8e-1905-4a2e-926a-ce4001325dfd","tags":[],"resourceType":"GMSpriteFrame",},
-    {"compositeImage":{"FrameId":{"name":"b5558281-ab89-454f-921b-914c5b887be6","path":"sprites/spr_tile_pinball5/spr_tile_pinball5.yy",},"LayerId":null,"resourceVersion":"1.0","name":"composite","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"b5558281-ab89-454f-921b-914c5b887be6","path":"sprites/spr_tile_pinball5/spr_tile_pinball5.yy",},"LayerId":{"name":"938518a2-d0ac-4063-be4f-b6d4e34e2b16","path":"sprites/spr_tile_pinball5/spr_tile_pinball5.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-      ],"parent":{"name":"spr_tile_pinball5","path":"sprites/spr_tile_pinball5/spr_tile_pinball5.yy",},"resourceVersion":"1.0","name":"b5558281-ab89-454f-921b-914c5b887be6","tags":[],"resourceType":"GMSpriteFrame",},
-    {"compositeImage":{"FrameId":{"name":"120437d2-2c4d-482c-8cce-56de0f8374ea","path":"sprites/spr_tile_pinball5/spr_tile_pinball5.yy",},"LayerId":null,"resourceVersion":"1.0","name":"composite","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"120437d2-2c4d-482c-8cce-56de0f8374ea","path":"sprites/spr_tile_pinball5/spr_tile_pinball5.yy",},"LayerId":{"name":"938518a2-d0ac-4063-be4f-b6d4e34e2b16","path":"sprites/spr_tile_pinball5/spr_tile_pinball5.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-      ],"parent":{"name":"spr_tile_pinball5","path":"sprites/spr_tile_pinball5/spr_tile_pinball5.yy",},"resourceVersion":"1.0","name":"120437d2-2c4d-482c-8cce-56de0f8374ea","tags":[],"resourceType":"GMSpriteFrame",},
-    {"compositeImage":{"FrameId":{"name":"a176d590-28e9-4db8-8077-ebe257bee28c","path":"sprites/spr_tile_pinball5/spr_tile_pinball5.yy",},"LayerId":null,"resourceVersion":"1.0","name":"composite","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"a176d590-28e9-4db8-8077-ebe257bee28c","path":"sprites/spr_tile_pinball5/spr_tile_pinball5.yy",},"LayerId":{"name":"938518a2-d0ac-4063-be4f-b6d4e34e2b16","path":"sprites/spr_tile_pinball5/spr_tile_pinball5.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-      ],"parent":{"name":"spr_tile_pinball5","path":"sprites/spr_tile_pinball5/spr_tile_pinball5.yy",},"resourceVersion":"1.0","name":"a176d590-28e9-4db8-8077-ebe257bee28c","tags":[],"resourceType":"GMSpriteFrame",},
-    {"compositeImage":{"FrameId":{"name":"225e33af-7944-4d83-9247-67dab611a27a","path":"sprites/spr_tile_pinball5/spr_tile_pinball5.yy",},"LayerId":null,"resourceVersion":"1.0","name":"composite","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"225e33af-7944-4d83-9247-67dab611a27a","path":"sprites/spr_tile_pinball5/spr_tile_pinball5.yy",},"LayerId":{"name":"938518a2-d0ac-4063-be4f-b6d4e34e2b16","path":"sprites/spr_tile_pinball5/spr_tile_pinball5.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-      ],"parent":{"name":"spr_tile_pinball5","path":"sprites/spr_tile_pinball5/spr_tile_pinball5.yy",},"resourceVersion":"1.0","name":"225e33af-7944-4d83-9247-67dab611a27a","tags":[],"resourceType":"GMSpriteFrame",},
-    {"compositeImage":{"FrameId":{"name":"ee16f3a7-a019-46b5-9763-84d87c0edaff","path":"sprites/spr_tile_pinball5/spr_tile_pinball5.yy",},"LayerId":null,"resourceVersion":"1.0","name":"composite","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"ee16f3a7-a019-46b5-9763-84d87c0edaff","path":"sprites/spr_tile_pinball5/spr_tile_pinball5.yy",},"LayerId":{"name":"938518a2-d0ac-4063-be4f-b6d4e34e2b16","path":"sprites/spr_tile_pinball5/spr_tile_pinball5.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-      ],"parent":{"name":"spr_tile_pinball5","path":"sprites/spr_tile_pinball5/spr_tile_pinball5.yy",},"resourceVersion":"1.0","name":"ee16f3a7-a019-46b5-9763-84d87c0edaff","tags":[],"resourceType":"GMSpriteFrame",},
-    {"compositeImage":{"FrameId":{"name":"03d3a5da-cd6c-4458-8f74-5f891ff522d5","path":"sprites/spr_tile_pinball5/spr_tile_pinball5.yy",},"LayerId":null,"resourceVersion":"1.0","name":"composite","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"03d3a5da-cd6c-4458-8f74-5f891ff522d5","path":"sprites/spr_tile_pinball5/spr_tile_pinball5.yy",},"LayerId":{"name":"938518a2-d0ac-4063-be4f-b6d4e34e2b16","path":"sprites/spr_tile_pinball5/spr_tile_pinball5.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-      ],"parent":{"name":"spr_tile_pinball5","path":"sprites/spr_tile_pinball5/spr_tile_pinball5.yy",},"resourceVersion":"1.0","name":"03d3a5da-cd6c-4458-8f74-5f891ff522d5","tags":[],"resourceType":"GMSpriteFrame",},
-    {"compositeImage":{"FrameId":{"name":"b4070036-fc5a-4dab-b291-0e6e1bedcc2c","path":"sprites/spr_tile_pinball5/spr_tile_pinball5.yy",},"LayerId":null,"resourceVersion":"1.0","name":"composite","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"b4070036-fc5a-4dab-b291-0e6e1bedcc2c","path":"sprites/spr_tile_pinball5/spr_tile_pinball5.yy",},"LayerId":{"name":"938518a2-d0ac-4063-be4f-b6d4e34e2b16","path":"sprites/spr_tile_pinball5/spr_tile_pinball5.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-      ],"parent":{"name":"spr_tile_pinball5","path":"sprites/spr_tile_pinball5/spr_tile_pinball5.yy",},"resourceVersion":"1.0","name":"b4070036-fc5a-4dab-b291-0e6e1bedcc2c","tags":[],"resourceType":"GMSpriteFrame",},
-    {"compositeImage":{"FrameId":{"name":"7588e020-3942-4ef6-8a7c-408f50d8f5d9","path":"sprites/spr_tile_pinball5/spr_tile_pinball5.yy",},"LayerId":null,"resourceVersion":"1.0","name":"composite","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"7588e020-3942-4ef6-8a7c-408f50d8f5d9","path":"sprites/spr_tile_pinball5/spr_tile_pinball5.yy",},"LayerId":{"name":"938518a2-d0ac-4063-be4f-b6d4e34e2b16","path":"sprites/spr_tile_pinball5/spr_tile_pinball5.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-      ],"parent":{"name":"spr_tile_pinball5","path":"sprites/spr_tile_pinball5/spr_tile_pinball5.yy",},"resourceVersion":"1.0","name":"7588e020-3942-4ef6-8a7c-408f50d8f5d9","tags":[],"resourceType":"GMSpriteFrame",},
-    {"compositeImage":{"FrameId":{"name":"33359142-8718-4d87-b9f1-ab518ea3856f","path":"sprites/spr_tile_pinball5/spr_tile_pinball5.yy",},"LayerId":null,"resourceVersion":"1.0","name":"composite","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"33359142-8718-4d87-b9f1-ab518ea3856f","path":"sprites/spr_tile_pinball5/spr_tile_pinball5.yy",},"LayerId":{"name":"938518a2-d0ac-4063-be4f-b6d4e34e2b16","path":"sprites/spr_tile_pinball5/spr_tile_pinball5.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-      ],"parent":{"name":"spr_tile_pinball5","path":"sprites/spr_tile_pinball5/spr_tile_pinball5.yy",},"resourceVersion":"1.0","name":"33359142-8718-4d87-b9f1-ab518ea3856f","tags":[],"resourceType":"GMSpriteFrame",},
-    {"compositeImage":{"FrameId":{"name":"746b6783-89d3-4a54-b8aa-7c007c72d0e9","path":"sprites/spr_tile_pinball5/spr_tile_pinball5.yy",},"LayerId":null,"resourceVersion":"1.0","name":"composite","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"746b6783-89d3-4a54-b8aa-7c007c72d0e9","path":"sprites/spr_tile_pinball5/spr_tile_pinball5.yy",},"LayerId":{"name":"938518a2-d0ac-4063-be4f-b6d4e34e2b16","path":"sprites/spr_tile_pinball5/spr_tile_pinball5.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-      ],"parent":{"name":"spr_tile_pinball5","path":"sprites/spr_tile_pinball5/spr_tile_pinball5.yy",},"resourceVersion":"1.0","name":"746b6783-89d3-4a54-b8aa-7c007c72d0e9","tags":[],"resourceType":"GMSpriteFrame",},
-    {"compositeImage":{"FrameId":{"name":"80a902a5-01be-4099-a3ad-4781e24d474c","path":"sprites/spr_tile_pinball5/spr_tile_pinball5.yy",},"LayerId":null,"resourceVersion":"1.0","name":"composite","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"80a902a5-01be-4099-a3ad-4781e24d474c","path":"sprites/spr_tile_pinball5/spr_tile_pinball5.yy",},"LayerId":{"name":"938518a2-d0ac-4063-be4f-b6d4e34e2b16","path":"sprites/spr_tile_pinball5/spr_tile_pinball5.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-      ],"parent":{"name":"spr_tile_pinball5","path":"sprites/spr_tile_pinball5/spr_tile_pinball5.yy",},"resourceVersion":"1.0","name":"80a902a5-01be-4099-a3ad-4781e24d474c","tags":[],"resourceType":"GMSpriteFrame",},
-    {"compositeImage":{"FrameId":{"name":"42b7a4b9-34eb-4d5e-b9dd-9895117e4fe9","path":"sprites/spr_tile_pinball5/spr_tile_pinball5.yy",},"LayerId":null,"resourceVersion":"1.0","name":"composite","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"42b7a4b9-34eb-4d5e-b9dd-9895117e4fe9","path":"sprites/spr_tile_pinball5/spr_tile_pinball5.yy",},"LayerId":{"name":"938518a2-d0ac-4063-be4f-b6d4e34e2b16","path":"sprites/spr_tile_pinball5/spr_tile_pinball5.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-      ],"parent":{"name":"spr_tile_pinball5","path":"sprites/spr_tile_pinball5/spr_tile_pinball5.yy",},"resourceVersion":"1.0","name":"42b7a4b9-34eb-4d5e-b9dd-9895117e4fe9","tags":[],"resourceType":"GMSpriteFrame",},
-    {"compositeImage":{"FrameId":{"name":"fd879e17-7ba4-4d59-bb7b-cdcac62f8f6b","path":"sprites/spr_tile_pinball5/spr_tile_pinball5.yy",},"LayerId":null,"resourceVersion":"1.0","name":"composite","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"fd879e17-7ba4-4d59-bb7b-cdcac62f8f6b","path":"sprites/spr_tile_pinball5/spr_tile_pinball5.yy",},"LayerId":{"name":"938518a2-d0ac-4063-be4f-b6d4e34e2b16","path":"sprites/spr_tile_pinball5/spr_tile_pinball5.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-      ],"parent":{"name":"spr_tile_pinball5","path":"sprites/spr_tile_pinball5/spr_tile_pinball5.yy",},"resourceVersion":"1.0","name":"fd879e17-7ba4-4d59-bb7b-cdcac62f8f6b","tags":[],"resourceType":"GMSpriteFrame",},
-    {"compositeImage":{"FrameId":{"name":"e6620dfd-a6e6-4446-be1f-388d2a43dadf","path":"sprites/spr_tile_pinball5/spr_tile_pinball5.yy",},"LayerId":null,"resourceVersion":"1.0","name":"composite","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"e6620dfd-a6e6-4446-be1f-388d2a43dadf","path":"sprites/spr_tile_pinball5/spr_tile_pinball5.yy",},"LayerId":{"name":"938518a2-d0ac-4063-be4f-b6d4e34e2b16","path":"sprites/spr_tile_pinball5/spr_tile_pinball5.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-      ],"parent":{"name":"spr_tile_pinball5","path":"sprites/spr_tile_pinball5/spr_tile_pinball5.yy",},"resourceVersion":"1.0","name":"e6620dfd-a6e6-4446-be1f-388d2a43dadf","tags":[],"resourceType":"GMSpriteFrame",},
-    {"compositeImage":{"FrameId":{"name":"2098b831-f52a-4f6e-89ac-d8832cd313df","path":"sprites/spr_tile_pinball5/spr_tile_pinball5.yy",},"LayerId":null,"resourceVersion":"1.0","name":"composite","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"2098b831-f52a-4f6e-89ac-d8832cd313df","path":"sprites/spr_tile_pinball5/spr_tile_pinball5.yy",},"LayerId":{"name":"938518a2-d0ac-4063-be4f-b6d4e34e2b16","path":"sprites/spr_tile_pinball5/spr_tile_pinball5.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-      ],"parent":{"name":"spr_tile_pinball5","path":"sprites/spr_tile_pinball5/spr_tile_pinball5.yy",},"resourceVersion":"1.0","name":"2098b831-f52a-4f6e-89ac-d8832cd313df","tags":[],"resourceType":"GMSpriteFrame",},
-    {"compositeImage":{"FrameId":{"name":"d315f218-5108-4a7b-a97b-d8cedc5755b5","path":"sprites/spr_tile_pinball5/spr_tile_pinball5.yy",},"LayerId":null,"resourceVersion":"1.0","name":"composite","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"d315f218-5108-4a7b-a97b-d8cedc5755b5","path":"sprites/spr_tile_pinball5/spr_tile_pinball5.yy",},"LayerId":{"name":"938518a2-d0ac-4063-be4f-b6d4e34e2b16","path":"sprites/spr_tile_pinball5/spr_tile_pinball5.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-      ],"parent":{"name":"spr_tile_pinball5","path":"sprites/spr_tile_pinball5/spr_tile_pinball5.yy",},"resourceVersion":"1.0","name":"d315f218-5108-4a7b-a97b-d8cedc5755b5","tags":[],"resourceType":"GMSpriteFrame",},
-    {"compositeImage":{"FrameId":{"name":"4f33fdce-fe3e-4051-9f4c-5bd4dfd3651d","path":"sprites/spr_tile_pinball5/spr_tile_pinball5.yy",},"LayerId":null,"resourceVersion":"1.0","name":"composite","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"4f33fdce-fe3e-4051-9f4c-5bd4dfd3651d","path":"sprites/spr_tile_pinball5/spr_tile_pinball5.yy",},"LayerId":{"name":"938518a2-d0ac-4063-be4f-b6d4e34e2b16","path":"sprites/spr_tile_pinball5/spr_tile_pinball5.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-      ],"parent":{"name":"spr_tile_pinball5","path":"sprites/spr_tile_pinball5/spr_tile_pinball5.yy",},"resourceVersion":"1.0","name":"4f33fdce-fe3e-4051-9f4c-5bd4dfd3651d","tags":[],"resourceType":"GMSpriteFrame",},
-    {"compositeImage":{"FrameId":{"name":"7d581a56-153b-420c-95b5-331914d0b8e1","path":"sprites/spr_tile_pinball5/spr_tile_pinball5.yy",},"LayerId":null,"resourceVersion":"1.0","name":"composite","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"7d581a56-153b-420c-95b5-331914d0b8e1","path":"sprites/spr_tile_pinball5/spr_tile_pinball5.yy",},"LayerId":{"name":"938518a2-d0ac-4063-be4f-b6d4e34e2b16","path":"sprites/spr_tile_pinball5/spr_tile_pinball5.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-      ],"parent":{"name":"spr_tile_pinball5","path":"sprites/spr_tile_pinball5/spr_tile_pinball5.yy",},"resourceVersion":"1.0","name":"7d581a56-153b-420c-95b5-331914d0b8e1","tags":[],"resourceType":"GMSpriteFrame",},
-    {"compositeImage":{"FrameId":{"name":"c8da72d5-a866-4a91-bc55-edcc14a25fb9","path":"sprites/spr_tile_pinball5/spr_tile_pinball5.yy",},"LayerId":null,"resourceVersion":"1.0","name":"composite","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"c8da72d5-a866-4a91-bc55-edcc14a25fb9","path":"sprites/spr_tile_pinball5/spr_tile_pinball5.yy",},"LayerId":{"name":"938518a2-d0ac-4063-be4f-b6d4e34e2b16","path":"sprites/spr_tile_pinball5/spr_tile_pinball5.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-      ],"parent":{"name":"spr_tile_pinball5","path":"sprites/spr_tile_pinball5/spr_tile_pinball5.yy",},"resourceVersion":"1.0","name":"c8da72d5-a866-4a91-bc55-edcc14a25fb9","tags":[],"resourceType":"GMSpriteFrame",},
-    {"compositeImage":{"FrameId":{"name":"45b3039f-062e-4280-829c-2c9e12ee06ca","path":"sprites/spr_tile_pinball5/spr_tile_pinball5.yy",},"LayerId":null,"resourceVersion":"1.0","name":"composite","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"45b3039f-062e-4280-829c-2c9e12ee06ca","path":"sprites/spr_tile_pinball5/spr_tile_pinball5.yy",},"LayerId":{"name":"938518a2-d0ac-4063-be4f-b6d4e34e2b16","path":"sprites/spr_tile_pinball5/spr_tile_pinball5.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-      ],"parent":{"name":"spr_tile_pinball5","path":"sprites/spr_tile_pinball5/spr_tile_pinball5.yy",},"resourceVersion":"1.0","name":"45b3039f-062e-4280-829c-2c9e12ee06ca","tags":[],"resourceType":"GMSpriteFrame",},
-    {"compositeImage":{"FrameId":{"name":"0b431c78-eaf3-44f2-b328-06ce4a08b744","path":"sprites/spr_tile_pinball5/spr_tile_pinball5.yy",},"LayerId":null,"resourceVersion":"1.0","name":"composite","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"0b431c78-eaf3-44f2-b328-06ce4a08b744","path":"sprites/spr_tile_pinball5/spr_tile_pinball5.yy",},"LayerId":{"name":"938518a2-d0ac-4063-be4f-b6d4e34e2b16","path":"sprites/spr_tile_pinball5/spr_tile_pinball5.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-      ],"parent":{"name":"spr_tile_pinball5","path":"sprites/spr_tile_pinball5/spr_tile_pinball5.yy",},"resourceVersion":"1.0","name":"0b431c78-eaf3-44f2-b328-06ce4a08b744","tags":[],"resourceType":"GMSpriteFrame",},
-    {"compositeImage":{"FrameId":{"name":"401cd8aa-e950-4b50-a9fb-04e6753a171f","path":"sprites/spr_tile_pinball5/spr_tile_pinball5.yy",},"LayerId":null,"resourceVersion":"1.0","name":"composite","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"401cd8aa-e950-4b50-a9fb-04e6753a171f","path":"sprites/spr_tile_pinball5/spr_tile_pinball5.yy",},"LayerId":{"name":"938518a2-d0ac-4063-be4f-b6d4e34e2b16","path":"sprites/spr_tile_pinball5/spr_tile_pinball5.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-      ],"parent":{"name":"spr_tile_pinball5","path":"sprites/spr_tile_pinball5/spr_tile_pinball5.yy",},"resourceVersion":"1.0","name":"401cd8aa-e950-4b50-a9fb-04e6753a171f","tags":[],"resourceType":"GMSpriteFrame",},
-    {"compositeImage":{"FrameId":{"name":"fc5b293b-6225-439f-a347-f8237a6d91f6","path":"sprites/spr_tile_pinball5/spr_tile_pinball5.yy",},"LayerId":null,"resourceVersion":"1.0","name":"composite","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"fc5b293b-6225-439f-a347-f8237a6d91f6","path":"sprites/spr_tile_pinball5/spr_tile_pinball5.yy",},"LayerId":{"name":"938518a2-d0ac-4063-be4f-b6d4e34e2b16","path":"sprites/spr_tile_pinball5/spr_tile_pinball5.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-      ],"parent":{"name":"spr_tile_pinball5","path":"sprites/spr_tile_pinball5/spr_tile_pinball5.yy",},"resourceVersion":"1.0","name":"fc5b293b-6225-439f-a347-f8237a6d91f6","tags":[],"resourceType":"GMSpriteFrame",},
-    {"compositeImage":{"FrameId":{"name":"78be7fb6-4822-4d78-a91d-14a7f32a8938","path":"sprites/spr_tile_pinball5/spr_tile_pinball5.yy",},"LayerId":null,"resourceVersion":"1.0","name":"composite","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"78be7fb6-4822-4d78-a91d-14a7f32a8938","path":"sprites/spr_tile_pinball5/spr_tile_pinball5.yy",},"LayerId":{"name":"938518a2-d0ac-4063-be4f-b6d4e34e2b16","path":"sprites/spr_tile_pinball5/spr_tile_pinball5.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-      ],"parent":{"name":"spr_tile_pinball5","path":"sprites/spr_tile_pinball5/spr_tile_pinball5.yy",},"resourceVersion":"1.0","name":"78be7fb6-4822-4d78-a91d-14a7f32a8938","tags":[],"resourceType":"GMSpriteFrame",},
-    {"compositeImage":{"FrameId":{"name":"845f942b-191c-4c13-8487-ee4af8cbc794","path":"sprites/spr_tile_pinball5/spr_tile_pinball5.yy",},"LayerId":null,"resourceVersion":"1.0","name":"composite","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"845f942b-191c-4c13-8487-ee4af8cbc794","path":"sprites/spr_tile_pinball5/spr_tile_pinball5.yy",},"LayerId":{"name":"938518a2-d0ac-4063-be4f-b6d4e34e2b16","path":"sprites/spr_tile_pinball5/spr_tile_pinball5.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-      ],"parent":{"name":"spr_tile_pinball5","path":"sprites/spr_tile_pinball5/spr_tile_pinball5.yy",},"resourceVersion":"1.0","name":"845f942b-191c-4c13-8487-ee4af8cbc794","tags":[],"resourceType":"GMSpriteFrame",},
-    {"compositeImage":{"FrameId":{"name":"c291f0ba-876e-439c-8409-4173f3712de5","path":"sprites/spr_tile_pinball5/spr_tile_pinball5.yy",},"LayerId":null,"resourceVersion":"1.0","name":"composite","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"c291f0ba-876e-439c-8409-4173f3712de5","path":"sprites/spr_tile_pinball5/spr_tile_pinball5.yy",},"LayerId":{"name":"938518a2-d0ac-4063-be4f-b6d4e34e2b16","path":"sprites/spr_tile_pinball5/spr_tile_pinball5.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-      ],"parent":{"name":"spr_tile_pinball5","path":"sprites/spr_tile_pinball5/spr_tile_pinball5.yy",},"resourceVersion":"1.0","name":"c291f0ba-876e-439c-8409-4173f3712de5","tags":[],"resourceType":"GMSpriteFrame",},
-    {"compositeImage":{"FrameId":{"name":"dd63f935-a9a6-49b2-93bf-b12e8710d68d","path":"sprites/spr_tile_pinball5/spr_tile_pinball5.yy",},"LayerId":null,"resourceVersion":"1.0","name":"composite","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"dd63f935-a9a6-49b2-93bf-b12e8710d68d","path":"sprites/spr_tile_pinball5/spr_tile_pinball5.yy",},"LayerId":{"name":"938518a2-d0ac-4063-be4f-b6d4e34e2b16","path":"sprites/spr_tile_pinball5/spr_tile_pinball5.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-      ],"parent":{"name":"spr_tile_pinball5","path":"sprites/spr_tile_pinball5/spr_tile_pinball5.yy",},"resourceVersion":"1.0","name":"dd63f935-a9a6-49b2-93bf-b12e8710d68d","tags":[],"resourceType":"GMSpriteFrame",},
-    {"compositeImage":{"FrameId":{"name":"98434e0a-ee6e-46f9-a85f-b64afbadf7e7","path":"sprites/spr_tile_pinball5/spr_tile_pinball5.yy",},"LayerId":null,"resourceVersion":"1.0","name":"composite","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"98434e0a-ee6e-46f9-a85f-b64afbadf7e7","path":"sprites/spr_tile_pinball5/spr_tile_pinball5.yy",},"LayerId":{"name":"938518a2-d0ac-4063-be4f-b6d4e34e2b16","path":"sprites/spr_tile_pinball5/spr_tile_pinball5.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-      ],"parent":{"name":"spr_tile_pinball5","path":"sprites/spr_tile_pinball5/spr_tile_pinball5.yy",},"resourceVersion":"1.0","name":"98434e0a-ee6e-46f9-a85f-b64afbadf7e7","tags":[],"resourceType":"GMSpriteFrame",},
-    {"compositeImage":{"FrameId":{"name":"943b9ba9-8861-4c27-8ae5-77efa5016789","path":"sprites/spr_tile_pinball5/spr_tile_pinball5.yy",},"LayerId":null,"resourceVersion":"1.0","name":"composite","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"943b9ba9-8861-4c27-8ae5-77efa5016789","path":"sprites/spr_tile_pinball5/spr_tile_pinball5.yy",},"LayerId":{"name":"938518a2-d0ac-4063-be4f-b6d4e34e2b16","path":"sprites/spr_tile_pinball5/spr_tile_pinball5.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-      ],"parent":{"name":"spr_tile_pinball5","path":"sprites/spr_tile_pinball5/spr_tile_pinball5.yy",},"resourceVersion":"1.0","name":"943b9ba9-8861-4c27-8ae5-77efa5016789","tags":[],"resourceType":"GMSpriteFrame",},
-    {"compositeImage":{"FrameId":{"name":"582d2f9c-7c98-4893-8a8a-8cf70287cc74","path":"sprites/spr_tile_pinball5/spr_tile_pinball5.yy",},"LayerId":null,"resourceVersion":"1.0","name":"composite","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"582d2f9c-7c98-4893-8a8a-8cf70287cc74","path":"sprites/spr_tile_pinball5/spr_tile_pinball5.yy",},"LayerId":{"name":"938518a2-d0ac-4063-be4f-b6d4e34e2b16","path":"sprites/spr_tile_pinball5/spr_tile_pinball5.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-      ],"parent":{"name":"spr_tile_pinball5","path":"sprites/spr_tile_pinball5/spr_tile_pinball5.yy",},"resourceVersion":"1.0","name":"582d2f9c-7c98-4893-8a8a-8cf70287cc74","tags":[],"resourceType":"GMSpriteFrame",},
-    {"compositeImage":{"FrameId":{"name":"ef98dba8-ef6b-4ea6-b037-85efddba5328","path":"sprites/spr_tile_pinball5/spr_tile_pinball5.yy",},"LayerId":null,"resourceVersion":"1.0","name":"composite","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"ef98dba8-ef6b-4ea6-b037-85efddba5328","path":"sprites/spr_tile_pinball5/spr_tile_pinball5.yy",},"LayerId":{"name":"938518a2-d0ac-4063-be4f-b6d4e34e2b16","path":"sprites/spr_tile_pinball5/spr_tile_pinball5.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-      ],"parent":{"name":"spr_tile_pinball5","path":"sprites/spr_tile_pinball5/spr_tile_pinball5.yy",},"resourceVersion":"1.0","name":"ef98dba8-ef6b-4ea6-b037-85efddba5328","tags":[],"resourceType":"GMSpriteFrame",},
-    {"compositeImage":{"FrameId":{"name":"eabac21b-a58e-47a2-b522-f1da7f28a13d","path":"sprites/spr_tile_pinball5/spr_tile_pinball5.yy",},"LayerId":null,"resourceVersion":"1.0","name":"composite","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"eabac21b-a58e-47a2-b522-f1da7f28a13d","path":"sprites/spr_tile_pinball5/spr_tile_pinball5.yy",},"LayerId":{"name":"938518a2-d0ac-4063-be4f-b6d4e34e2b16","path":"sprites/spr_tile_pinball5/spr_tile_pinball5.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-      ],"parent":{"name":"spr_tile_pinball5","path":"sprites/spr_tile_pinball5/spr_tile_pinball5.yy",},"resourceVersion":"1.0","name":"eabac21b-a58e-47a2-b522-f1da7f28a13d","tags":[],"resourceType":"GMSpriteFrame",},
-    {"compositeImage":{"FrameId":{"name":"a98f98ce-0c4b-477b-b38d-024463f60ff4","path":"sprites/spr_tile_pinball5/spr_tile_pinball5.yy",},"LayerId":null,"resourceVersion":"1.0","name":"composite","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"a98f98ce-0c4b-477b-b38d-024463f60ff4","path":"sprites/spr_tile_pinball5/spr_tile_pinball5.yy",},"LayerId":{"name":"938518a2-d0ac-4063-be4f-b6d4e34e2b16","path":"sprites/spr_tile_pinball5/spr_tile_pinball5.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-      ],"parent":{"name":"spr_tile_pinball5","path":"sprites/spr_tile_pinball5/spr_tile_pinball5.yy",},"resourceVersion":"1.0","name":"a98f98ce-0c4b-477b-b38d-024463f60ff4","tags":[],"resourceType":"GMSpriteFrame",},
-    {"compositeImage":{"FrameId":{"name":"c60f23c3-2760-4d03-956f-93649145fe67","path":"sprites/spr_tile_pinball5/spr_tile_pinball5.yy",},"LayerId":null,"resourceVersion":"1.0","name":"composite","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"c60f23c3-2760-4d03-956f-93649145fe67","path":"sprites/spr_tile_pinball5/spr_tile_pinball5.yy",},"LayerId":{"name":"938518a2-d0ac-4063-be4f-b6d4e34e2b16","path":"sprites/spr_tile_pinball5/spr_tile_pinball5.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-      ],"parent":{"name":"spr_tile_pinball5","path":"sprites/spr_tile_pinball5/spr_tile_pinball5.yy",},"resourceVersion":"1.0","name":"c60f23c3-2760-4d03-956f-93649145fe67","tags":[],"resourceType":"GMSpriteFrame",},
-    {"compositeImage":{"FrameId":{"name":"2df12b23-71f2-4191-a44d-72606d4d693d","path":"sprites/spr_tile_pinball5/spr_tile_pinball5.yy",},"LayerId":null,"resourceVersion":"1.0","name":"composite","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"2df12b23-71f2-4191-a44d-72606d4d693d","path":"sprites/spr_tile_pinball5/spr_tile_pinball5.yy",},"LayerId":{"name":"938518a2-d0ac-4063-be4f-b6d4e34e2b16","path":"sprites/spr_tile_pinball5/spr_tile_pinball5.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-      ],"parent":{"name":"spr_tile_pinball5","path":"sprites/spr_tile_pinball5/spr_tile_pinball5.yy",},"resourceVersion":"1.0","name":"2df12b23-71f2-4191-a44d-72606d4d693d","tags":[],"resourceType":"GMSpriteFrame",},
-    {"compositeImage":{"FrameId":{"name":"83a23074-7d79-4b31-ba5c-191625078bcf","path":"sprites/spr_tile_pinball5/spr_tile_pinball5.yy",},"LayerId":null,"resourceVersion":"1.0","name":"composite","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"83a23074-7d79-4b31-ba5c-191625078bcf","path":"sprites/spr_tile_pinball5/spr_tile_pinball5.yy",},"LayerId":{"name":"938518a2-d0ac-4063-be4f-b6d4e34e2b16","path":"sprites/spr_tile_pinball5/spr_tile_pinball5.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-      ],"parent":{"name":"spr_tile_pinball5","path":"sprites/spr_tile_pinball5/spr_tile_pinball5.yy",},"resourceVersion":"1.0","name":"83a23074-7d79-4b31-ba5c-191625078bcf","tags":[],"resourceType":"GMSpriteFrame",},
-    {"compositeImage":{"FrameId":{"name":"fb5d58fd-5d96-45ae-aea8-c8059ce8fcb5","path":"sprites/spr_tile_pinball5/spr_tile_pinball5.yy",},"LayerId":null,"resourceVersion":"1.0","name":"composite","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"fb5d58fd-5d96-45ae-aea8-c8059ce8fcb5","path":"sprites/spr_tile_pinball5/spr_tile_pinball5.yy",},"LayerId":{"name":"938518a2-d0ac-4063-be4f-b6d4e34e2b16","path":"sprites/spr_tile_pinball5/spr_tile_pinball5.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-      ],"parent":{"name":"spr_tile_pinball5","path":"sprites/spr_tile_pinball5/spr_tile_pinball5.yy",},"resourceVersion":"1.0","name":"fb5d58fd-5d96-45ae-aea8-c8059ce8fcb5","tags":[],"resourceType":"GMSpriteFrame",},
-    {"compositeImage":{"FrameId":{"name":"c4b5b1dd-cfb9-427b-9784-c1f3bb1dc003","path":"sprites/spr_tile_pinball5/spr_tile_pinball5.yy",},"LayerId":null,"resourceVersion":"1.0","name":"composite","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"c4b5b1dd-cfb9-427b-9784-c1f3bb1dc003","path":"sprites/spr_tile_pinball5/spr_tile_pinball5.yy",},"LayerId":{"name":"938518a2-d0ac-4063-be4f-b6d4e34e2b16","path":"sprites/spr_tile_pinball5/spr_tile_pinball5.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-      ],"parent":{"name":"spr_tile_pinball5","path":"sprites/spr_tile_pinball5/spr_tile_pinball5.yy",},"resourceVersion":"1.0","name":"c4b5b1dd-cfb9-427b-9784-c1f3bb1dc003","tags":[],"resourceType":"GMSpriteFrame",},
-    {"compositeImage":{"FrameId":{"name":"6137b3df-df0e-48f6-993c-02030f2d91e9","path":"sprites/spr_tile_pinball5/spr_tile_pinball5.yy",},"LayerId":null,"resourceVersion":"1.0","name":"composite","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"6137b3df-df0e-48f6-993c-02030f2d91e9","path":"sprites/spr_tile_pinball5/spr_tile_pinball5.yy",},"LayerId":{"name":"938518a2-d0ac-4063-be4f-b6d4e34e2b16","path":"sprites/spr_tile_pinball5/spr_tile_pinball5.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-      ],"parent":{"name":"spr_tile_pinball5","path":"sprites/spr_tile_pinball5/spr_tile_pinball5.yy",},"resourceVersion":"1.0","name":"6137b3df-df0e-48f6-993c-02030f2d91e9","tags":[],"resourceType":"GMSpriteFrame",},
-    {"compositeImage":{"FrameId":{"name":"68865cfe-96f1-4706-a926-cd04c013c587","path":"sprites/spr_tile_pinball5/spr_tile_pinball5.yy",},"LayerId":null,"resourceVersion":"1.0","name":"composite","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"68865cfe-96f1-4706-a926-cd04c013c587","path":"sprites/spr_tile_pinball5/spr_tile_pinball5.yy",},"LayerId":{"name":"938518a2-d0ac-4063-be4f-b6d4e34e2b16","path":"sprites/spr_tile_pinball5/spr_tile_pinball5.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-      ],"parent":{"name":"spr_tile_pinball5","path":"sprites/spr_tile_pinball5/spr_tile_pinball5.yy",},"resourceVersion":"1.0","name":"68865cfe-96f1-4706-a926-cd04c013c587","tags":[],"resourceType":"GMSpriteFrame",},
-    {"compositeImage":{"FrameId":{"name":"99f924d2-7cd9-4d3f-894d-0a1686fe93e4","path":"sprites/spr_tile_pinball5/spr_tile_pinball5.yy",},"LayerId":null,"resourceVersion":"1.0","name":"composite","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"99f924d2-7cd9-4d3f-894d-0a1686fe93e4","path":"sprites/spr_tile_pinball5/spr_tile_pinball5.yy",},"LayerId":{"name":"938518a2-d0ac-4063-be4f-b6d4e34e2b16","path":"sprites/spr_tile_pinball5/spr_tile_pinball5.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-      ],"parent":{"name":"spr_tile_pinball5","path":"sprites/spr_tile_pinball5/spr_tile_pinball5.yy",},"resourceVersion":"1.0","name":"99f924d2-7cd9-4d3f-894d-0a1686fe93e4","tags":[],"resourceType":"GMSpriteFrame",},
-    {"compositeImage":{"FrameId":{"name":"b0b8b239-1e85-4d1c-9e3c-cf9c0ecb0e5f","path":"sprites/spr_tile_pinball5/spr_tile_pinball5.yy",},"LayerId":null,"resourceVersion":"1.0","name":"composite","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"b0b8b239-1e85-4d1c-9e3c-cf9c0ecb0e5f","path":"sprites/spr_tile_pinball5/spr_tile_pinball5.yy",},"LayerId":{"name":"938518a2-d0ac-4063-be4f-b6d4e34e2b16","path":"sprites/spr_tile_pinball5/spr_tile_pinball5.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-      ],"parent":{"name":"spr_tile_pinball5","path":"sprites/spr_tile_pinball5/spr_tile_pinball5.yy",},"resourceVersion":"1.0","name":"b0b8b239-1e85-4d1c-9e3c-cf9c0ecb0e5f","tags":[],"resourceType":"GMSpriteFrame",},
+    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"403d5543-0c22-420b-a4da-b4f59d0b561e",},
+    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"8ff982b5-0fd3-4820-9399-3365be92c023",},
+    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"8144adfa-6474-4cc4-808d-05526999d850",},
+    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"9f7c38bc-89b2-4457-9480-995ccb964ef2",},
+    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"aa8d8e8e-1905-4a2e-926a-ce4001325dfd",},
+    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"b5558281-ab89-454f-921b-914c5b887be6",},
+    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"120437d2-2c4d-482c-8cce-56de0f8374ea",},
+    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"a176d590-28e9-4db8-8077-ebe257bee28c",},
+    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"225e33af-7944-4d83-9247-67dab611a27a",},
+    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"ee16f3a7-a019-46b5-9763-84d87c0edaff",},
+    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"03d3a5da-cd6c-4458-8f74-5f891ff522d5",},
+    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"b4070036-fc5a-4dab-b291-0e6e1bedcc2c",},
+    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"7588e020-3942-4ef6-8a7c-408f50d8f5d9",},
+    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"33359142-8718-4d87-b9f1-ab518ea3856f",},
+    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"746b6783-89d3-4a54-b8aa-7c007c72d0e9",},
+    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"80a902a5-01be-4099-a3ad-4781e24d474c",},
+    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"42b7a4b9-34eb-4d5e-b9dd-9895117e4fe9",},
+    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"fd879e17-7ba4-4d59-bb7b-cdcac62f8f6b",},
+    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"e6620dfd-a6e6-4446-be1f-388d2a43dadf",},
+    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"2098b831-f52a-4f6e-89ac-d8832cd313df",},
+    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"d315f218-5108-4a7b-a97b-d8cedc5755b5",},
+    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"4f33fdce-fe3e-4051-9f4c-5bd4dfd3651d",},
+    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"7d581a56-153b-420c-95b5-331914d0b8e1",},
+    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"c8da72d5-a866-4a91-bc55-edcc14a25fb9",},
+    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"45b3039f-062e-4280-829c-2c9e12ee06ca",},
+    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"0b431c78-eaf3-44f2-b328-06ce4a08b744",},
+    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"401cd8aa-e950-4b50-a9fb-04e6753a171f",},
+    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"fc5b293b-6225-439f-a347-f8237a6d91f6",},
+    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"78be7fb6-4822-4d78-a91d-14a7f32a8938",},
+    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"845f942b-191c-4c13-8487-ee4af8cbc794",},
+    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"c291f0ba-876e-439c-8409-4173f3712de5",},
+    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"dd63f935-a9a6-49b2-93bf-b12e8710d68d",},
+    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"98434e0a-ee6e-46f9-a85f-b64afbadf7e7",},
+    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"943b9ba9-8861-4c27-8ae5-77efa5016789",},
+    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"582d2f9c-7c98-4893-8a8a-8cf70287cc74",},
+    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"ef98dba8-ef6b-4ea6-b037-85efddba5328",},
+    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"eabac21b-a58e-47a2-b522-f1da7f28a13d",},
+    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"a98f98ce-0c4b-477b-b38d-024463f60ff4",},
+    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"c60f23c3-2760-4d03-956f-93649145fe67",},
+    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"2df12b23-71f2-4191-a44d-72606d4d693d",},
+    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"83a23074-7d79-4b31-ba5c-191625078bcf",},
+    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"fb5d58fd-5d96-45ae-aea8-c8059ce8fcb5",},
+    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"c4b5b1dd-cfb9-427b-9784-c1f3bb1dc003",},
+    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"6137b3df-df0e-48f6-993c-02030f2d91e9",},
+    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"68865cfe-96f1-4706-a926-cd04c013c587",},
+    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"99f924d2-7cd9-4d3f-894d-0a1686fe93e4",},
+    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"b0b8b239-1e85-4d1c-9e3c-cf9c0ecb0e5f",},
   ],
   "sequence": {
-    "spriteId": {"name":"spr_tile_pinball5","path":"sprites/spr_tile_pinball5/spr_tile_pinball5.yy",},
+    "resourceType": "GMSequence",
+    "resourceVersion": "1.4",
+    "name": "",
     "timeUnits": 1,
     "playback": 1,
     "playbackSpeed": 1.0,
@@ -181,7 +93,7 @@
     "events": {"Keyframes":[],"resourceVersion":"1.0","resourceType":"KeyframeStore<MessageEventKeyframe>",},
     "moments": {"Keyframes":[],"resourceVersion":"1.0","resourceType":"KeyframeStore<MomentsEventKeyframe>",},
     "tracks": [
-      {"name":"frames","spriteId":null,"keyframes":{"Keyframes":[
+      {"resourceType":"GMSpriteFramesTrack","resourceVersion":"1.0","name":"frames","spriteId":null,"keyframes":{"Keyframes":[
             {"id":"e07b62da-db83-44f2-9919-2617def294f7","Key":0.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"403d5543-0c22-420b-a4da-b4f59d0b561e","path":"sprites/spr_tile_pinball5/spr_tile_pinball5.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
             {"id":"86fa90ab-1121-4c9d-adfb-460c575b4fad","Key":1.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"8ff982b5-0fd3-4820-9399-3365be92c023","path":"sprites/spr_tile_pinball5/spr_tile_pinball5.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
             {"id":"fb3b7d81-585f-45db-80b5-847215755236","Key":2.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"8144adfa-6474-4cc4-808d-05526999d850","path":"sprites/spr_tile_pinball5/spr_tile_pinball5.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
@@ -229,7 +141,7 @@
             {"id":"9efcf6de-cc93-4fa9-9691-4a115560f16a","Key":44.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"68865cfe-96f1-4706-a926-cd04c013c587","path":"sprites/spr_tile_pinball5/spr_tile_pinball5.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
             {"id":"721c0d1d-c706-4493-948c-a893f33b5920","Key":45.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"99f924d2-7cd9-4d3f-894d-0a1686fe93e4","path":"sprites/spr_tile_pinball5/spr_tile_pinball5.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
             {"id":"6f472f96-fcc5-4559-b7fa-3d0e2a82de33","Key":46.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"b0b8b239-1e85-4d1c-9e3c-cf9c0ecb0e5f","path":"sprites/spr_tile_pinball5/spr_tile_pinball5.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
-          ],"resourceVersion":"1.0","resourceType":"KeyframeStore<SpriteFrameKeyframe>",},"trackColour":0,"inheritsTrackColour":true,"builtinName":0,"traits":0,"interpolation":1,"tracks":[],"events":[],"isCreationTrack":false,"resourceVersion":"1.0","tags":[],"resourceType":"GMSpriteFramesTrack","modifiers":[],},
+          ],"resourceVersion":"1.0","resourceType":"KeyframeStore<SpriteFrameKeyframe>",},"trackColour":0,"inheritsTrackColour":true,"builtinName":0,"traits":0,"interpolation":1,"tracks":[],"events":[],"isCreationTrack":false,"modifiers":[],},
     ],
     "visibleRange": {"x":0.0,"y":0.0,},
     "lockOrigin": false,
@@ -245,22 +157,13 @@
     "yorigin": 0,
     "eventToFunction": {},
     "eventStubScript": null,
-    "parent": {"name":"spr_tile_pinball5","path":"sprites/spr_tile_pinball5/spr_tile_pinball5.yy",},
-    "resourceVersion": "1.4",
-    "name": "",
-    "tags": [],
-    "resourceType": "GMSequence",
   },
   "layers": [
-    {"visible":true,"isLocked":false,"blendMode":0,"opacity":100.0,"displayName":"default","resourceVersion":"1.0","name":"938518a2-d0ac-4063-be4f-b6d4e34e2b16","tags":[],"resourceType":"GMImageLayer",},
+    {"resourceType":"GMImageLayer","resourceVersion":"1.0","name":"938518a2-d0ac-4063-be4f-b6d4e34e2b16","visible":true,"isLocked":false,"blendMode":0,"opacity":100.0,"displayName":"default",},
   ],
   "nineSlice": null,
   "parent": {
     "name": "Tiles",
     "path": "folders/Sprites/sertif's editor/Tiles.yy",
   },
-  "resourceVersion": "1.0",
-  "name": "spr_tile_pinball5",
-  "tags": [],
-  "resourceType": "GMSprite",
 }

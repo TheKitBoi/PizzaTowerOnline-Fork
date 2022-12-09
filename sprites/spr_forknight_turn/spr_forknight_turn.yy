@@ -1,4 +1,7 @@
 {
+  "resourceType": "GMSprite",
+  "resourceVersion": "1.0",
+  "name": "spr_forknight_turn",
   "ConfigValues": {
     "debug": {"textureGroupId":"{\"name\":\"tg_baddie\",\"path\":\"texturegroups/tg_baddie\"}",},
   },
@@ -17,6 +20,7 @@
   "HTile": false,
   "VTile": false,
   "For3D": false,
+  "DynamicTexturePage": false,
   "width": 100,
   "height": 100,
   "textureGroupId": {
@@ -27,27 +31,17 @@
   "gridX": 0,
   "gridY": 0,
   "frames": [
-    {"compositeImage":{"FrameId":{"name":"3b654d69-aa3a-4feb-94f5-86e903778734","path":"sprites/spr_forknight_turn/spr_forknight_turn.yy",},"LayerId":null,"resourceVersion":"1.0","name":"composite","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"3b654d69-aa3a-4feb-94f5-86e903778734","path":"sprites/spr_forknight_turn/spr_forknight_turn.yy",},"LayerId":{"name":"d86020b9-a834-4c85-9ff9-054888cdaf05","path":"sprites/spr_forknight_turn/spr_forknight_turn.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-      ],"parent":{"name":"spr_forknight_turn","path":"sprites/spr_forknight_turn/spr_forknight_turn.yy",},"resourceVersion":"1.0","name":"3b654d69-aa3a-4feb-94f5-86e903778734","tags":[],"resourceType":"GMSpriteFrame",},
-    {"compositeImage":{"FrameId":{"name":"923a79cb-0913-4969-abc3-3bd245b621e3","path":"sprites/spr_forknight_turn/spr_forknight_turn.yy",},"LayerId":null,"resourceVersion":"1.0","name":"composite","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"923a79cb-0913-4969-abc3-3bd245b621e3","path":"sprites/spr_forknight_turn/spr_forknight_turn.yy",},"LayerId":{"name":"d86020b9-a834-4c85-9ff9-054888cdaf05","path":"sprites/spr_forknight_turn/spr_forknight_turn.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-      ],"parent":{"name":"spr_forknight_turn","path":"sprites/spr_forknight_turn/spr_forknight_turn.yy",},"resourceVersion":"1.0","name":"923a79cb-0913-4969-abc3-3bd245b621e3","tags":[],"resourceType":"GMSpriteFrame",},
-    {"compositeImage":{"FrameId":{"name":"1eda15e6-48b6-48f8-bf30-879f1dd0983e","path":"sprites/spr_forknight_turn/spr_forknight_turn.yy",},"LayerId":null,"resourceVersion":"1.0","name":"composite","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"1eda15e6-48b6-48f8-bf30-879f1dd0983e","path":"sprites/spr_forknight_turn/spr_forknight_turn.yy",},"LayerId":{"name":"d86020b9-a834-4c85-9ff9-054888cdaf05","path":"sprites/spr_forknight_turn/spr_forknight_turn.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-      ],"parent":{"name":"spr_forknight_turn","path":"sprites/spr_forknight_turn/spr_forknight_turn.yy",},"resourceVersion":"1.0","name":"1eda15e6-48b6-48f8-bf30-879f1dd0983e","tags":[],"resourceType":"GMSpriteFrame",},
-    {"compositeImage":{"FrameId":{"name":"e9dc2b37-f135-4af5-b0f5-8ad5a2c57a7c","path":"sprites/spr_forknight_turn/spr_forknight_turn.yy",},"LayerId":null,"resourceVersion":"1.0","name":"composite","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"e9dc2b37-f135-4af5-b0f5-8ad5a2c57a7c","path":"sprites/spr_forknight_turn/spr_forknight_turn.yy",},"LayerId":{"name":"d86020b9-a834-4c85-9ff9-054888cdaf05","path":"sprites/spr_forknight_turn/spr_forknight_turn.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-      ],"parent":{"name":"spr_forknight_turn","path":"sprites/spr_forknight_turn/spr_forknight_turn.yy",},"resourceVersion":"1.0","name":"e9dc2b37-f135-4af5-b0f5-8ad5a2c57a7c","tags":[],"resourceType":"GMSpriteFrame",},
-    {"compositeImage":{"FrameId":{"name":"8d1ab079-4ed9-4cd1-b3a8-4bfdc34707db","path":"sprites/spr_forknight_turn/spr_forknight_turn.yy",},"LayerId":null,"resourceVersion":"1.0","name":"composite","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"8d1ab079-4ed9-4cd1-b3a8-4bfdc34707db","path":"sprites/spr_forknight_turn/spr_forknight_turn.yy",},"LayerId":{"name":"d86020b9-a834-4c85-9ff9-054888cdaf05","path":"sprites/spr_forknight_turn/spr_forknight_turn.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-      ],"parent":{"name":"spr_forknight_turn","path":"sprites/spr_forknight_turn/spr_forknight_turn.yy",},"resourceVersion":"1.0","name":"8d1ab079-4ed9-4cd1-b3a8-4bfdc34707db","tags":[],"resourceType":"GMSpriteFrame",},
-    {"compositeImage":{"FrameId":{"name":"755957c8-608b-4dc2-b4d5-033d9859f7c6","path":"sprites/spr_forknight_turn/spr_forknight_turn.yy",},"LayerId":null,"resourceVersion":"1.0","name":"composite","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"755957c8-608b-4dc2-b4d5-033d9859f7c6","path":"sprites/spr_forknight_turn/spr_forknight_turn.yy",},"LayerId":{"name":"d86020b9-a834-4c85-9ff9-054888cdaf05","path":"sprites/spr_forknight_turn/spr_forknight_turn.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-      ],"parent":{"name":"spr_forknight_turn","path":"sprites/spr_forknight_turn/spr_forknight_turn.yy",},"resourceVersion":"1.0","name":"755957c8-608b-4dc2-b4d5-033d9859f7c6","tags":[],"resourceType":"GMSpriteFrame",},
+    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"3b654d69-aa3a-4feb-94f5-86e903778734",},
+    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"923a79cb-0913-4969-abc3-3bd245b621e3",},
+    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"1eda15e6-48b6-48f8-bf30-879f1dd0983e",},
+    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"e9dc2b37-f135-4af5-b0f5-8ad5a2c57a7c",},
+    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"8d1ab079-4ed9-4cd1-b3a8-4bfdc34707db",},
+    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"755957c8-608b-4dc2-b4d5-033d9859f7c6",},
   ],
   "sequence": {
-    "spriteId": {"name":"spr_forknight_turn","path":"sprites/spr_forknight_turn/spr_forknight_turn.yy",},
+    "resourceType": "GMSequence",
+    "resourceVersion": "1.4",
+    "name": "",
     "timeUnits": 1,
     "playback": 1,
     "playbackSpeed": 1.0,
@@ -58,14 +52,14 @@
     "events": {"Keyframes":[],"resourceVersion":"1.0","resourceType":"KeyframeStore<MessageEventKeyframe>",},
     "moments": {"Keyframes":[],"resourceVersion":"1.0","resourceType":"KeyframeStore<MomentsEventKeyframe>",},
     "tracks": [
-      {"name":"frames","spriteId":null,"keyframes":{"Keyframes":[
+      {"resourceType":"GMSpriteFramesTrack","resourceVersion":"1.0","name":"frames","spriteId":null,"keyframes":{"Keyframes":[
             {"id":"5c8cf807-b065-4e39-8c8b-fad9938e2d5c","Key":0.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"3b654d69-aa3a-4feb-94f5-86e903778734","path":"sprites/spr_forknight_turn/spr_forknight_turn.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
             {"id":"918472cf-d01f-411d-b5ee-7e90e96ebff7","Key":1.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"923a79cb-0913-4969-abc3-3bd245b621e3","path":"sprites/spr_forknight_turn/spr_forknight_turn.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
             {"id":"af0e94eb-5159-4dda-95a2-f34ae9019b33","Key":2.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"1eda15e6-48b6-48f8-bf30-879f1dd0983e","path":"sprites/spr_forknight_turn/spr_forknight_turn.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
             {"id":"72987511-e983-442f-b828-e6cdfc303eb6","Key":3.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"e9dc2b37-f135-4af5-b0f5-8ad5a2c57a7c","path":"sprites/spr_forknight_turn/spr_forknight_turn.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
             {"id":"35e2ba0d-ba6a-45d9-95c3-e393db95e36a","Key":4.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"8d1ab079-4ed9-4cd1-b3a8-4bfdc34707db","path":"sprites/spr_forknight_turn/spr_forknight_turn.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
             {"id":"da9320da-5b2e-48da-a3ba-cacf65bd78ec","Key":5.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"755957c8-608b-4dc2-b4d5-033d9859f7c6","path":"sprites/spr_forknight_turn/spr_forknight_turn.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
-          ],"resourceVersion":"1.0","resourceType":"KeyframeStore<SpriteFrameKeyframe>",},"trackColour":0,"inheritsTrackColour":true,"builtinName":0,"traits":0,"interpolation":1,"tracks":[],"events":[],"isCreationTrack":false,"resourceVersion":"1.0","tags":[],"resourceType":"GMSpriteFramesTrack","modifiers":[],},
+          ],"resourceVersion":"1.0","resourceType":"KeyframeStore<SpriteFrameKeyframe>",},"trackColour":0,"inheritsTrackColour":true,"builtinName":0,"traits":0,"interpolation":1,"tracks":[],"events":[],"isCreationTrack":false,"modifiers":[],},
     ],
     "visibleRange": {"x":0.0,"y":0.0,},
     "lockOrigin": false,
@@ -81,22 +75,13 @@
     "yorigin": 50,
     "eventToFunction": {},
     "eventStubScript": null,
-    "parent": {"name":"spr_forknight_turn","path":"sprites/spr_forknight_turn/spr_forknight_turn.yy",},
-    "resourceVersion": "1.4",
-    "name": "",
-    "tags": [],
-    "resourceType": "GMSequence",
   },
   "layers": [
-    {"visible":true,"isLocked":false,"blendMode":0,"opacity":100.0,"displayName":"default","resourceVersion":"1.0","name":"d86020b9-a834-4c85-9ff9-054888cdaf05","tags":[],"resourceType":"GMImageLayer",},
+    {"resourceType":"GMImageLayer","resourceVersion":"1.0","name":"d86020b9-a834-4c85-9ff9-054888cdaf05","visible":true,"isLocked":false,"blendMode":0,"opacity":100.0,"displayName":"default",},
   ],
   "nineSlice": null,
   "parent": {
     "name": "forknight",
     "path": "folders/Sprites/baddie/forknight.yy",
   },
-  "resourceVersion": "1.0",
-  "name": "spr_forknight_turn",
-  "tags": [],
-  "resourceType": "GMSprite",
 }

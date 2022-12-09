@@ -1,4 +1,7 @@
 {
+  "resourceType": "GMSprite",
+  "resourceVersion": "1.0",
+  "name": "spr_playerSP_caneslam",
   "ConfigValues": {
     "debug": {"textureGroupId":"{\"name\":\"tg_player\",\"path\":\"texturegroups/tg_player\"}",},
   },
@@ -17,6 +20,7 @@
   "HTile": false,
   "VTile": false,
   "For3D": false,
+  "DynamicTexturePage": false,
   "width": 100,
   "height": 100,
   "textureGroupId": {
@@ -27,12 +31,12 @@
   "gridX": 0,
   "gridY": 0,
   "frames": [
-    {"compositeImage":{"FrameId":{"name":"58eaee9f-4af9-4ee2-bbe6-6490e6d535e8","path":"sprites/spr_playerSP_caneslam/spr_playerSP_caneslam.yy",},"LayerId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"58eaee9f-4af9-4ee2-bbe6-6490e6d535e8","path":"sprites/spr_playerSP_caneslam/spr_playerSP_caneslam.yy",},"LayerId":{"name":"9e9d853e-00d7-4d31-9683-ec617da912bf","path":"sprites/spr_playerSP_caneslam/spr_playerSP_caneslam.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-      ],"parent":{"name":"spr_playerSP_caneslam","path":"sprites/spr_playerSP_caneslam/spr_playerSP_caneslam.yy",},"resourceVersion":"1.0","name":"58eaee9f-4af9-4ee2-bbe6-6490e6d535e8","tags":[],"resourceType":"GMSpriteFrame",},
+    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"58eaee9f-4af9-4ee2-bbe6-6490e6d535e8",},
   ],
   "sequence": {
-    "spriteId": {"name":"spr_playerSP_caneslam","path":"sprites/spr_playerSP_caneslam/spr_playerSP_caneslam.yy",},
+    "resourceType": "GMSequence",
+    "resourceVersion": "1.4",
+    "name": "spr_playerSP_caneslam",
     "timeUnits": 1,
     "playback": 1,
     "playbackSpeed": 1.0,
@@ -43,9 +47,9 @@
     "events": {"Keyframes":[],"resourceVersion":"1.0","resourceType":"KeyframeStore<MessageEventKeyframe>",},
     "moments": {"Keyframes":[],"resourceVersion":"1.0","resourceType":"KeyframeStore<MomentsEventKeyframe>",},
     "tracks": [
-      {"name":"frames","spriteId":null,"keyframes":{"Keyframes":[
+      {"resourceType":"GMSpriteFramesTrack","resourceVersion":"1.0","name":"frames","spriteId":null,"keyframes":{"Keyframes":[
             {"id":"b912f30f-13f2-4ba7-8243-0eb578c2dc7b","Key":0.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"58eaee9f-4af9-4ee2-bbe6-6490e6d535e8","path":"sprites/spr_playerSP_caneslam/spr_playerSP_caneslam.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
-          ],"resourceVersion":"1.0","resourceType":"KeyframeStore<SpriteFrameKeyframe>",},"trackColour":0,"inheritsTrackColour":true,"builtinName":0,"traits":0,"interpolation":1,"tracks":[],"events":[],"isCreationTrack":false,"resourceVersion":"1.0","tags":[],"resourceType":"GMSpriteFramesTrack","modifiers":[],},
+          ],"resourceVersion":"1.0","resourceType":"KeyframeStore<SpriteFrameKeyframe>",},"trackColour":0,"inheritsTrackColour":true,"builtinName":0,"traits":0,"interpolation":1,"tracks":[],"events":[],"isCreationTrack":false,"modifiers":[],},
     ],
     "visibleRange": null,
     "lockOrigin": false,
@@ -61,22 +65,13 @@
     "yorigin": 50,
     "eventToFunction": {},
     "eventStubScript": null,
-    "parent": {"name":"spr_playerSP_caneslam","path":"sprites/spr_playerSP_caneslam/spr_playerSP_caneslam.yy",},
-    "resourceVersion": "1.4",
-    "name": "spr_playerSP_caneslam",
-    "tags": [],
-    "resourceType": "GMSequence",
   },
   "layers": [
-    {"visible":true,"isLocked":false,"blendMode":0,"opacity":100.0,"displayName":"default","resourceVersion":"1.0","name":"9e9d853e-00d7-4d31-9683-ec617da912bf","tags":[],"resourceType":"GMImageLayer",},
+    {"resourceType":"GMImageLayer","resourceVersion":"1.0","name":"9e9d853e-00d7-4d31-9683-ec617da912bf","visible":true,"isLocked":false,"blendMode":0,"opacity":100.0,"displayName":"default",},
   ],
   "nineSlice": null,
   "parent": {
     "name": "cane",
     "path": "folders/Sprites/players/pizzelle/cane.yy",
   },
-  "resourceVersion": "1.0",
-  "name": "spr_playerSP_caneslam",
-  "tags": [],
-  "resourceType": "GMSprite",
 }

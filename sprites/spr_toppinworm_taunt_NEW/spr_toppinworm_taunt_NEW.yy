@@ -1,4 +1,7 @@
 {
+  "resourceType": "GMSprite",
+  "resourceVersion": "1.0",
+  "name": "spr_toppinworm_taunt_NEW",
   "bboxMode": 0,
   "collisionKind": 1,
   "type": 0,
@@ -14,6 +17,7 @@
   "HTile": false,
   "VTile": false,
   "For3D": false,
+  "DynamicTexturePage": false,
   "width": 100,
   "height": 100,
   "textureGroupId": {
@@ -24,15 +28,13 @@
   "gridX": 0,
   "gridY": 0,
   "frames": [
-    {"compositeImage":{"FrameId":{"name":"a274554e-acb1-4fde-8456-fbab3c68ec27","path":"sprites/spr_toppinworm_taunt_NEW/spr_toppinworm_taunt_NEW.yy",},"LayerId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"a274554e-acb1-4fde-8456-fbab3c68ec27","path":"sprites/spr_toppinworm_taunt_NEW/spr_toppinworm_taunt_NEW.yy",},"LayerId":{"name":"feea0e79-ef0c-41f5-a3ca-efed8976c0ab","path":"sprites/spr_toppinworm_taunt_NEW/spr_toppinworm_taunt_NEW.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-      ],"parent":{"name":"spr_toppinworm_taunt_NEW","path":"sprites/spr_toppinworm_taunt_NEW/spr_toppinworm_taunt_NEW.yy",},"resourceVersion":"1.0","name":"a274554e-acb1-4fde-8456-fbab3c68ec27","tags":[],"resourceType":"GMSpriteFrame",},
-    {"compositeImage":{"FrameId":{"name":"38ab2cbc-afe7-41de-a02e-9996bea43717","path":"sprites/spr_toppinworm_taunt_NEW/spr_toppinworm_taunt_NEW.yy",},"LayerId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"38ab2cbc-afe7-41de-a02e-9996bea43717","path":"sprites/spr_toppinworm_taunt_NEW/spr_toppinworm_taunt_NEW.yy",},"LayerId":{"name":"feea0e79-ef0c-41f5-a3ca-efed8976c0ab","path":"sprites/spr_toppinworm_taunt_NEW/spr_toppinworm_taunt_NEW.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-      ],"parent":{"name":"spr_toppinworm_taunt_NEW","path":"sprites/spr_toppinworm_taunt_NEW/spr_toppinworm_taunt_NEW.yy",},"resourceVersion":"1.0","name":"38ab2cbc-afe7-41de-a02e-9996bea43717","tags":[],"resourceType":"GMSpriteFrame",},
+    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"a274554e-acb1-4fde-8456-fbab3c68ec27",},
+    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"38ab2cbc-afe7-41de-a02e-9996bea43717",},
   ],
   "sequence": {
-    "spriteId": {"name":"spr_toppinworm_taunt_NEW","path":"sprites/spr_toppinworm_taunt_NEW/spr_toppinworm_taunt_NEW.yy",},
+    "resourceType": "GMSequence",
+    "resourceVersion": "1.4",
+    "name": "spr_toppinworm_taunt_NEW",
     "timeUnits": 1,
     "playback": 1,
     "playbackSpeed": 1.0,
@@ -43,10 +45,10 @@
     "events": {"Keyframes":[],"resourceVersion":"1.0","resourceType":"KeyframeStore<MessageEventKeyframe>",},
     "moments": {"Keyframes":[],"resourceVersion":"1.0","resourceType":"KeyframeStore<MomentsEventKeyframe>",},
     "tracks": [
-      {"name":"frames","spriteId":null,"keyframes":{"Keyframes":[
+      {"resourceType":"GMSpriteFramesTrack","resourceVersion":"1.0","name":"frames","spriteId":null,"keyframes":{"Keyframes":[
             {"id":"945376d7-180f-4b1e-bb30-b7fa1556d97b","Key":0.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"a274554e-acb1-4fde-8456-fbab3c68ec27","path":"sprites/spr_toppinworm_taunt_NEW/spr_toppinworm_taunt_NEW.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
             {"id":"e8966680-eb71-48b3-a30d-357553b57710","Key":1.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"38ab2cbc-afe7-41de-a02e-9996bea43717","path":"sprites/spr_toppinworm_taunt_NEW/spr_toppinworm_taunt_NEW.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
-          ],"resourceVersion":"1.0","resourceType":"KeyframeStore<SpriteFrameKeyframe>",},"trackColour":0,"inheritsTrackColour":true,"builtinName":0,"traits":0,"interpolation":1,"tracks":[],"events":[],"isCreationTrack":false,"resourceVersion":"1.0","tags":[],"resourceType":"GMSpriteFramesTrack","modifiers":[],},
+          ],"resourceVersion":"1.0","resourceType":"KeyframeStore<SpriteFrameKeyframe>",},"trackColour":0,"inheritsTrackColour":true,"builtinName":0,"traits":0,"interpolation":1,"tracks":[],"events":[],"isCreationTrack":false,"modifiers":[],},
     ],
     "visibleRange": null,
     "lockOrigin": false,
@@ -62,22 +64,13 @@
     "yorigin": 54,
     "eventToFunction": {},
     "eventStubScript": null,
-    "parent": {"name":"spr_toppinworm_taunt_NEW","path":"sprites/spr_toppinworm_taunt_NEW/spr_toppinworm_taunt_NEW.yy",},
-    "resourceVersion": "1.4",
-    "name": "spr_toppinworm_taunt_NEW",
-    "tags": [],
-    "resourceType": "GMSequence",
   },
   "layers": [
-    {"visible":true,"isLocked":false,"blendMode":0,"opacity":100.0,"displayName":"default","resourceVersion":"1.0","name":"feea0e79-ef0c-41f5-a3ca-efed8976c0ab","tags":[],"resourceType":"GMImageLayer",},
+    {"resourceType":"GMImageLayer","resourceVersion":"1.0","name":"feea0e79-ef0c-41f5-a3ca-efed8976c0ab","visible":true,"isLocked":false,"blendMode":0,"opacity":100.0,"displayName":"default",},
   ],
   "nineSlice": null,
   "parent": {
     "name": "new",
     "path": "folders/Sprites/SUGARY SPIRE/toppin/new.yy",
   },
-  "resourceVersion": "1.0",
-  "name": "spr_toppinworm_taunt_NEW",
-  "tags": [],
-  "resourceType": "GMSprite",
 }

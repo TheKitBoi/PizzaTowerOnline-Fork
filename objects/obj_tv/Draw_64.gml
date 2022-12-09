@@ -220,34 +220,34 @@ else
 				combo_fade = min(global.combotime / 5, 1);
 				if global.combo != 0 && global.combotime > 0 && !tvoff
 				{
-					// i fucking hate sugary spire
+					// sugary spire combo
 					if combo_prev < global.combo
 					{
 						combo_shake = 5;
 						combo_prev = global.combo;
 					}
 					tvcombo = spr_tv_comboSP;
-				
+					
 					draw_sprite_ext(tvcombo, -1, 833 + offset_x, 107 + offset_y + hud_posY, 1, 1, 0, c_white, alpha * combo_fade)
 					
 					var str = string(combo_prev);
 					if global.combo < 10 && global.combo > -1
 						str = "0" + str;
-				
+					
 					draw_set_halign(fa_left);
 					draw_set_valign(fa_top);
 					draw_set_font(global.combofont);
-				
+					
 					var num = string_length(str);
 					var w = round(string_width(str) / num);
-				
+					
 					for (var i = 0; i < num; i++)
 					{
 						var char = string_char_at(str, i + 1);
 						var xx = i * w, yy = i * 5;
-						draw_text_auto(789 + xx + offset_x + random_range(-combo_shake, combo_shake), 91 - yy + offset_y + hud_posY + random_range(-combo_shake, combo_shake), char,,,combo_fade);
+						draw_text_auto(5 - 789 + xx + offset_x + random_range(-combo_shake, combo_shake), 4 - 91 - yy + offset_y + hud_posY + random_range(-combo_shake, combo_shake), char,,,combo_fade);
 					}
-				
+					
 					// sugary combo timer
 					if !surface_exists(popsurf)
 						popsurf = surface_create(112, 32);

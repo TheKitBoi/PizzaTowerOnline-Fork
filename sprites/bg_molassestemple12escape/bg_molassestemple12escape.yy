@@ -1,4 +1,7 @@
 {
+  "resourceType": "GMSprite",
+  "resourceVersion": "1.0",
+  "name": "bg_molassestemple12escape",
   "ConfigValues": {
     "debug": {"textureGroupId":"{\"name\":\"tg_sugaryspire\",\"path\":\"texturegroups/tg_sugaryspire\"}",},
   },
@@ -17,6 +20,7 @@
   "HTile": false,
   "VTile": false,
   "For3D": false,
+  "DynamicTexturePage": false,
   "width": 960,
   "height": 540,
   "textureGroupId": {
@@ -27,12 +31,12 @@
   "gridX": 0,
   "gridY": 0,
   "frames": [
-    {"compositeImage":{"FrameId":{"name":"eaf00bb7-077b-45d4-9ab6-e1f27a16152d","path":"sprites/bg_molassestemple12escape/bg_molassestemple12escape.yy",},"LayerId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"eaf00bb7-077b-45d4-9ab6-e1f27a16152d","path":"sprites/bg_molassestemple12escape/bg_molassestemple12escape.yy",},"LayerId":{"name":"cf4d98f9-a547-47a4-99df-67c71231ecc8","path":"sprites/bg_molassestemple12escape/bg_molassestemple12escape.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-      ],"parent":{"name":"bg_molassestemple12escape","path":"sprites/bg_molassestemple12escape/bg_molassestemple12escape.yy",},"resourceVersion":"1.0","name":"eaf00bb7-077b-45d4-9ab6-e1f27a16152d","tags":[],"resourceType":"GMSpriteFrame",},
+    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"eaf00bb7-077b-45d4-9ab6-e1f27a16152d",},
   ],
   "sequence": {
-    "spriteId": {"name":"bg_molassestemple12escape","path":"sprites/bg_molassestemple12escape/bg_molassestemple12escape.yy",},
+    "resourceType": "GMSequence",
+    "resourceVersion": "1.4",
+    "name": "bg_molassestemple12escape",
     "timeUnits": 1,
     "playback": 1,
     "playbackSpeed": 30.0,
@@ -43,9 +47,9 @@
     "events": {"Keyframes":[],"resourceVersion":"1.0","resourceType":"KeyframeStore<MessageEventKeyframe>",},
     "moments": {"Keyframes":[],"resourceVersion":"1.0","resourceType":"KeyframeStore<MomentsEventKeyframe>",},
     "tracks": [
-      {"name":"frames","spriteId":null,"keyframes":{"Keyframes":[
+      {"resourceType":"GMSpriteFramesTrack","resourceVersion":"1.0","name":"frames","spriteId":null,"keyframes":{"Keyframes":[
             {"id":"bb09f5ae-86b5-4ab7-8080-f53973781680","Key":0.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"eaf00bb7-077b-45d4-9ab6-e1f27a16152d","path":"sprites/bg_molassestemple12escape/bg_molassestemple12escape.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
-          ],"resourceVersion":"1.0","resourceType":"KeyframeStore<SpriteFrameKeyframe>",},"trackColour":0,"inheritsTrackColour":true,"builtinName":0,"traits":0,"interpolation":1,"tracks":[],"events":[],"isCreationTrack":false,"resourceVersion":"1.0","tags":[],"resourceType":"GMSpriteFramesTrack","modifiers":[],},
+          ],"resourceVersion":"1.0","resourceType":"KeyframeStore<SpriteFrameKeyframe>",},"trackColour":0,"inheritsTrackColour":true,"builtinName":0,"traits":0,"interpolation":1,"tracks":[],"events":[],"isCreationTrack":false,"modifiers":[],},
     ],
     "visibleRange": null,
     "lockOrigin": false,
@@ -61,22 +65,13 @@
     "yorigin": 0,
     "eventToFunction": {},
     "eventStubScript": null,
-    "parent": {"name":"bg_molassestemple12escape","path":"sprites/bg_molassestemple12escape/bg_molassestemple12escape.yy",},
-    "resourceVersion": "1.4",
-    "name": "bg_molassestemple12escape",
-    "tags": [],
-    "resourceType": "GMSequence",
   },
   "layers": [
-    {"visible":true,"isLocked":false,"blendMode":0,"opacity":100.0,"displayName":"default","resourceVersion":"1.0","name":"cf4d98f9-a547-47a4-99df-67c71231ecc8","tags":[],"resourceType":"GMImageLayer",},
+    {"resourceType":"GMImageLayer","resourceVersion":"1.0","name":"cf4d98f9-a547-47a4-99df-67c71231ecc8","visible":true,"isLocked":false,"blendMode":0,"opacity":100.0,"displayName":"default",},
   ],
   "nineSlice": null,
   "parent": {
     "name": "molasses",
     "path": "folders/Sprites/SUGARY SPIRE/tilesets/molasses.yy",
   },
-  "resourceVersion": "1.0",
-  "name": "bg_molassestemple12escape",
-  "tags": [],
-  "resourceType": "GMSprite",
 }

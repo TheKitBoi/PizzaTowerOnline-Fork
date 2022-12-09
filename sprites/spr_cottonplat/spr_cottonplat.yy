@@ -1,4 +1,7 @@
 {
+  "resourceType": "GMSprite",
+  "resourceVersion": "1.0",
+  "name": "spr_cottonplat",
   "ConfigValues": {
     "debug": {"textureGroupId":"{\"name\":\"tg_sugaryspire\",\"path\":\"texturegroups/tg_sugaryspire\"}",},
   },
@@ -17,6 +20,7 @@
   "HTile": false,
   "VTile": false,
   "For3D": false,
+  "DynamicTexturePage": false,
   "width": 96,
   "height": 32,
   "textureGroupId": {
@@ -27,15 +31,13 @@
   "gridX": 0,
   "gridY": 0,
   "frames": [
-    {"compositeImage":{"FrameId":{"name":"7942ff0d-3a34-4885-b2ff-a267db979ff5","path":"sprites/spr_cottonplat/spr_cottonplat.yy",},"LayerId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"7942ff0d-3a34-4885-b2ff-a267db979ff5","path":"sprites/spr_cottonplat/spr_cottonplat.yy",},"LayerId":{"name":"7dc58f44-fe7d-461d-91f3-44b4b2b526e6","path":"sprites/spr_cottonplat/spr_cottonplat.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-      ],"parent":{"name":"spr_cottonplat","path":"sprites/spr_cottonplat/spr_cottonplat.yy",},"resourceVersion":"1.0","name":"7942ff0d-3a34-4885-b2ff-a267db979ff5","tags":[],"resourceType":"GMSpriteFrame",},
-    {"compositeImage":{"FrameId":{"name":"c07e7e4e-a1ee-4acd-ad2b-38a8038de9e1","path":"sprites/spr_cottonplat/spr_cottonplat.yy",},"LayerId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"c07e7e4e-a1ee-4acd-ad2b-38a8038de9e1","path":"sprites/spr_cottonplat/spr_cottonplat.yy",},"LayerId":{"name":"7dc58f44-fe7d-461d-91f3-44b4b2b526e6","path":"sprites/spr_cottonplat/spr_cottonplat.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-      ],"parent":{"name":"spr_cottonplat","path":"sprites/spr_cottonplat/spr_cottonplat.yy",},"resourceVersion":"1.0","name":"c07e7e4e-a1ee-4acd-ad2b-38a8038de9e1","tags":[],"resourceType":"GMSpriteFrame",},
+    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"7942ff0d-3a34-4885-b2ff-a267db979ff5",},
+    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"c07e7e4e-a1ee-4acd-ad2b-38a8038de9e1",},
   ],
   "sequence": {
-    "spriteId": {"name":"spr_cottonplat","path":"sprites/spr_cottonplat/spr_cottonplat.yy",},
+    "resourceType": "GMSequence",
+    "resourceVersion": "1.4",
+    "name": "spr_cottonplat",
     "timeUnits": 1,
     "playback": 1,
     "playbackSpeed": 1.0,
@@ -46,10 +48,10 @@
     "events": {"Keyframes":[],"resourceVersion":"1.0","resourceType":"KeyframeStore<MessageEventKeyframe>",},
     "moments": {"Keyframes":[],"resourceVersion":"1.0","resourceType":"KeyframeStore<MomentsEventKeyframe>",},
     "tracks": [
-      {"name":"frames","spriteId":null,"keyframes":{"Keyframes":[
+      {"resourceType":"GMSpriteFramesTrack","resourceVersion":"1.0","name":"frames","spriteId":null,"keyframes":{"Keyframes":[
             {"id":"e69f1f61-4464-4b76-b2a4-0cdea5f7cba7","Key":0.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"7942ff0d-3a34-4885-b2ff-a267db979ff5","path":"sprites/spr_cottonplat/spr_cottonplat.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
             {"id":"1ee6fd5c-8ab9-428a-9147-c990f053e054","Key":1.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"c07e7e4e-a1ee-4acd-ad2b-38a8038de9e1","path":"sprites/spr_cottonplat/spr_cottonplat.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
-          ],"resourceVersion":"1.0","resourceType":"KeyframeStore<SpriteFrameKeyframe>",},"trackColour":0,"inheritsTrackColour":true,"builtinName":0,"traits":0,"interpolation":1,"tracks":[],"events":[],"isCreationTrack":false,"resourceVersion":"1.0","tags":[],"resourceType":"GMSpriteFramesTrack","modifiers":[],},
+          ],"resourceVersion":"1.0","resourceType":"KeyframeStore<SpriteFrameKeyframe>",},"trackColour":0,"inheritsTrackColour":true,"builtinName":0,"traits":0,"interpolation":1,"tracks":[],"events":[],"isCreationTrack":false,"modifiers":[],},
     ],
     "visibleRange": null,
     "lockOrigin": false,
@@ -65,14 +67,9 @@
     "yorigin": 0,
     "eventToFunction": {},
     "eventStubScript": null,
-    "parent": {"name":"spr_cottonplat","path":"sprites/spr_cottonplat/spr_cottonplat.yy",},
-    "resourceVersion": "1.4",
-    "name": "spr_cottonplat",
-    "tags": [],
-    "resourceType": "GMSequence",
   },
   "layers": [
-    {"visible":true,"isLocked":false,"blendMode":0,"opacity":100.0,"displayName":"default","resourceVersion":"1.0","name":"7dc58f44-fe7d-461d-91f3-44b4b2b526e6","tags":[],"resourceType":"GMImageLayer",},
+    {"resourceType":"GMImageLayer","resourceVersion":"1.0","name":"7dc58f44-fe7d-461d-91f3-44b4b2b526e6","visible":true,"isLocked":false,"blendMode":0,"opacity":100.0,"displayName":"default",},
   ],
   "nineSlice": {
     "left": 32,
@@ -103,8 +100,4 @@
     "name": "cotton",
     "path": "folders/Sprites/SUGARY SPIRE/tilesets/cotton.yy",
   },
-  "resourceVersion": "1.0",
-  "name": "spr_cottonplat",
-  "tags": [],
-  "resourceType": "GMSprite",
 }

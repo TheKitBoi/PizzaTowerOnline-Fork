@@ -1,4 +1,7 @@
 {
+  "resourceType": "GMSprite",
+  "resourceVersion": "1.0",
+  "name": "spr_scrollbar_button",
   "ConfigValues": {
     "debug": {"textureGroupId":"{\"name\":\"tg_leveleditor\",\"path\":\"texturegroups/tg_leveleditor\"}",},
   },
@@ -17,6 +20,7 @@
   "HTile": false,
   "VTile": false,
   "For3D": false,
+  "DynamicTexturePage": false,
   "width": 10,
   "height": 16,
   "textureGroupId": {
@@ -27,15 +31,13 @@
   "gridX": 0,
   "gridY": 0,
   "frames": [
-    {"compositeImage":{"FrameId":{"name":"112e9039-1638-4d67-9430-5b9547d84b85","path":"sprites/spr_scrollbar_button/spr_scrollbar_button.yy",},"LayerId":null,"resourceVersion":"1.0","name":"composite","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"112e9039-1638-4d67-9430-5b9547d84b85","path":"sprites/spr_scrollbar_button/spr_scrollbar_button.yy",},"LayerId":{"name":"620def8f-da6a-4076-8ccb-e6ae60f2ea3b","path":"sprites/spr_scrollbar_button/spr_scrollbar_button.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-      ],"parent":{"name":"spr_scrollbar_button","path":"sprites/spr_scrollbar_button/spr_scrollbar_button.yy",},"resourceVersion":"1.0","name":"112e9039-1638-4d67-9430-5b9547d84b85","tags":[],"resourceType":"GMSpriteFrame",},
-    {"compositeImage":{"FrameId":{"name":"aa133e4c-7bce-41f3-b945-9478b11c0364","path":"sprites/spr_scrollbar_button/spr_scrollbar_button.yy",},"LayerId":null,"resourceVersion":"1.0","name":"composite","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"aa133e4c-7bce-41f3-b945-9478b11c0364","path":"sprites/spr_scrollbar_button/spr_scrollbar_button.yy",},"LayerId":{"name":"620def8f-da6a-4076-8ccb-e6ae60f2ea3b","path":"sprites/spr_scrollbar_button/spr_scrollbar_button.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-      ],"parent":{"name":"spr_scrollbar_button","path":"sprites/spr_scrollbar_button/spr_scrollbar_button.yy",},"resourceVersion":"1.0","name":"aa133e4c-7bce-41f3-b945-9478b11c0364","tags":[],"resourceType":"GMSpriteFrame",},
+    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"112e9039-1638-4d67-9430-5b9547d84b85",},
+    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"aa133e4c-7bce-41f3-b945-9478b11c0364",},
   ],
   "sequence": {
-    "spriteId": {"name":"spr_scrollbar_button","path":"sprites/spr_scrollbar_button/spr_scrollbar_button.yy",},
+    "resourceType": "GMSequence",
+    "resourceVersion": "1.4",
+    "name": "",
     "timeUnits": 1,
     "playback": 1,
     "playbackSpeed": 1.0,
@@ -46,10 +48,10 @@
     "events": {"Keyframes":[],"resourceVersion":"1.0","resourceType":"KeyframeStore<MessageEventKeyframe>",},
     "moments": {"Keyframes":[],"resourceVersion":"1.0","resourceType":"KeyframeStore<MomentsEventKeyframe>",},
     "tracks": [
-      {"name":"frames","spriteId":null,"keyframes":{"Keyframes":[
+      {"resourceType":"GMSpriteFramesTrack","resourceVersion":"1.0","name":"frames","spriteId":null,"keyframes":{"Keyframes":[
             {"id":"20450498-47c3-4c0a-9008-04a9327d3195","Key":0.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"112e9039-1638-4d67-9430-5b9547d84b85","path":"sprites/spr_scrollbar_button/spr_scrollbar_button.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
             {"id":"025a66ff-c1b4-4621-8d1e-85286611c2bb","Key":1.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"aa133e4c-7bce-41f3-b945-9478b11c0364","path":"sprites/spr_scrollbar_button/spr_scrollbar_button.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
-          ],"resourceVersion":"1.0","resourceType":"KeyframeStore<SpriteFrameKeyframe>",},"trackColour":0,"inheritsTrackColour":true,"builtinName":0,"traits":0,"interpolation":1,"tracks":[],"events":[],"isCreationTrack":false,"resourceVersion":"1.0","tags":[],"resourceType":"GMSpriteFramesTrack","modifiers":[],},
+          ],"resourceVersion":"1.0","resourceType":"KeyframeStore<SpriteFrameKeyframe>",},"trackColour":0,"inheritsTrackColour":true,"builtinName":0,"traits":0,"interpolation":1,"tracks":[],"events":[],"isCreationTrack":false,"modifiers":[],},
     ],
     "visibleRange": {"x":0.0,"y":0.0,},
     "lockOrigin": false,
@@ -65,22 +67,13 @@
     "yorigin": 8,
     "eventToFunction": {},
     "eventStubScript": null,
-    "parent": {"name":"spr_scrollbar_button","path":"sprites/spr_scrollbar_button/spr_scrollbar_button.yy",},
-    "resourceVersion": "1.4",
-    "name": "",
-    "tags": [],
-    "resourceType": "GMSequence",
   },
   "layers": [
-    {"visible":true,"isLocked":false,"blendMode":0,"opacity":100.0,"displayName":"default","resourceVersion":"1.0","name":"620def8f-da6a-4076-8ccb-e6ae60f2ea3b","tags":[],"resourceType":"GMImageLayer",},
+    {"resourceType":"GMImageLayer","resourceVersion":"1.0","name":"620def8f-da6a-4076-8ccb-e6ae60f2ea3b","visible":true,"isLocked":false,"blendMode":0,"opacity":100.0,"displayName":"default",},
   ],
   "nineSlice": null,
   "parent": {
     "name": "sertif's editor",
     "path": "folders/Sprites/sertif's editor.yy",
   },
-  "resourceVersion": "1.0",
-  "name": "spr_scrollbar_button",
-  "tags": [],
-  "resourceType": "GMSprite",
 }

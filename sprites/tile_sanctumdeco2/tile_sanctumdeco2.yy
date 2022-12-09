@@ -1,4 +1,7 @@
 {
+  "resourceType": "GMSprite",
+  "resourceVersion": "1.0",
+  "name": "tile_sanctumdeco2",
   "bboxMode": 0,
   "collisionKind": 1,
   "type": 0,
@@ -14,6 +17,7 @@
   "HTile": false,
   "VTile": false,
   "For3D": false,
+  "DynamicTexturePage": false,
   "width": 864,
   "height": 1280,
   "textureGroupId": {
@@ -24,12 +28,12 @@
   "gridX": 0,
   "gridY": 0,
   "frames": [
-    {"compositeImage":{"FrameId":{"name":"9a7cf4e5-1b84-4b9b-916e-97f97e368891","path":"sprites/tile_sanctumdeco2/tile_sanctumdeco2.yy",},"LayerId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"9a7cf4e5-1b84-4b9b-916e-97f97e368891","path":"sprites/tile_sanctumdeco2/tile_sanctumdeco2.yy",},"LayerId":{"name":"335e866e-81cb-484a-9aec-1ac4f9ad0986","path":"sprites/tile_sanctumdeco2/tile_sanctumdeco2.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-      ],"parent":{"name":"tile_sanctumdeco2","path":"sprites/tile_sanctumdeco2/tile_sanctumdeco2.yy",},"resourceVersion":"1.0","name":"9a7cf4e5-1b84-4b9b-916e-97f97e368891","tags":[],"resourceType":"GMSpriteFrame",},
+    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"9a7cf4e5-1b84-4b9b-916e-97f97e368891",},
   ],
   "sequence": {
-    "spriteId": {"name":"tile_sanctumdeco2","path":"sprites/tile_sanctumdeco2/tile_sanctumdeco2.yy",},
+    "resourceType": "GMSequence",
+    "resourceVersion": "1.4",
+    "name": "tile_sanctumdeco2",
     "timeUnits": 1,
     "playback": 1,
     "playbackSpeed": 1.0,
@@ -40,9 +44,9 @@
     "events": {"Keyframes":[],"resourceVersion":"1.0","resourceType":"KeyframeStore<MessageEventKeyframe>",},
     "moments": {"Keyframes":[],"resourceVersion":"1.0","resourceType":"KeyframeStore<MomentsEventKeyframe>",},
     "tracks": [
-      {"name":"frames","spriteId":null,"keyframes":{"Keyframes":[
+      {"resourceType":"GMSpriteFramesTrack","resourceVersion":"1.0","name":"frames","spriteId":null,"keyframes":{"Keyframes":[
             {"id":"1e9435d2-5876-4218-bd20-abc64caa019d","Key":0.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"9a7cf4e5-1b84-4b9b-916e-97f97e368891","path":"sprites/tile_sanctumdeco2/tile_sanctumdeco2.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
-          ],"resourceVersion":"1.0","resourceType":"KeyframeStore<SpriteFrameKeyframe>",},"trackColour":0,"inheritsTrackColour":true,"builtinName":0,"traits":0,"interpolation":1,"tracks":[],"events":[],"isCreationTrack":false,"resourceVersion":"1.0","tags":[],"resourceType":"GMSpriteFramesTrack","modifiers":[],},
+          ],"resourceVersion":"1.0","resourceType":"KeyframeStore<SpriteFrameKeyframe>",},"trackColour":0,"inheritsTrackColour":true,"builtinName":0,"traits":0,"interpolation":1,"tracks":[],"events":[],"isCreationTrack":false,"modifiers":[],},
     ],
     "visibleRange": null,
     "lockOrigin": false,
@@ -58,22 +62,13 @@
     "yorigin": 0,
     "eventToFunction": {},
     "eventStubScript": null,
-    "parent": {"name":"tile_sanctumdeco2","path":"sprites/tile_sanctumdeco2/tile_sanctumdeco2.yy",},
-    "resourceVersion": "1.4",
-    "name": "tile_sanctumdeco2",
-    "tags": [],
-    "resourceType": "GMSequence",
   },
   "layers": [
-    {"visible":true,"isLocked":false,"blendMode":0,"opacity":100.0,"displayName":"default","resourceVersion":"1.0","name":"335e866e-81cb-484a-9aec-1ac4f9ad0986","tags":[],"resourceType":"GMImageLayer",},
+    {"resourceType":"GMImageLayer","resourceVersion":"1.0","name":"335e866e-81cb-484a-9aec-1ac4f9ad0986","visible":true,"isLocked":false,"blendMode":0,"opacity":100.0,"displayName":"default",},
   ],
   "nineSlice": null,
   "parent": {
     "name": "sanctum",
     "path": "folders/Sprites/tilesets/sanctum.yy",
   },
-  "resourceVersion": "1.0",
-  "name": "tile_sanctumdeco2",
-  "tags": [],
-  "resourceType": "GMSprite",
 }

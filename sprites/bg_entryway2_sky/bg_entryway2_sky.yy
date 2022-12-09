@@ -1,4 +1,7 @@
 {
+  "resourceType": "GMSprite",
+  "resourceVersion": "1.0",
+  "name": "bg_entryway2_sky",
   "ConfigValues": {
     "debug": {"textureGroupId":"{\"name\":\"tg_sugaryspire\",\"path\":\"texturegroups/tg_sugaryspire\"}",},
   },
@@ -17,6 +20,7 @@
   "HTile": false,
   "VTile": false,
   "For3D": false,
+  "DynamicTexturePage": false,
   "width": 1100,
   "height": 600,
   "textureGroupId": {
@@ -27,12 +31,12 @@
   "gridX": 0,
   "gridY": 0,
   "frames": [
-    {"compositeImage":{"FrameId":{"name":"2c7df177-5067-4d5b-876b-a03ed6c4f77b","path":"sprites/bg_entryway2_sky/bg_entryway2_sky.yy",},"LayerId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"2c7df177-5067-4d5b-876b-a03ed6c4f77b","path":"sprites/bg_entryway2_sky/bg_entryway2_sky.yy",},"LayerId":{"name":"e5c7efa2-6cd1-4e2b-9f93-c5a00afc1fb4","path":"sprites/bg_entryway2_sky/bg_entryway2_sky.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-      ],"parent":{"name":"bg_entryway2_sky","path":"sprites/bg_entryway2_sky/bg_entryway2_sky.yy",},"resourceVersion":"1.0","name":"2c7df177-5067-4d5b-876b-a03ed6c4f77b","tags":[],"resourceType":"GMSpriteFrame",},
+    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"2c7df177-5067-4d5b-876b-a03ed6c4f77b",},
   ],
   "sequence": {
-    "spriteId": {"name":"bg_entryway2_sky","path":"sprites/bg_entryway2_sky/bg_entryway2_sky.yy",},
+    "resourceType": "GMSequence",
+    "resourceVersion": "1.4",
+    "name": "bg_entryway2_sky",
     "timeUnits": 1,
     "playback": 1,
     "playbackSpeed": 1.0,
@@ -43,9 +47,9 @@
     "events": {"Keyframes":[],"resourceVersion":"1.0","resourceType":"KeyframeStore<MessageEventKeyframe>",},
     "moments": {"Keyframes":[],"resourceVersion":"1.0","resourceType":"KeyframeStore<MomentsEventKeyframe>",},
     "tracks": [
-      {"name":"frames","spriteId":null,"keyframes":{"Keyframes":[
+      {"resourceType":"GMSpriteFramesTrack","resourceVersion":"1.0","name":"frames","spriteId":null,"keyframes":{"Keyframes":[
             {"id":"03813278-8de4-4330-970b-ec4716ac0d54","Key":0.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"2c7df177-5067-4d5b-876b-a03ed6c4f77b","path":"sprites/bg_entryway2_sky/bg_entryway2_sky.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
-          ],"resourceVersion":"1.0","resourceType":"KeyframeStore<SpriteFrameKeyframe>",},"trackColour":0,"inheritsTrackColour":true,"builtinName":0,"traits":0,"interpolation":1,"tracks":[],"events":[],"isCreationTrack":false,"resourceVersion":"1.0","tags":[],"resourceType":"GMSpriteFramesTrack","modifiers":[],},
+          ],"resourceVersion":"1.0","resourceType":"KeyframeStore<SpriteFrameKeyframe>",},"trackColour":0,"inheritsTrackColour":true,"builtinName":0,"traits":0,"interpolation":1,"tracks":[],"events":[],"isCreationTrack":false,"modifiers":[],},
     ],
     "visibleRange": null,
     "lockOrigin": false,
@@ -61,22 +65,13 @@
     "yorigin": 0,
     "eventToFunction": {},
     "eventStubScript": null,
-    "parent": {"name":"bg_entryway2_sky","path":"sprites/bg_entryway2_sky/bg_entryway2_sky.yy",},
-    "resourceVersion": "1.4",
-    "name": "bg_entryway2_sky",
-    "tags": [],
-    "resourceType": "GMSequence",
   },
   "layers": [
-    {"visible":true,"isLocked":false,"blendMode":0,"opacity":100.0,"displayName":"default","resourceVersion":"1.0","name":"e5c7efa2-6cd1-4e2b-9f93-c5a00afc1fb4","tags":[],"resourceType":"GMImageLayer",},
+    {"resourceType":"GMImageLayer","resourceVersion":"1.0","name":"e5c7efa2-6cd1-4e2b-9f93-c5a00afc1fb4","visible":true,"isLocked":false,"blendMode":0,"opacity":100.0,"displayName":"default",},
   ],
   "nineSlice": null,
   "parent": {
     "name": "entryway",
     "path": "folders/Sprites/SUGARY SPIRE/tilesets/entryway.yy",
   },
-  "resourceVersion": "1.0",
-  "name": "bg_entryway2_sky",
-  "tags": [],
-  "resourceType": "GMSprite",
 }

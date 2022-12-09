@@ -1,4 +1,7 @@
 {
+  "resourceType": "GMSprite",
+  "resourceVersion": "1.0",
+  "name": "bg_ruinarchitecture1",
   "ConfigValues": {
     "debug": {"textureGroupId":"{\"name\":\"tg_ruin\",\"path\":\"texturegroups/tg_ruin\"}",},
   },
@@ -17,6 +20,7 @@
   "HTile": false,
   "VTile": false,
   "For3D": false,
+  "DynamicTexturePage": false,
   "width": 960,
   "height": 512,
   "textureGroupId": {
@@ -27,12 +31,12 @@
   "gridX": 0,
   "gridY": 0,
   "frames": [
-    {"compositeImage":{"FrameId":{"name":"445544eb-7e7b-41be-91d2-c829980b6533","path":"sprites/bg_ruinarchitecture1/bg_ruinarchitecture1.yy",},"LayerId":null,"resourceVersion":"1.0","name":"composite","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"445544eb-7e7b-41be-91d2-c829980b6533","path":"sprites/bg_ruinarchitecture1/bg_ruinarchitecture1.yy",},"LayerId":{"name":"bc949893-dc61-4bba-b19b-99647a81fe62","path":"sprites/bg_ruinarchitecture1/bg_ruinarchitecture1.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-      ],"parent":{"name":"bg_ruinarchitecture1","path":"sprites/bg_ruinarchitecture1/bg_ruinarchitecture1.yy",},"resourceVersion":"1.0","name":"445544eb-7e7b-41be-91d2-c829980b6533","tags":[],"resourceType":"GMSpriteFrame",},
+    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"445544eb-7e7b-41be-91d2-c829980b6533",},
   ],
   "sequence": {
-    "spriteId": {"name":"bg_ruinarchitecture1","path":"sprites/bg_ruinarchitecture1/bg_ruinarchitecture1.yy",},
+    "resourceType": "GMSequence",
+    "resourceVersion": "1.4",
+    "name": "",
     "timeUnits": 1,
     "playback": 1,
     "playbackSpeed": 15.0,
@@ -43,9 +47,9 @@
     "events": {"Keyframes":[],"resourceVersion":"1.0","resourceType":"KeyframeStore<MessageEventKeyframe>",},
     "moments": {"Keyframes":[],"resourceVersion":"1.0","resourceType":"KeyframeStore<MomentsEventKeyframe>",},
     "tracks": [
-      {"name":"frames","spriteId":null,"keyframes":{"Keyframes":[
+      {"resourceType":"GMSpriteFramesTrack","resourceVersion":"1.0","name":"frames","spriteId":null,"keyframes":{"Keyframes":[
             {"id":"5f5b5ec1-9f8a-4527-bb5b-8597ad52140c","Key":0.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"445544eb-7e7b-41be-91d2-c829980b6533","path":"sprites/bg_ruinarchitecture1/bg_ruinarchitecture1.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
-          ],"resourceVersion":"1.0","resourceType":"KeyframeStore<SpriteFrameKeyframe>",},"trackColour":0,"inheritsTrackColour":true,"builtinName":0,"traits":0,"interpolation":1,"tracks":[],"events":[],"isCreationTrack":false,"resourceVersion":"1.0","tags":[],"resourceType":"GMSpriteFramesTrack","modifiers":[],},
+          ],"resourceVersion":"1.0","resourceType":"KeyframeStore<SpriteFrameKeyframe>",},"trackColour":0,"inheritsTrackColour":true,"builtinName":0,"traits":0,"interpolation":1,"tracks":[],"events":[],"isCreationTrack":false,"modifiers":[],},
     ],
     "visibleRange": null,
     "lockOrigin": false,
@@ -61,22 +65,13 @@
     "yorigin": 0,
     "eventToFunction": {},
     "eventStubScript": null,
-    "parent": {"name":"bg_ruinarchitecture1","path":"sprites/bg_ruinarchitecture1/bg_ruinarchitecture1.yy",},
-    "resourceVersion": "1.4",
-    "name": "",
-    "tags": [],
-    "resourceType": "GMSequence",
   },
   "layers": [
-    {"visible":true,"isLocked":false,"blendMode":0,"opacity":100.0,"displayName":"default","resourceVersion":"1.0","name":"bc949893-dc61-4bba-b19b-99647a81fe62","tags":[],"resourceType":"GMImageLayer",},
+    {"resourceType":"GMImageLayer","resourceVersion":"1.0","name":"bc949893-dc61-4bba-b19b-99647a81fe62","visible":true,"isLocked":false,"blendMode":0,"opacity":100.0,"displayName":"default",},
   ],
   "nineSlice": null,
   "parent": {
     "name": "ruin",
     "path": "folders/Sprites/tilesets/ruin.yy",
   },
-  "resourceVersion": "1.0",
-  "name": "bg_ruinarchitecture1",
-  "tags": [],
-  "resourceType": "GMSprite",
 }

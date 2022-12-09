@@ -1,4 +1,7 @@
 {
+  "resourceType": "GMSprite",
+  "resourceVersion": "1.0",
+  "name": "bg_dragonlair1",
   "ConfigValues": {
     "debug": {"textureGroupId":"{\"name\":\"tg_medieval\",\"path\":\"texturegroups/tg_medieval\"}",},
   },
@@ -17,6 +20,7 @@
   "HTile": false,
   "VTile": false,
   "For3D": false,
+  "DynamicTexturePage": false,
   "width": 1000,
   "height": 540,
   "textureGroupId": {
@@ -27,33 +31,19 @@
   "gridX": 0,
   "gridY": 0,
   "frames": [
-    {"compositeImage":{"FrameId":{"name":"3a7b6924-f1c5-4e95-942a-001c46d526f7","path":"sprites/bg_dragonlair1/bg_dragonlair1.yy",},"LayerId":null,"resourceVersion":"1.0","name":"composite","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"3a7b6924-f1c5-4e95-942a-001c46d526f7","path":"sprites/bg_dragonlair1/bg_dragonlair1.yy",},"LayerId":{"name":"e762df68-e074-43e1-aa5c-4aa5bb26d6a5","path":"sprites/bg_dragonlair1/bg_dragonlair1.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-      ],"parent":{"name":"bg_dragonlair1","path":"sprites/bg_dragonlair1/bg_dragonlair1.yy",},"resourceVersion":"1.0","name":"3a7b6924-f1c5-4e95-942a-001c46d526f7","tags":[],"resourceType":"GMSpriteFrame",},
-    {"compositeImage":{"FrameId":{"name":"98759948-68ca-4269-81dc-b07beb00f131","path":"sprites/bg_dragonlair1/bg_dragonlair1.yy",},"LayerId":null,"resourceVersion":"1.0","name":"composite","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"98759948-68ca-4269-81dc-b07beb00f131","path":"sprites/bg_dragonlair1/bg_dragonlair1.yy",},"LayerId":{"name":"e762df68-e074-43e1-aa5c-4aa5bb26d6a5","path":"sprites/bg_dragonlair1/bg_dragonlair1.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-      ],"parent":{"name":"bg_dragonlair1","path":"sprites/bg_dragonlair1/bg_dragonlair1.yy",},"resourceVersion":"1.0","name":"98759948-68ca-4269-81dc-b07beb00f131","tags":[],"resourceType":"GMSpriteFrame",},
-    {"compositeImage":{"FrameId":{"name":"97cb0fc7-d205-41fa-8e01-822bc3b2e691","path":"sprites/bg_dragonlair1/bg_dragonlair1.yy",},"LayerId":null,"resourceVersion":"1.0","name":"composite","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"97cb0fc7-d205-41fa-8e01-822bc3b2e691","path":"sprites/bg_dragonlair1/bg_dragonlair1.yy",},"LayerId":{"name":"e762df68-e074-43e1-aa5c-4aa5bb26d6a5","path":"sprites/bg_dragonlair1/bg_dragonlair1.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-      ],"parent":{"name":"bg_dragonlair1","path":"sprites/bg_dragonlair1/bg_dragonlair1.yy",},"resourceVersion":"1.0","name":"97cb0fc7-d205-41fa-8e01-822bc3b2e691","tags":[],"resourceType":"GMSpriteFrame",},
-    {"compositeImage":{"FrameId":{"name":"940a2f2b-fa55-4ce5-bca1-f7d802721d01","path":"sprites/bg_dragonlair1/bg_dragonlair1.yy",},"LayerId":null,"resourceVersion":"1.0","name":"composite","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"940a2f2b-fa55-4ce5-bca1-f7d802721d01","path":"sprites/bg_dragonlair1/bg_dragonlair1.yy",},"LayerId":{"name":"e762df68-e074-43e1-aa5c-4aa5bb26d6a5","path":"sprites/bg_dragonlair1/bg_dragonlair1.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-      ],"parent":{"name":"bg_dragonlair1","path":"sprites/bg_dragonlair1/bg_dragonlair1.yy",},"resourceVersion":"1.0","name":"940a2f2b-fa55-4ce5-bca1-f7d802721d01","tags":[],"resourceType":"GMSpriteFrame",},
-    {"compositeImage":{"FrameId":{"name":"b929c216-61be-45aa-a414-04d22d9d8e89","path":"sprites/bg_dragonlair1/bg_dragonlair1.yy",},"LayerId":null,"resourceVersion":"1.0","name":"composite","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"b929c216-61be-45aa-a414-04d22d9d8e89","path":"sprites/bg_dragonlair1/bg_dragonlair1.yy",},"LayerId":{"name":"e762df68-e074-43e1-aa5c-4aa5bb26d6a5","path":"sprites/bg_dragonlair1/bg_dragonlair1.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-      ],"parent":{"name":"bg_dragonlair1","path":"sprites/bg_dragonlair1/bg_dragonlair1.yy",},"resourceVersion":"1.0","name":"b929c216-61be-45aa-a414-04d22d9d8e89","tags":[],"resourceType":"GMSpriteFrame",},
-    {"compositeImage":{"FrameId":{"name":"7a51ab62-e1ad-4b57-8541-daaea9fd8fd5","path":"sprites/bg_dragonlair1/bg_dragonlair1.yy",},"LayerId":null,"resourceVersion":"1.0","name":"composite","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"7a51ab62-e1ad-4b57-8541-daaea9fd8fd5","path":"sprites/bg_dragonlair1/bg_dragonlair1.yy",},"LayerId":{"name":"e762df68-e074-43e1-aa5c-4aa5bb26d6a5","path":"sprites/bg_dragonlair1/bg_dragonlair1.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-      ],"parent":{"name":"bg_dragonlair1","path":"sprites/bg_dragonlair1/bg_dragonlair1.yy",},"resourceVersion":"1.0","name":"7a51ab62-e1ad-4b57-8541-daaea9fd8fd5","tags":[],"resourceType":"GMSpriteFrame",},
-    {"compositeImage":{"FrameId":{"name":"ce66d080-3577-4938-a9c1-aeb6c5ed5608","path":"sprites/bg_dragonlair1/bg_dragonlair1.yy",},"LayerId":null,"resourceVersion":"1.0","name":"composite","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"ce66d080-3577-4938-a9c1-aeb6c5ed5608","path":"sprites/bg_dragonlair1/bg_dragonlair1.yy",},"LayerId":{"name":"e762df68-e074-43e1-aa5c-4aa5bb26d6a5","path":"sprites/bg_dragonlair1/bg_dragonlair1.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-      ],"parent":{"name":"bg_dragonlair1","path":"sprites/bg_dragonlair1/bg_dragonlair1.yy",},"resourceVersion":"1.0","name":"ce66d080-3577-4938-a9c1-aeb6c5ed5608","tags":[],"resourceType":"GMSpriteFrame",},
-    {"compositeImage":{"FrameId":{"name":"51c6ff54-70fb-4243-941c-7f311aa0a8a6","path":"sprites/bg_dragonlair1/bg_dragonlair1.yy",},"LayerId":null,"resourceVersion":"1.0","name":"composite","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"51c6ff54-70fb-4243-941c-7f311aa0a8a6","path":"sprites/bg_dragonlair1/bg_dragonlair1.yy",},"LayerId":{"name":"e762df68-e074-43e1-aa5c-4aa5bb26d6a5","path":"sprites/bg_dragonlair1/bg_dragonlair1.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-      ],"parent":{"name":"bg_dragonlair1","path":"sprites/bg_dragonlair1/bg_dragonlair1.yy",},"resourceVersion":"1.0","name":"51c6ff54-70fb-4243-941c-7f311aa0a8a6","tags":[],"resourceType":"GMSpriteFrame",},
+    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"3a7b6924-f1c5-4e95-942a-001c46d526f7",},
+    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"98759948-68ca-4269-81dc-b07beb00f131",},
+    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"97cb0fc7-d205-41fa-8e01-822bc3b2e691",},
+    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"940a2f2b-fa55-4ce5-bca1-f7d802721d01",},
+    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"b929c216-61be-45aa-a414-04d22d9d8e89",},
+    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"7a51ab62-e1ad-4b57-8541-daaea9fd8fd5",},
+    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"ce66d080-3577-4938-a9c1-aeb6c5ed5608",},
+    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"51c6ff54-70fb-4243-941c-7f311aa0a8a6",},
   ],
   "sequence": {
-    "spriteId": {"name":"bg_dragonlair1","path":"sprites/bg_dragonlair1/bg_dragonlair1.yy",},
+    "resourceType": "GMSequence",
+    "resourceVersion": "1.4",
+    "name": "",
     "timeUnits": 1,
     "playback": 1,
     "playbackSpeed": 0.2,
@@ -64,7 +54,7 @@
     "events": {"Keyframes":[],"resourceVersion":"1.0","resourceType":"KeyframeStore<MessageEventKeyframe>",},
     "moments": {"Keyframes":[],"resourceVersion":"1.0","resourceType":"KeyframeStore<MomentsEventKeyframe>",},
     "tracks": [
-      {"name":"frames","spriteId":null,"keyframes":{"Keyframes":[
+      {"resourceType":"GMSpriteFramesTrack","resourceVersion":"1.0","name":"frames","spriteId":null,"keyframes":{"Keyframes":[
             {"id":"23062d89-d3ff-4f4b-af00-2230ea3b303e","Key":0.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"3a7b6924-f1c5-4e95-942a-001c46d526f7","path":"sprites/bg_dragonlair1/bg_dragonlair1.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
             {"id":"b09280ee-cc6d-4a5b-8d76-4c95b02bd7a0","Key":1.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"98759948-68ca-4269-81dc-b07beb00f131","path":"sprites/bg_dragonlair1/bg_dragonlair1.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
             {"id":"8558c15c-3686-4782-a6c7-46bd4a449c66","Key":2.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"97cb0fc7-d205-41fa-8e01-822bc3b2e691","path":"sprites/bg_dragonlair1/bg_dragonlair1.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
@@ -73,7 +63,7 @@
             {"id":"1623392b-d421-486a-85a6-bfba203496c0","Key":5.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"7a51ab62-e1ad-4b57-8541-daaea9fd8fd5","path":"sprites/bg_dragonlair1/bg_dragonlair1.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
             {"id":"57da6edf-893b-44c7-a5ac-7f84b22a2949","Key":6.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"ce66d080-3577-4938-a9c1-aeb6c5ed5608","path":"sprites/bg_dragonlair1/bg_dragonlair1.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
             {"id":"26d17962-91ed-4105-a31a-5b3f0eeb00d5","Key":7.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"51c6ff54-70fb-4243-941c-7f311aa0a8a6","path":"sprites/bg_dragonlair1/bg_dragonlair1.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
-          ],"resourceVersion":"1.0","resourceType":"KeyframeStore<SpriteFrameKeyframe>",},"trackColour":0,"inheritsTrackColour":true,"builtinName":0,"traits":0,"interpolation":1,"tracks":[],"events":[],"isCreationTrack":false,"resourceVersion":"1.0","tags":[],"resourceType":"GMSpriteFramesTrack","modifiers":[],},
+          ],"resourceVersion":"1.0","resourceType":"KeyframeStore<SpriteFrameKeyframe>",},"trackColour":0,"inheritsTrackColour":true,"builtinName":0,"traits":0,"interpolation":1,"tracks":[],"events":[],"isCreationTrack":false,"modifiers":[],},
     ],
     "visibleRange": null,
     "lockOrigin": false,
@@ -89,22 +79,13 @@
     "yorigin": 0,
     "eventToFunction": {},
     "eventStubScript": null,
-    "parent": {"name":"bg_dragonlair1","path":"sprites/bg_dragonlair1/bg_dragonlair1.yy",},
-    "resourceVersion": "1.4",
-    "name": "",
-    "tags": [],
-    "resourceType": "GMSequence",
   },
   "layers": [
-    {"visible":true,"isLocked":false,"blendMode":0,"opacity":100.0,"displayName":"default","resourceVersion":"1.0","name":"e762df68-e074-43e1-aa5c-4aa5bb26d6a5","tags":[],"resourceType":"GMImageLayer",},
+    {"resourceType":"GMImageLayer","resourceVersion":"1.0","name":"e762df68-e074-43e1-aa5c-4aa5bb26d6a5","visible":true,"isLocked":false,"blendMode":0,"opacity":100.0,"displayName":"default",},
   ],
   "nineSlice": null,
   "parent": {
     "name": "medieval",
     "path": "folders/Sprites/tilesets/medieval.yy",
   },
-  "resourceVersion": "1.0",
-  "name": "bg_dragonlair1",
-  "tags": [],
-  "resourceType": "GMSprite",
 }

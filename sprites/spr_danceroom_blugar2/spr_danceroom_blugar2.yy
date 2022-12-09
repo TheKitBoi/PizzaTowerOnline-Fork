@@ -1,4 +1,7 @@
 {
+  "resourceType": "GMSprite",
+  "resourceVersion": "1.0",
+  "name": "spr_danceroom_blugar2",
   "bboxMode": 0,
   "collisionKind": 1,
   "type": 0,
@@ -14,6 +17,7 @@
   "HTile": false,
   "VTile": false,
   "For3D": false,
+  "DynamicTexturePage": false,
   "width": 100,
   "height": 100,
   "textureGroupId": {
@@ -24,15 +28,13 @@
   "gridX": 0,
   "gridY": 0,
   "frames": [
-    {"compositeImage":{"FrameId":{"name":"e9e3d23e-0c67-4805-a09e-1bda66ecb08f","path":"sprites/spr_danceroom_blugar2/spr_danceroom_blugar2.yy",},"LayerId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"e9e3d23e-0c67-4805-a09e-1bda66ecb08f","path":"sprites/spr_danceroom_blugar2/spr_danceroom_blugar2.yy",},"LayerId":{"name":"a55fad65-0a66-487a-ad10-2f2d42833f1a","path":"sprites/spr_danceroom_blugar2/spr_danceroom_blugar2.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-      ],"parent":{"name":"spr_danceroom_blugar2","path":"sprites/spr_danceroom_blugar2/spr_danceroom_blugar2.yy",},"resourceVersion":"1.0","name":"e9e3d23e-0c67-4805-a09e-1bda66ecb08f","tags":[],"resourceType":"GMSpriteFrame",},
-    {"compositeImage":{"FrameId":{"name":"d7b255e4-a477-4e85-8ad1-15f2e5b11928","path":"sprites/spr_danceroom_blugar2/spr_danceroom_blugar2.yy",},"LayerId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"d7b255e4-a477-4e85-8ad1-15f2e5b11928","path":"sprites/spr_danceroom_blugar2/spr_danceroom_blugar2.yy",},"LayerId":{"name":"a55fad65-0a66-487a-ad10-2f2d42833f1a","path":"sprites/spr_danceroom_blugar2/spr_danceroom_blugar2.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-      ],"parent":{"name":"spr_danceroom_blugar2","path":"sprites/spr_danceroom_blugar2/spr_danceroom_blugar2.yy",},"resourceVersion":"1.0","name":"d7b255e4-a477-4e85-8ad1-15f2e5b11928","tags":[],"resourceType":"GMSpriteFrame",},
+    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"e9e3d23e-0c67-4805-a09e-1bda66ecb08f",},
+    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"d7b255e4-a477-4e85-8ad1-15f2e5b11928",},
   ],
   "sequence": {
-    "spriteId": {"name":"spr_danceroom_blugar2","path":"sprites/spr_danceroom_blugar2/spr_danceroom_blugar2.yy",},
+    "resourceType": "GMSequence",
+    "resourceVersion": "1.4",
+    "name": "spr_danceroom_blugar2",
     "timeUnits": 1,
     "playback": 1,
     "playbackSpeed": 0.15,
@@ -43,10 +45,10 @@
     "events": {"Keyframes":[],"resourceVersion":"1.0","resourceType":"KeyframeStore<MessageEventKeyframe>",},
     "moments": {"Keyframes":[],"resourceVersion":"1.0","resourceType":"KeyframeStore<MomentsEventKeyframe>",},
     "tracks": [
-      {"name":"frames","spriteId":null,"keyframes":{"Keyframes":[
+      {"resourceType":"GMSpriteFramesTrack","resourceVersion":"1.0","name":"frames","spriteId":null,"keyframes":{"Keyframes":[
             {"id":"e49156db-a6e9-48a1-ba9d-e917af7aec45","Key":0.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"e9e3d23e-0c67-4805-a09e-1bda66ecb08f","path":"sprites/spr_danceroom_blugar2/spr_danceroom_blugar2.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
             {"id":"a9f775de-5a89-4f08-a3b6-b51c3fc7f019","Key":1.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"d7b255e4-a477-4e85-8ad1-15f2e5b11928","path":"sprites/spr_danceroom_blugar2/spr_danceroom_blugar2.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
-          ],"resourceVersion":"1.0","resourceType":"KeyframeStore<SpriteFrameKeyframe>",},"trackColour":0,"inheritsTrackColour":true,"builtinName":0,"traits":0,"interpolation":1,"tracks":[],"events":[],"isCreationTrack":false,"resourceVersion":"1.0","tags":[],"resourceType":"GMSpriteFramesTrack","modifiers":[],},
+          ],"resourceVersion":"1.0","resourceType":"KeyframeStore<SpriteFrameKeyframe>",},"trackColour":0,"inheritsTrackColour":true,"builtinName":0,"traits":0,"interpolation":1,"tracks":[],"events":[],"isCreationTrack":false,"modifiers":[],},
     ],
     "visibleRange": null,
     "lockOrigin": false,
@@ -62,22 +64,13 @@
     "yorigin": 50,
     "eventToFunction": {},
     "eventStubScript": null,
-    "parent": {"name":"spr_danceroom_blugar2","path":"sprites/spr_danceroom_blugar2/spr_danceroom_blugar2.yy",},
-    "resourceVersion": "1.4",
-    "name": "spr_danceroom_blugar2",
-    "tags": [],
-    "resourceType": "GMSequence",
   },
   "layers": [
-    {"visible":true,"isLocked":false,"blendMode":0,"opacity":100.0,"displayName":"default","resourceVersion":"1.0","name":"a55fad65-0a66-487a-ad10-2f2d42833f1a","tags":[],"resourceType":"GMImageLayer",},
+    {"resourceType":"GMImageLayer","resourceVersion":"1.0","name":"a55fad65-0a66-487a-ad10-2f2d42833f1a","visible":true,"isLocked":false,"blendMode":0,"opacity":100.0,"displayName":"default",},
   ],
   "nineSlice": null,
   "parent": {
     "name": "dance room",
     "path": "folders/Sprites/PTO extra/dance room.yy",
   },
-  "resourceVersion": "1.0",
-  "name": "spr_danceroom_blugar2",
-  "tags": [],
-  "resourceType": "GMSprite",
 }

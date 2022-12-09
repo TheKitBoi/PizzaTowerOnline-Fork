@@ -1,4 +1,7 @@
 {
+  "resourceType": "GMSprite",
+  "resourceVersion": "1.0",
+  "name": "spr_ladder_golf",
   "bboxMode": 2,
   "collisionKind": 1,
   "type": 0,
@@ -14,6 +17,7 @@
   "HTile": false,
   "VTile": false,
   "For3D": false,
+  "DynamicTexturePage": false,
   "width": 32,
   "height": 32,
   "textureGroupId": {
@@ -24,18 +28,14 @@
   "gridX": 0,
   "gridY": 0,
   "frames": [
-    {"compositeImage":{"FrameId":{"name":"260ee462-d8cd-4a78-ac11-cbaecf61a365","path":"sprites/spr_ladder_golf/spr_ladder_golf.yy",},"LayerId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"260ee462-d8cd-4a78-ac11-cbaecf61a365","path":"sprites/spr_ladder_golf/spr_ladder_golf.yy",},"LayerId":{"name":"59295235-35eb-46a3-a4c1-8e625c446d93","path":"sprites/spr_ladder_golf/spr_ladder_golf.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-      ],"parent":{"name":"spr_ladder_golf","path":"sprites/spr_ladder_golf/spr_ladder_golf.yy",},"resourceVersion":"1.0","name":"260ee462-d8cd-4a78-ac11-cbaecf61a365","tags":[],"resourceType":"GMSpriteFrame",},
-    {"compositeImage":{"FrameId":{"name":"7cb05e2d-7b6c-4ecb-93f2-4a4ec38afc6c","path":"sprites/spr_ladder_golf/spr_ladder_golf.yy",},"LayerId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"7cb05e2d-7b6c-4ecb-93f2-4a4ec38afc6c","path":"sprites/spr_ladder_golf/spr_ladder_golf.yy",},"LayerId":{"name":"59295235-35eb-46a3-a4c1-8e625c446d93","path":"sprites/spr_ladder_golf/spr_ladder_golf.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-      ],"parent":{"name":"spr_ladder_golf","path":"sprites/spr_ladder_golf/spr_ladder_golf.yy",},"resourceVersion":"1.0","name":"7cb05e2d-7b6c-4ecb-93f2-4a4ec38afc6c","tags":[],"resourceType":"GMSpriteFrame",},
-    {"compositeImage":{"FrameId":{"name":"9a509b1c-dc0e-42cc-860b-8e2f5059842f","path":"sprites/spr_ladder_golf/spr_ladder_golf.yy",},"LayerId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"9a509b1c-dc0e-42cc-860b-8e2f5059842f","path":"sprites/spr_ladder_golf/spr_ladder_golf.yy",},"LayerId":{"name":"59295235-35eb-46a3-a4c1-8e625c446d93","path":"sprites/spr_ladder_golf/spr_ladder_golf.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-      ],"parent":{"name":"spr_ladder_golf","path":"sprites/spr_ladder_golf/spr_ladder_golf.yy",},"resourceVersion":"1.0","name":"9a509b1c-dc0e-42cc-860b-8e2f5059842f","tags":[],"resourceType":"GMSpriteFrame",},
+    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"260ee462-d8cd-4a78-ac11-cbaecf61a365",},
+    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"7cb05e2d-7b6c-4ecb-93f2-4a4ec38afc6c",},
+    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"9a509b1c-dc0e-42cc-860b-8e2f5059842f",},
   ],
   "sequence": {
-    "spriteId": {"name":"spr_ladder_golf","path":"sprites/spr_ladder_golf/spr_ladder_golf.yy",},
+    "resourceType": "GMSequence",
+    "resourceVersion": "1.4",
+    "name": "spr_ladder_golf",
     "timeUnits": 1,
     "playback": 1,
     "playbackSpeed": 1.0,
@@ -46,11 +46,11 @@
     "events": {"Keyframes":[],"resourceVersion":"1.0","resourceType":"KeyframeStore<MessageEventKeyframe>",},
     "moments": {"Keyframes":[],"resourceVersion":"1.0","resourceType":"KeyframeStore<MomentsEventKeyframe>",},
     "tracks": [
-      {"name":"frames","spriteId":null,"keyframes":{"Keyframes":[
+      {"resourceType":"GMSpriteFramesTrack","resourceVersion":"1.0","name":"frames","spriteId":null,"keyframes":{"Keyframes":[
             {"id":"93d260af-5b1c-4354-9ebf-dfcd671965d2","Key":0.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"260ee462-d8cd-4a78-ac11-cbaecf61a365","path":"sprites/spr_ladder_golf/spr_ladder_golf.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
             {"id":"92ce267b-a90d-41ea-9787-35ff88f3b461","Key":1.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"7cb05e2d-7b6c-4ecb-93f2-4a4ec38afc6c","path":"sprites/spr_ladder_golf/spr_ladder_golf.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
             {"id":"76b1ec04-5ca7-4367-9331-b209c3dbc8c1","Key":2.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"9a509b1c-dc0e-42cc-860b-8e2f5059842f","path":"sprites/spr_ladder_golf/spr_ladder_golf.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
-          ],"resourceVersion":"1.0","resourceType":"KeyframeStore<SpriteFrameKeyframe>",},"trackColour":0,"inheritsTrackColour":true,"builtinName":0,"traits":0,"interpolation":1,"tracks":[],"events":[],"isCreationTrack":false,"resourceVersion":"1.0","tags":[],"resourceType":"GMSpriteFramesTrack","modifiers":[],},
+          ],"resourceVersion":"1.0","resourceType":"KeyframeStore<SpriteFrameKeyframe>",},"trackColour":0,"inheritsTrackColour":true,"builtinName":0,"traits":0,"interpolation":1,"tracks":[],"events":[],"isCreationTrack":false,"modifiers":[],},
     ],
     "visibleRange": null,
     "lockOrigin": false,
@@ -66,14 +66,9 @@
     "yorigin": 0,
     "eventToFunction": {},
     "eventStubScript": null,
-    "parent": {"name":"spr_ladder_golf","path":"sprites/spr_ladder_golf/spr_ladder_golf.yy",},
-    "resourceVersion": "1.4",
-    "name": "spr_ladder_golf",
-    "tags": [],
-    "resourceType": "GMSequence",
   },
   "layers": [
-    {"visible":true,"isLocked":false,"blendMode":0,"opacity":100.0,"displayName":"default","resourceVersion":"1.0","name":"59295235-35eb-46a3-a4c1-8e625c446d93","tags":[],"resourceType":"GMImageLayer",},
+    {"resourceType":"GMImageLayer","resourceVersion":"1.0","name":"59295235-35eb-46a3-a4c1-8e625c446d93","visible":true,"isLocked":false,"blendMode":0,"opacity":100.0,"displayName":"default",},
   ],
   "nineSlice": {
     "left": 0,
@@ -104,8 +99,4 @@
     "name": "ladder",
     "path": "folders/Sprites/generalobjects/ladder.yy",
   },
-  "resourceVersion": "1.0",
-  "name": "spr_ladder_golf",
-  "tags": [],
-  "resourceType": "GMSprite",
 }

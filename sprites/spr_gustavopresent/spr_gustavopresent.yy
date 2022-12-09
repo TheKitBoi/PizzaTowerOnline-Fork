@@ -1,4 +1,7 @@
 {
+  "resourceType": "GMSprite",
+  "resourceVersion": "1.0",
+  "name": "spr_gustavopresent",
   "bboxMode": 0,
   "collisionKind": 1,
   "type": 0,
@@ -14,6 +17,7 @@
   "HTile": false,
   "VTile": false,
   "For3D": false,
+  "DynamicTexturePage": false,
   "width": 100,
   "height": 100,
   "textureGroupId": {
@@ -24,18 +28,14 @@
   "gridX": 0,
   "gridY": 0,
   "frames": [
-    {"compositeImage":{"FrameId":{"name":"93f720ae-4dd9-49b9-acec-cc95c5232e94","path":"sprites/spr_gustavopresent/spr_gustavopresent.yy",},"LayerId":null,"resourceVersion":"1.0","name":"composite","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"93f720ae-4dd9-49b9-acec-cc95c5232e94","path":"sprites/spr_gustavopresent/spr_gustavopresent.yy",},"LayerId":{"name":"703370c8-0519-4704-9756-ea17c6989ae6","path":"sprites/spr_gustavopresent/spr_gustavopresent.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-      ],"parent":{"name":"spr_gustavopresent","path":"sprites/spr_gustavopresent/spr_gustavopresent.yy",},"resourceVersion":"1.0","name":"93f720ae-4dd9-49b9-acec-cc95c5232e94","tags":[],"resourceType":"GMSpriteFrame",},
-    {"compositeImage":{"FrameId":{"name":"9b6a5730-c05e-427b-be7c-1c12fc05c149","path":"sprites/spr_gustavopresent/spr_gustavopresent.yy",},"LayerId":null,"resourceVersion":"1.0","name":"composite","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"9b6a5730-c05e-427b-be7c-1c12fc05c149","path":"sprites/spr_gustavopresent/spr_gustavopresent.yy",},"LayerId":{"name":"703370c8-0519-4704-9756-ea17c6989ae6","path":"sprites/spr_gustavopresent/spr_gustavopresent.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-      ],"parent":{"name":"spr_gustavopresent","path":"sprites/spr_gustavopresent/spr_gustavopresent.yy",},"resourceVersion":"1.0","name":"9b6a5730-c05e-427b-be7c-1c12fc05c149","tags":[],"resourceType":"GMSpriteFrame",},
-    {"compositeImage":{"FrameId":{"name":"e58f340d-9f18-402c-a79e-d31bcdd03361","path":"sprites/spr_gustavopresent/spr_gustavopresent.yy",},"LayerId":null,"resourceVersion":"1.0","name":"composite","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"e58f340d-9f18-402c-a79e-d31bcdd03361","path":"sprites/spr_gustavopresent/spr_gustavopresent.yy",},"LayerId":{"name":"703370c8-0519-4704-9756-ea17c6989ae6","path":"sprites/spr_gustavopresent/spr_gustavopresent.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-      ],"parent":{"name":"spr_gustavopresent","path":"sprites/spr_gustavopresent/spr_gustavopresent.yy",},"resourceVersion":"1.0","name":"e58f340d-9f18-402c-a79e-d31bcdd03361","tags":[],"resourceType":"GMSpriteFrame",},
+    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"93f720ae-4dd9-49b9-acec-cc95c5232e94",},
+    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"9b6a5730-c05e-427b-be7c-1c12fc05c149",},
+    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"e58f340d-9f18-402c-a79e-d31bcdd03361",},
   ],
   "sequence": {
-    "spriteId": {"name":"spr_gustavopresent","path":"sprites/spr_gustavopresent/spr_gustavopresent.yy",},
+    "resourceType": "GMSequence",
+    "resourceVersion": "1.4",
+    "name": "",
     "timeUnits": 1,
     "playback": 1,
     "playbackSpeed": 1.0,
@@ -46,11 +46,11 @@
     "events": {"Keyframes":[],"resourceVersion":"1.0","resourceType":"KeyframeStore<MessageEventKeyframe>",},
     "moments": {"Keyframes":[],"resourceVersion":"1.0","resourceType":"KeyframeStore<MomentsEventKeyframe>",},
     "tracks": [
-      {"name":"frames","spriteId":null,"keyframes":{"Keyframes":[
+      {"resourceType":"GMSpriteFramesTrack","resourceVersion":"1.0","name":"frames","spriteId":null,"keyframes":{"Keyframes":[
             {"id":"02e01dca-dca6-4cda-97b9-54d6bd286ab7","Key":0.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"93f720ae-4dd9-49b9-acec-cc95c5232e94","path":"sprites/spr_gustavopresent/spr_gustavopresent.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
             {"id":"b3ee1f96-cf01-4741-8d81-0061f203c00f","Key":1.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"9b6a5730-c05e-427b-be7c-1c12fc05c149","path":"sprites/spr_gustavopresent/spr_gustavopresent.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
             {"id":"4154cb9a-0598-4267-b92c-a2742387b1fd","Key":2.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"e58f340d-9f18-402c-a79e-d31bcdd03361","path":"sprites/spr_gustavopresent/spr_gustavopresent.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
-          ],"resourceVersion":"1.0","resourceType":"KeyframeStore<SpriteFrameKeyframe>",},"trackColour":0,"inheritsTrackColour":true,"builtinName":0,"traits":0,"interpolation":1,"tracks":[],"events":[],"isCreationTrack":false,"resourceVersion":"1.0","tags":[],"resourceType":"GMSpriteFramesTrack","modifiers":[],},
+          ],"resourceVersion":"1.0","resourceType":"KeyframeStore<SpriteFrameKeyframe>",},"trackColour":0,"inheritsTrackColour":true,"builtinName":0,"traits":0,"interpolation":1,"tracks":[],"events":[],"isCreationTrack":false,"modifiers":[],},
     ],
     "visibleRange": {"x":0.0,"y":0.0,},
     "lockOrigin": false,
@@ -66,22 +66,13 @@
     "yorigin": 50,
     "eventToFunction": {},
     "eventStubScript": null,
-    "parent": {"name":"spr_gustavopresent","path":"sprites/spr_gustavopresent/spr_gustavopresent.yy",},
-    "resourceVersion": "1.4",
-    "name": "",
-    "tags": [],
-    "resourceType": "GMSequence",
   },
   "layers": [
-    {"visible":true,"isLocked":false,"blendMode":0,"opacity":100.0,"displayName":"default","resourceVersion":"1.0","name":"703370c8-0519-4704-9756-ea17c6989ae6","tags":[],"resourceType":"GMImageLayer",},
+    {"resourceType":"GMImageLayer","resourceVersion":"1.0","name":"703370c8-0519-4704-9756-ea17c6989ae6","visible":true,"isLocked":false,"blendMode":0,"opacity":100.0,"displayName":"default",},
   ],
   "nineSlice": null,
   "parent": {
     "name": "XMAS",
     "path": "folders/Sprites/demo_event/XMAS.yy",
   },
-  "resourceVersion": "1.0",
-  "name": "spr_gustavopresent",
-  "tags": [],
-  "resourceType": "GMSprite",
 }

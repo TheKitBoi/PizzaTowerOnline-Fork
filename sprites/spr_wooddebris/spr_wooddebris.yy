@@ -1,4 +1,7 @@
 {
+  "resourceType": "GMSprite",
+  "resourceVersion": "1.0",
+  "name": "spr_wooddebris",
   "bboxMode": 0,
   "collisionKind": 1,
   "type": 0,
@@ -14,6 +17,7 @@
   "HTile": false,
   "VTile": false,
   "For3D": false,
+  "DynamicTexturePage": false,
   "width": 100,
   "height": 100,
   "textureGroupId": {
@@ -24,18 +28,14 @@
   "gridX": 0,
   "gridY": 0,
   "frames": [
-    {"compositeImage":{"FrameId":{"name":"89ea488f-341a-4483-98a9-ddcdc6197340","path":"sprites/spr_wooddebris/spr_wooddebris.yy",},"LayerId":null,"resourceVersion":"1.0","name":"composite","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"89ea488f-341a-4483-98a9-ddcdc6197340","path":"sprites/spr_wooddebris/spr_wooddebris.yy",},"LayerId":{"name":"75f21202-29bd-4e80-870f-c002e991b3b6","path":"sprites/spr_wooddebris/spr_wooddebris.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-      ],"parent":{"name":"spr_wooddebris","path":"sprites/spr_wooddebris/spr_wooddebris.yy",},"resourceVersion":"1.0","name":"89ea488f-341a-4483-98a9-ddcdc6197340","tags":[],"resourceType":"GMSpriteFrame",},
-    {"compositeImage":{"FrameId":{"name":"9232e870-4dae-4ab6-a6fb-af3f738af7ea","path":"sprites/spr_wooddebris/spr_wooddebris.yy",},"LayerId":null,"resourceVersion":"1.0","name":"composite","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"9232e870-4dae-4ab6-a6fb-af3f738af7ea","path":"sprites/spr_wooddebris/spr_wooddebris.yy",},"LayerId":{"name":"75f21202-29bd-4e80-870f-c002e991b3b6","path":"sprites/spr_wooddebris/spr_wooddebris.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-      ],"parent":{"name":"spr_wooddebris","path":"sprites/spr_wooddebris/spr_wooddebris.yy",},"resourceVersion":"1.0","name":"9232e870-4dae-4ab6-a6fb-af3f738af7ea","tags":[],"resourceType":"GMSpriteFrame",},
-    {"compositeImage":{"FrameId":{"name":"ac07d4df-223a-4cd2-9ba2-6067fe7bd48d","path":"sprites/spr_wooddebris/spr_wooddebris.yy",},"LayerId":null,"resourceVersion":"1.0","name":"composite","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"ac07d4df-223a-4cd2-9ba2-6067fe7bd48d","path":"sprites/spr_wooddebris/spr_wooddebris.yy",},"LayerId":{"name":"75f21202-29bd-4e80-870f-c002e991b3b6","path":"sprites/spr_wooddebris/spr_wooddebris.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-      ],"parent":{"name":"spr_wooddebris","path":"sprites/spr_wooddebris/spr_wooddebris.yy",},"resourceVersion":"1.0","name":"ac07d4df-223a-4cd2-9ba2-6067fe7bd48d","tags":[],"resourceType":"GMSpriteFrame",},
+    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"89ea488f-341a-4483-98a9-ddcdc6197340",},
+    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"9232e870-4dae-4ab6-a6fb-af3f738af7ea",},
+    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"ac07d4df-223a-4cd2-9ba2-6067fe7bd48d",},
   ],
   "sequence": {
-    "spriteId": {"name":"spr_wooddebris","path":"sprites/spr_wooddebris/spr_wooddebris.yy",},
+    "resourceType": "GMSequence",
+    "resourceVersion": "1.4",
+    "name": "",
     "timeUnits": 1,
     "playback": 1,
     "playbackSpeed": 1.0,
@@ -46,11 +46,11 @@
     "events": {"Keyframes":[],"resourceVersion":"1.0","resourceType":"KeyframeStore<MessageEventKeyframe>",},
     "moments": {"Keyframes":[],"resourceVersion":"1.0","resourceType":"KeyframeStore<MomentsEventKeyframe>",},
     "tracks": [
-      {"name":"frames","spriteId":null,"keyframes":{"Keyframes":[
+      {"resourceType":"GMSpriteFramesTrack","resourceVersion":"1.0","name":"frames","spriteId":null,"keyframes":{"Keyframes":[
             {"id":"9616b6f0-605c-4c95-b338-5896e92d80ea","Key":0.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"89ea488f-341a-4483-98a9-ddcdc6197340","path":"sprites/spr_wooddebris/spr_wooddebris.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
             {"id":"7f292668-55c6-4b8a-84a9-69d74c63a747","Key":1.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"9232e870-4dae-4ab6-a6fb-af3f738af7ea","path":"sprites/spr_wooddebris/spr_wooddebris.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
             {"id":"aaf0ba82-6bfa-436f-b0db-e91b73c0f38c","Key":2.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"ac07d4df-223a-4cd2-9ba2-6067fe7bd48d","path":"sprites/spr_wooddebris/spr_wooddebris.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
-          ],"resourceVersion":"1.0","resourceType":"KeyframeStore<SpriteFrameKeyframe>",},"trackColour":0,"inheritsTrackColour":true,"builtinName":0,"traits":0,"interpolation":1,"tracks":[],"events":[],"isCreationTrack":false,"resourceVersion":"1.0","tags":[],"resourceType":"GMSpriteFramesTrack","modifiers":[],},
+          ],"resourceVersion":"1.0","resourceType":"KeyframeStore<SpriteFrameKeyframe>",},"trackColour":0,"inheritsTrackColour":true,"builtinName":0,"traits":0,"interpolation":1,"tracks":[],"events":[],"isCreationTrack":false,"modifiers":[],},
     ],
     "visibleRange": null,
     "lockOrigin": false,
@@ -66,22 +66,13 @@
     "yorigin": 64,
     "eventToFunction": {},
     "eventStubScript": null,
-    "parent": {"name":"spr_wooddebris","path":"sprites/spr_wooddebris/spr_wooddebris.yy",},
-    "resourceVersion": "1.4",
-    "name": "",
-    "tags": [],
-    "resourceType": "GMSequence",
   },
   "layers": [
-    {"visible":true,"isLocked":false,"blendMode":0,"opacity":100.0,"displayName":"default","resourceVersion":"1.0","name":"75f21202-29bd-4e80-870f-c002e991b3b6","tags":[],"resourceType":"GMImageLayer",},
+    {"resourceType":"GMImageLayer","resourceVersion":"1.0","name":"75f21202-29bd-4e80-870f-c002e991b3b6","visible":true,"isLocked":false,"blendMode":0,"opacity":100.0,"displayName":"default",},
   ],
   "nineSlice": null,
   "parent": {
     "name": "particles",
     "path": "folders/Sprites/particles.yy",
   },
-  "resourceVersion": "1.0",
-  "name": "spr_wooddebris",
-  "tags": [],
-  "resourceType": "GMSprite",
 }

@@ -379,6 +379,8 @@ else if (!global.panic or string_letters(roomname) == "dragonlair" or string_let
 	{
 		if playerobj.character == "SP"
 			musplay = mu_wafflesecret;
+		else if playerobj.character == "PP"
+			musplay = mu_entrancesecretPP_ss;
 		else
 			musplay = mu_entrancesecret_ss;
 	}

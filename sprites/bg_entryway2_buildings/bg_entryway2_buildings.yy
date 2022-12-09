@@ -1,4 +1,7 @@
 {
+  "resourceType": "GMSprite",
+  "resourceVersion": "1.0",
+  "name": "bg_entryway2_buildings",
   "ConfigValues": {
     "debug": {"textureGroupId":"{\"name\":\"tg_sugaryspire\",\"path\":\"texturegroups/tg_sugaryspire\"}",},
   },
@@ -17,6 +20,7 @@
   "HTile": false,
   "VTile": false,
   "For3D": false,
+  "DynamicTexturePage": false,
   "width": 1100,
   "height": 600,
   "textureGroupId": {
@@ -27,12 +31,12 @@
   "gridX": 0,
   "gridY": 0,
   "frames": [
-    {"compositeImage":{"FrameId":{"name":"d0d8c41b-dd4b-4f8f-aabe-8fa700cecb90","path":"sprites/bg_entryway2_buildings/bg_entryway2_buildings.yy",},"LayerId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"d0d8c41b-dd4b-4f8f-aabe-8fa700cecb90","path":"sprites/bg_entryway2_buildings/bg_entryway2_buildings.yy",},"LayerId":{"name":"d7c2f2ac-4028-4dbb-a928-10b97c544393","path":"sprites/bg_entryway2_buildings/bg_entryway2_buildings.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-      ],"parent":{"name":"bg_entryway2_buildings","path":"sprites/bg_entryway2_buildings/bg_entryway2_buildings.yy",},"resourceVersion":"1.0","name":"d0d8c41b-dd4b-4f8f-aabe-8fa700cecb90","tags":[],"resourceType":"GMSpriteFrame",},
+    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"d0d8c41b-dd4b-4f8f-aabe-8fa700cecb90",},
   ],
   "sequence": {
-    "spriteId": {"name":"bg_entryway2_buildings","path":"sprites/bg_entryway2_buildings/bg_entryway2_buildings.yy",},
+    "resourceType": "GMSequence",
+    "resourceVersion": "1.4",
+    "name": "bg_entryway2_buildings",
     "timeUnits": 1,
     "playback": 1,
     "playbackSpeed": 1.0,
@@ -43,9 +47,9 @@
     "events": {"Keyframes":[],"resourceVersion":"1.0","resourceType":"KeyframeStore<MessageEventKeyframe>",},
     "moments": {"Keyframes":[],"resourceVersion":"1.0","resourceType":"KeyframeStore<MomentsEventKeyframe>",},
     "tracks": [
-      {"name":"frames","spriteId":null,"keyframes":{"Keyframes":[
+      {"resourceType":"GMSpriteFramesTrack","resourceVersion":"1.0","name":"frames","spriteId":null,"keyframes":{"Keyframes":[
             {"id":"2449baff-81e3-4162-b7d9-8e8996a5f9c4","Key":0.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"d0d8c41b-dd4b-4f8f-aabe-8fa700cecb90","path":"sprites/bg_entryway2_buildings/bg_entryway2_buildings.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
-          ],"resourceVersion":"1.0","resourceType":"KeyframeStore<SpriteFrameKeyframe>",},"trackColour":0,"inheritsTrackColour":true,"builtinName":0,"traits":0,"interpolation":1,"tracks":[],"events":[],"isCreationTrack":false,"resourceVersion":"1.0","tags":[],"resourceType":"GMSpriteFramesTrack","modifiers":[],},
+          ],"resourceVersion":"1.0","resourceType":"KeyframeStore<SpriteFrameKeyframe>",},"trackColour":0,"inheritsTrackColour":true,"builtinName":0,"traits":0,"interpolation":1,"tracks":[],"events":[],"isCreationTrack":false,"modifiers":[],},
     ],
     "visibleRange": null,
     "lockOrigin": false,
@@ -61,22 +65,13 @@
     "yorigin": 0,
     "eventToFunction": {},
     "eventStubScript": null,
-    "parent": {"name":"bg_entryway2_buildings","path":"sprites/bg_entryway2_buildings/bg_entryway2_buildings.yy",},
-    "resourceVersion": "1.4",
-    "name": "bg_entryway2_buildings",
-    "tags": [],
-    "resourceType": "GMSequence",
   },
   "layers": [
-    {"visible":true,"isLocked":false,"blendMode":0,"opacity":100.0,"displayName":"default","resourceVersion":"1.0","name":"d7c2f2ac-4028-4dbb-a928-10b97c544393","tags":[],"resourceType":"GMImageLayer",},
+    {"resourceType":"GMImageLayer","resourceVersion":"1.0","name":"d7c2f2ac-4028-4dbb-a928-10b97c544393","visible":true,"isLocked":false,"blendMode":0,"opacity":100.0,"displayName":"default",},
   ],
   "nineSlice": null,
   "parent": {
     "name": "entryway",
     "path": "folders/Sprites/SUGARY SPIRE/tilesets/entryway.yy",
   },
-  "resourceVersion": "1.0",
-  "name": "bg_entryway2_buildings",
-  "tags": [],
-  "resourceType": "GMSprite",
 }

@@ -78,6 +78,7 @@ switch sel[0]
 			[mu_hub2, "Quintessence", "Frostix"],
 			[mu_tunnel, "Tunnely Shimbers", "Mr. Sauceman"],
 			[mu_pizzatime_PP, "It's Piss Time!", "Mr. Sauceman (original),\nThe Living Tombstone, loypoll (mashup)", 5],
+			[mu_pizzatime_PP_streamer, "It's Piss Time!\n(Instrumental)", "Mr. Sauceman (original),\nThe Living Tombstone, loypoll (mashup)", 5],
 			[mu_hube, "Saturdays", "loypoll"],
 			[mu_hubarcade, "ARCADE", "loypoll"],
 			[mu_hubrush, "A Monday to be Hated", "loypoll"],
@@ -125,6 +126,7 @@ switch sel[0]
 			[mu_ruinsecret_re, "RUINSECRET", "loypoll"],
 			[mu_dungeonsecret_re, "DUNGEONSECRET", "loypoll"],
 			[mu_entrancesecret_ss, "there's a secret\ninside my tower?", "loypoll"],
+			[mu_entrancesecretPP_ss, "a secret in the\ncolor of your soul.", "loypoll"],
 		]
 		break;
 	

@@ -1,4 +1,7 @@
 {
+  "resourceType": "GMSprite",
+  "resourceVersion": "1.0",
+  "name": "tile_sugarytut",
   "bboxMode": 0,
   "collisionKind": 1,
   "type": 0,
@@ -14,6 +17,7 @@
   "HTile": false,
   "VTile": false,
   "For3D": false,
+  "DynamicTexturePage": false,
   "width": 992,
   "height": 1024,
   "textureGroupId": {
@@ -24,12 +28,12 @@
   "gridX": 32,
   "gridY": 32,
   "frames": [
-    {"compositeImage":{"FrameId":{"name":"6b6633bb-14cc-409c-a00c-d90fbf5e80ae","path":"sprites/tile_sugarytut/tile_sugarytut.yy",},"LayerId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"6b6633bb-14cc-409c-a00c-d90fbf5e80ae","path":"sprites/tile_sugarytut/tile_sugarytut.yy",},"LayerId":{"name":"5df82a7d-65ad-4a11-9de3-c8d917863c83","path":"sprites/tile_sugarytut/tile_sugarytut.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-      ],"parent":{"name":"tile_sugarytut","path":"sprites/tile_sugarytut/tile_sugarytut.yy",},"resourceVersion":"1.0","name":"6b6633bb-14cc-409c-a00c-d90fbf5e80ae","tags":[],"resourceType":"GMSpriteFrame",},
+    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"6b6633bb-14cc-409c-a00c-d90fbf5e80ae",},
   ],
   "sequence": {
-    "spriteId": {"name":"tile_sugarytut","path":"sprites/tile_sugarytut/tile_sugarytut.yy",},
+    "resourceType": "GMSequence",
+    "resourceVersion": "1.4",
+    "name": "tile_sugarytut",
     "timeUnits": 1,
     "playback": 1,
     "playbackSpeed": 1.0,
@@ -40,9 +44,9 @@
     "events": {"Keyframes":[],"resourceVersion":"1.0","resourceType":"KeyframeStore<MessageEventKeyframe>",},
     "moments": {"Keyframes":[],"resourceVersion":"1.0","resourceType":"KeyframeStore<MomentsEventKeyframe>",},
     "tracks": [
-      {"name":"frames","spriteId":null,"keyframes":{"Keyframes":[
+      {"resourceType":"GMSpriteFramesTrack","resourceVersion":"1.0","name":"frames","spriteId":null,"keyframes":{"Keyframes":[
             {"id":"a37680f4-01b5-447e-a036-ec6b89cdff28","Key":0.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"6b6633bb-14cc-409c-a00c-d90fbf5e80ae","path":"sprites/tile_sugarytut/tile_sugarytut.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
-          ],"resourceVersion":"1.0","resourceType":"KeyframeStore<SpriteFrameKeyframe>",},"trackColour":0,"inheritsTrackColour":true,"builtinName":0,"traits":0,"interpolation":1,"tracks":[],"events":[],"isCreationTrack":false,"resourceVersion":"1.0","tags":[],"resourceType":"GMSpriteFramesTrack","modifiers":[],},
+          ],"resourceVersion":"1.0","resourceType":"KeyframeStore<SpriteFrameKeyframe>",},"trackColour":0,"inheritsTrackColour":true,"builtinName":0,"traits":0,"interpolation":1,"tracks":[],"events":[],"isCreationTrack":false,"modifiers":[],},
     ],
     "visibleRange": null,
     "lockOrigin": false,
@@ -58,22 +62,13 @@
     "yorigin": 0,
     "eventToFunction": {},
     "eventStubScript": null,
-    "parent": {"name":"tile_sugarytut","path":"sprites/tile_sugarytut/tile_sugarytut.yy",},
-    "resourceVersion": "1.4",
-    "name": "tile_sugarytut",
-    "tags": [],
-    "resourceType": "GMSequence",
   },
   "layers": [
-    {"visible":true,"isLocked":false,"blendMode":0,"opacity":100.0,"displayName":"default","resourceVersion":"1.0","name":"5df82a7d-65ad-4a11-9de3-c8d917863c83","tags":[],"resourceType":"GMImageLayer",},
+    {"resourceType":"GMImageLayer","resourceVersion":"1.0","name":"5df82a7d-65ad-4a11-9de3-c8d917863c83","visible":true,"isLocked":false,"blendMode":0,"opacity":100.0,"displayName":"default",},
   ],
   "nineSlice": null,
   "parent": {
     "name": "tutorial",
     "path": "folders/Sprites/SUGARY SPIRE/tilesets/tutorial.yy",
   },
-  "resourceVersion": "1.0",
-  "name": "tile_sugarytut",
-  "tags": [],
-  "resourceType": "GMSprite",
 }

@@ -1,4 +1,7 @@
 {
+  "resourceType": "GMSprite",
+  "resourceVersion": "1.0",
+  "name": "spr_tvtalking3",
   "ConfigValues": {
     "debug": {"textureGroupId":"{\"name\":\"tg_hud\",\"path\":\"texturegroups/tg_hud\"}",},
   },
@@ -17,6 +20,7 @@
   "HTile": false,
   "VTile": false,
   "For3D": false,
+  "DynamicTexturePage": false,
   "width": 164,
   "height": 177,
   "textureGroupId": {
@@ -27,15 +31,13 @@
   "gridX": 0,
   "gridY": 0,
   "frames": [
-    {"compositeImage":{"FrameId":{"name":"b98439b3-b675-475a-b98d-f171336f99f6","path":"sprites/spr_tvtalking3/spr_tvtalking3.yy",},"LayerId":null,"resourceVersion":"1.0","name":"composite","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"b98439b3-b675-475a-b98d-f171336f99f6","path":"sprites/spr_tvtalking3/spr_tvtalking3.yy",},"LayerId":{"name":"1d6a645a-f225-4241-bafe-a2ba0afc53cf","path":"sprites/spr_tvtalking3/spr_tvtalking3.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-      ],"parent":{"name":"spr_tvtalking3","path":"sprites/spr_tvtalking3/spr_tvtalking3.yy",},"resourceVersion":"1.0","name":"b98439b3-b675-475a-b98d-f171336f99f6","tags":[],"resourceType":"GMSpriteFrame",},
-    {"compositeImage":{"FrameId":{"name":"14db30b3-faf6-4d2a-ba25-39c0f6edcf83","path":"sprites/spr_tvtalking3/spr_tvtalking3.yy",},"LayerId":null,"resourceVersion":"1.0","name":"composite","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"14db30b3-faf6-4d2a-ba25-39c0f6edcf83","path":"sprites/spr_tvtalking3/spr_tvtalking3.yy",},"LayerId":{"name":"1d6a645a-f225-4241-bafe-a2ba0afc53cf","path":"sprites/spr_tvtalking3/spr_tvtalking3.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-      ],"parent":{"name":"spr_tvtalking3","path":"sprites/spr_tvtalking3/spr_tvtalking3.yy",},"resourceVersion":"1.0","name":"14db30b3-faf6-4d2a-ba25-39c0f6edcf83","tags":[],"resourceType":"GMSpriteFrame",},
+    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"b98439b3-b675-475a-b98d-f171336f99f6",},
+    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"14db30b3-faf6-4d2a-ba25-39c0f6edcf83",},
   ],
   "sequence": {
-    "spriteId": {"name":"spr_tvtalking3","path":"sprites/spr_tvtalking3/spr_tvtalking3.yy",},
+    "resourceType": "GMSequence",
+    "resourceVersion": "1.4",
+    "name": "",
     "timeUnits": 1,
     "playback": 1,
     "playbackSpeed": 1.0,
@@ -46,10 +48,10 @@
     "events": {"Keyframes":[],"resourceVersion":"1.0","resourceType":"KeyframeStore<MessageEventKeyframe>",},
     "moments": {"Keyframes":[],"resourceVersion":"1.0","resourceType":"KeyframeStore<MomentsEventKeyframe>",},
     "tracks": [
-      {"name":"frames","spriteId":null,"keyframes":{"Keyframes":[
+      {"resourceType":"GMSpriteFramesTrack","resourceVersion":"1.0","name":"frames","spriteId":null,"keyframes":{"Keyframes":[
             {"id":"4726eb59-9b98-4b6a-a2a7-2ce48c8430d2","Key":0.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"b98439b3-b675-475a-b98d-f171336f99f6","path":"sprites/spr_tvtalking3/spr_tvtalking3.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
             {"id":"f3be20f2-05c2-41fc-8068-b9c01be0ad2b","Key":1.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"14db30b3-faf6-4d2a-ba25-39c0f6edcf83","path":"sprites/spr_tvtalking3/spr_tvtalking3.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
-          ],"resourceVersion":"1.0","resourceType":"KeyframeStore<SpriteFrameKeyframe>",},"trackColour":0,"inheritsTrackColour":true,"builtinName":0,"traits":0,"interpolation":1,"tracks":[],"events":[],"isCreationTrack":false,"resourceVersion":"1.0","tags":[],"resourceType":"GMSpriteFramesTrack","modifiers":[],},
+          ],"resourceVersion":"1.0","resourceType":"KeyframeStore<SpriteFrameKeyframe>",},"trackColour":0,"inheritsTrackColour":true,"builtinName":0,"traits":0,"interpolation":1,"tracks":[],"events":[],"isCreationTrack":false,"modifiers":[],},
     ],
     "visibleRange": null,
     "lockOrigin": false,
@@ -65,22 +67,13 @@
     "yorigin": 88,
     "eventToFunction": {},
     "eventStubScript": null,
-    "parent": {"name":"spr_tvtalking3","path":"sprites/spr_tvtalking3/spr_tvtalking3.yy",},
-    "resourceVersion": "1.4",
-    "name": "",
-    "tags": [],
-    "resourceType": "GMSequence",
   },
   "layers": [
-    {"visible":true,"isLocked":false,"blendMode":0,"opacity":100.0,"displayName":"default","resourceVersion":"1.0","name":"1d6a645a-f225-4241-bafe-a2ba0afc53cf","tags":[],"resourceType":"GMImageLayer",},
+    {"resourceType":"GMImageLayer","resourceVersion":"1.0","name":"1d6a645a-f225-4241-bafe-a2ba0afc53cf","visible":true,"isLocked":false,"blendMode":0,"opacity":100.0,"displayName":"default",},
   ],
   "nineSlice": null,
   "parent": {
     "name": "HUD",
     "path": "folders/Sprites/HUD.yy",
   },
-  "resourceVersion": "1.0",
-  "name": "spr_tvtalking3",
-  "tags": [],
-  "resourceType": "GMSprite",
 }

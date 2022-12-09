@@ -1,4 +1,7 @@
 {
+  "resourceType": "GMSprite",
+  "resourceVersion": "1.0",
+  "name": "spr_cardboardpillaroff",
   "ConfigValues": {
     "debug": {"textureGroupId":"{\"name\":\"tg_sugaryspire\",\"path\":\"texturegroups/tg_sugaryspire\"}",},
   },
@@ -17,6 +20,7 @@
   "HTile": false,
   "VTile": false,
   "For3D": false,
+  "DynamicTexturePage": false,
   "width": 32,
   "height": 32,
   "textureGroupId": {
@@ -27,12 +31,12 @@
   "gridX": 0,
   "gridY": 0,
   "frames": [
-    {"compositeImage":{"FrameId":{"name":"d36cf4a5-1ae0-4ced-bc6e-6735184e643e","path":"sprites/spr_cardboardpillaroff/spr_cardboardpillaroff.yy",},"LayerId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"d36cf4a5-1ae0-4ced-bc6e-6735184e643e","path":"sprites/spr_cardboardpillaroff/spr_cardboardpillaroff.yy",},"LayerId":{"name":"acb1c77e-97c3-44c0-a60a-574ab9e9b2b0","path":"sprites/spr_cardboardpillaroff/spr_cardboardpillaroff.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-      ],"parent":{"name":"spr_cardboardpillaroff","path":"sprites/spr_cardboardpillaroff/spr_cardboardpillaroff.yy",},"resourceVersion":"1.0","name":"d36cf4a5-1ae0-4ced-bc6e-6735184e643e","tags":[],"resourceType":"GMSpriteFrame",},
+    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"d36cf4a5-1ae0-4ced-bc6e-6735184e643e",},
   ],
   "sequence": {
-    "spriteId": {"name":"spr_cardboardpillaroff","path":"sprites/spr_cardboardpillaroff/spr_cardboardpillaroff.yy",},
+    "resourceType": "GMSequence",
+    "resourceVersion": "1.4",
+    "name": "spr_cardboardpillaroff",
     "timeUnits": 1,
     "playback": 1,
     "playbackSpeed": 1.0,
@@ -43,9 +47,9 @@
     "events": {"Keyframes":[],"resourceVersion":"1.0","resourceType":"KeyframeStore<MessageEventKeyframe>",},
     "moments": {"Keyframes":[],"resourceVersion":"1.0","resourceType":"KeyframeStore<MomentsEventKeyframe>",},
     "tracks": [
-      {"name":"frames","spriteId":null,"keyframes":{"Keyframes":[
+      {"resourceType":"GMSpriteFramesTrack","resourceVersion":"1.0","name":"frames","spriteId":null,"keyframes":{"Keyframes":[
             {"id":"9be3a1de-848f-4953-a1f3-c0b22490959c","Key":0.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"d36cf4a5-1ae0-4ced-bc6e-6735184e643e","path":"sprites/spr_cardboardpillaroff/spr_cardboardpillaroff.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
-          ],"resourceVersion":"1.0","resourceType":"KeyframeStore<SpriteFrameKeyframe>",},"trackColour":0,"inheritsTrackColour":true,"builtinName":0,"traits":0,"interpolation":1,"tracks":[],"events":[],"isCreationTrack":false,"resourceVersion":"1.0","tags":[],"resourceType":"GMSpriteFramesTrack","modifiers":[],},
+          ],"resourceVersion":"1.0","resourceType":"KeyframeStore<SpriteFrameKeyframe>",},"trackColour":0,"inheritsTrackColour":true,"builtinName":0,"traits":0,"interpolation":1,"tracks":[],"events":[],"isCreationTrack":false,"modifiers":[],},
     ],
     "visibleRange": null,
     "lockOrigin": false,
@@ -61,14 +65,9 @@
     "yorigin": 0,
     "eventToFunction": {},
     "eventStubScript": null,
-    "parent": {"name":"spr_cardboardpillaroff","path":"sprites/spr_cardboardpillaroff/spr_cardboardpillaroff.yy",},
-    "resourceVersion": "1.4",
-    "name": "spr_cardboardpillaroff",
-    "tags": [],
-    "resourceType": "GMSequence",
   },
   "layers": [
-    {"visible":true,"isLocked":false,"blendMode":0,"opacity":100.0,"displayName":"default","resourceVersion":"1.0","name":"acb1c77e-97c3-44c0-a60a-574ab9e9b2b0","tags":[],"resourceType":"GMImageLayer",},
+    {"resourceType":"GMImageLayer","resourceVersion":"1.0","name":"acb1c77e-97c3-44c0-a60a-574ab9e9b2b0","visible":true,"isLocked":false,"blendMode":0,"opacity":100.0,"displayName":"default",},
   ],
   "nineSlice": {
     "left": 0,
@@ -99,8 +98,4 @@
     "name": "minipillar",
     "path": "folders/Sprites/SUGARY SPIRE/minipillar.yy",
   },
-  "resourceVersion": "1.0",
-  "name": "spr_cardboardpillaroff",
-  "tags": [],
-  "resourceType": "GMSprite",
 }

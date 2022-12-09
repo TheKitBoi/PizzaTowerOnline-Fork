@@ -1,4 +1,7 @@
 {
+  "resourceType": "GMSprite",
+  "resourceVersion": "1.0",
+  "name": "spr_player_chainsawidle",
   "bboxMode": 0,
   "collisionKind": 1,
   "type": 0,
@@ -14,6 +17,7 @@
   "HTile": false,
   "VTile": false,
   "For3D": false,
+  "DynamicTexturePage": false,
   "width": 150,
   "height": 135,
   "textureGroupId": {
@@ -24,18 +28,14 @@
   "gridX": 0,
   "gridY": 0,
   "frames": [
-    {"compositeImage":{"FrameId":{"name":"ae5f3b6a-6332-4737-a68d-dc5a0170154c","path":"sprites/spr_player_chainsawidle/spr_player_chainsawidle.yy",},"LayerId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"ae5f3b6a-6332-4737-a68d-dc5a0170154c","path":"sprites/spr_player_chainsawidle/spr_player_chainsawidle.yy",},"LayerId":{"name":"1066bc28-fbcd-4e1a-8816-32624da2099a","path":"sprites/spr_player_chainsawidle/spr_player_chainsawidle.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-      ],"parent":{"name":"spr_player_chainsawidle","path":"sprites/spr_player_chainsawidle/spr_player_chainsawidle.yy",},"resourceVersion":"1.0","name":"ae5f3b6a-6332-4737-a68d-dc5a0170154c","tags":[],"resourceType":"GMSpriteFrame",},
-    {"compositeImage":{"FrameId":{"name":"f946cbd1-ed78-415d-aad2-02d32adf835b","path":"sprites/spr_player_chainsawidle/spr_player_chainsawidle.yy",},"LayerId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"f946cbd1-ed78-415d-aad2-02d32adf835b","path":"sprites/spr_player_chainsawidle/spr_player_chainsawidle.yy",},"LayerId":{"name":"1066bc28-fbcd-4e1a-8816-32624da2099a","path":"sprites/spr_player_chainsawidle/spr_player_chainsawidle.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-      ],"parent":{"name":"spr_player_chainsawidle","path":"sprites/spr_player_chainsawidle/spr_player_chainsawidle.yy",},"resourceVersion":"1.0","name":"f946cbd1-ed78-415d-aad2-02d32adf835b","tags":[],"resourceType":"GMSpriteFrame",},
-    {"compositeImage":{"FrameId":{"name":"0ff8ff40-522b-4a40-9248-1fc20bbd0c09","path":"sprites/spr_player_chainsawidle/spr_player_chainsawidle.yy",},"LayerId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"0ff8ff40-522b-4a40-9248-1fc20bbd0c09","path":"sprites/spr_player_chainsawidle/spr_player_chainsawidle.yy",},"LayerId":{"name":"1066bc28-fbcd-4e1a-8816-32624da2099a","path":"sprites/spr_player_chainsawidle/spr_player_chainsawidle.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-      ],"parent":{"name":"spr_player_chainsawidle","path":"sprites/spr_player_chainsawidle/spr_player_chainsawidle.yy",},"resourceVersion":"1.0","name":"0ff8ff40-522b-4a40-9248-1fc20bbd0c09","tags":[],"resourceType":"GMSpriteFrame",},
+    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"ae5f3b6a-6332-4737-a68d-dc5a0170154c",},
+    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"f946cbd1-ed78-415d-aad2-02d32adf835b",},
+    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"0ff8ff40-522b-4a40-9248-1fc20bbd0c09",},
   ],
   "sequence": {
-    "spriteId": {"name":"spr_player_chainsawidle","path":"sprites/spr_player_chainsawidle/spr_player_chainsawidle.yy",},
+    "resourceType": "GMSequence",
+    "resourceVersion": "1.4",
+    "name": "spr_player_chainsawidle",
     "timeUnits": 1,
     "playback": 1,
     "playbackSpeed": 1.0,
@@ -46,11 +46,11 @@
     "events": {"Keyframes":[],"resourceVersion":"1.0","resourceType":"KeyframeStore<MessageEventKeyframe>",},
     "moments": {"Keyframes":[],"resourceVersion":"1.0","resourceType":"KeyframeStore<MomentsEventKeyframe>",},
     "tracks": [
-      {"name":"frames","spriteId":null,"keyframes":{"Keyframes":[
+      {"resourceType":"GMSpriteFramesTrack","resourceVersion":"1.0","name":"frames","spriteId":null,"keyframes":{"Keyframes":[
             {"id":"02121bb1-6335-41ff-a59a-39b6ec7f8a26","Key":0.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"ae5f3b6a-6332-4737-a68d-dc5a0170154c","path":"sprites/spr_player_chainsawidle/spr_player_chainsawidle.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
             {"id":"b02a5cce-9d0e-413a-9912-a4e62eec1ab0","Key":1.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"f946cbd1-ed78-415d-aad2-02d32adf835b","path":"sprites/spr_player_chainsawidle/spr_player_chainsawidle.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
             {"id":"2099535f-ef8f-48d5-8cd0-5fca81c8e323","Key":2.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"0ff8ff40-522b-4a40-9248-1fc20bbd0c09","path":"sprites/spr_player_chainsawidle/spr_player_chainsawidle.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
-          ],"resourceVersion":"1.0","resourceType":"KeyframeStore<SpriteFrameKeyframe>",},"trackColour":0,"inheritsTrackColour":true,"builtinName":0,"traits":0,"interpolation":1,"tracks":[],"events":[],"isCreationTrack":false,"resourceVersion":"1.0","tags":[],"resourceType":"GMSpriteFramesTrack","modifiers":[],},
+          ],"resourceVersion":"1.0","resourceType":"KeyframeStore<SpriteFrameKeyframe>",},"trackColour":0,"inheritsTrackColour":true,"builtinName":0,"traits":0,"interpolation":1,"tracks":[],"events":[],"isCreationTrack":false,"modifiers":[],},
     ],
     "visibleRange": null,
     "lockOrigin": false,
@@ -66,22 +66,13 @@
     "yorigin": 85,
     "eventToFunction": {},
     "eventStubScript": null,
-    "parent": {"name":"spr_player_chainsawidle","path":"sprites/spr_player_chainsawidle/spr_player_chainsawidle.yy",},
-    "resourceVersion": "1.4",
-    "name": "spr_player_chainsawidle",
-    "tags": [],
-    "resourceType": "GMSequence",
   },
   "layers": [
-    {"visible":true,"isLocked":false,"blendMode":0,"opacity":100.0,"displayName":"default","resourceVersion":"1.0","name":"1066bc28-fbcd-4e1a-8816-32624da2099a","tags":[],"resourceType":"GMImageLayer",},
+    {"resourceType":"GMImageLayer","resourceVersion":"1.0","name":"1066bc28-fbcd-4e1a-8816-32624da2099a","visible":true,"isLocked":false,"blendMode":0,"opacity":100.0,"displayName":"default",},
   ],
   "nineSlice": null,
   "parent": {
     "name": "chainsaw",
     "path": "folders/Sprites/players/pepino/chainsaw.yy",
   },
-  "resourceVersion": "1.0",
-  "name": "spr_player_chainsawidle",
-  "tags": [],
-  "resourceType": "GMSprite",
 }

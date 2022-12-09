@@ -1,4 +1,7 @@
 {
+  "resourceType": "GMSprite",
+  "resourceVersion": "1.0",
+  "name": "spr_tank_charge",
   "ConfigValues": {
     "debug": {"textureGroupId":"{\"name\":\"tg_baddie\",\"path\":\"texturegroups/tg_baddie\"}",},
   },
@@ -17,6 +20,7 @@
   "HTile": false,
   "VTile": false,
   "For3D": false,
+  "DynamicTexturePage": false,
   "width": 150,
   "height": 150,
   "textureGroupId": {
@@ -27,18 +31,14 @@
   "gridX": 0,
   "gridY": 0,
   "frames": [
-    {"compositeImage":{"FrameId":{"name":"2ac148ab-f6f3-4001-8a01-288b472b5b4b","path":"sprites/spr_tank_charge/spr_tank_charge.yy",},"LayerId":null,"resourceVersion":"1.0","name":"composite","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"2ac148ab-f6f3-4001-8a01-288b472b5b4b","path":"sprites/spr_tank_charge/spr_tank_charge.yy",},"LayerId":{"name":"607df80a-4fa3-4ee7-8adb-fc5298207518","path":"sprites/spr_tank_charge/spr_tank_charge.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-      ],"parent":{"name":"spr_tank_charge","path":"sprites/spr_tank_charge/spr_tank_charge.yy",},"resourceVersion":"1.0","name":"2ac148ab-f6f3-4001-8a01-288b472b5b4b","tags":[],"resourceType":"GMSpriteFrame",},
-    {"compositeImage":{"FrameId":{"name":"075fe6b7-39d1-4510-b815-efc884a506cd","path":"sprites/spr_tank_charge/spr_tank_charge.yy",},"LayerId":null,"resourceVersion":"1.0","name":"composite","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"075fe6b7-39d1-4510-b815-efc884a506cd","path":"sprites/spr_tank_charge/spr_tank_charge.yy",},"LayerId":{"name":"607df80a-4fa3-4ee7-8adb-fc5298207518","path":"sprites/spr_tank_charge/spr_tank_charge.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-      ],"parent":{"name":"spr_tank_charge","path":"sprites/spr_tank_charge/spr_tank_charge.yy",},"resourceVersion":"1.0","name":"075fe6b7-39d1-4510-b815-efc884a506cd","tags":[],"resourceType":"GMSpriteFrame",},
-    {"compositeImage":{"FrameId":{"name":"cfe5b24f-cbc7-4e21-8590-32463b72dfcf","path":"sprites/spr_tank_charge/spr_tank_charge.yy",},"LayerId":null,"resourceVersion":"1.0","name":"composite","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"cfe5b24f-cbc7-4e21-8590-32463b72dfcf","path":"sprites/spr_tank_charge/spr_tank_charge.yy",},"LayerId":{"name":"607df80a-4fa3-4ee7-8adb-fc5298207518","path":"sprites/spr_tank_charge/spr_tank_charge.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-      ],"parent":{"name":"spr_tank_charge","path":"sprites/spr_tank_charge/spr_tank_charge.yy",},"resourceVersion":"1.0","name":"cfe5b24f-cbc7-4e21-8590-32463b72dfcf","tags":[],"resourceType":"GMSpriteFrame",},
+    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"2ac148ab-f6f3-4001-8a01-288b472b5b4b",},
+    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"075fe6b7-39d1-4510-b815-efc884a506cd",},
+    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"cfe5b24f-cbc7-4e21-8590-32463b72dfcf",},
   ],
   "sequence": {
-    "spriteId": {"name":"spr_tank_charge","path":"sprites/spr_tank_charge/spr_tank_charge.yy",},
+    "resourceType": "GMSequence",
+    "resourceVersion": "1.4",
+    "name": "",
     "timeUnits": 1,
     "playback": 1,
     "playbackSpeed": 1.0,
@@ -49,11 +49,11 @@
     "events": {"Keyframes":[],"resourceVersion":"1.0","resourceType":"KeyframeStore<MessageEventKeyframe>",},
     "moments": {"Keyframes":[],"resourceVersion":"1.0","resourceType":"KeyframeStore<MomentsEventKeyframe>",},
     "tracks": [
-      {"name":"frames","spriteId":null,"keyframes":{"Keyframes":[
+      {"resourceType":"GMSpriteFramesTrack","resourceVersion":"1.0","name":"frames","spriteId":null,"keyframes":{"Keyframes":[
             {"id":"23031e97-800f-466b-8a6b-df4a96cc6c51","Key":0.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"2ac148ab-f6f3-4001-8a01-288b472b5b4b","path":"sprites/spr_tank_charge/spr_tank_charge.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
             {"id":"32a9b357-5a3a-46cc-a336-baeb7f7ff489","Key":1.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"075fe6b7-39d1-4510-b815-efc884a506cd","path":"sprites/spr_tank_charge/spr_tank_charge.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
             {"id":"46e9b5ca-8805-48b2-86ec-0f9d4a82a289","Key":2.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"cfe5b24f-cbc7-4e21-8590-32463b72dfcf","path":"sprites/spr_tank_charge/spr_tank_charge.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
-          ],"resourceVersion":"1.0","resourceType":"KeyframeStore<SpriteFrameKeyframe>",},"trackColour":0,"inheritsTrackColour":true,"builtinName":0,"traits":0,"interpolation":1,"tracks":[],"events":[],"isCreationTrack":false,"resourceVersion":"1.0","tags":[],"resourceType":"GMSpriteFramesTrack","modifiers":[],},
+          ],"resourceVersion":"1.0","resourceType":"KeyframeStore<SpriteFrameKeyframe>",},"trackColour":0,"inheritsTrackColour":true,"builtinName":0,"traits":0,"interpolation":1,"tracks":[],"events":[],"isCreationTrack":false,"modifiers":[],},
     ],
     "visibleRange": null,
     "lockOrigin": false,
@@ -69,22 +69,13 @@
     "yorigin": 100,
     "eventToFunction": {},
     "eventStubScript": null,
-    "parent": {"name":"spr_tank_charge","path":"sprites/spr_tank_charge/spr_tank_charge.yy",},
-    "resourceVersion": "1.4",
-    "name": "",
-    "tags": [],
-    "resourceType": "GMSequence",
   },
   "layers": [
-    {"visible":true,"isLocked":false,"blendMode":0,"opacity":100.0,"displayName":"default","resourceVersion":"1.0","name":"607df80a-4fa3-4ee7-8adb-fc5298207518","tags":[],"resourceType":"GMImageLayer",},
+    {"resourceType":"GMImageLayer","resourceVersion":"1.0","name":"607df80a-4fa3-4ee7-8adb-fc5298207518","visible":true,"isLocked":false,"blendMode":0,"opacity":100.0,"displayName":"default",},
   ],
   "nineSlice": null,
   "parent": {
     "name": "tank",
     "path": "folders/Sprites/baddie/tank.yy",
   },
-  "resourceVersion": "1.0",
-  "name": "spr_tank_charge",
-  "tags": [],
-  "resourceType": "GMSprite",
 }

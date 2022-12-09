@@ -1,4 +1,7 @@
 {
+  "resourceType": "GMSprite",
+  "resourceVersion": "1.0",
+  "name": "bg_entryway2_skyescape",
   "ConfigValues": {
     "debug": {"textureGroupId":"{\"name\":\"tg_sugaryspire\",\"path\":\"texturegroups/tg_sugaryspire\"}",},
   },
@@ -17,6 +20,7 @@
   "HTile": false,
   "VTile": false,
   "For3D": false,
+  "DynamicTexturePage": false,
   "width": 1100,
   "height": 600,
   "textureGroupId": {
@@ -27,12 +31,12 @@
   "gridX": 0,
   "gridY": 0,
   "frames": [
-    {"compositeImage":{"FrameId":{"name":"1a083661-753e-4009-8ebc-7912b2e2551b","path":"sprites/bg_entryway2_skyescape/bg_entryway2_skyescape.yy",},"LayerId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"1a083661-753e-4009-8ebc-7912b2e2551b","path":"sprites/bg_entryway2_skyescape/bg_entryway2_skyescape.yy",},"LayerId":{"name":"dadbbc23-26bf-42df-8d4d-ad4b48d08fef","path":"sprites/bg_entryway2_skyescape/bg_entryway2_skyescape.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-      ],"parent":{"name":"bg_entryway2_skyescape","path":"sprites/bg_entryway2_skyescape/bg_entryway2_skyescape.yy",},"resourceVersion":"1.0","name":"1a083661-753e-4009-8ebc-7912b2e2551b","tags":[],"resourceType":"GMSpriteFrame",},
+    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"1a083661-753e-4009-8ebc-7912b2e2551b",},
   ],
   "sequence": {
-    "spriteId": {"name":"bg_entryway2_skyescape","path":"sprites/bg_entryway2_skyescape/bg_entryway2_skyescape.yy",},
+    "resourceType": "GMSequence",
+    "resourceVersion": "1.4",
+    "name": "bg_entryway2_skyescape",
     "timeUnits": 1,
     "playback": 1,
     "playbackSpeed": 1.0,
@@ -43,9 +47,9 @@
     "events": {"Keyframes":[],"resourceVersion":"1.0","resourceType":"KeyframeStore<MessageEventKeyframe>",},
     "moments": {"Keyframes":[],"resourceVersion":"1.0","resourceType":"KeyframeStore<MomentsEventKeyframe>",},
     "tracks": [
-      {"name":"frames","spriteId":null,"keyframes":{"Keyframes":[
+      {"resourceType":"GMSpriteFramesTrack","resourceVersion":"1.0","name":"frames","spriteId":null,"keyframes":{"Keyframes":[
             {"id":"55fd8ffa-cce0-4f13-aac2-3bb153779ca4","Key":0.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"1a083661-753e-4009-8ebc-7912b2e2551b","path":"sprites/bg_entryway2_skyescape/bg_entryway2_skyescape.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
-          ],"resourceVersion":"1.0","resourceType":"KeyframeStore<SpriteFrameKeyframe>",},"trackColour":0,"inheritsTrackColour":true,"builtinName":0,"traits":0,"interpolation":1,"tracks":[],"events":[],"isCreationTrack":false,"resourceVersion":"1.0","tags":[],"resourceType":"GMSpriteFramesTrack","modifiers":[],},
+          ],"resourceVersion":"1.0","resourceType":"KeyframeStore<SpriteFrameKeyframe>",},"trackColour":0,"inheritsTrackColour":true,"builtinName":0,"traits":0,"interpolation":1,"tracks":[],"events":[],"isCreationTrack":false,"modifiers":[],},
     ],
     "visibleRange": null,
     "lockOrigin": false,
@@ -61,22 +65,13 @@
     "yorigin": 0,
     "eventToFunction": {},
     "eventStubScript": null,
-    "parent": {"name":"bg_entryway2_skyescape","path":"sprites/bg_entryway2_skyescape/bg_entryway2_skyescape.yy",},
-    "resourceVersion": "1.4",
-    "name": "bg_entryway2_skyescape",
-    "tags": [],
-    "resourceType": "GMSequence",
   },
   "layers": [
-    {"visible":true,"isLocked":false,"blendMode":0,"opacity":100.0,"displayName":"default","resourceVersion":"1.0","name":"dadbbc23-26bf-42df-8d4d-ad4b48d08fef","tags":[],"resourceType":"GMImageLayer",},
+    {"resourceType":"GMImageLayer","resourceVersion":"1.0","name":"dadbbc23-26bf-42df-8d4d-ad4b48d08fef","visible":true,"isLocked":false,"blendMode":0,"opacity":100.0,"displayName":"default",},
   ],
   "nineSlice": null,
   "parent": {
     "name": "escape",
     "path": "folders/Sprites/SUGARY SPIRE/tilesets/entryway/escape.yy",
   },
-  "resourceVersion": "1.0",
-  "name": "bg_entryway2_skyescape",
-  "tags": [],
-  "resourceType": "GMSprite",
 }

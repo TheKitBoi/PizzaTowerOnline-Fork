@@ -1,4 +1,7 @@
 {
+  "resourceType": "GMSprite",
+  "resourceVersion": "1.0",
+  "name": "spr_tile_pizzamart1",
   "ConfigValues": {
     "debug": {"textureGroupId":"{\"name\":\"tg_leveleditor\",\"path\":\"texturegroups/tg_leveleditor\"}",},
   },
@@ -17,6 +20,7 @@
   "HTile": false,
   "VTile": false,
   "For3D": false,
+  "DynamicTexturePage": false,
   "width": 32,
   "height": 32,
   "textureGroupId": {
@@ -27,150 +31,58 @@
   "gridX": 0,
   "gridY": 0,
   "frames": [
-    {"compositeImage":{"FrameId":{"name":"c2960e22-fe61-4d93-b91d-a65308165599","path":"sprites/spr_tile_pizzamart1/spr_tile_pizzamart1.yy",},"LayerId":null,"resourceVersion":"1.0","name":"composite","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"c2960e22-fe61-4d93-b91d-a65308165599","path":"sprites/spr_tile_pizzamart1/spr_tile_pizzamart1.yy",},"LayerId":{"name":"ccbdd416-1d7e-4c5e-a571-042c59ce1adb","path":"sprites/spr_tile_pizzamart1/spr_tile_pizzamart1.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-      ],"parent":{"name":"spr_tile_pizzamart1","path":"sprites/spr_tile_pizzamart1/spr_tile_pizzamart1.yy",},"resourceVersion":"1.0","name":"c2960e22-fe61-4d93-b91d-a65308165599","tags":[],"resourceType":"GMSpriteFrame",},
-    {"compositeImage":{"FrameId":{"name":"e2bd0e09-d9dd-4c27-b556-3a26897d4de4","path":"sprites/spr_tile_pizzamart1/spr_tile_pizzamart1.yy",},"LayerId":null,"resourceVersion":"1.0","name":"composite","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"e2bd0e09-d9dd-4c27-b556-3a26897d4de4","path":"sprites/spr_tile_pizzamart1/spr_tile_pizzamart1.yy",},"LayerId":{"name":"ccbdd416-1d7e-4c5e-a571-042c59ce1adb","path":"sprites/spr_tile_pizzamart1/spr_tile_pizzamart1.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-      ],"parent":{"name":"spr_tile_pizzamart1","path":"sprites/spr_tile_pizzamart1/spr_tile_pizzamart1.yy",},"resourceVersion":"1.0","name":"e2bd0e09-d9dd-4c27-b556-3a26897d4de4","tags":[],"resourceType":"GMSpriteFrame",},
-    {"compositeImage":{"FrameId":{"name":"6bee41f0-91c3-42b8-ab83-2e9a3b84892f","path":"sprites/spr_tile_pizzamart1/spr_tile_pizzamart1.yy",},"LayerId":null,"resourceVersion":"1.0","name":"composite","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"6bee41f0-91c3-42b8-ab83-2e9a3b84892f","path":"sprites/spr_tile_pizzamart1/spr_tile_pizzamart1.yy",},"LayerId":{"name":"ccbdd416-1d7e-4c5e-a571-042c59ce1adb","path":"sprites/spr_tile_pizzamart1/spr_tile_pizzamart1.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-      ],"parent":{"name":"spr_tile_pizzamart1","path":"sprites/spr_tile_pizzamart1/spr_tile_pizzamart1.yy",},"resourceVersion":"1.0","name":"6bee41f0-91c3-42b8-ab83-2e9a3b84892f","tags":[],"resourceType":"GMSpriteFrame",},
-    {"compositeImage":{"FrameId":{"name":"02881f93-9625-4279-a53c-2da0e2bd98d0","path":"sprites/spr_tile_pizzamart1/spr_tile_pizzamart1.yy",},"LayerId":null,"resourceVersion":"1.0","name":"composite","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"02881f93-9625-4279-a53c-2da0e2bd98d0","path":"sprites/spr_tile_pizzamart1/spr_tile_pizzamart1.yy",},"LayerId":{"name":"ccbdd416-1d7e-4c5e-a571-042c59ce1adb","path":"sprites/spr_tile_pizzamart1/spr_tile_pizzamart1.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-      ],"parent":{"name":"spr_tile_pizzamart1","path":"sprites/spr_tile_pizzamart1/spr_tile_pizzamart1.yy",},"resourceVersion":"1.0","name":"02881f93-9625-4279-a53c-2da0e2bd98d0","tags":[],"resourceType":"GMSpriteFrame",},
-    {"compositeImage":{"FrameId":{"name":"bb276069-a75b-4022-b297-9d767207c672","path":"sprites/spr_tile_pizzamart1/spr_tile_pizzamart1.yy",},"LayerId":null,"resourceVersion":"1.0","name":"composite","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"bb276069-a75b-4022-b297-9d767207c672","path":"sprites/spr_tile_pizzamart1/spr_tile_pizzamart1.yy",},"LayerId":{"name":"ccbdd416-1d7e-4c5e-a571-042c59ce1adb","path":"sprites/spr_tile_pizzamart1/spr_tile_pizzamart1.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-      ],"parent":{"name":"spr_tile_pizzamart1","path":"sprites/spr_tile_pizzamart1/spr_tile_pizzamart1.yy",},"resourceVersion":"1.0","name":"bb276069-a75b-4022-b297-9d767207c672","tags":[],"resourceType":"GMSpriteFrame",},
-    {"compositeImage":{"FrameId":{"name":"37765b8f-bb3b-4b7b-9bba-1c4b2f9b67b7","path":"sprites/spr_tile_pizzamart1/spr_tile_pizzamart1.yy",},"LayerId":null,"resourceVersion":"1.0","name":"composite","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"37765b8f-bb3b-4b7b-9bba-1c4b2f9b67b7","path":"sprites/spr_tile_pizzamart1/spr_tile_pizzamart1.yy",},"LayerId":{"name":"ccbdd416-1d7e-4c5e-a571-042c59ce1adb","path":"sprites/spr_tile_pizzamart1/spr_tile_pizzamart1.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-      ],"parent":{"name":"spr_tile_pizzamart1","path":"sprites/spr_tile_pizzamart1/spr_tile_pizzamart1.yy",},"resourceVersion":"1.0","name":"37765b8f-bb3b-4b7b-9bba-1c4b2f9b67b7","tags":[],"resourceType":"GMSpriteFrame",},
-    {"compositeImage":{"FrameId":{"name":"23638d35-a665-46ae-886e-8c0de45ad9db","path":"sprites/spr_tile_pizzamart1/spr_tile_pizzamart1.yy",},"LayerId":null,"resourceVersion":"1.0","name":"composite","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"23638d35-a665-46ae-886e-8c0de45ad9db","path":"sprites/spr_tile_pizzamart1/spr_tile_pizzamart1.yy",},"LayerId":{"name":"ccbdd416-1d7e-4c5e-a571-042c59ce1adb","path":"sprites/spr_tile_pizzamart1/spr_tile_pizzamart1.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-      ],"parent":{"name":"spr_tile_pizzamart1","path":"sprites/spr_tile_pizzamart1/spr_tile_pizzamart1.yy",},"resourceVersion":"1.0","name":"23638d35-a665-46ae-886e-8c0de45ad9db","tags":[],"resourceType":"GMSpriteFrame",},
-    {"compositeImage":{"FrameId":{"name":"4e697835-d386-48c4-b28b-28826f8a8096","path":"sprites/spr_tile_pizzamart1/spr_tile_pizzamart1.yy",},"LayerId":null,"resourceVersion":"1.0","name":"composite","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"4e697835-d386-48c4-b28b-28826f8a8096","path":"sprites/spr_tile_pizzamart1/spr_tile_pizzamart1.yy",},"LayerId":{"name":"ccbdd416-1d7e-4c5e-a571-042c59ce1adb","path":"sprites/spr_tile_pizzamart1/spr_tile_pizzamart1.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-      ],"parent":{"name":"spr_tile_pizzamart1","path":"sprites/spr_tile_pizzamart1/spr_tile_pizzamart1.yy",},"resourceVersion":"1.0","name":"4e697835-d386-48c4-b28b-28826f8a8096","tags":[],"resourceType":"GMSpriteFrame",},
-    {"compositeImage":{"FrameId":{"name":"7344e08e-cfb9-469e-9eb5-28fca895411d","path":"sprites/spr_tile_pizzamart1/spr_tile_pizzamart1.yy",},"LayerId":null,"resourceVersion":"1.0","name":"composite","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"7344e08e-cfb9-469e-9eb5-28fca895411d","path":"sprites/spr_tile_pizzamart1/spr_tile_pizzamart1.yy",},"LayerId":{"name":"ccbdd416-1d7e-4c5e-a571-042c59ce1adb","path":"sprites/spr_tile_pizzamart1/spr_tile_pizzamart1.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-      ],"parent":{"name":"spr_tile_pizzamart1","path":"sprites/spr_tile_pizzamart1/spr_tile_pizzamart1.yy",},"resourceVersion":"1.0","name":"7344e08e-cfb9-469e-9eb5-28fca895411d","tags":[],"resourceType":"GMSpriteFrame",},
-    {"compositeImage":{"FrameId":{"name":"096ca805-2914-48bd-bf0d-cd21094ee062","path":"sprites/spr_tile_pizzamart1/spr_tile_pizzamart1.yy",},"LayerId":null,"resourceVersion":"1.0","name":"composite","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"096ca805-2914-48bd-bf0d-cd21094ee062","path":"sprites/spr_tile_pizzamart1/spr_tile_pizzamart1.yy",},"LayerId":{"name":"ccbdd416-1d7e-4c5e-a571-042c59ce1adb","path":"sprites/spr_tile_pizzamart1/spr_tile_pizzamart1.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-      ],"parent":{"name":"spr_tile_pizzamart1","path":"sprites/spr_tile_pizzamart1/spr_tile_pizzamart1.yy",},"resourceVersion":"1.0","name":"096ca805-2914-48bd-bf0d-cd21094ee062","tags":[],"resourceType":"GMSpriteFrame",},
-    {"compositeImage":{"FrameId":{"name":"17b9a761-3b77-4d28-ab84-0a05d3606043","path":"sprites/spr_tile_pizzamart1/spr_tile_pizzamart1.yy",},"LayerId":null,"resourceVersion":"1.0","name":"composite","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"17b9a761-3b77-4d28-ab84-0a05d3606043","path":"sprites/spr_tile_pizzamart1/spr_tile_pizzamart1.yy",},"LayerId":{"name":"ccbdd416-1d7e-4c5e-a571-042c59ce1adb","path":"sprites/spr_tile_pizzamart1/spr_tile_pizzamart1.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-      ],"parent":{"name":"spr_tile_pizzamart1","path":"sprites/spr_tile_pizzamart1/spr_tile_pizzamart1.yy",},"resourceVersion":"1.0","name":"17b9a761-3b77-4d28-ab84-0a05d3606043","tags":[],"resourceType":"GMSpriteFrame",},
-    {"compositeImage":{"FrameId":{"name":"19436943-c759-4d3d-a79d-8d84ba2ac4f1","path":"sprites/spr_tile_pizzamart1/spr_tile_pizzamart1.yy",},"LayerId":null,"resourceVersion":"1.0","name":"composite","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"19436943-c759-4d3d-a79d-8d84ba2ac4f1","path":"sprites/spr_tile_pizzamart1/spr_tile_pizzamart1.yy",},"LayerId":{"name":"ccbdd416-1d7e-4c5e-a571-042c59ce1adb","path":"sprites/spr_tile_pizzamart1/spr_tile_pizzamart1.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-      ],"parent":{"name":"spr_tile_pizzamart1","path":"sprites/spr_tile_pizzamart1/spr_tile_pizzamart1.yy",},"resourceVersion":"1.0","name":"19436943-c759-4d3d-a79d-8d84ba2ac4f1","tags":[],"resourceType":"GMSpriteFrame",},
-    {"compositeImage":{"FrameId":{"name":"60bf5bfe-6206-4202-9209-d0d6e06efe0c","path":"sprites/spr_tile_pizzamart1/spr_tile_pizzamart1.yy",},"LayerId":null,"resourceVersion":"1.0","name":"composite","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"60bf5bfe-6206-4202-9209-d0d6e06efe0c","path":"sprites/spr_tile_pizzamart1/spr_tile_pizzamart1.yy",},"LayerId":{"name":"ccbdd416-1d7e-4c5e-a571-042c59ce1adb","path":"sprites/spr_tile_pizzamart1/spr_tile_pizzamart1.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-      ],"parent":{"name":"spr_tile_pizzamart1","path":"sprites/spr_tile_pizzamart1/spr_tile_pizzamart1.yy",},"resourceVersion":"1.0","name":"60bf5bfe-6206-4202-9209-d0d6e06efe0c","tags":[],"resourceType":"GMSpriteFrame",},
-    {"compositeImage":{"FrameId":{"name":"adb1d9c7-99f9-4fe7-9692-870affa3bc38","path":"sprites/spr_tile_pizzamart1/spr_tile_pizzamart1.yy",},"LayerId":null,"resourceVersion":"1.0","name":"composite","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"adb1d9c7-99f9-4fe7-9692-870affa3bc38","path":"sprites/spr_tile_pizzamart1/spr_tile_pizzamart1.yy",},"LayerId":{"name":"ccbdd416-1d7e-4c5e-a571-042c59ce1adb","path":"sprites/spr_tile_pizzamart1/spr_tile_pizzamart1.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-      ],"parent":{"name":"spr_tile_pizzamart1","path":"sprites/spr_tile_pizzamart1/spr_tile_pizzamart1.yy",},"resourceVersion":"1.0","name":"adb1d9c7-99f9-4fe7-9692-870affa3bc38","tags":[],"resourceType":"GMSpriteFrame",},
-    {"compositeImage":{"FrameId":{"name":"7dafe69e-0d39-4ef1-b8c5-b22b36ecb2d2","path":"sprites/spr_tile_pizzamart1/spr_tile_pizzamart1.yy",},"LayerId":null,"resourceVersion":"1.0","name":"composite","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"7dafe69e-0d39-4ef1-b8c5-b22b36ecb2d2","path":"sprites/spr_tile_pizzamart1/spr_tile_pizzamart1.yy",},"LayerId":{"name":"ccbdd416-1d7e-4c5e-a571-042c59ce1adb","path":"sprites/spr_tile_pizzamart1/spr_tile_pizzamart1.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-      ],"parent":{"name":"spr_tile_pizzamart1","path":"sprites/spr_tile_pizzamart1/spr_tile_pizzamart1.yy",},"resourceVersion":"1.0","name":"7dafe69e-0d39-4ef1-b8c5-b22b36ecb2d2","tags":[],"resourceType":"GMSpriteFrame",},
-    {"compositeImage":{"FrameId":{"name":"ada0e569-c0d9-486e-ab4a-15920e5d6c05","path":"sprites/spr_tile_pizzamart1/spr_tile_pizzamart1.yy",},"LayerId":null,"resourceVersion":"1.0","name":"composite","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"ada0e569-c0d9-486e-ab4a-15920e5d6c05","path":"sprites/spr_tile_pizzamart1/spr_tile_pizzamart1.yy",},"LayerId":{"name":"ccbdd416-1d7e-4c5e-a571-042c59ce1adb","path":"sprites/spr_tile_pizzamart1/spr_tile_pizzamart1.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-      ],"parent":{"name":"spr_tile_pizzamart1","path":"sprites/spr_tile_pizzamart1/spr_tile_pizzamart1.yy",},"resourceVersion":"1.0","name":"ada0e569-c0d9-486e-ab4a-15920e5d6c05","tags":[],"resourceType":"GMSpriteFrame",},
-    {"compositeImage":{"FrameId":{"name":"8f82f663-c703-4fa2-8d54-87001a4ffbe3","path":"sprites/spr_tile_pizzamart1/spr_tile_pizzamart1.yy",},"LayerId":null,"resourceVersion":"1.0","name":"composite","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"8f82f663-c703-4fa2-8d54-87001a4ffbe3","path":"sprites/spr_tile_pizzamart1/spr_tile_pizzamart1.yy",},"LayerId":{"name":"ccbdd416-1d7e-4c5e-a571-042c59ce1adb","path":"sprites/spr_tile_pizzamart1/spr_tile_pizzamart1.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-      ],"parent":{"name":"spr_tile_pizzamart1","path":"sprites/spr_tile_pizzamart1/spr_tile_pizzamart1.yy",},"resourceVersion":"1.0","name":"8f82f663-c703-4fa2-8d54-87001a4ffbe3","tags":[],"resourceType":"GMSpriteFrame",},
-    {"compositeImage":{"FrameId":{"name":"99d8de2c-f2fe-44dd-83ee-de0b9c53b061","path":"sprites/spr_tile_pizzamart1/spr_tile_pizzamart1.yy",},"LayerId":null,"resourceVersion":"1.0","name":"composite","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"99d8de2c-f2fe-44dd-83ee-de0b9c53b061","path":"sprites/spr_tile_pizzamart1/spr_tile_pizzamart1.yy",},"LayerId":{"name":"ccbdd416-1d7e-4c5e-a571-042c59ce1adb","path":"sprites/spr_tile_pizzamart1/spr_tile_pizzamart1.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-      ],"parent":{"name":"spr_tile_pizzamart1","path":"sprites/spr_tile_pizzamart1/spr_tile_pizzamart1.yy",},"resourceVersion":"1.0","name":"99d8de2c-f2fe-44dd-83ee-de0b9c53b061","tags":[],"resourceType":"GMSpriteFrame",},
-    {"compositeImage":{"FrameId":{"name":"01391f2d-b2a8-4156-ac10-ded403befe4e","path":"sprites/spr_tile_pizzamart1/spr_tile_pizzamart1.yy",},"LayerId":null,"resourceVersion":"1.0","name":"composite","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"01391f2d-b2a8-4156-ac10-ded403befe4e","path":"sprites/spr_tile_pizzamart1/spr_tile_pizzamart1.yy",},"LayerId":{"name":"ccbdd416-1d7e-4c5e-a571-042c59ce1adb","path":"sprites/spr_tile_pizzamart1/spr_tile_pizzamart1.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-      ],"parent":{"name":"spr_tile_pizzamart1","path":"sprites/spr_tile_pizzamart1/spr_tile_pizzamart1.yy",},"resourceVersion":"1.0","name":"01391f2d-b2a8-4156-ac10-ded403befe4e","tags":[],"resourceType":"GMSpriteFrame",},
-    {"compositeImage":{"FrameId":{"name":"4f2ceced-4013-4704-8a5c-7c69aa4166c9","path":"sprites/spr_tile_pizzamart1/spr_tile_pizzamart1.yy",},"LayerId":null,"resourceVersion":"1.0","name":"composite","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"4f2ceced-4013-4704-8a5c-7c69aa4166c9","path":"sprites/spr_tile_pizzamart1/spr_tile_pizzamart1.yy",},"LayerId":{"name":"ccbdd416-1d7e-4c5e-a571-042c59ce1adb","path":"sprites/spr_tile_pizzamart1/spr_tile_pizzamart1.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-      ],"parent":{"name":"spr_tile_pizzamart1","path":"sprites/spr_tile_pizzamart1/spr_tile_pizzamart1.yy",},"resourceVersion":"1.0","name":"4f2ceced-4013-4704-8a5c-7c69aa4166c9","tags":[],"resourceType":"GMSpriteFrame",},
-    {"compositeImage":{"FrameId":{"name":"dcefe109-453f-4422-8ce6-dd8ec7b33a7f","path":"sprites/spr_tile_pizzamart1/spr_tile_pizzamart1.yy",},"LayerId":null,"resourceVersion":"1.0","name":"composite","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"dcefe109-453f-4422-8ce6-dd8ec7b33a7f","path":"sprites/spr_tile_pizzamart1/spr_tile_pizzamart1.yy",},"LayerId":{"name":"ccbdd416-1d7e-4c5e-a571-042c59ce1adb","path":"sprites/spr_tile_pizzamart1/spr_tile_pizzamart1.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-      ],"parent":{"name":"spr_tile_pizzamart1","path":"sprites/spr_tile_pizzamart1/spr_tile_pizzamart1.yy",},"resourceVersion":"1.0","name":"dcefe109-453f-4422-8ce6-dd8ec7b33a7f","tags":[],"resourceType":"GMSpriteFrame",},
-    {"compositeImage":{"FrameId":{"name":"57ecce28-7d5b-487b-b558-3adfa54240c1","path":"sprites/spr_tile_pizzamart1/spr_tile_pizzamart1.yy",},"LayerId":null,"resourceVersion":"1.0","name":"composite","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"57ecce28-7d5b-487b-b558-3adfa54240c1","path":"sprites/spr_tile_pizzamart1/spr_tile_pizzamart1.yy",},"LayerId":{"name":"ccbdd416-1d7e-4c5e-a571-042c59ce1adb","path":"sprites/spr_tile_pizzamart1/spr_tile_pizzamart1.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-      ],"parent":{"name":"spr_tile_pizzamart1","path":"sprites/spr_tile_pizzamart1/spr_tile_pizzamart1.yy",},"resourceVersion":"1.0","name":"57ecce28-7d5b-487b-b558-3adfa54240c1","tags":[],"resourceType":"GMSpriteFrame",},
-    {"compositeImage":{"FrameId":{"name":"cdecdcd0-ffaa-4449-9b5d-5e2618eddc3a","path":"sprites/spr_tile_pizzamart1/spr_tile_pizzamart1.yy",},"LayerId":null,"resourceVersion":"1.0","name":"composite","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"cdecdcd0-ffaa-4449-9b5d-5e2618eddc3a","path":"sprites/spr_tile_pizzamart1/spr_tile_pizzamart1.yy",},"LayerId":{"name":"ccbdd416-1d7e-4c5e-a571-042c59ce1adb","path":"sprites/spr_tile_pizzamart1/spr_tile_pizzamart1.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-      ],"parent":{"name":"spr_tile_pizzamart1","path":"sprites/spr_tile_pizzamart1/spr_tile_pizzamart1.yy",},"resourceVersion":"1.0","name":"cdecdcd0-ffaa-4449-9b5d-5e2618eddc3a","tags":[],"resourceType":"GMSpriteFrame",},
-    {"compositeImage":{"FrameId":{"name":"aa8c6303-9b8f-4c7b-bc28-e90558047fcb","path":"sprites/spr_tile_pizzamart1/spr_tile_pizzamart1.yy",},"LayerId":null,"resourceVersion":"1.0","name":"composite","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"aa8c6303-9b8f-4c7b-bc28-e90558047fcb","path":"sprites/spr_tile_pizzamart1/spr_tile_pizzamart1.yy",},"LayerId":{"name":"ccbdd416-1d7e-4c5e-a571-042c59ce1adb","path":"sprites/spr_tile_pizzamart1/spr_tile_pizzamart1.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-      ],"parent":{"name":"spr_tile_pizzamart1","path":"sprites/spr_tile_pizzamart1/spr_tile_pizzamart1.yy",},"resourceVersion":"1.0","name":"aa8c6303-9b8f-4c7b-bc28-e90558047fcb","tags":[],"resourceType":"GMSpriteFrame",},
-    {"compositeImage":{"FrameId":{"name":"c5c48a63-ccb5-4cd9-a6f8-005281a1890e","path":"sprites/spr_tile_pizzamart1/spr_tile_pizzamart1.yy",},"LayerId":null,"resourceVersion":"1.0","name":"composite","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"c5c48a63-ccb5-4cd9-a6f8-005281a1890e","path":"sprites/spr_tile_pizzamart1/spr_tile_pizzamart1.yy",},"LayerId":{"name":"ccbdd416-1d7e-4c5e-a571-042c59ce1adb","path":"sprites/spr_tile_pizzamart1/spr_tile_pizzamart1.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-      ],"parent":{"name":"spr_tile_pizzamart1","path":"sprites/spr_tile_pizzamart1/spr_tile_pizzamart1.yy",},"resourceVersion":"1.0","name":"c5c48a63-ccb5-4cd9-a6f8-005281a1890e","tags":[],"resourceType":"GMSpriteFrame",},
-    {"compositeImage":{"FrameId":{"name":"40e2cb3d-df5c-45d4-b0ee-59b25fdd960a","path":"sprites/spr_tile_pizzamart1/spr_tile_pizzamart1.yy",},"LayerId":null,"resourceVersion":"1.0","name":"composite","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"40e2cb3d-df5c-45d4-b0ee-59b25fdd960a","path":"sprites/spr_tile_pizzamart1/spr_tile_pizzamart1.yy",},"LayerId":{"name":"ccbdd416-1d7e-4c5e-a571-042c59ce1adb","path":"sprites/spr_tile_pizzamart1/spr_tile_pizzamart1.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-      ],"parent":{"name":"spr_tile_pizzamart1","path":"sprites/spr_tile_pizzamart1/spr_tile_pizzamart1.yy",},"resourceVersion":"1.0","name":"40e2cb3d-df5c-45d4-b0ee-59b25fdd960a","tags":[],"resourceType":"GMSpriteFrame",},
-    {"compositeImage":{"FrameId":{"name":"194a4cd4-b8c0-4543-9e25-08e8fdafd192","path":"sprites/spr_tile_pizzamart1/spr_tile_pizzamart1.yy",},"LayerId":null,"resourceVersion":"1.0","name":"composite","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"194a4cd4-b8c0-4543-9e25-08e8fdafd192","path":"sprites/spr_tile_pizzamart1/spr_tile_pizzamart1.yy",},"LayerId":{"name":"ccbdd416-1d7e-4c5e-a571-042c59ce1adb","path":"sprites/spr_tile_pizzamart1/spr_tile_pizzamart1.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-      ],"parent":{"name":"spr_tile_pizzamart1","path":"sprites/spr_tile_pizzamart1/spr_tile_pizzamart1.yy",},"resourceVersion":"1.0","name":"194a4cd4-b8c0-4543-9e25-08e8fdafd192","tags":[],"resourceType":"GMSpriteFrame",},
-    {"compositeImage":{"FrameId":{"name":"44e49a36-16aa-4fd3-a798-1beb4f54dfa3","path":"sprites/spr_tile_pizzamart1/spr_tile_pizzamart1.yy",},"LayerId":null,"resourceVersion":"1.0","name":"composite","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"44e49a36-16aa-4fd3-a798-1beb4f54dfa3","path":"sprites/spr_tile_pizzamart1/spr_tile_pizzamart1.yy",},"LayerId":{"name":"ccbdd416-1d7e-4c5e-a571-042c59ce1adb","path":"sprites/spr_tile_pizzamart1/spr_tile_pizzamart1.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-      ],"parent":{"name":"spr_tile_pizzamart1","path":"sprites/spr_tile_pizzamart1/spr_tile_pizzamart1.yy",},"resourceVersion":"1.0","name":"44e49a36-16aa-4fd3-a798-1beb4f54dfa3","tags":[],"resourceType":"GMSpriteFrame",},
-    {"compositeImage":{"FrameId":{"name":"1eca787b-b6e2-4ebb-b87b-f5f414728754","path":"sprites/spr_tile_pizzamart1/spr_tile_pizzamart1.yy",},"LayerId":null,"resourceVersion":"1.0","name":"composite","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"1eca787b-b6e2-4ebb-b87b-f5f414728754","path":"sprites/spr_tile_pizzamart1/spr_tile_pizzamart1.yy",},"LayerId":{"name":"ccbdd416-1d7e-4c5e-a571-042c59ce1adb","path":"sprites/spr_tile_pizzamart1/spr_tile_pizzamart1.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-      ],"parent":{"name":"spr_tile_pizzamart1","path":"sprites/spr_tile_pizzamart1/spr_tile_pizzamart1.yy",},"resourceVersion":"1.0","name":"1eca787b-b6e2-4ebb-b87b-f5f414728754","tags":[],"resourceType":"GMSpriteFrame",},
-    {"compositeImage":{"FrameId":{"name":"8bfaaab0-6def-4dbc-9156-946de82d2a0d","path":"sprites/spr_tile_pizzamart1/spr_tile_pizzamart1.yy",},"LayerId":null,"resourceVersion":"1.0","name":"composite","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"8bfaaab0-6def-4dbc-9156-946de82d2a0d","path":"sprites/spr_tile_pizzamart1/spr_tile_pizzamart1.yy",},"LayerId":{"name":"ccbdd416-1d7e-4c5e-a571-042c59ce1adb","path":"sprites/spr_tile_pizzamart1/spr_tile_pizzamart1.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-      ],"parent":{"name":"spr_tile_pizzamart1","path":"sprites/spr_tile_pizzamart1/spr_tile_pizzamart1.yy",},"resourceVersion":"1.0","name":"8bfaaab0-6def-4dbc-9156-946de82d2a0d","tags":[],"resourceType":"GMSpriteFrame",},
-    {"compositeImage":{"FrameId":{"name":"855082be-8ab6-46f8-9fed-24cda29f5b63","path":"sprites/spr_tile_pizzamart1/spr_tile_pizzamart1.yy",},"LayerId":null,"resourceVersion":"1.0","name":"composite","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"855082be-8ab6-46f8-9fed-24cda29f5b63","path":"sprites/spr_tile_pizzamart1/spr_tile_pizzamart1.yy",},"LayerId":{"name":"ccbdd416-1d7e-4c5e-a571-042c59ce1adb","path":"sprites/spr_tile_pizzamart1/spr_tile_pizzamart1.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-      ],"parent":{"name":"spr_tile_pizzamart1","path":"sprites/spr_tile_pizzamart1/spr_tile_pizzamart1.yy",},"resourceVersion":"1.0","name":"855082be-8ab6-46f8-9fed-24cda29f5b63","tags":[],"resourceType":"GMSpriteFrame",},
-    {"compositeImage":{"FrameId":{"name":"bc426de1-ca5e-4ae8-be40-1197c3703596","path":"sprites/spr_tile_pizzamart1/spr_tile_pizzamart1.yy",},"LayerId":null,"resourceVersion":"1.0","name":"composite","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"bc426de1-ca5e-4ae8-be40-1197c3703596","path":"sprites/spr_tile_pizzamart1/spr_tile_pizzamart1.yy",},"LayerId":{"name":"ccbdd416-1d7e-4c5e-a571-042c59ce1adb","path":"sprites/spr_tile_pizzamart1/spr_tile_pizzamart1.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-      ],"parent":{"name":"spr_tile_pizzamart1","path":"sprites/spr_tile_pizzamart1/spr_tile_pizzamart1.yy",},"resourceVersion":"1.0","name":"bc426de1-ca5e-4ae8-be40-1197c3703596","tags":[],"resourceType":"GMSpriteFrame",},
-    {"compositeImage":{"FrameId":{"name":"0899fbc3-4b3f-4f38-8875-7e0d7f74bb89","path":"sprites/spr_tile_pizzamart1/spr_tile_pizzamart1.yy",},"LayerId":null,"resourceVersion":"1.0","name":"composite","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"0899fbc3-4b3f-4f38-8875-7e0d7f74bb89","path":"sprites/spr_tile_pizzamart1/spr_tile_pizzamart1.yy",},"LayerId":{"name":"ccbdd416-1d7e-4c5e-a571-042c59ce1adb","path":"sprites/spr_tile_pizzamart1/spr_tile_pizzamart1.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-      ],"parent":{"name":"spr_tile_pizzamart1","path":"sprites/spr_tile_pizzamart1/spr_tile_pizzamart1.yy",},"resourceVersion":"1.0","name":"0899fbc3-4b3f-4f38-8875-7e0d7f74bb89","tags":[],"resourceType":"GMSpriteFrame",},
-    {"compositeImage":{"FrameId":{"name":"b47d8c39-1edb-441a-bf8c-294316a854fc","path":"sprites/spr_tile_pizzamart1/spr_tile_pizzamart1.yy",},"LayerId":null,"resourceVersion":"1.0","name":"composite","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"b47d8c39-1edb-441a-bf8c-294316a854fc","path":"sprites/spr_tile_pizzamart1/spr_tile_pizzamart1.yy",},"LayerId":{"name":"ccbdd416-1d7e-4c5e-a571-042c59ce1adb","path":"sprites/spr_tile_pizzamart1/spr_tile_pizzamart1.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-      ],"parent":{"name":"spr_tile_pizzamart1","path":"sprites/spr_tile_pizzamart1/spr_tile_pizzamart1.yy",},"resourceVersion":"1.0","name":"b47d8c39-1edb-441a-bf8c-294316a854fc","tags":[],"resourceType":"GMSpriteFrame",},
-    {"compositeImage":{"FrameId":{"name":"5f0a9b42-3793-4357-9f1c-38152eaee4f4","path":"sprites/spr_tile_pizzamart1/spr_tile_pizzamart1.yy",},"LayerId":null,"resourceVersion":"1.0","name":"composite","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"5f0a9b42-3793-4357-9f1c-38152eaee4f4","path":"sprites/spr_tile_pizzamart1/spr_tile_pizzamart1.yy",},"LayerId":{"name":"ccbdd416-1d7e-4c5e-a571-042c59ce1adb","path":"sprites/spr_tile_pizzamart1/spr_tile_pizzamart1.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-      ],"parent":{"name":"spr_tile_pizzamart1","path":"sprites/spr_tile_pizzamart1/spr_tile_pizzamart1.yy",},"resourceVersion":"1.0","name":"5f0a9b42-3793-4357-9f1c-38152eaee4f4","tags":[],"resourceType":"GMSpriteFrame",},
-    {"compositeImage":{"FrameId":{"name":"0af88867-aeeb-4a07-8ccd-c633275159dc","path":"sprites/spr_tile_pizzamart1/spr_tile_pizzamart1.yy",},"LayerId":null,"resourceVersion":"1.0","name":"composite","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"0af88867-aeeb-4a07-8ccd-c633275159dc","path":"sprites/spr_tile_pizzamart1/spr_tile_pizzamart1.yy",},"LayerId":{"name":"ccbdd416-1d7e-4c5e-a571-042c59ce1adb","path":"sprites/spr_tile_pizzamart1/spr_tile_pizzamart1.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-      ],"parent":{"name":"spr_tile_pizzamart1","path":"sprites/spr_tile_pizzamart1/spr_tile_pizzamart1.yy",},"resourceVersion":"1.0","name":"0af88867-aeeb-4a07-8ccd-c633275159dc","tags":[],"resourceType":"GMSpriteFrame",},
-    {"compositeImage":{"FrameId":{"name":"4d831f9d-ac34-4e65-8753-a04ec060bedc","path":"sprites/spr_tile_pizzamart1/spr_tile_pizzamart1.yy",},"LayerId":null,"resourceVersion":"1.0","name":"composite","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"4d831f9d-ac34-4e65-8753-a04ec060bedc","path":"sprites/spr_tile_pizzamart1/spr_tile_pizzamart1.yy",},"LayerId":{"name":"ccbdd416-1d7e-4c5e-a571-042c59ce1adb","path":"sprites/spr_tile_pizzamart1/spr_tile_pizzamart1.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-      ],"parent":{"name":"spr_tile_pizzamart1","path":"sprites/spr_tile_pizzamart1/spr_tile_pizzamart1.yy",},"resourceVersion":"1.0","name":"4d831f9d-ac34-4e65-8753-a04ec060bedc","tags":[],"resourceType":"GMSpriteFrame",},
-    {"compositeImage":{"FrameId":{"name":"4fadd797-69d3-494d-8623-50f7229e7c2a","path":"sprites/spr_tile_pizzamart1/spr_tile_pizzamart1.yy",},"LayerId":null,"resourceVersion":"1.0","name":"composite","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"4fadd797-69d3-494d-8623-50f7229e7c2a","path":"sprites/spr_tile_pizzamart1/spr_tile_pizzamart1.yy",},"LayerId":{"name":"ccbdd416-1d7e-4c5e-a571-042c59ce1adb","path":"sprites/spr_tile_pizzamart1/spr_tile_pizzamart1.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-      ],"parent":{"name":"spr_tile_pizzamart1","path":"sprites/spr_tile_pizzamart1/spr_tile_pizzamart1.yy",},"resourceVersion":"1.0","name":"4fadd797-69d3-494d-8623-50f7229e7c2a","tags":[],"resourceType":"GMSpriteFrame",},
-    {"compositeImage":{"FrameId":{"name":"99cf2b5d-81b7-4472-9e0a-23ce6e5317fc","path":"sprites/spr_tile_pizzamart1/spr_tile_pizzamart1.yy",},"LayerId":null,"resourceVersion":"1.0","name":"composite","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"99cf2b5d-81b7-4472-9e0a-23ce6e5317fc","path":"sprites/spr_tile_pizzamart1/spr_tile_pizzamart1.yy",},"LayerId":{"name":"ccbdd416-1d7e-4c5e-a571-042c59ce1adb","path":"sprites/spr_tile_pizzamart1/spr_tile_pizzamart1.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-      ],"parent":{"name":"spr_tile_pizzamart1","path":"sprites/spr_tile_pizzamart1/spr_tile_pizzamart1.yy",},"resourceVersion":"1.0","name":"99cf2b5d-81b7-4472-9e0a-23ce6e5317fc","tags":[],"resourceType":"GMSpriteFrame",},
-    {"compositeImage":{"FrameId":{"name":"c87537aa-e636-48e0-83e8-b916f6e126cc","path":"sprites/spr_tile_pizzamart1/spr_tile_pizzamart1.yy",},"LayerId":null,"resourceVersion":"1.0","name":"composite","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"c87537aa-e636-48e0-83e8-b916f6e126cc","path":"sprites/spr_tile_pizzamart1/spr_tile_pizzamart1.yy",},"LayerId":{"name":"ccbdd416-1d7e-4c5e-a571-042c59ce1adb","path":"sprites/spr_tile_pizzamart1/spr_tile_pizzamart1.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-      ],"parent":{"name":"spr_tile_pizzamart1","path":"sprites/spr_tile_pizzamart1/spr_tile_pizzamart1.yy",},"resourceVersion":"1.0","name":"c87537aa-e636-48e0-83e8-b916f6e126cc","tags":[],"resourceType":"GMSpriteFrame",},
-    {"compositeImage":{"FrameId":{"name":"ec340f3a-b2a0-469a-9a59-c9a693d94733","path":"sprites/spr_tile_pizzamart1/spr_tile_pizzamart1.yy",},"LayerId":null,"resourceVersion":"1.0","name":"composite","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"ec340f3a-b2a0-469a-9a59-c9a693d94733","path":"sprites/spr_tile_pizzamart1/spr_tile_pizzamart1.yy",},"LayerId":{"name":"ccbdd416-1d7e-4c5e-a571-042c59ce1adb","path":"sprites/spr_tile_pizzamart1/spr_tile_pizzamart1.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-      ],"parent":{"name":"spr_tile_pizzamart1","path":"sprites/spr_tile_pizzamart1/spr_tile_pizzamart1.yy",},"resourceVersion":"1.0","name":"ec340f3a-b2a0-469a-9a59-c9a693d94733","tags":[],"resourceType":"GMSpriteFrame",},
-    {"compositeImage":{"FrameId":{"name":"ba822f92-a3ed-42e0-aad9-c3acecf89288","path":"sprites/spr_tile_pizzamart1/spr_tile_pizzamart1.yy",},"LayerId":null,"resourceVersion":"1.0","name":"composite","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"ba822f92-a3ed-42e0-aad9-c3acecf89288","path":"sprites/spr_tile_pizzamart1/spr_tile_pizzamart1.yy",},"LayerId":{"name":"ccbdd416-1d7e-4c5e-a571-042c59ce1adb","path":"sprites/spr_tile_pizzamart1/spr_tile_pizzamart1.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-      ],"parent":{"name":"spr_tile_pizzamart1","path":"sprites/spr_tile_pizzamart1/spr_tile_pizzamart1.yy",},"resourceVersion":"1.0","name":"ba822f92-a3ed-42e0-aad9-c3acecf89288","tags":[],"resourceType":"GMSpriteFrame",},
-    {"compositeImage":{"FrameId":{"name":"b3ac1c1d-e333-4d68-85ad-52b4f70679b4","path":"sprites/spr_tile_pizzamart1/spr_tile_pizzamart1.yy",},"LayerId":null,"resourceVersion":"1.0","name":"composite","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"b3ac1c1d-e333-4d68-85ad-52b4f70679b4","path":"sprites/spr_tile_pizzamart1/spr_tile_pizzamart1.yy",},"LayerId":{"name":"ccbdd416-1d7e-4c5e-a571-042c59ce1adb","path":"sprites/spr_tile_pizzamart1/spr_tile_pizzamart1.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-      ],"parent":{"name":"spr_tile_pizzamart1","path":"sprites/spr_tile_pizzamart1/spr_tile_pizzamart1.yy",},"resourceVersion":"1.0","name":"b3ac1c1d-e333-4d68-85ad-52b4f70679b4","tags":[],"resourceType":"GMSpriteFrame",},
-    {"compositeImage":{"FrameId":{"name":"3c94b54b-3ea6-46e5-b121-b8da99c219cf","path":"sprites/spr_tile_pizzamart1/spr_tile_pizzamart1.yy",},"LayerId":null,"resourceVersion":"1.0","name":"composite","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"3c94b54b-3ea6-46e5-b121-b8da99c219cf","path":"sprites/spr_tile_pizzamart1/spr_tile_pizzamart1.yy",},"LayerId":{"name":"ccbdd416-1d7e-4c5e-a571-042c59ce1adb","path":"sprites/spr_tile_pizzamart1/spr_tile_pizzamart1.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-      ],"parent":{"name":"spr_tile_pizzamart1","path":"sprites/spr_tile_pizzamart1/spr_tile_pizzamart1.yy",},"resourceVersion":"1.0","name":"3c94b54b-3ea6-46e5-b121-b8da99c219cf","tags":[],"resourceType":"GMSpriteFrame",},
-    {"compositeImage":{"FrameId":{"name":"2541085d-6648-4015-ac72-b1104c8947f0","path":"sprites/spr_tile_pizzamart1/spr_tile_pizzamart1.yy",},"LayerId":null,"resourceVersion":"1.0","name":"composite","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"2541085d-6648-4015-ac72-b1104c8947f0","path":"sprites/spr_tile_pizzamart1/spr_tile_pizzamart1.yy",},"LayerId":{"name":"ccbdd416-1d7e-4c5e-a571-042c59ce1adb","path":"sprites/spr_tile_pizzamart1/spr_tile_pizzamart1.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-      ],"parent":{"name":"spr_tile_pizzamart1","path":"sprites/spr_tile_pizzamart1/spr_tile_pizzamart1.yy",},"resourceVersion":"1.0","name":"2541085d-6648-4015-ac72-b1104c8947f0","tags":[],"resourceType":"GMSpriteFrame",},
-    {"compositeImage":{"FrameId":{"name":"9ef0c038-388f-47c5-8eac-a76514ad9eeb","path":"sprites/spr_tile_pizzamart1/spr_tile_pizzamart1.yy",},"LayerId":null,"resourceVersion":"1.0","name":"composite","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"9ef0c038-388f-47c5-8eac-a76514ad9eeb","path":"sprites/spr_tile_pizzamart1/spr_tile_pizzamart1.yy",},"LayerId":{"name":"ccbdd416-1d7e-4c5e-a571-042c59ce1adb","path":"sprites/spr_tile_pizzamart1/spr_tile_pizzamart1.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-      ],"parent":{"name":"spr_tile_pizzamart1","path":"sprites/spr_tile_pizzamart1/spr_tile_pizzamart1.yy",},"resourceVersion":"1.0","name":"9ef0c038-388f-47c5-8eac-a76514ad9eeb","tags":[],"resourceType":"GMSpriteFrame",},
-    {"compositeImage":{"FrameId":{"name":"6f378035-b94a-4623-98e4-823ef9dfe89e","path":"sprites/spr_tile_pizzamart1/spr_tile_pizzamart1.yy",},"LayerId":null,"resourceVersion":"1.0","name":"composite","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"6f378035-b94a-4623-98e4-823ef9dfe89e","path":"sprites/spr_tile_pizzamart1/spr_tile_pizzamart1.yy",},"LayerId":{"name":"ccbdd416-1d7e-4c5e-a571-042c59ce1adb","path":"sprites/spr_tile_pizzamart1/spr_tile_pizzamart1.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-      ],"parent":{"name":"spr_tile_pizzamart1","path":"sprites/spr_tile_pizzamart1/spr_tile_pizzamart1.yy",},"resourceVersion":"1.0","name":"6f378035-b94a-4623-98e4-823ef9dfe89e","tags":[],"resourceType":"GMSpriteFrame",},
+    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"c2960e22-fe61-4d93-b91d-a65308165599",},
+    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"e2bd0e09-d9dd-4c27-b556-3a26897d4de4",},
+    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"6bee41f0-91c3-42b8-ab83-2e9a3b84892f",},
+    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"02881f93-9625-4279-a53c-2da0e2bd98d0",},
+    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"bb276069-a75b-4022-b297-9d767207c672",},
+    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"37765b8f-bb3b-4b7b-9bba-1c4b2f9b67b7",},
+    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"23638d35-a665-46ae-886e-8c0de45ad9db",},
+    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"4e697835-d386-48c4-b28b-28826f8a8096",},
+    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"7344e08e-cfb9-469e-9eb5-28fca895411d",},
+    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"096ca805-2914-48bd-bf0d-cd21094ee062",},
+    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"17b9a761-3b77-4d28-ab84-0a05d3606043",},
+    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"19436943-c759-4d3d-a79d-8d84ba2ac4f1",},
+    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"60bf5bfe-6206-4202-9209-d0d6e06efe0c",},
+    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"adb1d9c7-99f9-4fe7-9692-870affa3bc38",},
+    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"7dafe69e-0d39-4ef1-b8c5-b22b36ecb2d2",},
+    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"ada0e569-c0d9-486e-ab4a-15920e5d6c05",},
+    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"8f82f663-c703-4fa2-8d54-87001a4ffbe3",},
+    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"99d8de2c-f2fe-44dd-83ee-de0b9c53b061",},
+    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"01391f2d-b2a8-4156-ac10-ded403befe4e",},
+    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"4f2ceced-4013-4704-8a5c-7c69aa4166c9",},
+    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"dcefe109-453f-4422-8ce6-dd8ec7b33a7f",},
+    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"57ecce28-7d5b-487b-b558-3adfa54240c1",},
+    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"cdecdcd0-ffaa-4449-9b5d-5e2618eddc3a",},
+    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"aa8c6303-9b8f-4c7b-bc28-e90558047fcb",},
+    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"c5c48a63-ccb5-4cd9-a6f8-005281a1890e",},
+    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"40e2cb3d-df5c-45d4-b0ee-59b25fdd960a",},
+    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"194a4cd4-b8c0-4543-9e25-08e8fdafd192",},
+    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"44e49a36-16aa-4fd3-a798-1beb4f54dfa3",},
+    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"1eca787b-b6e2-4ebb-b87b-f5f414728754",},
+    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"8bfaaab0-6def-4dbc-9156-946de82d2a0d",},
+    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"855082be-8ab6-46f8-9fed-24cda29f5b63",},
+    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"bc426de1-ca5e-4ae8-be40-1197c3703596",},
+    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"0899fbc3-4b3f-4f38-8875-7e0d7f74bb89",},
+    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"b47d8c39-1edb-441a-bf8c-294316a854fc",},
+    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"5f0a9b42-3793-4357-9f1c-38152eaee4f4",},
+    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"0af88867-aeeb-4a07-8ccd-c633275159dc",},
+    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"4d831f9d-ac34-4e65-8753-a04ec060bedc",},
+    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"4fadd797-69d3-494d-8623-50f7229e7c2a",},
+    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"99cf2b5d-81b7-4472-9e0a-23ce6e5317fc",},
+    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"c87537aa-e636-48e0-83e8-b916f6e126cc",},
+    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"ec340f3a-b2a0-469a-9a59-c9a693d94733",},
+    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"ba822f92-a3ed-42e0-aad9-c3acecf89288",},
+    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"b3ac1c1d-e333-4d68-85ad-52b4f70679b4",},
+    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"3c94b54b-3ea6-46e5-b121-b8da99c219cf",},
+    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"2541085d-6648-4015-ac72-b1104c8947f0",},
+    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"9ef0c038-388f-47c5-8eac-a76514ad9eeb",},
+    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"6f378035-b94a-4623-98e4-823ef9dfe89e",},
   ],
   "sequence": {
-    "spriteId": {"name":"spr_tile_pizzamart1","path":"sprites/spr_tile_pizzamart1/spr_tile_pizzamart1.yy",},
+    "resourceType": "GMSequence",
+    "resourceVersion": "1.4",
+    "name": "",
     "timeUnits": 1,
     "playback": 1,
     "playbackSpeed": 1.0,
@@ -181,7 +93,7 @@
     "events": {"Keyframes":[],"resourceVersion":"1.0","resourceType":"KeyframeStore<MessageEventKeyframe>",},
     "moments": {"Keyframes":[],"resourceVersion":"1.0","resourceType":"KeyframeStore<MomentsEventKeyframe>",},
     "tracks": [
-      {"name":"frames","spriteId":null,"keyframes":{"Keyframes":[
+      {"resourceType":"GMSpriteFramesTrack","resourceVersion":"1.0","name":"frames","spriteId":null,"keyframes":{"Keyframes":[
             {"id":"acd78338-6fa6-466f-a1a1-b327a3a4551f","Key":0.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"c2960e22-fe61-4d93-b91d-a65308165599","path":"sprites/spr_tile_pizzamart1/spr_tile_pizzamart1.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
             {"id":"d93bdbf7-dcce-4886-bad8-6845f7827129","Key":1.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"e2bd0e09-d9dd-4c27-b556-3a26897d4de4","path":"sprites/spr_tile_pizzamart1/spr_tile_pizzamart1.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
             {"id":"e2819b32-e0a1-4f95-81cf-4c03fcd546f3","Key":2.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"6bee41f0-91c3-42b8-ab83-2e9a3b84892f","path":"sprites/spr_tile_pizzamart1/spr_tile_pizzamart1.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
@@ -229,7 +141,7 @@
             {"id":"9d2f2da2-963d-4822-b14e-926d3e2af25a","Key":44.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"2541085d-6648-4015-ac72-b1104c8947f0","path":"sprites/spr_tile_pizzamart1/spr_tile_pizzamart1.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
             {"id":"f30f8a82-0eab-4aaa-9570-7e723e597ac9","Key":45.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"9ef0c038-388f-47c5-8eac-a76514ad9eeb","path":"sprites/spr_tile_pizzamart1/spr_tile_pizzamart1.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
             {"id":"26ecaad1-780b-4182-8e2b-2e845a39b923","Key":46.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"6f378035-b94a-4623-98e4-823ef9dfe89e","path":"sprites/spr_tile_pizzamart1/spr_tile_pizzamart1.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
-          ],"resourceVersion":"1.0","resourceType":"KeyframeStore<SpriteFrameKeyframe>",},"trackColour":0,"inheritsTrackColour":true,"builtinName":0,"traits":0,"interpolation":1,"tracks":[],"events":[],"isCreationTrack":false,"resourceVersion":"1.0","tags":[],"resourceType":"GMSpriteFramesTrack","modifiers":[],},
+          ],"resourceVersion":"1.0","resourceType":"KeyframeStore<SpriteFrameKeyframe>",},"trackColour":0,"inheritsTrackColour":true,"builtinName":0,"traits":0,"interpolation":1,"tracks":[],"events":[],"isCreationTrack":false,"modifiers":[],},
     ],
     "visibleRange": {"x":0.0,"y":0.0,},
     "lockOrigin": false,
@@ -245,22 +157,13 @@
     "yorigin": 0,
     "eventToFunction": {},
     "eventStubScript": null,
-    "parent": {"name":"spr_tile_pizzamart1","path":"sprites/spr_tile_pizzamart1/spr_tile_pizzamart1.yy",},
-    "resourceVersion": "1.4",
-    "name": "",
-    "tags": [],
-    "resourceType": "GMSequence",
   },
   "layers": [
-    {"visible":true,"isLocked":false,"blendMode":0,"opacity":100.0,"displayName":"default","resourceVersion":"1.0","name":"ccbdd416-1d7e-4c5e-a571-042c59ce1adb","tags":[],"resourceType":"GMImageLayer",},
+    {"resourceType":"GMImageLayer","resourceVersion":"1.0","name":"ccbdd416-1d7e-4c5e-a571-042c59ce1adb","visible":true,"isLocked":false,"blendMode":0,"opacity":100.0,"displayName":"default",},
   ],
   "nineSlice": null,
   "parent": {
     "name": "Tiles",
     "path": "folders/Sprites/sertif's editor/Tiles.yy",
   },
-  "resourceVersion": "1.0",
-  "name": "spr_tile_pizzamart1",
-  "tags": [],
-  "resourceType": "GMSprite",
 }

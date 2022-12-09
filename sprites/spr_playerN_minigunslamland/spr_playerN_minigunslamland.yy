@@ -1,4 +1,7 @@
 {
+  "resourceType": "GMSprite",
+  "resourceVersion": "1.0",
+  "name": "spr_playerN_minigunslamland",
   "ConfigValues": {
     "debug": {"textureGroupId":"{\"name\":\"tg_player\",\"path\":\"texturegroups/tg_player\"}",},
   },
@@ -17,6 +20,7 @@
   "HTile": false,
   "VTile": false,
   "For3D": false,
+  "DynamicTexturePage": false,
   "width": 300,
   "height": 100,
   "textureGroupId": {
@@ -27,30 +31,18 @@
   "gridX": 0,
   "gridY": 0,
   "frames": [
-    {"compositeImage":{"FrameId":{"name":"fd5f64e4-fce5-4e0f-8668-77e31a1f7928","path":"sprites/spr_playerN_minigunslamland/spr_playerN_minigunslamland.yy",},"LayerId":null,"resourceVersion":"1.0","name":"composite","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"fd5f64e4-fce5-4e0f-8668-77e31a1f7928","path":"sprites/spr_playerN_minigunslamland/spr_playerN_minigunslamland.yy",},"LayerId":{"name":"47661557-6f1c-4228-9d7b-c6e85a6860be","path":"sprites/spr_playerN_minigunslamland/spr_playerN_minigunslamland.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-      ],"parent":{"name":"spr_playerN_minigunslamland","path":"sprites/spr_playerN_minigunslamland/spr_playerN_minigunslamland.yy",},"resourceVersion":"1.0","name":"fd5f64e4-fce5-4e0f-8668-77e31a1f7928","tags":[],"resourceType":"GMSpriteFrame",},
-    {"compositeImage":{"FrameId":{"name":"10f6a4a1-2b21-4dc0-baa0-c4b2ea9ede83","path":"sprites/spr_playerN_minigunslamland/spr_playerN_minigunslamland.yy",},"LayerId":null,"resourceVersion":"1.0","name":"composite","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"10f6a4a1-2b21-4dc0-baa0-c4b2ea9ede83","path":"sprites/spr_playerN_minigunslamland/spr_playerN_minigunslamland.yy",},"LayerId":{"name":"47661557-6f1c-4228-9d7b-c6e85a6860be","path":"sprites/spr_playerN_minigunslamland/spr_playerN_minigunslamland.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-      ],"parent":{"name":"spr_playerN_minigunslamland","path":"sprites/spr_playerN_minigunslamland/spr_playerN_minigunslamland.yy",},"resourceVersion":"1.0","name":"10f6a4a1-2b21-4dc0-baa0-c4b2ea9ede83","tags":[],"resourceType":"GMSpriteFrame",},
-    {"compositeImage":{"FrameId":{"name":"fea6c55f-5966-4a20-9c27-c1fefaaf502b","path":"sprites/spr_playerN_minigunslamland/spr_playerN_minigunslamland.yy",},"LayerId":null,"resourceVersion":"1.0","name":"composite","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"fea6c55f-5966-4a20-9c27-c1fefaaf502b","path":"sprites/spr_playerN_minigunslamland/spr_playerN_minigunslamland.yy",},"LayerId":{"name":"47661557-6f1c-4228-9d7b-c6e85a6860be","path":"sprites/spr_playerN_minigunslamland/spr_playerN_minigunslamland.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-      ],"parent":{"name":"spr_playerN_minigunslamland","path":"sprites/spr_playerN_minigunslamland/spr_playerN_minigunslamland.yy",},"resourceVersion":"1.0","name":"fea6c55f-5966-4a20-9c27-c1fefaaf502b","tags":[],"resourceType":"GMSpriteFrame",},
-    {"compositeImage":{"FrameId":{"name":"51b5acbf-5610-4b64-90bd-d9f837814a2c","path":"sprites/spr_playerN_minigunslamland/spr_playerN_minigunslamland.yy",},"LayerId":null,"resourceVersion":"1.0","name":"composite","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"51b5acbf-5610-4b64-90bd-d9f837814a2c","path":"sprites/spr_playerN_minigunslamland/spr_playerN_minigunslamland.yy",},"LayerId":{"name":"47661557-6f1c-4228-9d7b-c6e85a6860be","path":"sprites/spr_playerN_minigunslamland/spr_playerN_minigunslamland.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-      ],"parent":{"name":"spr_playerN_minigunslamland","path":"sprites/spr_playerN_minigunslamland/spr_playerN_minigunslamland.yy",},"resourceVersion":"1.0","name":"51b5acbf-5610-4b64-90bd-d9f837814a2c","tags":[],"resourceType":"GMSpriteFrame",},
-    {"compositeImage":{"FrameId":{"name":"f8ab0ef0-8d52-4abc-a431-98ca58aeccdf","path":"sprites/spr_playerN_minigunslamland/spr_playerN_minigunslamland.yy",},"LayerId":null,"resourceVersion":"1.0","name":"composite","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"f8ab0ef0-8d52-4abc-a431-98ca58aeccdf","path":"sprites/spr_playerN_minigunslamland/spr_playerN_minigunslamland.yy",},"LayerId":{"name":"47661557-6f1c-4228-9d7b-c6e85a6860be","path":"sprites/spr_playerN_minigunslamland/spr_playerN_minigunslamland.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-      ],"parent":{"name":"spr_playerN_minigunslamland","path":"sprites/spr_playerN_minigunslamland/spr_playerN_minigunslamland.yy",},"resourceVersion":"1.0","name":"f8ab0ef0-8d52-4abc-a431-98ca58aeccdf","tags":[],"resourceType":"GMSpriteFrame",},
-    {"compositeImage":{"FrameId":{"name":"74e188fc-9baf-4f6e-8c94-74bafc273e08","path":"sprites/spr_playerN_minigunslamland/spr_playerN_minigunslamland.yy",},"LayerId":null,"resourceVersion":"1.0","name":"composite","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"74e188fc-9baf-4f6e-8c94-74bafc273e08","path":"sprites/spr_playerN_minigunslamland/spr_playerN_minigunslamland.yy",},"LayerId":{"name":"47661557-6f1c-4228-9d7b-c6e85a6860be","path":"sprites/spr_playerN_minigunslamland/spr_playerN_minigunslamland.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-      ],"parent":{"name":"spr_playerN_minigunslamland","path":"sprites/spr_playerN_minigunslamland/spr_playerN_minigunslamland.yy",},"resourceVersion":"1.0","name":"74e188fc-9baf-4f6e-8c94-74bafc273e08","tags":[],"resourceType":"GMSpriteFrame",},
-    {"compositeImage":{"FrameId":{"name":"6433be0c-dde6-4521-bdd2-db47a761f09c","path":"sprites/spr_playerN_minigunslamland/spr_playerN_minigunslamland.yy",},"LayerId":null,"resourceVersion":"1.0","name":"composite","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"6433be0c-dde6-4521-bdd2-db47a761f09c","path":"sprites/spr_playerN_minigunslamland/spr_playerN_minigunslamland.yy",},"LayerId":{"name":"47661557-6f1c-4228-9d7b-c6e85a6860be","path":"sprites/spr_playerN_minigunslamland/spr_playerN_minigunslamland.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-      ],"parent":{"name":"spr_playerN_minigunslamland","path":"sprites/spr_playerN_minigunslamland/spr_playerN_minigunslamland.yy",},"resourceVersion":"1.0","name":"6433be0c-dde6-4521-bdd2-db47a761f09c","tags":[],"resourceType":"GMSpriteFrame",},
+    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"fd5f64e4-fce5-4e0f-8668-77e31a1f7928",},
+    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"10f6a4a1-2b21-4dc0-baa0-c4b2ea9ede83",},
+    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"fea6c55f-5966-4a20-9c27-c1fefaaf502b",},
+    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"51b5acbf-5610-4b64-90bd-d9f837814a2c",},
+    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"f8ab0ef0-8d52-4abc-a431-98ca58aeccdf",},
+    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"74e188fc-9baf-4f6e-8c94-74bafc273e08",},
+    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"6433be0c-dde6-4521-bdd2-db47a761f09c",},
   ],
   "sequence": {
-    "spriteId": {"name":"spr_playerN_minigunslamland","path":"sprites/spr_playerN_minigunslamland/spr_playerN_minigunslamland.yy",},
+    "resourceType": "GMSequence",
+    "resourceVersion": "1.4",
+    "name": "",
     "timeUnits": 1,
     "playback": 1,
     "playbackSpeed": 1.0,
@@ -61,7 +53,7 @@
     "events": {"Keyframes":[],"resourceVersion":"1.0","resourceType":"KeyframeStore<MessageEventKeyframe>",},
     "moments": {"Keyframes":[],"resourceVersion":"1.0","resourceType":"KeyframeStore<MomentsEventKeyframe>",},
     "tracks": [
-      {"name":"frames","spriteId":null,"keyframes":{"Keyframes":[
+      {"resourceType":"GMSpriteFramesTrack","resourceVersion":"1.0","name":"frames","spriteId":null,"keyframes":{"Keyframes":[
             {"id":"d3a6771b-7e7b-4756-85bc-772090185a04","Key":0.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"fd5f64e4-fce5-4e0f-8668-77e31a1f7928","path":"sprites/spr_playerN_minigunslamland/spr_playerN_minigunslamland.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
             {"id":"4d248615-b14e-483f-aa44-4ca29fa49b68","Key":1.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"10f6a4a1-2b21-4dc0-baa0-c4b2ea9ede83","path":"sprites/spr_playerN_minigunslamland/spr_playerN_minigunslamland.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
             {"id":"c3d0839c-7d7f-46b8-8756-f82f4f73bb14","Key":2.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"fea6c55f-5966-4a20-9c27-c1fefaaf502b","path":"sprites/spr_playerN_minigunslamland/spr_playerN_minigunslamland.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
@@ -69,7 +61,7 @@
             {"id":"428bc443-9439-4ec1-a536-8f7cc651e07d","Key":4.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"f8ab0ef0-8d52-4abc-a431-98ca58aeccdf","path":"sprites/spr_playerN_minigunslamland/spr_playerN_minigunslamland.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
             {"id":"a3823400-8b08-4f84-b3b3-2416ba6af0f1","Key":5.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"74e188fc-9baf-4f6e-8c94-74bafc273e08","path":"sprites/spr_playerN_minigunslamland/spr_playerN_minigunslamland.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
             {"id":"6d959593-5d30-4126-ada2-43be410b5dab","Key":6.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"6433be0c-dde6-4521-bdd2-db47a761f09c","path":"sprites/spr_playerN_minigunslamland/spr_playerN_minigunslamland.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
-          ],"resourceVersion":"1.0","resourceType":"KeyframeStore<SpriteFrameKeyframe>",},"trackColour":0,"inheritsTrackColour":true,"builtinName":0,"traits":0,"interpolation":1,"tracks":[],"events":[],"isCreationTrack":false,"resourceVersion":"1.0","tags":[],"resourceType":"GMSpriteFramesTrack","modifiers":[],},
+          ],"resourceVersion":"1.0","resourceType":"KeyframeStore<SpriteFrameKeyframe>",},"trackColour":0,"inheritsTrackColour":true,"builtinName":0,"traits":0,"interpolation":1,"tracks":[],"events":[],"isCreationTrack":false,"modifiers":[],},
     ],
     "visibleRange": {"x":0.0,"y":0.0,},
     "lockOrigin": false,
@@ -85,22 +77,13 @@
     "yorigin": 50,
     "eventToFunction": {},
     "eventStubScript": null,
-    "parent": {"name":"spr_playerN_minigunslamland","path":"sprites/spr_playerN_minigunslamland/spr_playerN_minigunslamland.yy",},
-    "resourceVersion": "1.4",
-    "name": "",
-    "tags": [],
-    "resourceType": "GMSequence",
   },
   "layers": [
-    {"visible":true,"isLocked":false,"blendMode":0,"opacity":100.0,"displayName":"default","resourceVersion":"1.0","name":"47661557-6f1c-4228-9d7b-c6e85a6860be","tags":[],"resourceType":"GMImageLayer",},
+    {"resourceType":"GMImageLayer","resourceVersion":"1.0","name":"47661557-6f1c-4228-9d7b-c6e85a6860be","visible":true,"isLocked":false,"blendMode":0,"opacity":100.0,"displayName":"default",},
   ],
   "nineSlice": null,
   "parent": {
     "name": "noise",
     "path": "folders/Sprites/players/noise.yy",
   },
-  "resourceVersion": "1.0",
-  "name": "spr_playerN_minigunslamland",
-  "tags": [],
-  "resourceType": "GMSprite",
 }

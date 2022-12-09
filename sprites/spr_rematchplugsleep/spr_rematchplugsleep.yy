@@ -1,4 +1,7 @@
 {
+  "resourceType": "GMSprite",
+  "resourceVersion": "1.0",
+  "name": "spr_rematchplugsleep",
   "ConfigValues": {
     "debug": {"textureGroupId":"{\"name\":\"tg_leaningnightmare\",\"path\":\"texturegroups/tg_leaningnightmare\"}",},
   },
@@ -17,6 +20,7 @@
   "HTile": false,
   "VTile": false,
   "For3D": false,
+  "DynamicTexturePage": false,
   "width": 32,
   "height": 32,
   "textureGroupId": {
@@ -27,12 +31,12 @@
   "gridX": 0,
   "gridY": 0,
   "frames": [
-    {"compositeImage":{"FrameId":{"name":"45dc3ab7-3aad-4310-a207-8ea88f535ab7","path":"sprites/spr_rematchplugsleep/spr_rematchplugsleep.yy",},"LayerId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"45dc3ab7-3aad-4310-a207-8ea88f535ab7","path":"sprites/spr_rematchplugsleep/spr_rematchplugsleep.yy",},"LayerId":{"name":"983849f7-3bef-438c-a275-9093cb985d89","path":"sprites/spr_rematchplugsleep/spr_rematchplugsleep.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-      ],"parent":{"name":"spr_rematchplugsleep","path":"sprites/spr_rematchplugsleep/spr_rematchplugsleep.yy",},"resourceVersion":"1.0","name":"45dc3ab7-3aad-4310-a207-8ea88f535ab7","tags":[],"resourceType":"GMSpriteFrame",},
+    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"45dc3ab7-3aad-4310-a207-8ea88f535ab7",},
   ],
   "sequence": {
-    "spriteId": {"name":"spr_rematchplugsleep","path":"sprites/spr_rematchplugsleep/spr_rematchplugsleep.yy",},
+    "resourceType": "GMSequence",
+    "resourceVersion": "1.4",
+    "name": "spr_rematchplugsleep",
     "timeUnits": 1,
     "playback": 1,
     "playbackSpeed": 1.0,
@@ -43,9 +47,9 @@
     "events": {"Keyframes":[],"resourceVersion":"1.0","resourceType":"KeyframeStore<MessageEventKeyframe>",},
     "moments": {"Keyframes":[],"resourceVersion":"1.0","resourceType":"KeyframeStore<MomentsEventKeyframe>",},
     "tracks": [
-      {"name":"frames","spriteId":null,"keyframes":{"Keyframes":[
+      {"resourceType":"GMSpriteFramesTrack","resourceVersion":"1.0","name":"frames","spriteId":null,"keyframes":{"Keyframes":[
             {"id":"96962092-53af-4b55-81eb-35f2c661844f","Key":0.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"45dc3ab7-3aad-4310-a207-8ea88f535ab7","path":"sprites/spr_rematchplugsleep/spr_rematchplugsleep.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
-          ],"resourceVersion":"1.0","resourceType":"KeyframeStore<SpriteFrameKeyframe>",},"trackColour":0,"inheritsTrackColour":true,"builtinName":0,"traits":0,"interpolation":1,"tracks":[],"events":[],"isCreationTrack":false,"resourceVersion":"1.0","tags":[],"resourceType":"GMSpriteFramesTrack","modifiers":[],},
+          ],"resourceVersion":"1.0","resourceType":"KeyframeStore<SpriteFrameKeyframe>",},"trackColour":0,"inheritsTrackColour":true,"builtinName":0,"traits":0,"interpolation":1,"tracks":[],"events":[],"isCreationTrack":false,"modifiers":[],},
     ],
     "visibleRange": null,
     "lockOrigin": false,
@@ -61,14 +65,9 @@
     "yorigin": 0,
     "eventToFunction": {},
     "eventStubScript": null,
-    "parent": {"name":"spr_rematchplugsleep","path":"sprites/spr_rematchplugsleep/spr_rematchplugsleep.yy",},
-    "resourceVersion": "1.4",
-    "name": "spr_rematchplugsleep",
-    "tags": [],
-    "resourceType": "GMSequence",
   },
   "layers": [
-    {"visible":true,"isLocked":false,"blendMode":0,"opacity":100.0,"displayName":"default","resourceVersion":"1.0","name":"983849f7-3bef-438c-a275-9093cb985d89","tags":[],"resourceType":"GMImageLayer",},
+    {"resourceType":"GMImageLayer","resourceVersion":"1.0","name":"983849f7-3bef-438c-a275-9093cb985d89","visible":true,"isLocked":false,"blendMode":0,"opacity":100.0,"displayName":"default",},
   ],
   "nineSlice": {
     "left": 0,
@@ -99,8 +98,4 @@
     "name": "PLN",
     "path": "folders/Sprites/demo_event/PLN.yy",
   },
-  "resourceVersion": "1.0",
-  "name": "spr_rematchplugsleep",
-  "tags": [],
-  "resourceType": "GMSprite",
 }

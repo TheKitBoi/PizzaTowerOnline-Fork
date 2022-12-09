@@ -1,4 +1,7 @@
 {
+  "resourceType": "GMSprite",
+  "resourceVersion": "1.0",
+  "name": "bg_kungfugraffiti",
   "ConfigValues": {
     "debug": {"textureGroupId":"{\"name\":\"tg_kungfu\",\"path\":\"texturegroups/tg_kungfu\"}",},
   },
@@ -17,6 +20,7 @@
   "HTile": false,
   "VTile": false,
   "For3D": false,
+  "DynamicTexturePage": false,
   "width": 1100,
   "height": 540,
   "textureGroupId": {
@@ -27,12 +31,12 @@
   "gridX": 0,
   "gridY": 0,
   "frames": [
-    {"compositeImage":{"FrameId":{"name":"fd41ac33-65e9-465c-b52d-62ffac98d36c","path":"sprites/bg_kungfugraffiti/bg_kungfugraffiti.yy",},"LayerId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"fd41ac33-65e9-465c-b52d-62ffac98d36c","path":"sprites/bg_kungfugraffiti/bg_kungfugraffiti.yy",},"LayerId":{"name":"a77ad187-53a3-46f8-af4d-9fd65aea0fc2","path":"sprites/bg_kungfugraffiti/bg_kungfugraffiti.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-      ],"parent":{"name":"bg_kungfugraffiti","path":"sprites/bg_kungfugraffiti/bg_kungfugraffiti.yy",},"resourceVersion":"1.0","name":"fd41ac33-65e9-465c-b52d-62ffac98d36c","tags":[],"resourceType":"GMSpriteFrame",},
+    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"fd41ac33-65e9-465c-b52d-62ffac98d36c",},
   ],
   "sequence": {
-    "spriteId": {"name":"bg_kungfugraffiti","path":"sprites/bg_kungfugraffiti/bg_kungfugraffiti.yy",},
+    "resourceType": "GMSequence",
+    "resourceVersion": "1.4",
+    "name": "bg_kungfugraffiti",
     "timeUnits": 1,
     "playback": 1,
     "playbackSpeed": 1.0,
@@ -43,9 +47,9 @@
     "events": {"Keyframes":[],"resourceVersion":"1.0","resourceType":"KeyframeStore<MessageEventKeyframe>",},
     "moments": {"Keyframes":[],"resourceVersion":"1.0","resourceType":"KeyframeStore<MomentsEventKeyframe>",},
     "tracks": [
-      {"name":"frames","spriteId":null,"keyframes":{"Keyframes":[
+      {"resourceType":"GMSpriteFramesTrack","resourceVersion":"1.0","name":"frames","spriteId":null,"keyframes":{"Keyframes":[
             {"id":"ed91b365-3261-49a2-8398-a9a2a20b22e5","Key":0.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"fd41ac33-65e9-465c-b52d-62ffac98d36c","path":"sprites/bg_kungfugraffiti/bg_kungfugraffiti.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
-          ],"resourceVersion":"1.0","resourceType":"KeyframeStore<SpriteFrameKeyframe>",},"trackColour":0,"inheritsTrackColour":true,"builtinName":0,"traits":0,"interpolation":1,"tracks":[],"events":[],"isCreationTrack":false,"resourceVersion":"1.0","tags":[],"resourceType":"GMSpriteFramesTrack","modifiers":[],},
+          ],"resourceVersion":"1.0","resourceType":"KeyframeStore<SpriteFrameKeyframe>",},"trackColour":0,"inheritsTrackColour":true,"builtinName":0,"traits":0,"interpolation":1,"tracks":[],"events":[],"isCreationTrack":false,"modifiers":[],},
     ],
     "visibleRange": null,
     "lockOrigin": false,
@@ -61,22 +65,13 @@
     "yorigin": 0,
     "eventToFunction": {},
     "eventStubScript": null,
-    "parent": {"name":"bg_kungfugraffiti","path":"sprites/bg_kungfugraffiti/bg_kungfugraffiti.yy",},
-    "resourceVersion": "1.4",
-    "name": "bg_kungfugraffiti",
-    "tags": [],
-    "resourceType": "GMSequence",
   },
   "layers": [
-    {"visible":true,"isLocked":false,"blendMode":0,"opacity":100.0,"displayName":"default","resourceVersion":"1.0","name":"a77ad187-53a3-46f8-af4d-9fd65aea0fc2","tags":[],"resourceType":"GMImageLayer",},
+    {"resourceType":"GMImageLayer","resourceVersion":"1.0","name":"a77ad187-53a3-46f8-af4d-9fd65aea0fc2","visible":true,"isLocked":false,"blendMode":0,"opacity":100.0,"displayName":"default",},
   ],
   "nineSlice": null,
   "parent": {
     "name": "kungfu",
     "path": "folders/Sprites/tilesets/kungfu.yy",
   },
-  "resourceVersion": "1.0",
-  "name": "bg_kungfugraffiti",
-  "tags": [],
-  "resourceType": "GMSprite",
 }

@@ -1,4 +1,7 @@
 {
+  "resourceType": "GMSprite",
+  "resourceVersion": "1.0",
+  "name": "spr_smallbreak2escapedebris_ss",
   "ConfigValues": {
     "debug": {"textureGroupId":"{\"name\":\"tg_sugaryspire\",\"path\":\"texturegroups/tg_sugaryspire\"}",},
   },
@@ -17,6 +20,7 @@
   "HTile": false,
   "VTile": false,
   "For3D": false,
+  "DynamicTexturePage": false,
   "width": 64,
   "height": 64,
   "textureGroupId": {
@@ -27,15 +31,13 @@
   "gridX": 0,
   "gridY": 0,
   "frames": [
-    {"compositeImage":{"FrameId":{"name":"bda67c0d-339b-436f-b905-7959a2160e45","path":"sprites/spr_smallbreak2escapedebris_ss/spr_smallbreak2escapedebris_ss.yy",},"LayerId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"bda67c0d-339b-436f-b905-7959a2160e45","path":"sprites/spr_smallbreak2escapedebris_ss/spr_smallbreak2escapedebris_ss.yy",},"LayerId":{"name":"1fb0bbc7-b5e5-4ca0-9607-49dfd0f7ba9f","path":"sprites/spr_smallbreak2escapedebris_ss/spr_smallbreak2escapedebris_ss.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-      ],"parent":{"name":"spr_smallbreak2escapedebris_ss","path":"sprites/spr_smallbreak2escapedebris_ss/spr_smallbreak2escapedebris_ss.yy",},"resourceVersion":"1.0","name":"bda67c0d-339b-436f-b905-7959a2160e45","tags":[],"resourceType":"GMSpriteFrame",},
-    {"compositeImage":{"FrameId":{"name":"7b2b45cb-5d96-447f-899e-d3b95f9e7e4f","path":"sprites/spr_smallbreak2escapedebris_ss/spr_smallbreak2escapedebris_ss.yy",},"LayerId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"7b2b45cb-5d96-447f-899e-d3b95f9e7e4f","path":"sprites/spr_smallbreak2escapedebris_ss/spr_smallbreak2escapedebris_ss.yy",},"LayerId":{"name":"1fb0bbc7-b5e5-4ca0-9607-49dfd0f7ba9f","path":"sprites/spr_smallbreak2escapedebris_ss/spr_smallbreak2escapedebris_ss.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-      ],"parent":{"name":"spr_smallbreak2escapedebris_ss","path":"sprites/spr_smallbreak2escapedebris_ss/spr_smallbreak2escapedebris_ss.yy",},"resourceVersion":"1.0","name":"7b2b45cb-5d96-447f-899e-d3b95f9e7e4f","tags":[],"resourceType":"GMSpriteFrame",},
+    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"bda67c0d-339b-436f-b905-7959a2160e45",},
+    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"7b2b45cb-5d96-447f-899e-d3b95f9e7e4f",},
   ],
   "sequence": {
-    "spriteId": {"name":"spr_smallbreak2escapedebris_ss","path":"sprites/spr_smallbreak2escapedebris_ss/spr_smallbreak2escapedebris_ss.yy",},
+    "resourceType": "GMSequence",
+    "resourceVersion": "1.4",
+    "name": "spr_smallbreak2escapedebris_ss",
     "timeUnits": 1,
     "playback": 1,
     "playbackSpeed": 1.0,
@@ -46,10 +48,10 @@
     "events": {"Keyframes":[],"resourceVersion":"1.0","resourceType":"KeyframeStore<MessageEventKeyframe>",},
     "moments": {"Keyframes":[],"resourceVersion":"1.0","resourceType":"KeyframeStore<MomentsEventKeyframe>",},
     "tracks": [
-      {"name":"frames","spriteId":null,"keyframes":{"Keyframes":[
+      {"resourceType":"GMSpriteFramesTrack","resourceVersion":"1.0","name":"frames","spriteId":null,"keyframes":{"Keyframes":[
             {"id":"bd3d7f34-2eff-4e8d-a046-4899e11663a1","Key":0.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"bda67c0d-339b-436f-b905-7959a2160e45","path":"sprites/spr_smallbreak2escapedebris_ss/spr_smallbreak2escapedebris_ss.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
             {"id":"cb74d6d6-1015-4c56-9051-c3b2e983bac5","Key":1.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"7b2b45cb-5d96-447f-899e-d3b95f9e7e4f","path":"sprites/spr_smallbreak2escapedebris_ss/spr_smallbreak2escapedebris_ss.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
-          ],"resourceVersion":"1.0","resourceType":"KeyframeStore<SpriteFrameKeyframe>",},"trackColour":0,"inheritsTrackColour":true,"builtinName":0,"traits":0,"interpolation":1,"tracks":[],"events":[],"isCreationTrack":false,"resourceVersion":"1.0","tags":[],"resourceType":"GMSpriteFramesTrack","modifiers":[],},
+          ],"resourceVersion":"1.0","resourceType":"KeyframeStore<SpriteFrameKeyframe>",},"trackColour":0,"inheritsTrackColour":true,"builtinName":0,"traits":0,"interpolation":1,"tracks":[],"events":[],"isCreationTrack":false,"modifiers":[],},
     ],
     "visibleRange": null,
     "lockOrigin": false,
@@ -65,22 +67,13 @@
     "yorigin": 32,
     "eventToFunction": {},
     "eventStubScript": null,
-    "parent": {"name":"spr_smallbreak2escapedebris_ss","path":"sprites/spr_smallbreak2escapedebris_ss/spr_smallbreak2escapedebris_ss.yy",},
-    "resourceVersion": "1.4",
-    "name": "spr_smallbreak2escapedebris_ss",
-    "tags": [],
-    "resourceType": "GMSequence",
   },
   "layers": [
-    {"visible":true,"isLocked":false,"blendMode":0,"opacity":100.0,"displayName":"default","resourceVersion":"1.0","name":"1fb0bbc7-b5e5-4ca0-9607-49dfd0f7ba9f","tags":[],"resourceType":"GMImageLayer",},
+    {"resourceType":"GMImageLayer","resourceVersion":"1.0","name":"1fb0bbc7-b5e5-4ca0-9607-49dfd0f7ba9f","visible":true,"isLocked":false,"blendMode":0,"opacity":100.0,"displayName":"default",},
   ],
   "nineSlice": null,
   "parent": {
     "name": "destroyable",
     "path": "folders/Sprites/SUGARY SPIRE/destroyable.yy",
   },
-  "resourceVersion": "1.0",
-  "name": "spr_smallbreak2escapedebris_ss",
-  "tags": [],
-  "resourceType": "GMSprite",
 }

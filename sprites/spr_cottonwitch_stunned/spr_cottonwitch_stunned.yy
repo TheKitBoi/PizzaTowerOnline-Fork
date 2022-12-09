@@ -1,4 +1,7 @@
 {
+  "resourceType": "GMSprite",
+  "resourceVersion": "1.0",
+  "name": "spr_cottonwitch_stunned",
   "ConfigValues": {
     "debug": {"textureGroupId":"{\"name\":\"tg_sugaryspire\",\"path\":\"texturegroups/tg_sugaryspire\"}",},
   },
@@ -17,6 +20,7 @@
   "HTile": false,
   "VTile": false,
   "For3D": false,
+  "DynamicTexturePage": false,
   "width": 100,
   "height": 100,
   "textureGroupId": {
@@ -27,18 +31,14 @@
   "gridX": 0,
   "gridY": 0,
   "frames": [
-    {"compositeImage":{"FrameId":{"name":"7cf14755-91a5-487a-9831-229265cf914c","path":"sprites/spr_cottonwitch_stunned/spr_cottonwitch_stunned.yy",},"LayerId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"7cf14755-91a5-487a-9831-229265cf914c","path":"sprites/spr_cottonwitch_stunned/spr_cottonwitch_stunned.yy",},"LayerId":{"name":"691d54dd-da89-4132-8540-94347ec9bfe4","path":"sprites/spr_cottonwitch_stunned/spr_cottonwitch_stunned.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-      ],"parent":{"name":"spr_cottonwitch_stunned","path":"sprites/spr_cottonwitch_stunned/spr_cottonwitch_stunned.yy",},"resourceVersion":"1.0","name":"7cf14755-91a5-487a-9831-229265cf914c","tags":[],"resourceType":"GMSpriteFrame",},
-    {"compositeImage":{"FrameId":{"name":"383278fe-c45c-48e0-ace6-8f47928d2556","path":"sprites/spr_cottonwitch_stunned/spr_cottonwitch_stunned.yy",},"LayerId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"383278fe-c45c-48e0-ace6-8f47928d2556","path":"sprites/spr_cottonwitch_stunned/spr_cottonwitch_stunned.yy",},"LayerId":{"name":"691d54dd-da89-4132-8540-94347ec9bfe4","path":"sprites/spr_cottonwitch_stunned/spr_cottonwitch_stunned.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-      ],"parent":{"name":"spr_cottonwitch_stunned","path":"sprites/spr_cottonwitch_stunned/spr_cottonwitch_stunned.yy",},"resourceVersion":"1.0","name":"383278fe-c45c-48e0-ace6-8f47928d2556","tags":[],"resourceType":"GMSpriteFrame",},
-    {"compositeImage":{"FrameId":{"name":"14450952-4ee6-4182-8fb1-9cc923c2ae3e","path":"sprites/spr_cottonwitch_stunned/spr_cottonwitch_stunned.yy",},"LayerId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"14450952-4ee6-4182-8fb1-9cc923c2ae3e","path":"sprites/spr_cottonwitch_stunned/spr_cottonwitch_stunned.yy",},"LayerId":{"name":"691d54dd-da89-4132-8540-94347ec9bfe4","path":"sprites/spr_cottonwitch_stunned/spr_cottonwitch_stunned.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-      ],"parent":{"name":"spr_cottonwitch_stunned","path":"sprites/spr_cottonwitch_stunned/spr_cottonwitch_stunned.yy",},"resourceVersion":"1.0","name":"14450952-4ee6-4182-8fb1-9cc923c2ae3e","tags":[],"resourceType":"GMSpriteFrame",},
+    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"7cf14755-91a5-487a-9831-229265cf914c",},
+    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"383278fe-c45c-48e0-ace6-8f47928d2556",},
+    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"14450952-4ee6-4182-8fb1-9cc923c2ae3e",},
   ],
   "sequence": {
-    "spriteId": {"name":"spr_cottonwitch_stunned","path":"sprites/spr_cottonwitch_stunned/spr_cottonwitch_stunned.yy",},
+    "resourceType": "GMSequence",
+    "resourceVersion": "1.4",
+    "name": "spr_cottonwitch_stunned",
     "timeUnits": 1,
     "playback": 1,
     "playbackSpeed": 1.0,
@@ -49,11 +49,11 @@
     "events": {"Keyframes":[],"resourceVersion":"1.0","resourceType":"KeyframeStore<MessageEventKeyframe>",},
     "moments": {"Keyframes":[],"resourceVersion":"1.0","resourceType":"KeyframeStore<MomentsEventKeyframe>",},
     "tracks": [
-      {"name":"frames","spriteId":null,"keyframes":{"Keyframes":[
+      {"resourceType":"GMSpriteFramesTrack","resourceVersion":"1.0","name":"frames","spriteId":null,"keyframes":{"Keyframes":[
             {"id":"3698e31f-a09f-4fb2-b266-215d02c83913","Key":0.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"7cf14755-91a5-487a-9831-229265cf914c","path":"sprites/spr_cottonwitch_stunned/spr_cottonwitch_stunned.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
             {"id":"392d69c4-dc58-4964-bad0-78c2dde218fa","Key":1.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"383278fe-c45c-48e0-ace6-8f47928d2556","path":"sprites/spr_cottonwitch_stunned/spr_cottonwitch_stunned.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
             {"id":"9a3fb2ba-4d79-4078-98b7-a8c20332cb9f","Key":2.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"14450952-4ee6-4182-8fb1-9cc923c2ae3e","path":"sprites/spr_cottonwitch_stunned/spr_cottonwitch_stunned.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
-          ],"resourceVersion":"1.0","resourceType":"KeyframeStore<SpriteFrameKeyframe>",},"trackColour":0,"inheritsTrackColour":true,"builtinName":0,"traits":0,"interpolation":1,"tracks":[],"events":[],"isCreationTrack":false,"resourceVersion":"1.0","tags":[],"resourceType":"GMSpriteFramesTrack","modifiers":[],},
+          ],"resourceVersion":"1.0","resourceType":"KeyframeStore<SpriteFrameKeyframe>",},"trackColour":0,"inheritsTrackColour":true,"builtinName":0,"traits":0,"interpolation":1,"tracks":[],"events":[],"isCreationTrack":false,"modifiers":[],},
     ],
     "visibleRange": null,
     "lockOrigin": false,
@@ -69,22 +69,13 @@
     "yorigin": 50,
     "eventToFunction": {},
     "eventStubScript": null,
-    "parent": {"name":"spr_cottonwitch_stunned","path":"sprites/spr_cottonwitch_stunned/spr_cottonwitch_stunned.yy",},
-    "resourceVersion": "1.4",
-    "name": "spr_cottonwitch_stunned",
-    "tags": [],
-    "resourceType": "GMSequence",
   },
   "layers": [
-    {"visible":true,"isLocked":false,"blendMode":0,"opacity":100.0,"displayName":"default","resourceVersion":"1.0","name":"691d54dd-da89-4132-8540-94347ec9bfe4","tags":[],"resourceType":"GMImageLayer",},
+    {"resourceType":"GMImageLayer","resourceVersion":"1.0","name":"691d54dd-da89-4132-8540-94347ec9bfe4","visible":true,"isLocked":false,"blendMode":0,"opacity":100.0,"displayName":"default",},
   ],
   "nineSlice": null,
   "parent": {
     "name": "cottonwitch",
     "path": "folders/Sprites/SUGARY SPIRE/baddie/cottonwitch.yy",
   },
-  "resourceVersion": "1.0",
-  "name": "spr_cottonwitch_stunned",
-  "tags": [],
-  "resourceType": "GMSprite",
 }

@@ -1,4 +1,7 @@
 {
+  "resourceType": "GMSprite",
+  "resourceVersion": "1.0",
+  "name": "spr_playerSP_knightslope",
   "ConfigValues": {
     "debug": {"textureGroupId":"{\"name\":\"tg_player\",\"path\":\"texturegroups/tg_player\"}",},
   },
@@ -17,6 +20,7 @@
   "HTile": false,
   "VTile": false,
   "For3D": false,
+  "DynamicTexturePage": false,
   "width": 150,
   "height": 100,
   "textureGroupId": {
@@ -27,18 +31,14 @@
   "gridX": 0,
   "gridY": 0,
   "frames": [
-    {"compositeImage":{"FrameId":{"name":"5ed63414-85ae-4334-933b-62fa21519aef","path":"sprites/spr_playerSP_knightslope/spr_playerSP_knightslope.yy",},"LayerId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"5ed63414-85ae-4334-933b-62fa21519aef","path":"sprites/spr_playerSP_knightslope/spr_playerSP_knightslope.yy",},"LayerId":{"name":"01097fad-b3c4-4147-ada1-b4d3a8b1501c","path":"sprites/spr_playerSP_knightslope/spr_playerSP_knightslope.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-      ],"parent":{"name":"spr_playerSP_knightslope","path":"sprites/spr_playerSP_knightslope/spr_playerSP_knightslope.yy",},"resourceVersion":"1.0","name":"5ed63414-85ae-4334-933b-62fa21519aef","tags":[],"resourceType":"GMSpriteFrame",},
-    {"compositeImage":{"FrameId":{"name":"974e2a5f-7d91-46aa-a15d-5dd0bf6c607e","path":"sprites/spr_playerSP_knightslope/spr_playerSP_knightslope.yy",},"LayerId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"974e2a5f-7d91-46aa-a15d-5dd0bf6c607e","path":"sprites/spr_playerSP_knightslope/spr_playerSP_knightslope.yy",},"LayerId":{"name":"01097fad-b3c4-4147-ada1-b4d3a8b1501c","path":"sprites/spr_playerSP_knightslope/spr_playerSP_knightslope.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-      ],"parent":{"name":"spr_playerSP_knightslope","path":"sprites/spr_playerSP_knightslope/spr_playerSP_knightslope.yy",},"resourceVersion":"1.0","name":"974e2a5f-7d91-46aa-a15d-5dd0bf6c607e","tags":[],"resourceType":"GMSpriteFrame",},
-    {"compositeImage":{"FrameId":{"name":"b02d1151-c4e7-4089-8807-ad43ffb652ab","path":"sprites/spr_playerSP_knightslope/spr_playerSP_knightslope.yy",},"LayerId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"b02d1151-c4e7-4089-8807-ad43ffb652ab","path":"sprites/spr_playerSP_knightslope/spr_playerSP_knightslope.yy",},"LayerId":{"name":"01097fad-b3c4-4147-ada1-b4d3a8b1501c","path":"sprites/spr_playerSP_knightslope/spr_playerSP_knightslope.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-      ],"parent":{"name":"spr_playerSP_knightslope","path":"sprites/spr_playerSP_knightslope/spr_playerSP_knightslope.yy",},"resourceVersion":"1.0","name":"b02d1151-c4e7-4089-8807-ad43ffb652ab","tags":[],"resourceType":"GMSpriteFrame",},
+    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"5ed63414-85ae-4334-933b-62fa21519aef",},
+    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"974e2a5f-7d91-46aa-a15d-5dd0bf6c607e",},
+    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"b02d1151-c4e7-4089-8807-ad43ffb652ab",},
   ],
   "sequence": {
-    "spriteId": {"name":"spr_playerSP_knightslope","path":"sprites/spr_playerSP_knightslope/spr_playerSP_knightslope.yy",},
+    "resourceType": "GMSequence",
+    "resourceVersion": "1.4",
+    "name": "spr_playerSP_knightslope",
     "timeUnits": 1,
     "playback": 1,
     "playbackSpeed": 1.0,
@@ -49,11 +49,11 @@
     "events": {"Keyframes":[],"resourceVersion":"1.0","resourceType":"KeyframeStore<MessageEventKeyframe>",},
     "moments": {"Keyframes":[],"resourceVersion":"1.0","resourceType":"KeyframeStore<MomentsEventKeyframe>",},
     "tracks": [
-      {"name":"frames","spriteId":null,"keyframes":{"Keyframes":[
+      {"resourceType":"GMSpriteFramesTrack","resourceVersion":"1.0","name":"frames","spriteId":null,"keyframes":{"Keyframes":[
             {"id":"83625649-3977-40ac-8752-49a596eeb5b5","Key":0.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"5ed63414-85ae-4334-933b-62fa21519aef","path":"sprites/spr_playerSP_knightslope/spr_playerSP_knightslope.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
             {"id":"5ffccc65-7b19-4064-9926-23c23b9c0eef","Key":1.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"974e2a5f-7d91-46aa-a15d-5dd0bf6c607e","path":"sprites/spr_playerSP_knightslope/spr_playerSP_knightslope.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
             {"id":"a68648cd-6ef9-4bba-8f0a-1777e70826c9","Key":2.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"b02d1151-c4e7-4089-8807-ad43ffb652ab","path":"sprites/spr_playerSP_knightslope/spr_playerSP_knightslope.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
-          ],"resourceVersion":"1.0","resourceType":"KeyframeStore<SpriteFrameKeyframe>",},"trackColour":0,"inheritsTrackColour":true,"builtinName":0,"traits":0,"interpolation":1,"tracks":[],"events":[],"isCreationTrack":false,"resourceVersion":"1.0","tags":[],"resourceType":"GMSpriteFramesTrack","modifiers":[],},
+          ],"resourceVersion":"1.0","resourceType":"KeyframeStore<SpriteFrameKeyframe>",},"trackColour":0,"inheritsTrackColour":true,"builtinName":0,"traits":0,"interpolation":1,"tracks":[],"events":[],"isCreationTrack":false,"modifiers":[],},
     ],
     "visibleRange": null,
     "lockOrigin": false,
@@ -69,22 +69,13 @@
     "yorigin": 50,
     "eventToFunction": {},
     "eventStubScript": null,
-    "parent": {"name":"spr_playerSP_knightslope","path":"sprites/spr_playerSP_knightslope/spr_playerSP_knightslope.yy",},
-    "resourceVersion": "1.4",
-    "name": "spr_playerSP_knightslope",
-    "tags": [],
-    "resourceType": "GMSequence",
   },
   "layers": [
-    {"visible":true,"isLocked":false,"blendMode":0,"opacity":100.0,"displayName":"default","resourceVersion":"1.0","name":"01097fad-b3c4-4147-ada1-b4d3a8b1501c","tags":[],"resourceType":"GMImageLayer",},
+    {"resourceType":"GMImageLayer","resourceVersion":"1.0","name":"01097fad-b3c4-4147-ada1-b4d3a8b1501c","visible":true,"isLocked":false,"blendMode":0,"opacity":100.0,"displayName":"default",},
   ],
   "nineSlice": null,
   "parent": {
     "name": "knight",
     "path": "folders/Sprites/players/pizzelle/transfo/knight.yy",
   },
-  "resourceVersion": "1.0",
-  "name": "spr_playerSP_knightslope",
-  "tags": [],
-  "resourceType": "GMSprite",
 }

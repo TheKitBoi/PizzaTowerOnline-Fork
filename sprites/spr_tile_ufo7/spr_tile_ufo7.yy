@@ -1,4 +1,7 @@
 {
+  "resourceType": "GMSprite",
+  "resourceVersion": "1.0",
+  "name": "spr_tile_ufo7",
   "ConfigValues": {
     "debug": {"textureGroupId":"{\"name\":\"tg_leveleditor\",\"path\":\"texturegroups/tg_leveleditor\"}",},
   },
@@ -17,6 +20,7 @@
   "HTile": false,
   "VTile": false,
   "For3D": false,
+  "DynamicTexturePage": false,
   "width": 32,
   "height": 32,
   "textureGroupId": {
@@ -27,18 +31,14 @@
   "gridX": 0,
   "gridY": 0,
   "frames": [
-    {"compositeImage":{"FrameId":{"name":"e25f021f-c1d3-41e3-b7ea-da3d6744dff2","path":"sprites/spr_tile_ufo7/spr_tile_ufo7.yy",},"LayerId":null,"resourceVersion":"1.0","name":"composite","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"e25f021f-c1d3-41e3-b7ea-da3d6744dff2","path":"sprites/spr_tile_ufo7/spr_tile_ufo7.yy",},"LayerId":{"name":"b42a4d9d-6f07-49fb-9054-313adae9d8a1","path":"sprites/spr_tile_ufo7/spr_tile_ufo7.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-      ],"parent":{"name":"spr_tile_ufo7","path":"sprites/spr_tile_ufo7/spr_tile_ufo7.yy",},"resourceVersion":"1.0","name":"e25f021f-c1d3-41e3-b7ea-da3d6744dff2","tags":[],"resourceType":"GMSpriteFrame",},
-    {"compositeImage":{"FrameId":{"name":"a052c497-6ffa-4ef0-b92b-43cc5accd84e","path":"sprites/spr_tile_ufo7/spr_tile_ufo7.yy",},"LayerId":null,"resourceVersion":"1.0","name":"composite","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"a052c497-6ffa-4ef0-b92b-43cc5accd84e","path":"sprites/spr_tile_ufo7/spr_tile_ufo7.yy",},"LayerId":{"name":"b42a4d9d-6f07-49fb-9054-313adae9d8a1","path":"sprites/spr_tile_ufo7/spr_tile_ufo7.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-      ],"parent":{"name":"spr_tile_ufo7","path":"sprites/spr_tile_ufo7/spr_tile_ufo7.yy",},"resourceVersion":"1.0","name":"a052c497-6ffa-4ef0-b92b-43cc5accd84e","tags":[],"resourceType":"GMSpriteFrame",},
-    {"compositeImage":{"FrameId":{"name":"db112c1d-8724-4839-a064-c2c1c7812b1b","path":"sprites/spr_tile_ufo7/spr_tile_ufo7.yy",},"LayerId":null,"resourceVersion":"1.0","name":"composite","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"db112c1d-8724-4839-a064-c2c1c7812b1b","path":"sprites/spr_tile_ufo7/spr_tile_ufo7.yy",},"LayerId":{"name":"b42a4d9d-6f07-49fb-9054-313adae9d8a1","path":"sprites/spr_tile_ufo7/spr_tile_ufo7.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-      ],"parent":{"name":"spr_tile_ufo7","path":"sprites/spr_tile_ufo7/spr_tile_ufo7.yy",},"resourceVersion":"1.0","name":"db112c1d-8724-4839-a064-c2c1c7812b1b","tags":[],"resourceType":"GMSpriteFrame",},
+    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"e25f021f-c1d3-41e3-b7ea-da3d6744dff2",},
+    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"a052c497-6ffa-4ef0-b92b-43cc5accd84e",},
+    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"db112c1d-8724-4839-a064-c2c1c7812b1b",},
   ],
   "sequence": {
-    "spriteId": {"name":"spr_tile_ufo7","path":"sprites/spr_tile_ufo7/spr_tile_ufo7.yy",},
+    "resourceType": "GMSequence",
+    "resourceVersion": "1.4",
+    "name": "",
     "timeUnits": 1,
     "playback": 1,
     "playbackSpeed": 1.0,
@@ -49,11 +49,11 @@
     "events": {"Keyframes":[],"resourceVersion":"1.0","resourceType":"KeyframeStore<MessageEventKeyframe>",},
     "moments": {"Keyframes":[],"resourceVersion":"1.0","resourceType":"KeyframeStore<MomentsEventKeyframe>",},
     "tracks": [
-      {"name":"frames","spriteId":null,"keyframes":{"Keyframes":[
+      {"resourceType":"GMSpriteFramesTrack","resourceVersion":"1.0","name":"frames","spriteId":null,"keyframes":{"Keyframes":[
             {"id":"3f23a02a-1f7f-40fc-9e53-5e2f1ff5d2ff","Key":0.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"e25f021f-c1d3-41e3-b7ea-da3d6744dff2","path":"sprites/spr_tile_ufo7/spr_tile_ufo7.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
             {"id":"36c9c5e2-b6d5-468a-a046-90662fe3d9c8","Key":1.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"a052c497-6ffa-4ef0-b92b-43cc5accd84e","path":"sprites/spr_tile_ufo7/spr_tile_ufo7.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
             {"id":"66643fb6-8050-4dfc-9548-086a224ad4b6","Key":2.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"db112c1d-8724-4839-a064-c2c1c7812b1b","path":"sprites/spr_tile_ufo7/spr_tile_ufo7.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
-          ],"resourceVersion":"1.0","resourceType":"KeyframeStore<SpriteFrameKeyframe>",},"trackColour":0,"inheritsTrackColour":true,"builtinName":0,"traits":0,"interpolation":1,"tracks":[],"events":[],"isCreationTrack":false,"resourceVersion":"1.0","tags":[],"resourceType":"GMSpriteFramesTrack","modifiers":[],},
+          ],"resourceVersion":"1.0","resourceType":"KeyframeStore<SpriteFrameKeyframe>",},"trackColour":0,"inheritsTrackColour":true,"builtinName":0,"traits":0,"interpolation":1,"tracks":[],"events":[],"isCreationTrack":false,"modifiers":[],},
     ],
     "visibleRange": {"x":0.0,"y":0.0,},
     "lockOrigin": false,
@@ -69,22 +69,13 @@
     "yorigin": 0,
     "eventToFunction": {},
     "eventStubScript": null,
-    "parent": {"name":"spr_tile_ufo7","path":"sprites/spr_tile_ufo7/spr_tile_ufo7.yy",},
-    "resourceVersion": "1.4",
-    "name": "",
-    "tags": [],
-    "resourceType": "GMSequence",
   },
   "layers": [
-    {"visible":true,"isLocked":false,"blendMode":0,"opacity":100.0,"displayName":"default","resourceVersion":"1.0","name":"b42a4d9d-6f07-49fb-9054-313adae9d8a1","tags":[],"resourceType":"GMImageLayer",},
+    {"resourceType":"GMImageLayer","resourceVersion":"1.0","name":"b42a4d9d-6f07-49fb-9054-313adae9d8a1","visible":true,"isLocked":false,"blendMode":0,"opacity":100.0,"displayName":"default",},
   ],
   "nineSlice": null,
   "parent": {
     "name": "Tiles",
     "path": "folders/Sprites/sertif's editor/Tiles.yy",
   },
-  "resourceVersion": "1.0",
-  "name": "spr_tile_ufo7",
-  "tags": [],
-  "resourceType": "GMSprite",
 }

@@ -1,4 +1,7 @@
 {
+  "resourceType": "GMSprite",
+  "resourceVersion": "1.0",
+  "name": "spr_playerSP_ghostdash",
   "ConfigValues": {
     "debug": {"textureGroupId":"{\"name\":\"tg_player\",\"path\":\"texturegroups/tg_player\"}",},
   },
@@ -17,6 +20,7 @@
   "HTile": false,
   "VTile": false,
   "For3D": false,
+  "DynamicTexturePage": false,
   "width": 100,
   "height": 100,
   "textureGroupId": {
@@ -27,12 +31,12 @@
   "gridX": 0,
   "gridY": 0,
   "frames": [
-    {"compositeImage":{"FrameId":{"name":"94cacba5-07bb-4059-8fdf-889ed801c294","path":"sprites/spr_playerSP_ghostdash/spr_playerSP_ghostdash.yy",},"LayerId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"94cacba5-07bb-4059-8fdf-889ed801c294","path":"sprites/spr_playerSP_ghostdash/spr_playerSP_ghostdash.yy",},"LayerId":{"name":"0ca4ede5-1b84-49c1-bdd2-f3bdb79970f3","path":"sprites/spr_playerSP_ghostdash/spr_playerSP_ghostdash.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-      ],"parent":{"name":"spr_playerSP_ghostdash","path":"sprites/spr_playerSP_ghostdash/spr_playerSP_ghostdash.yy",},"resourceVersion":"1.0","name":"94cacba5-07bb-4059-8fdf-889ed801c294","tags":[],"resourceType":"GMSpriteFrame",},
+    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"94cacba5-07bb-4059-8fdf-889ed801c294",},
   ],
   "sequence": {
-    "spriteId": {"name":"spr_playerSP_ghostdash","path":"sprites/spr_playerSP_ghostdash/spr_playerSP_ghostdash.yy",},
+    "resourceType": "GMSequence",
+    "resourceVersion": "1.4",
+    "name": "spr_playerSP_ghostdash",
     "timeUnits": 1,
     "playback": 1,
     "playbackSpeed": 1.0,
@@ -43,9 +47,9 @@
     "events": {"Keyframes":[],"resourceVersion":"1.0","resourceType":"KeyframeStore<MessageEventKeyframe>",},
     "moments": {"Keyframes":[],"resourceVersion":"1.0","resourceType":"KeyframeStore<MomentsEventKeyframe>",},
     "tracks": [
-      {"name":"frames","spriteId":null,"keyframes":{"Keyframes":[
+      {"resourceType":"GMSpriteFramesTrack","resourceVersion":"1.0","name":"frames","spriteId":null,"keyframes":{"Keyframes":[
             {"id":"d4df9851-0b55-4e13-8f5f-22cc05f41462","Key":0.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"94cacba5-07bb-4059-8fdf-889ed801c294","path":"sprites/spr_playerSP_ghostdash/spr_playerSP_ghostdash.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
-          ],"resourceVersion":"1.0","resourceType":"KeyframeStore<SpriteFrameKeyframe>",},"trackColour":0,"inheritsTrackColour":true,"builtinName":0,"traits":0,"interpolation":1,"tracks":[],"events":[],"isCreationTrack":false,"resourceVersion":"1.0","tags":[],"resourceType":"GMSpriteFramesTrack","modifiers":[],},
+          ],"resourceVersion":"1.0","resourceType":"KeyframeStore<SpriteFrameKeyframe>",},"trackColour":0,"inheritsTrackColour":true,"builtinName":0,"traits":0,"interpolation":1,"tracks":[],"events":[],"isCreationTrack":false,"modifiers":[],},
     ],
     "visibleRange": null,
     "lockOrigin": false,
@@ -61,22 +65,13 @@
     "yorigin": 50,
     "eventToFunction": {},
     "eventStubScript": null,
-    "parent": {"name":"spr_playerSP_ghostdash","path":"sprites/spr_playerSP_ghostdash/spr_playerSP_ghostdash.yy",},
-    "resourceVersion": "1.4",
-    "name": "spr_playerSP_ghostdash",
-    "tags": [],
-    "resourceType": "GMSequence",
   },
   "layers": [
-    {"visible":true,"isLocked":false,"blendMode":0,"opacity":100.0,"displayName":"default","resourceVersion":"1.0","name":"0ca4ede5-1b84-49c1-bdd2-f3bdb79970f3","tags":[],"resourceType":"GMImageLayer",},
+    {"resourceType":"GMImageLayer","resourceVersion":"1.0","name":"0ca4ede5-1b84-49c1-bdd2-f3bdb79970f3","visible":true,"isLocked":false,"blendMode":0,"opacity":100.0,"displayName":"default",},
   ],
   "nineSlice": null,
   "parent": {
     "name": "ghost",
     "path": "folders/Sprites/players/pizzelle/transfo/ghost.yy",
   },
-  "resourceVersion": "1.0",
-  "name": "spr_playerSP_ghostdash",
-  "tags": [],
-  "resourceType": "GMSprite",
 }

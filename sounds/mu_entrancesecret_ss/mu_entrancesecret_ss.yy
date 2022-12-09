@@ -1,4 +1,7 @@
 {
+  "resourceType": "GMSound",
+  "resourceVersion": "1.0",
+  "name": "mu_entrancesecret_ss",
   "conversionMode": 0,
   "compression": 1,
   "volume": 1.0,
@@ -17,8 +20,4 @@
     "name": "secret",
     "path": "folders/Sounds/PTO extra/sugary spire/secret.yy",
   },
-  "resourceVersion": "1.0",
-  "name": "mu_entrancesecret_ss",
-  "tags": [],
-  "resourceType": "GMSound",
 }

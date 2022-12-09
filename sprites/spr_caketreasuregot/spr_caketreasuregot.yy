@@ -1,4 +1,7 @@
 {
+  "resourceType": "GMSprite",
+  "resourceVersion": "1.0",
+  "name": "spr_caketreasuregot",
   "bboxMode": 0,
   "collisionKind": 1,
   "type": 0,
@@ -14,6 +17,7 @@
   "HTile": false,
   "VTile": false,
   "For3D": false,
+  "DynamicTexturePage": false,
   "width": 100,
   "height": 100,
   "textureGroupId": {
@@ -24,18 +28,14 @@
   "gridX": 0,
   "gridY": 0,
   "frames": [
-    {"compositeImage":{"FrameId":{"name":"186cac9a-47ac-492d-a845-ba155a165a31","path":"sprites/spr_caketreasuregot/spr_caketreasuregot.yy",},"LayerId":null,"resourceVersion":"1.0","name":"composite","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"186cac9a-47ac-492d-a845-ba155a165a31","path":"sprites/spr_caketreasuregot/spr_caketreasuregot.yy",},"LayerId":{"name":"d1ad086e-827e-4a48-b301-eaec42e377fd","path":"sprites/spr_caketreasuregot/spr_caketreasuregot.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-      ],"parent":{"name":"spr_caketreasuregot","path":"sprites/spr_caketreasuregot/spr_caketreasuregot.yy",},"resourceVersion":"1.0","name":"186cac9a-47ac-492d-a845-ba155a165a31","tags":[],"resourceType":"GMSpriteFrame",},
-    {"compositeImage":{"FrameId":{"name":"f0a79412-6871-4e8d-b6c8-f396c7251a27","path":"sprites/spr_caketreasuregot/spr_caketreasuregot.yy",},"LayerId":null,"resourceVersion":"1.0","name":"composite","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"f0a79412-6871-4e8d-b6c8-f396c7251a27","path":"sprites/spr_caketreasuregot/spr_caketreasuregot.yy",},"LayerId":{"name":"d1ad086e-827e-4a48-b301-eaec42e377fd","path":"sprites/spr_caketreasuregot/spr_caketreasuregot.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-      ],"parent":{"name":"spr_caketreasuregot","path":"sprites/spr_caketreasuregot/spr_caketreasuregot.yy",},"resourceVersion":"1.0","name":"f0a79412-6871-4e8d-b6c8-f396c7251a27","tags":[],"resourceType":"GMSpriteFrame",},
-    {"compositeImage":{"FrameId":{"name":"c52ef6e0-6ec1-4153-bd24-a6f58193c466","path":"sprites/spr_caketreasuregot/spr_caketreasuregot.yy",},"LayerId":null,"resourceVersion":"1.0","name":"composite","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"c52ef6e0-6ec1-4153-bd24-a6f58193c466","path":"sprites/spr_caketreasuregot/spr_caketreasuregot.yy",},"LayerId":{"name":"d1ad086e-827e-4a48-b301-eaec42e377fd","path":"sprites/spr_caketreasuregot/spr_caketreasuregot.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-      ],"parent":{"name":"spr_caketreasuregot","path":"sprites/spr_caketreasuregot/spr_caketreasuregot.yy",},"resourceVersion":"1.0","name":"c52ef6e0-6ec1-4153-bd24-a6f58193c466","tags":[],"resourceType":"GMSpriteFrame",},
+    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"186cac9a-47ac-492d-a845-ba155a165a31",},
+    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"f0a79412-6871-4e8d-b6c8-f396c7251a27",},
+    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"c52ef6e0-6ec1-4153-bd24-a6f58193c466",},
   ],
   "sequence": {
-    "spriteId": {"name":"spr_caketreasuregot","path":"sprites/spr_caketreasuregot/spr_caketreasuregot.yy",},
+    "resourceType": "GMSequence",
+    "resourceVersion": "1.4",
+    "name": "",
     "timeUnits": 1,
     "playback": 1,
     "playbackSpeed": 1.0,
@@ -46,11 +46,11 @@
     "events": {"Keyframes":[],"resourceVersion":"1.0","resourceType":"KeyframeStore<MessageEventKeyframe>",},
     "moments": {"Keyframes":[],"resourceVersion":"1.0","resourceType":"KeyframeStore<MomentsEventKeyframe>",},
     "tracks": [
-      {"name":"frames","spriteId":null,"keyframes":{"Keyframes":[
+      {"resourceType":"GMSpriteFramesTrack","resourceVersion":"1.0","name":"frames","spriteId":null,"keyframes":{"Keyframes":[
             {"id":"d4d5e532-2258-47c8-8c8e-56cb1d67437c","Key":0.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"186cac9a-47ac-492d-a845-ba155a165a31","path":"sprites/spr_caketreasuregot/spr_caketreasuregot.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
             {"id":"a226069e-7fa4-4de5-a6f6-b4e96e248279","Key":1.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"f0a79412-6871-4e8d-b6c8-f396c7251a27","path":"sprites/spr_caketreasuregot/spr_caketreasuregot.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
             {"id":"60147db9-f97e-4b6d-8c97-eb653739e210","Key":2.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"c52ef6e0-6ec1-4153-bd24-a6f58193c466","path":"sprites/spr_caketreasuregot/spr_caketreasuregot.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
-          ],"resourceVersion":"1.0","resourceType":"KeyframeStore<SpriteFrameKeyframe>",},"trackColour":0,"inheritsTrackColour":true,"builtinName":0,"traits":0,"interpolation":1,"tracks":[],"events":[],"isCreationTrack":false,"resourceVersion":"1.0","tags":[],"resourceType":"GMSpriteFramesTrack","modifiers":[],},
+          ],"resourceVersion":"1.0","resourceType":"KeyframeStore<SpriteFrameKeyframe>",},"trackColour":0,"inheritsTrackColour":true,"builtinName":0,"traits":0,"interpolation":1,"tracks":[],"events":[],"isCreationTrack":false,"modifiers":[],},
     ],
     "visibleRange": null,
     "lockOrigin": false,
@@ -66,22 +66,13 @@
     "yorigin": 55,
     "eventToFunction": {},
     "eventStubScript": null,
-    "parent": {"name":"spr_caketreasuregot","path":"sprites/spr_caketreasuregot/spr_caketreasuregot.yy",},
-    "resourceVersion": "1.4",
-    "name": "",
-    "tags": [],
-    "resourceType": "GMSequence",
   },
   "layers": [
-    {"visible":true,"isLocked":false,"blendMode":0,"opacity":100.0,"displayName":"default","resourceVersion":"1.0","name":"d1ad086e-827e-4a48-b301-eaec42e377fd","tags":[],"resourceType":"GMImageLayer",},
+    {"resourceType":"GMImageLayer","resourceVersion":"1.0","name":"d1ad086e-827e-4a48-b301-eaec42e377fd","visible":true,"isLocked":false,"blendMode":0,"opacity":100.0,"displayName":"default",},
   ],
   "nineSlice": null,
   "parent": {
     "name": "collectibles",
     "path": "folders/Sprites/generalobjects/collectibles.yy",
   },
-  "resourceVersion": "1.0",
-  "name": "spr_caketreasuregot",
-  "tags": [],
-  "resourceType": "GMSprite",
 }

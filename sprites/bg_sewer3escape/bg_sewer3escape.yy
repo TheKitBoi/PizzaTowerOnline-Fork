@@ -1,4 +1,7 @@
 {
+  "resourceType": "GMSprite",
+  "resourceVersion": "1.0",
+  "name": "bg_sewer3escape",
   "ConfigValues": {
     "debug": {"textureGroupId":"{\"name\":\"tg_sewer\",\"path\":\"texturegroups/tg_sewer\"}",},
   },
@@ -17,6 +20,7 @@
   "HTile": false,
   "VTile": false,
   "For3D": false,
+  "DynamicTexturePage": false,
   "width": 960,
   "height": 540,
   "textureGroupId": {
@@ -27,15 +31,13 @@
   "gridX": 0,
   "gridY": 0,
   "frames": [
-    {"compositeImage":{"FrameId":{"name":"aa5d0e45-cadd-4616-b1ac-ee76f15d5db0","path":"sprites/bg_sewer3escape/bg_sewer3escape.yy",},"LayerId":null,"resourceVersion":"1.0","name":"composite","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"aa5d0e45-cadd-4616-b1ac-ee76f15d5db0","path":"sprites/bg_sewer3escape/bg_sewer3escape.yy",},"LayerId":{"name":"ed6f64d0-351f-4cb7-8fa3-530035cfbcce","path":"sprites/bg_sewer3escape/bg_sewer3escape.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-      ],"parent":{"name":"bg_sewer3escape","path":"sprites/bg_sewer3escape/bg_sewer3escape.yy",},"resourceVersion":"1.0","name":"aa5d0e45-cadd-4616-b1ac-ee76f15d5db0","tags":[],"resourceType":"GMSpriteFrame",},
-    {"compositeImage":{"FrameId":{"name":"ab72fc25-604e-4380-b506-d163bb88773b","path":"sprites/bg_sewer3escape/bg_sewer3escape.yy",},"LayerId":null,"resourceVersion":"1.0","name":"composite","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"ab72fc25-604e-4380-b506-d163bb88773b","path":"sprites/bg_sewer3escape/bg_sewer3escape.yy",},"LayerId":{"name":"ed6f64d0-351f-4cb7-8fa3-530035cfbcce","path":"sprites/bg_sewer3escape/bg_sewer3escape.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-      ],"parent":{"name":"bg_sewer3escape","path":"sprites/bg_sewer3escape/bg_sewer3escape.yy",},"resourceVersion":"1.0","name":"ab72fc25-604e-4380-b506-d163bb88773b","tags":[],"resourceType":"GMSpriteFrame",},
+    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"aa5d0e45-cadd-4616-b1ac-ee76f15d5db0",},
+    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"ab72fc25-604e-4380-b506-d163bb88773b",},
   ],
   "sequence": {
-    "spriteId": {"name":"bg_sewer3escape","path":"sprites/bg_sewer3escape/bg_sewer3escape.yy",},
+    "resourceType": "GMSequence",
+    "resourceVersion": "1.4",
+    "name": "",
     "timeUnits": 1,
     "playback": 1,
     "playbackSpeed": 1.0,
@@ -46,10 +48,10 @@
     "events": {"Keyframes":[],"resourceVersion":"1.0","resourceType":"KeyframeStore<MessageEventKeyframe>",},
     "moments": {"Keyframes":[],"resourceVersion":"1.0","resourceType":"KeyframeStore<MomentsEventKeyframe>",},
     "tracks": [
-      {"name":"frames","spriteId":null,"keyframes":{"Keyframes":[
+      {"resourceType":"GMSpriteFramesTrack","resourceVersion":"1.0","name":"frames","spriteId":null,"keyframes":{"Keyframes":[
             {"id":"cf1c06ad-8a75-4757-bfcd-f22868e82b78","Key":0.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"aa5d0e45-cadd-4616-b1ac-ee76f15d5db0","path":"sprites/bg_sewer3escape/bg_sewer3escape.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
             {"id":"8f783e15-bef6-481b-b3cf-7d1d0e222ce5","Key":1.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"ab72fc25-604e-4380-b506-d163bb88773b","path":"sprites/bg_sewer3escape/bg_sewer3escape.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
-          ],"resourceVersion":"1.0","resourceType":"KeyframeStore<SpriteFrameKeyframe>",},"trackColour":0,"inheritsTrackColour":true,"builtinName":0,"traits":0,"interpolation":1,"tracks":[],"events":[],"isCreationTrack":false,"resourceVersion":"1.0","tags":[],"resourceType":"GMSpriteFramesTrack","modifiers":[],},
+          ],"resourceVersion":"1.0","resourceType":"KeyframeStore<SpriteFrameKeyframe>",},"trackColour":0,"inheritsTrackColour":true,"builtinName":0,"traits":0,"interpolation":1,"tracks":[],"events":[],"isCreationTrack":false,"modifiers":[],},
     ],
     "visibleRange": null,
     "lockOrigin": false,
@@ -65,22 +67,13 @@
     "yorigin": 0,
     "eventToFunction": {},
     "eventStubScript": null,
-    "parent": {"name":"bg_sewer3escape","path":"sprites/bg_sewer3escape/bg_sewer3escape.yy",},
-    "resourceVersion": "1.4",
-    "name": "",
-    "tags": [],
-    "resourceType": "GMSequence",
   },
   "layers": [
-    {"visible":true,"isLocked":false,"blendMode":0,"opacity":100.0,"displayName":"default","resourceVersion":"1.0","name":"ed6f64d0-351f-4cb7-8fa3-530035cfbcce","tags":[],"resourceType":"GMImageLayer",},
+    {"resourceType":"GMImageLayer","resourceVersion":"1.0","name":"ed6f64d0-351f-4cb7-8fa3-530035cfbcce","visible":true,"isLocked":false,"blendMode":0,"opacity":100.0,"displayName":"default",},
   ],
   "nineSlice": null,
   "parent": {
     "name": "trash",
     "path": "folders/Sprites/tilesets/trash.yy",
   },
-  "resourceVersion": "1.0",
-  "name": "bg_sewer3escape",
-  "tags": [],
-  "resourceType": "GMSprite",
 }

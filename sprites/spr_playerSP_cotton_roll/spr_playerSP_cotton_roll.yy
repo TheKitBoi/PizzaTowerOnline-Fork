@@ -1,4 +1,7 @@
 {
+  "resourceType": "GMSprite",
+  "resourceVersion": "1.0",
+  "name": "spr_playerSP_cotton_roll",
   "bboxMode": 0,
   "collisionKind": 1,
   "type": 0,
@@ -14,6 +17,7 @@
   "HTile": false,
   "VTile": false,
   "For3D": false,
+  "DynamicTexturePage": false,
   "width": 100,
   "height": 100,
   "textureGroupId": {
@@ -24,30 +28,18 @@
   "gridX": 0,
   "gridY": 0,
   "frames": [
-    {"compositeImage":{"FrameId":{"name":"13748117-05b2-4830-b605-392caa919e07","path":"sprites/spr_playerSP_cotton_roll/spr_playerSP_cotton_roll.yy",},"LayerId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"13748117-05b2-4830-b605-392caa919e07","path":"sprites/spr_playerSP_cotton_roll/spr_playerSP_cotton_roll.yy",},"LayerId":{"name":"cd845b10-bbcb-4724-a641-b20296da297c","path":"sprites/spr_playerSP_cotton_roll/spr_playerSP_cotton_roll.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-      ],"parent":{"name":"spr_playerSP_cotton_roll","path":"sprites/spr_playerSP_cotton_roll/spr_playerSP_cotton_roll.yy",},"resourceVersion":"1.0","name":"13748117-05b2-4830-b605-392caa919e07","tags":[],"resourceType":"GMSpriteFrame",},
-    {"compositeImage":{"FrameId":{"name":"0e343c38-f50b-40a2-a7ee-fe4acd8e042d","path":"sprites/spr_playerSP_cotton_roll/spr_playerSP_cotton_roll.yy",},"LayerId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"0e343c38-f50b-40a2-a7ee-fe4acd8e042d","path":"sprites/spr_playerSP_cotton_roll/spr_playerSP_cotton_roll.yy",},"LayerId":{"name":"cd845b10-bbcb-4724-a641-b20296da297c","path":"sprites/spr_playerSP_cotton_roll/spr_playerSP_cotton_roll.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-      ],"parent":{"name":"spr_playerSP_cotton_roll","path":"sprites/spr_playerSP_cotton_roll/spr_playerSP_cotton_roll.yy",},"resourceVersion":"1.0","name":"0e343c38-f50b-40a2-a7ee-fe4acd8e042d","tags":[],"resourceType":"GMSpriteFrame",},
-    {"compositeImage":{"FrameId":{"name":"96a28936-92bc-4c9c-8fcf-65989cc93822","path":"sprites/spr_playerSP_cotton_roll/spr_playerSP_cotton_roll.yy",},"LayerId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"96a28936-92bc-4c9c-8fcf-65989cc93822","path":"sprites/spr_playerSP_cotton_roll/spr_playerSP_cotton_roll.yy",},"LayerId":{"name":"cd845b10-bbcb-4724-a641-b20296da297c","path":"sprites/spr_playerSP_cotton_roll/spr_playerSP_cotton_roll.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-      ],"parent":{"name":"spr_playerSP_cotton_roll","path":"sprites/spr_playerSP_cotton_roll/spr_playerSP_cotton_roll.yy",},"resourceVersion":"1.0","name":"96a28936-92bc-4c9c-8fcf-65989cc93822","tags":[],"resourceType":"GMSpriteFrame",},
-    {"compositeImage":{"FrameId":{"name":"9cda9601-f97c-450f-9150-8f00544b07a4","path":"sprites/spr_playerSP_cotton_roll/spr_playerSP_cotton_roll.yy",},"LayerId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"9cda9601-f97c-450f-9150-8f00544b07a4","path":"sprites/spr_playerSP_cotton_roll/spr_playerSP_cotton_roll.yy",},"LayerId":{"name":"cd845b10-bbcb-4724-a641-b20296da297c","path":"sprites/spr_playerSP_cotton_roll/spr_playerSP_cotton_roll.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-      ],"parent":{"name":"spr_playerSP_cotton_roll","path":"sprites/spr_playerSP_cotton_roll/spr_playerSP_cotton_roll.yy",},"resourceVersion":"1.0","name":"9cda9601-f97c-450f-9150-8f00544b07a4","tags":[],"resourceType":"GMSpriteFrame",},
-    {"compositeImage":{"FrameId":{"name":"978aad5c-f18f-456e-b18e-695551f60433","path":"sprites/spr_playerSP_cotton_roll/spr_playerSP_cotton_roll.yy",},"LayerId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"978aad5c-f18f-456e-b18e-695551f60433","path":"sprites/spr_playerSP_cotton_roll/spr_playerSP_cotton_roll.yy",},"LayerId":{"name":"cd845b10-bbcb-4724-a641-b20296da297c","path":"sprites/spr_playerSP_cotton_roll/spr_playerSP_cotton_roll.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-      ],"parent":{"name":"spr_playerSP_cotton_roll","path":"sprites/spr_playerSP_cotton_roll/spr_playerSP_cotton_roll.yy",},"resourceVersion":"1.0","name":"978aad5c-f18f-456e-b18e-695551f60433","tags":[],"resourceType":"GMSpriteFrame",},
-    {"compositeImage":{"FrameId":{"name":"646c0aca-c6e1-4c0c-bfc0-7adf160378d0","path":"sprites/spr_playerSP_cotton_roll/spr_playerSP_cotton_roll.yy",},"LayerId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"646c0aca-c6e1-4c0c-bfc0-7adf160378d0","path":"sprites/spr_playerSP_cotton_roll/spr_playerSP_cotton_roll.yy",},"LayerId":{"name":"cd845b10-bbcb-4724-a641-b20296da297c","path":"sprites/spr_playerSP_cotton_roll/spr_playerSP_cotton_roll.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-      ],"parent":{"name":"spr_playerSP_cotton_roll","path":"sprites/spr_playerSP_cotton_roll/spr_playerSP_cotton_roll.yy",},"resourceVersion":"1.0","name":"646c0aca-c6e1-4c0c-bfc0-7adf160378d0","tags":[],"resourceType":"GMSpriteFrame",},
-    {"compositeImage":{"FrameId":{"name":"6e0506a5-a1e3-4785-b7c0-312af6432c9f","path":"sprites/spr_playerSP_cotton_roll/spr_playerSP_cotton_roll.yy",},"LayerId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"6e0506a5-a1e3-4785-b7c0-312af6432c9f","path":"sprites/spr_playerSP_cotton_roll/spr_playerSP_cotton_roll.yy",},"LayerId":{"name":"cd845b10-bbcb-4724-a641-b20296da297c","path":"sprites/spr_playerSP_cotton_roll/spr_playerSP_cotton_roll.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-      ],"parent":{"name":"spr_playerSP_cotton_roll","path":"sprites/spr_playerSP_cotton_roll/spr_playerSP_cotton_roll.yy",},"resourceVersion":"1.0","name":"6e0506a5-a1e3-4785-b7c0-312af6432c9f","tags":[],"resourceType":"GMSpriteFrame",},
+    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"13748117-05b2-4830-b605-392caa919e07",},
+    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"0e343c38-f50b-40a2-a7ee-fe4acd8e042d",},
+    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"96a28936-92bc-4c9c-8fcf-65989cc93822",},
+    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"9cda9601-f97c-450f-9150-8f00544b07a4",},
+    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"978aad5c-f18f-456e-b18e-695551f60433",},
+    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"646c0aca-c6e1-4c0c-bfc0-7adf160378d0",},
+    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"6e0506a5-a1e3-4785-b7c0-312af6432c9f",},
   ],
   "sequence": {
-    "spriteId": {"name":"spr_playerSP_cotton_roll","path":"sprites/spr_playerSP_cotton_roll/spr_playerSP_cotton_roll.yy",},
+    "resourceType": "GMSequence",
+    "resourceVersion": "1.4",
+    "name": "spr_playerSP_cotton_roll",
     "timeUnits": 1,
     "playback": 1,
     "playbackSpeed": 1.0,
@@ -58,7 +50,7 @@
     "events": {"Keyframes":[],"resourceVersion":"1.0","resourceType":"KeyframeStore<MessageEventKeyframe>",},
     "moments": {"Keyframes":[],"resourceVersion":"1.0","resourceType":"KeyframeStore<MomentsEventKeyframe>",},
     "tracks": [
-      {"name":"frames","spriteId":null,"keyframes":{"Keyframes":[
+      {"resourceType":"GMSpriteFramesTrack","resourceVersion":"1.0","name":"frames","spriteId":null,"keyframes":{"Keyframes":[
             {"id":"097fc198-3086-4c26-939f-7dfc0c5744b8","Key":0.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"13748117-05b2-4830-b605-392caa919e07","path":"sprites/spr_playerSP_cotton_roll/spr_playerSP_cotton_roll.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
             {"id":"7cab4a11-95e0-47fe-b176-bb0265f82a5b","Key":1.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"0e343c38-f50b-40a2-a7ee-fe4acd8e042d","path":"sprites/spr_playerSP_cotton_roll/spr_playerSP_cotton_roll.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
             {"id":"9e842da9-2b1d-4ac3-ba94-260ca9fc6041","Key":2.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"96a28936-92bc-4c9c-8fcf-65989cc93822","path":"sprites/spr_playerSP_cotton_roll/spr_playerSP_cotton_roll.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
@@ -66,7 +58,7 @@
             {"id":"31753c0b-fd19-4cf8-adcf-e82ff25d153f","Key":4.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"978aad5c-f18f-456e-b18e-695551f60433","path":"sprites/spr_playerSP_cotton_roll/spr_playerSP_cotton_roll.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
             {"id":"66fb1b38-7147-4c5c-af68-434fe9851001","Key":5.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"646c0aca-c6e1-4c0c-bfc0-7adf160378d0","path":"sprites/spr_playerSP_cotton_roll/spr_playerSP_cotton_roll.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
             {"id":"200b6c95-5a9e-41d3-9024-d819b698d185","Key":6.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"6e0506a5-a1e3-4785-b7c0-312af6432c9f","path":"sprites/spr_playerSP_cotton_roll/spr_playerSP_cotton_roll.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
-          ],"resourceVersion":"1.0","resourceType":"KeyframeStore<SpriteFrameKeyframe>",},"trackColour":0,"inheritsTrackColour":true,"builtinName":0,"traits":0,"interpolation":1,"tracks":[],"events":[],"isCreationTrack":false,"resourceVersion":"1.0","tags":[],"resourceType":"GMSpriteFramesTrack","modifiers":[],},
+          ],"resourceVersion":"1.0","resourceType":"KeyframeStore<SpriteFrameKeyframe>",},"trackColour":0,"inheritsTrackColour":true,"builtinName":0,"traits":0,"interpolation":1,"tracks":[],"events":[],"isCreationTrack":false,"modifiers":[],},
     ],
     "visibleRange": null,
     "lockOrigin": false,
@@ -82,22 +74,13 @@
     "yorigin": 50,
     "eventToFunction": {},
     "eventStubScript": null,
-    "parent": {"name":"spr_playerSP_cotton_roll","path":"sprites/spr_playerSP_cotton_roll/spr_playerSP_cotton_roll.yy",},
-    "resourceVersion": "1.4",
-    "name": "spr_playerSP_cotton_roll",
-    "tags": [],
-    "resourceType": "GMSequence",
   },
   "layers": [
-    {"visible":true,"isLocked":false,"blendMode":0,"opacity":100.0,"displayName":"default","resourceVersion":"1.0","name":"cd845b10-bbcb-4724-a641-b20296da297c","tags":[],"resourceType":"GMImageLayer",},
+    {"resourceType":"GMImageLayer","resourceVersion":"1.0","name":"cd845b10-bbcb-4724-a641-b20296da297c","visible":true,"isLocked":false,"blendMode":0,"opacity":100.0,"displayName":"default",},
   ],
   "nineSlice": null,
   "parent": {
     "name": "cotton",
     "path": "folders/Sprites/players/pizzelle/transfo/cotton.yy",
   },
-  "resourceVersion": "1.0",
-  "name": "spr_playerSP_cotton_roll",
-  "tags": [],
-  "resourceType": "GMSprite",
 }

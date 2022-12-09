@@ -1,4 +1,7 @@
 {
+  "resourceType": "GMSprite",
+  "resourceVersion": "1.0",
+  "name": "spr_snick_taunt",
   "ConfigValues": {
     "debug": {"textureGroupId":"{\"name\":\"tg_player\",\"path\":\"texturegroups/tg_player\"}",},
   },
@@ -17,6 +20,7 @@
   "HTile": false,
   "VTile": false,
   "For3D": false,
+  "DynamicTexturePage": false,
   "width": 100,
   "height": 100,
   "textureGroupId": {
@@ -27,21 +31,15 @@
   "gridX": 0,
   "gridY": 0,
   "frames": [
-    {"compositeImage":{"FrameId":{"name":"863e9990-16d7-4601-943e-238702c7fbf9","path":"sprites/spr_snick_taunt/spr_snick_taunt.yy",},"LayerId":null,"resourceVersion":"1.0","name":"composite","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"863e9990-16d7-4601-943e-238702c7fbf9","path":"sprites/spr_snick_taunt/spr_snick_taunt.yy",},"LayerId":{"name":"6444852e-842d-4477-9e5b-54af0a4e9418","path":"sprites/spr_snick_taunt/spr_snick_taunt.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-      ],"parent":{"name":"spr_snick_taunt","path":"sprites/spr_snick_taunt/spr_snick_taunt.yy",},"resourceVersion":"1.0","name":"863e9990-16d7-4601-943e-238702c7fbf9","tags":[],"resourceType":"GMSpriteFrame",},
-    {"compositeImage":{"FrameId":{"name":"ea41c29a-f43f-4d96-9662-b65c3d6fe150","path":"sprites/spr_snick_taunt/spr_snick_taunt.yy",},"LayerId":null,"resourceVersion":"1.0","name":"composite","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"ea41c29a-f43f-4d96-9662-b65c3d6fe150","path":"sprites/spr_snick_taunt/spr_snick_taunt.yy",},"LayerId":{"name":"6444852e-842d-4477-9e5b-54af0a4e9418","path":"sprites/spr_snick_taunt/spr_snick_taunt.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-      ],"parent":{"name":"spr_snick_taunt","path":"sprites/spr_snick_taunt/spr_snick_taunt.yy",},"resourceVersion":"1.0","name":"ea41c29a-f43f-4d96-9662-b65c3d6fe150","tags":[],"resourceType":"GMSpriteFrame",},
-    {"compositeImage":{"FrameId":{"name":"c815a237-358f-4922-9648-8e1869000dc6","path":"sprites/spr_snick_taunt/spr_snick_taunt.yy",},"LayerId":null,"resourceVersion":"1.0","name":"composite","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"c815a237-358f-4922-9648-8e1869000dc6","path":"sprites/spr_snick_taunt/spr_snick_taunt.yy",},"LayerId":{"name":"6444852e-842d-4477-9e5b-54af0a4e9418","path":"sprites/spr_snick_taunt/spr_snick_taunt.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-      ],"parent":{"name":"spr_snick_taunt","path":"sprites/spr_snick_taunt/spr_snick_taunt.yy",},"resourceVersion":"1.0","name":"c815a237-358f-4922-9648-8e1869000dc6","tags":[],"resourceType":"GMSpriteFrame",},
-    {"compositeImage":{"FrameId":{"name":"ebdf0b2d-584d-4404-a192-aeb84899663a","path":"sprites/spr_snick_taunt/spr_snick_taunt.yy",},"LayerId":null,"resourceVersion":"1.0","name":"composite","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"ebdf0b2d-584d-4404-a192-aeb84899663a","path":"sprites/spr_snick_taunt/spr_snick_taunt.yy",},"LayerId":{"name":"6444852e-842d-4477-9e5b-54af0a4e9418","path":"sprites/spr_snick_taunt/spr_snick_taunt.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-      ],"parent":{"name":"spr_snick_taunt","path":"sprites/spr_snick_taunt/spr_snick_taunt.yy",},"resourceVersion":"1.0","name":"ebdf0b2d-584d-4404-a192-aeb84899663a","tags":[],"resourceType":"GMSpriteFrame",},
+    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"863e9990-16d7-4601-943e-238702c7fbf9",},
+    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"ea41c29a-f43f-4d96-9662-b65c3d6fe150",},
+    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"c815a237-358f-4922-9648-8e1869000dc6",},
+    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"ebdf0b2d-584d-4404-a192-aeb84899663a",},
   ],
   "sequence": {
-    "spriteId": {"name":"spr_snick_taunt","path":"sprites/spr_snick_taunt/spr_snick_taunt.yy",},
+    "resourceType": "GMSequence",
+    "resourceVersion": "1.4",
+    "name": "",
     "timeUnits": 1,
     "playback": 1,
     "playbackSpeed": 1.0,
@@ -52,12 +50,12 @@
     "events": {"Keyframes":[],"resourceVersion":"1.0","resourceType":"KeyframeStore<MessageEventKeyframe>",},
     "moments": {"Keyframes":[],"resourceVersion":"1.0","resourceType":"KeyframeStore<MomentsEventKeyframe>",},
     "tracks": [
-      {"name":"frames","spriteId":null,"keyframes":{"Keyframes":[
+      {"resourceType":"GMSpriteFramesTrack","resourceVersion":"1.0","name":"frames","spriteId":null,"keyframes":{"Keyframes":[
             {"id":"ec748625-548c-498e-af4a-236969005233","Key":0.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"863e9990-16d7-4601-943e-238702c7fbf9","path":"sprites/spr_snick_taunt/spr_snick_taunt.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
             {"id":"03d2e10f-6e7c-4ab8-88b4-4974756f53b7","Key":1.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"ea41c29a-f43f-4d96-9662-b65c3d6fe150","path":"sprites/spr_snick_taunt/spr_snick_taunt.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
             {"id":"c698b475-3011-485b-b8ee-b495cb171699","Key":2.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"c815a237-358f-4922-9648-8e1869000dc6","path":"sprites/spr_snick_taunt/spr_snick_taunt.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
             {"id":"5ac57180-02a7-4a58-8ca1-a38e67f58658","Key":3.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"ebdf0b2d-584d-4404-a192-aeb84899663a","path":"sprites/spr_snick_taunt/spr_snick_taunt.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
-          ],"resourceVersion":"1.0","resourceType":"KeyframeStore<SpriteFrameKeyframe>",},"trackColour":0,"inheritsTrackColour":true,"builtinName":0,"traits":0,"interpolation":1,"tracks":[],"events":[],"isCreationTrack":false,"resourceVersion":"1.0","tags":[],"resourceType":"GMSpriteFramesTrack","modifiers":[],},
+          ],"resourceVersion":"1.0","resourceType":"KeyframeStore<SpriteFrameKeyframe>",},"trackColour":0,"inheritsTrackColour":true,"builtinName":0,"traits":0,"interpolation":1,"tracks":[],"events":[],"isCreationTrack":false,"modifiers":[],},
     ],
     "visibleRange": null,
     "lockOrigin": false,
@@ -73,22 +71,13 @@
     "yorigin": 50,
     "eventToFunction": {},
     "eventStubScript": null,
-    "parent": {"name":"spr_snick_taunt","path":"sprites/spr_snick_taunt/spr_snick_taunt.yy",},
-    "resourceVersion": "1.4",
-    "name": "",
-    "tags": [],
-    "resourceType": "GMSequence",
   },
   "layers": [
-    {"visible":true,"isLocked":false,"blendMode":0,"opacity":100.0,"displayName":"default","resourceVersion":"1.0","name":"6444852e-842d-4477-9e5b-54af0a4e9418","tags":[],"resourceType":"GMImageLayer",},
+    {"resourceType":"GMImageLayer","resourceVersion":"1.0","name":"6444852e-842d-4477-9e5b-54af0a4e9418","visible":true,"isLocked":false,"blendMode":0,"opacity":100.0,"displayName":"default",},
   ],
   "nineSlice": null,
   "parent": {
     "name": "snick",
     "path": "folders/Sprites/players/snick.yy",
   },
-  "resourceVersion": "1.0",
-  "name": "spr_snick_taunt",
-  "tags": [],
-  "resourceType": "GMSprite",
 }

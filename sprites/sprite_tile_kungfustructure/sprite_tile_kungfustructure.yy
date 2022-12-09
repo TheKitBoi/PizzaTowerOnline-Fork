@@ -1,4 +1,7 @@
 {
+  "resourceType": "GMSprite",
+  "resourceVersion": "1.0",
+  "name": "sprite_tile_kungfustructure",
   "ConfigValues": {
     "debug": {"textureGroupId":"{\"name\":\"tg_kungfu\",\"path\":\"texturegroups/tg_kungfu\"}",},
   },
@@ -17,6 +20,7 @@
   "HTile": false,
   "VTile": false,
   "For3D": false,
+  "DynamicTexturePage": false,
   "width": 512,
   "height": 512,
   "textureGroupId": {
@@ -27,12 +31,12 @@
   "gridX": 0,
   "gridY": 0,
   "frames": [
-    {"compositeImage":{"FrameId":{"name":"86f2898a-8035-4f84-8e7c-7d828207c78c","path":"sprites/sprite_tile_kungfustructure/sprite_tile_kungfustructure.yy",},"LayerId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"86f2898a-8035-4f84-8e7c-7d828207c78c","path":"sprites/sprite_tile_kungfustructure/sprite_tile_kungfustructure.yy",},"LayerId":{"name":"b32d057b-6b6c-4679-9442-d6a8452382a2","path":"sprites/sprite_tile_kungfustructure/sprite_tile_kungfustructure.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-      ],"parent":{"name":"sprite_tile_kungfustructure","path":"sprites/sprite_tile_kungfustructure/sprite_tile_kungfustructure.yy",},"resourceVersion":"1.0","name":"86f2898a-8035-4f84-8e7c-7d828207c78c","tags":[],"resourceType":"GMSpriteFrame",},
+    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"86f2898a-8035-4f84-8e7c-7d828207c78c",},
   ],
   "sequence": {
-    "spriteId": {"name":"sprite_tile_kungfustructure","path":"sprites/sprite_tile_kungfustructure/sprite_tile_kungfustructure.yy",},
+    "resourceType": "GMSequence",
+    "resourceVersion": "1.4",
+    "name": "sprite_tile_kungfustructure",
     "timeUnits": 1,
     "playback": 1,
     "playbackSpeed": 1.0,
@@ -43,9 +47,9 @@
     "events": {"Keyframes":[],"resourceVersion":"1.0","resourceType":"KeyframeStore<MessageEventKeyframe>",},
     "moments": {"Keyframes":[],"resourceVersion":"1.0","resourceType":"KeyframeStore<MomentsEventKeyframe>",},
     "tracks": [
-      {"name":"frames","spriteId":null,"keyframes":{"Keyframes":[
+      {"resourceType":"GMSpriteFramesTrack","resourceVersion":"1.0","name":"frames","spriteId":null,"keyframes":{"Keyframes":[
             {"id":"3ecd9e82-6f6c-403a-ac98-1974b1f1d696","Key":0.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"86f2898a-8035-4f84-8e7c-7d828207c78c","path":"sprites/sprite_tile_kungfustructure/sprite_tile_kungfustructure.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
-          ],"resourceVersion":"1.0","resourceType":"KeyframeStore<SpriteFrameKeyframe>",},"trackColour":0,"inheritsTrackColour":true,"builtinName":0,"traits":0,"interpolation":1,"tracks":[],"events":[],"isCreationTrack":false,"resourceVersion":"1.0","tags":[],"resourceType":"GMSpriteFramesTrack","modifiers":[],},
+          ],"resourceVersion":"1.0","resourceType":"KeyframeStore<SpriteFrameKeyframe>",},"trackColour":0,"inheritsTrackColour":true,"builtinName":0,"traits":0,"interpolation":1,"tracks":[],"events":[],"isCreationTrack":false,"modifiers":[],},
     ],
     "visibleRange": null,
     "lockOrigin": false,
@@ -61,22 +65,13 @@
     "yorigin": 0,
     "eventToFunction": {},
     "eventStubScript": null,
-    "parent": {"name":"sprite_tile_kungfustructure","path":"sprites/sprite_tile_kungfustructure/sprite_tile_kungfustructure.yy",},
-    "resourceVersion": "1.4",
-    "name": "sprite_tile_kungfustructure",
-    "tags": [],
-    "resourceType": "GMSequence",
   },
   "layers": [
-    {"visible":true,"isLocked":false,"blendMode":0,"opacity":100.0,"displayName":"default","resourceVersion":"1.0","name":"b32d057b-6b6c-4679-9442-d6a8452382a2","tags":[],"resourceType":"GMImageLayer",},
+    {"resourceType":"GMImageLayer","resourceVersion":"1.0","name":"b32d057b-6b6c-4679-9442-d6a8452382a2","visible":true,"isLocked":false,"blendMode":0,"opacity":100.0,"displayName":"default",},
   ],
   "nineSlice": null,
   "parent": {
     "name": "kungfu",
     "path": "folders/Sprites/tilesets/kungfu.yy",
   },
-  "resourceVersion": "1.0",
-  "name": "sprite_tile_kungfustructure",
-  "tags": [],
-  "resourceType": "GMSprite",
 }

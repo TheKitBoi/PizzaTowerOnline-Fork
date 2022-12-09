@@ -6,6 +6,9 @@ for (var i = 0; i < array_length(l); i++;)
 	var lbg = layer_background_get_id(l[i]);
 	if lbg != -1
 	{
+		if string_startswith(room_get_name(room), "grinch_")
+			layer_set_visible(l[i], false);
+		
 		ds_list_add(global.roombgs, {
 			lay : l[i],
 			bg : lbg,
@@ -17,6 +20,7 @@ for (var i = 0; i < array_length(l); i++;)
 	}
 }
 
+// coded in backgrounds
 var roomname = room_get_name(room);
 if !string_contains(roomname, "secret")
 {

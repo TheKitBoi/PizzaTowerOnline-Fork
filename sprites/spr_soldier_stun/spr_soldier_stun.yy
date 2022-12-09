@@ -1,4 +1,7 @@
 {
+  "resourceType": "GMSprite",
+  "resourceVersion": "1.0",
+  "name": "spr_soldier_stun",
   "ConfigValues": {
     "debug": {"textureGroupId":"{\"name\":\"tg_baddie\",\"path\":\"texturegroups/tg_baddie\"}",},
   },
@@ -17,6 +20,7 @@
   "HTile": false,
   "VTile": false,
   "For3D": false,
+  "DynamicTexturePage": false,
   "width": 120,
   "height": 100,
   "textureGroupId": {
@@ -27,18 +31,14 @@
   "gridX": 0,
   "gridY": 0,
   "frames": [
-    {"compositeImage":{"FrameId":{"name":"19f59e4e-450e-4172-af05-d75218f3d511","path":"sprites/spr_soldier_stun/spr_soldier_stun.yy",},"LayerId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"19f59e4e-450e-4172-af05-d75218f3d511","path":"sprites/spr_soldier_stun/spr_soldier_stun.yy",},"LayerId":{"name":"9d85018e-f231-4aa0-b5d3-863ff04fe881","path":"sprites/spr_soldier_stun/spr_soldier_stun.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-      ],"parent":{"name":"spr_soldier_stun","path":"sprites/spr_soldier_stun/spr_soldier_stun.yy",},"resourceVersion":"1.0","name":"19f59e4e-450e-4172-af05-d75218f3d511","tags":[],"resourceType":"GMSpriteFrame",},
-    {"compositeImage":{"FrameId":{"name":"97219de5-4575-4a57-8b55-4bea56aa6ead","path":"sprites/spr_soldier_stun/spr_soldier_stun.yy",},"LayerId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"97219de5-4575-4a57-8b55-4bea56aa6ead","path":"sprites/spr_soldier_stun/spr_soldier_stun.yy",},"LayerId":{"name":"9d85018e-f231-4aa0-b5d3-863ff04fe881","path":"sprites/spr_soldier_stun/spr_soldier_stun.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-      ],"parent":{"name":"spr_soldier_stun","path":"sprites/spr_soldier_stun/spr_soldier_stun.yy",},"resourceVersion":"1.0","name":"97219de5-4575-4a57-8b55-4bea56aa6ead","tags":[],"resourceType":"GMSpriteFrame",},
-    {"compositeImage":{"FrameId":{"name":"8733ba1d-bbcc-45f5-9bf9-4897f4836808","path":"sprites/spr_soldier_stun/spr_soldier_stun.yy",},"LayerId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"8733ba1d-bbcc-45f5-9bf9-4897f4836808","path":"sprites/spr_soldier_stun/spr_soldier_stun.yy",},"LayerId":{"name":"9d85018e-f231-4aa0-b5d3-863ff04fe881","path":"sprites/spr_soldier_stun/spr_soldier_stun.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-      ],"parent":{"name":"spr_soldier_stun","path":"sprites/spr_soldier_stun/spr_soldier_stun.yy",},"resourceVersion":"1.0","name":"8733ba1d-bbcc-45f5-9bf9-4897f4836808","tags":[],"resourceType":"GMSpriteFrame",},
+    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"19f59e4e-450e-4172-af05-d75218f3d511",},
+    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"97219de5-4575-4a57-8b55-4bea56aa6ead",},
+    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"8733ba1d-bbcc-45f5-9bf9-4897f4836808",},
   ],
   "sequence": {
-    "spriteId": {"name":"spr_soldier_stun","path":"sprites/spr_soldier_stun/spr_soldier_stun.yy",},
+    "resourceType": "GMSequence",
+    "resourceVersion": "1.4",
+    "name": "spr_soldier_stun",
     "timeUnits": 1,
     "playback": 1,
     "playbackSpeed": 1.0,
@@ -49,11 +49,11 @@
     "events": {"Keyframes":[],"resourceVersion":"1.0","resourceType":"KeyframeStore<MessageEventKeyframe>",},
     "moments": {"Keyframes":[],"resourceVersion":"1.0","resourceType":"KeyframeStore<MomentsEventKeyframe>",},
     "tracks": [
-      {"name":"frames","spriteId":null,"keyframes":{"Keyframes":[
+      {"resourceType":"GMSpriteFramesTrack","resourceVersion":"1.0","name":"frames","spriteId":null,"keyframes":{"Keyframes":[
             {"id":"ca813533-9b0a-4969-948e-ead280122f33","Key":0.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"19f59e4e-450e-4172-af05-d75218f3d511","path":"sprites/spr_soldier_stun/spr_soldier_stun.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
             {"id":"63b23229-d07a-46dc-bcfc-97f6bb7be60c","Key":1.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"97219de5-4575-4a57-8b55-4bea56aa6ead","path":"sprites/spr_soldier_stun/spr_soldier_stun.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
             {"id":"6c10dd68-3c68-4795-bdb0-f322b0f0c8fb","Key":2.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"8733ba1d-bbcc-45f5-9bf9-4897f4836808","path":"sprites/spr_soldier_stun/spr_soldier_stun.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
-          ],"resourceVersion":"1.0","resourceType":"KeyframeStore<SpriteFrameKeyframe>",},"trackColour":0,"inheritsTrackColour":true,"builtinName":0,"traits":0,"interpolation":1,"tracks":[],"events":[],"isCreationTrack":false,"resourceVersion":"1.0","tags":[],"resourceType":"GMSpriteFramesTrack","modifiers":[],},
+          ],"resourceVersion":"1.0","resourceType":"KeyframeStore<SpriteFrameKeyframe>",},"trackColour":0,"inheritsTrackColour":true,"builtinName":0,"traits":0,"interpolation":1,"tracks":[],"events":[],"isCreationTrack":false,"modifiers":[],},
     ],
     "visibleRange": null,
     "lockOrigin": false,
@@ -69,22 +69,13 @@
     "yorigin": 50,
     "eventToFunction": {},
     "eventStubScript": null,
-    "parent": {"name":"spr_soldier_stun","path":"sprites/spr_soldier_stun/spr_soldier_stun.yy",},
-    "resourceVersion": "1.4",
-    "name": "spr_soldier_stun",
-    "tags": [],
-    "resourceType": "GMSequence",
   },
   "layers": [
-    {"visible":true,"isLocked":false,"blendMode":0,"opacity":100.0,"displayName":"default","resourceVersion":"1.0","name":"9d85018e-f231-4aa0-b5d3-863ff04fe881","tags":[],"resourceType":"GMImageLayer",},
+    {"resourceType":"GMImageLayer","resourceVersion":"1.0","name":"9d85018e-f231-4aa0-b5d3-863ff04fe881","visible":true,"isLocked":false,"blendMode":0,"opacity":100.0,"displayName":"default",},
   ],
   "nineSlice": null,
   "parent": {
     "name": "soldier",
     "path": "folders/Sprites/baddie/soldier.yy",
   },
-  "resourceVersion": "1.0",
-  "name": "spr_soldier_stun",
-  "tags": [],
-  "resourceType": "GMSprite",
 }

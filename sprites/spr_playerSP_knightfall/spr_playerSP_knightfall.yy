@@ -1,4 +1,7 @@
 {
+  "resourceType": "GMSprite",
+  "resourceVersion": "1.0",
+  "name": "spr_playerSP_knightfall",
   "ConfigValues": {
     "debug": {"textureGroupId":"{\"name\":\"tg_player\",\"path\":\"texturegroups/tg_player\"}",},
   },
@@ -17,6 +20,7 @@
   "HTile": false,
   "VTile": false,
   "For3D": false,
+  "DynamicTexturePage": false,
   "width": 150,
   "height": 100,
   "textureGroupId": {
@@ -27,18 +31,14 @@
   "gridX": 0,
   "gridY": 0,
   "frames": [
-    {"compositeImage":{"FrameId":{"name":"ca20eeab-5bf4-4807-a8ea-91d6e38d7b3d","path":"sprites/spr_playerSP_knightfall/spr_playerSP_knightfall.yy",},"LayerId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"ca20eeab-5bf4-4807-a8ea-91d6e38d7b3d","path":"sprites/spr_playerSP_knightfall/spr_playerSP_knightfall.yy",},"LayerId":{"name":"01097fad-b3c4-4147-ada1-b4d3a8b1501c","path":"sprites/spr_playerSP_knightfall/spr_playerSP_knightfall.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-      ],"parent":{"name":"spr_playerSP_knightfall","path":"sprites/spr_playerSP_knightfall/spr_playerSP_knightfall.yy",},"resourceVersion":"1.0","name":"ca20eeab-5bf4-4807-a8ea-91d6e38d7b3d","tags":[],"resourceType":"GMSpriteFrame",},
-    {"compositeImage":{"FrameId":{"name":"a6d491e1-aa21-4e23-8e64-04b62a771920","path":"sprites/spr_playerSP_knightfall/spr_playerSP_knightfall.yy",},"LayerId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"a6d491e1-aa21-4e23-8e64-04b62a771920","path":"sprites/spr_playerSP_knightfall/spr_playerSP_knightfall.yy",},"LayerId":{"name":"01097fad-b3c4-4147-ada1-b4d3a8b1501c","path":"sprites/spr_playerSP_knightfall/spr_playerSP_knightfall.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-      ],"parent":{"name":"spr_playerSP_knightfall","path":"sprites/spr_playerSP_knightfall/spr_playerSP_knightfall.yy",},"resourceVersion":"1.0","name":"a6d491e1-aa21-4e23-8e64-04b62a771920","tags":[],"resourceType":"GMSpriteFrame",},
-    {"compositeImage":{"FrameId":{"name":"d2e5da15-1e3e-493d-aaa5-2aa8a1c95965","path":"sprites/spr_playerSP_knightfall/spr_playerSP_knightfall.yy",},"LayerId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"d2e5da15-1e3e-493d-aaa5-2aa8a1c95965","path":"sprites/spr_playerSP_knightfall/spr_playerSP_knightfall.yy",},"LayerId":{"name":"01097fad-b3c4-4147-ada1-b4d3a8b1501c","path":"sprites/spr_playerSP_knightfall/spr_playerSP_knightfall.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-      ],"parent":{"name":"spr_playerSP_knightfall","path":"sprites/spr_playerSP_knightfall/spr_playerSP_knightfall.yy",},"resourceVersion":"1.0","name":"d2e5da15-1e3e-493d-aaa5-2aa8a1c95965","tags":[],"resourceType":"GMSpriteFrame",},
+    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"ca20eeab-5bf4-4807-a8ea-91d6e38d7b3d",},
+    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"a6d491e1-aa21-4e23-8e64-04b62a771920",},
+    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"d2e5da15-1e3e-493d-aaa5-2aa8a1c95965",},
   ],
   "sequence": {
-    "spriteId": {"name":"spr_playerSP_knightfall","path":"sprites/spr_playerSP_knightfall/spr_playerSP_knightfall.yy",},
+    "resourceType": "GMSequence",
+    "resourceVersion": "1.4",
+    "name": "spr_playerSP_knightfall",
     "timeUnits": 1,
     "playback": 1,
     "playbackSpeed": 1.0,
@@ -49,11 +49,11 @@
     "events": {"Keyframes":[],"resourceVersion":"1.0","resourceType":"KeyframeStore<MessageEventKeyframe>",},
     "moments": {"Keyframes":[],"resourceVersion":"1.0","resourceType":"KeyframeStore<MomentsEventKeyframe>",},
     "tracks": [
-      {"name":"frames","spriteId":null,"keyframes":{"Keyframes":[
+      {"resourceType":"GMSpriteFramesTrack","resourceVersion":"1.0","name":"frames","spriteId":null,"keyframes":{"Keyframes":[
             {"id":"766940ab-fe22-4443-acdd-c2393ed5a669","Key":0.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"ca20eeab-5bf4-4807-a8ea-91d6e38d7b3d","path":"sprites/spr_playerSP_knightfall/spr_playerSP_knightfall.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
             {"id":"e0bcbdd0-8e8c-4d48-aae9-541905c74a37","Key":1.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"a6d491e1-aa21-4e23-8e64-04b62a771920","path":"sprites/spr_playerSP_knightfall/spr_playerSP_knightfall.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
             {"id":"f325184e-3eca-42d0-940e-d8b17a387952","Key":2.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"d2e5da15-1e3e-493d-aaa5-2aa8a1c95965","path":"sprites/spr_playerSP_knightfall/spr_playerSP_knightfall.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
-          ],"resourceVersion":"1.0","resourceType":"KeyframeStore<SpriteFrameKeyframe>",},"trackColour":0,"inheritsTrackColour":true,"builtinName":0,"traits":0,"interpolation":1,"tracks":[],"events":[],"isCreationTrack":false,"resourceVersion":"1.0","tags":[],"resourceType":"GMSpriteFramesTrack","modifiers":[],},
+          ],"resourceVersion":"1.0","resourceType":"KeyframeStore<SpriteFrameKeyframe>",},"trackColour":0,"inheritsTrackColour":true,"builtinName":0,"traits":0,"interpolation":1,"tracks":[],"events":[],"isCreationTrack":false,"modifiers":[],},
     ],
     "visibleRange": null,
     "lockOrigin": false,
@@ -69,22 +69,13 @@
     "yorigin": 50,
     "eventToFunction": {},
     "eventStubScript": null,
-    "parent": {"name":"spr_playerSP_knightfall","path":"sprites/spr_playerSP_knightfall/spr_playerSP_knightfall.yy",},
-    "resourceVersion": "1.4",
-    "name": "spr_playerSP_knightfall",
-    "tags": [],
-    "resourceType": "GMSequence",
   },
   "layers": [
-    {"visible":true,"isLocked":false,"blendMode":0,"opacity":100.0,"displayName":"default","resourceVersion":"1.0","name":"01097fad-b3c4-4147-ada1-b4d3a8b1501c","tags":[],"resourceType":"GMImageLayer",},
+    {"resourceType":"GMImageLayer","resourceVersion":"1.0","name":"01097fad-b3c4-4147-ada1-b4d3a8b1501c","visible":true,"isLocked":false,"blendMode":0,"opacity":100.0,"displayName":"default",},
   ],
   "nineSlice": null,
   "parent": {
     "name": "knight",
     "path": "folders/Sprites/players/pizzelle/transfo/knight.yy",
   },
-  "resourceVersion": "1.0",
-  "name": "spr_playerSP_knightfall",
-  "tags": [],
-  "resourceType": "GMSprite",
 }

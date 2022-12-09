@@ -1,4 +1,7 @@
 {
+  "resourceType": "GMSprite",
+  "resourceVersion": "1.0",
+  "name": "tile_entrancedeco",
   "bboxMode": 0,
   "collisionKind": 1,
   "type": 0,
@@ -14,6 +17,7 @@
   "HTile": false,
   "VTile": false,
   "For3D": false,
+  "DynamicTexturePage": false,
   "width": 640,
   "height": 1120,
   "textureGroupId": {
@@ -24,12 +28,12 @@
   "gridX": 0,
   "gridY": 0,
   "frames": [
-    {"compositeImage":{"FrameId":{"name":"df74b5ca-6f4b-4817-85f0-e74fa13683d2","path":"sprites/tile_entrancedeco/tile_entrancedeco.yy",},"LayerId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"df74b5ca-6f4b-4817-85f0-e74fa13683d2","path":"sprites/tile_entrancedeco/tile_entrancedeco.yy",},"LayerId":{"name":"0d2fbd7e-cd4d-478a-bbed-bf9d81ba6f6f","path":"sprites/tile_entrancedeco/tile_entrancedeco.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-      ],"parent":{"name":"tile_entrancedeco","path":"sprites/tile_entrancedeco/tile_entrancedeco.yy",},"resourceVersion":"1.0","name":"df74b5ca-6f4b-4817-85f0-e74fa13683d2","tags":[],"resourceType":"GMSpriteFrame",},
+    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"df74b5ca-6f4b-4817-85f0-e74fa13683d2",},
   ],
   "sequence": {
-    "spriteId": {"name":"tile_entrancedeco","path":"sprites/tile_entrancedeco/tile_entrancedeco.yy",},
+    "resourceType": "GMSequence",
+    "resourceVersion": "1.4",
+    "name": "tile_entrancedeco",
     "timeUnits": 1,
     "playback": 1,
     "playbackSpeed": 1.0,
@@ -40,9 +44,9 @@
     "events": {"Keyframes":[],"resourceVersion":"1.0","resourceType":"KeyframeStore<MessageEventKeyframe>",},
     "moments": {"Keyframes":[],"resourceVersion":"1.0","resourceType":"KeyframeStore<MomentsEventKeyframe>",},
     "tracks": [
-      {"name":"frames","spriteId":null,"keyframes":{"Keyframes":[
+      {"resourceType":"GMSpriteFramesTrack","resourceVersion":"1.0","name":"frames","spriteId":null,"keyframes":{"Keyframes":[
             {"id":"da77f254-ffdb-4ae5-a6a6-28a621c6ca3a","Key":0.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"df74b5ca-6f4b-4817-85f0-e74fa13683d2","path":"sprites/tile_entrancedeco/tile_entrancedeco.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
-          ],"resourceVersion":"1.0","resourceType":"KeyframeStore<SpriteFrameKeyframe>",},"trackColour":0,"inheritsTrackColour":true,"builtinName":0,"traits":0,"interpolation":1,"tracks":[],"events":[],"isCreationTrack":false,"resourceVersion":"1.0","tags":[],"resourceType":"GMSpriteFramesTrack","modifiers":[],},
+          ],"resourceVersion":"1.0","resourceType":"KeyframeStore<SpriteFrameKeyframe>",},"trackColour":0,"inheritsTrackColour":true,"builtinName":0,"traits":0,"interpolation":1,"tracks":[],"events":[],"isCreationTrack":false,"modifiers":[],},
     ],
     "visibleRange": null,
     "lockOrigin": false,
@@ -58,22 +62,13 @@
     "yorigin": 0,
     "eventToFunction": {},
     "eventStubScript": null,
-    "parent": {"name":"tile_entrancedeco","path":"sprites/tile_entrancedeco/tile_entrancedeco.yy",},
-    "resourceVersion": "1.4",
-    "name": "tile_entrancedeco",
-    "tags": [],
-    "resourceType": "GMSequence",
   },
   "layers": [
-    {"visible":true,"isLocked":false,"blendMode":0,"opacity":100.0,"displayName":"default","resourceVersion":"1.0","name":"0d2fbd7e-cd4d-478a-bbed-bf9d81ba6f6f","tags":[],"resourceType":"GMImageLayer",},
+    {"resourceType":"GMImageLayer","resourceVersion":"1.0","name":"0d2fbd7e-cd4d-478a-bbed-bf9d81ba6f6f","visible":true,"isLocked":false,"blendMode":0,"opacity":100.0,"displayName":"default",},
   ],
   "nineSlice": null,
   "parent": {
     "name": "tower",
     "path": "folders/Sprites/tilesets/tower.yy",
   },
-  "resourceVersion": "1.0",
-  "name": "tile_entrancedeco",
-  "tags": [],
-  "resourceType": "GMSprite",
 }

@@ -1,4 +1,7 @@
 {
+  "resourceType": "GMSprite",
+  "resourceVersion": "1.0",
+  "name": "msk_pizzaball_crouch",
   "ConfigValues": {
     "debug": {"textureGroupId":"{\"name\":\"tg_baddie\",\"path\":\"texturegroups/tg_baddie\"}",},
   },
@@ -17,6 +20,7 @@
   "HTile": false,
   "VTile": false,
   "For3D": false,
+  "DynamicTexturePage": false,
   "width": 100,
   "height": 100,
   "textureGroupId": {
@@ -27,12 +31,12 @@
   "gridX": 0,
   "gridY": 0,
   "frames": [
-    {"compositeImage":{"FrameId":{"name":"3e723421-4255-4ed9-bd5a-15f5fbf6cf53","path":"sprites/msk_pizzaball_crouch/msk_pizzaball_crouch.yy",},"LayerId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"3e723421-4255-4ed9-bd5a-15f5fbf6cf53","path":"sprites/msk_pizzaball_crouch/msk_pizzaball_crouch.yy",},"LayerId":{"name":"6e09a672-4246-4aa4-bedf-e502ad5bbb1e","path":"sprites/msk_pizzaball_crouch/msk_pizzaball_crouch.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-      ],"parent":{"name":"msk_pizzaball_crouch","path":"sprites/msk_pizzaball_crouch/msk_pizzaball_crouch.yy",},"resourceVersion":"1.0","name":"3e723421-4255-4ed9-bd5a-15f5fbf6cf53","tags":[],"resourceType":"GMSpriteFrame",},
+    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"3e723421-4255-4ed9-bd5a-15f5fbf6cf53",},
   ],
   "sequence": {
-    "spriteId": {"name":"msk_pizzaball_crouch","path":"sprites/msk_pizzaball_crouch/msk_pizzaball_crouch.yy",},
+    "resourceType": "GMSequence",
+    "resourceVersion": "1.4",
+    "name": "msk_pizzaball_crouch",
     "timeUnits": 1,
     "playback": 1,
     "playbackSpeed": 1.0,
@@ -43,9 +47,9 @@
     "events": {"Keyframes":[],"resourceVersion":"1.0","resourceType":"KeyframeStore<MessageEventKeyframe>",},
     "moments": {"Keyframes":[],"resourceVersion":"1.0","resourceType":"KeyframeStore<MomentsEventKeyframe>",},
     "tracks": [
-      {"name":"frames","spriteId":null,"keyframes":{"Keyframes":[
+      {"resourceType":"GMSpriteFramesTrack","resourceVersion":"1.0","name":"frames","spriteId":null,"keyframes":{"Keyframes":[
             {"id":"8bfda556-fac0-4868-8624-60618b73ad45","Key":0.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"3e723421-4255-4ed9-bd5a-15f5fbf6cf53","path":"sprites/msk_pizzaball_crouch/msk_pizzaball_crouch.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
-          ],"resourceVersion":"1.0","resourceType":"KeyframeStore<SpriteFrameKeyframe>",},"trackColour":0,"inheritsTrackColour":true,"builtinName":0,"traits":0,"interpolation":1,"tracks":[],"events":[],"isCreationTrack":false,"resourceVersion":"1.0","tags":[],"resourceType":"GMSpriteFramesTrack","modifiers":[],},
+          ],"resourceVersion":"1.0","resourceType":"KeyframeStore<SpriteFrameKeyframe>",},"trackColour":0,"inheritsTrackColour":true,"builtinName":0,"traits":0,"interpolation":1,"tracks":[],"events":[],"isCreationTrack":false,"modifiers":[],},
     ],
     "visibleRange": null,
     "lockOrigin": false,
@@ -61,22 +65,13 @@
     "yorigin": 50,
     "eventToFunction": {},
     "eventStubScript": null,
-    "parent": {"name":"msk_pizzaball_crouch","path":"sprites/msk_pizzaball_crouch/msk_pizzaball_crouch.yy",},
-    "resourceVersion": "1.4",
-    "name": "msk_pizzaball_crouch",
-    "tags": [],
-    "resourceType": "GMSequence",
   },
   "layers": [
-    {"visible":true,"isLocked":false,"blendMode":0,"opacity":100.0,"displayName":"default","resourceVersion":"1.0","name":"6e09a672-4246-4aa4-bedf-e502ad5bbb1e","tags":[],"resourceType":"GMImageLayer",},
+    {"resourceType":"GMImageLayer","resourceVersion":"1.0","name":"6e09a672-4246-4aa4-bedf-e502ad5bbb1e","visible":true,"isLocked":false,"blendMode":0,"opacity":100.0,"displayName":"default",},
   ],
   "nineSlice": null,
   "parent": {
     "name": "pizzaball",
     "path": "folders/Sprites/baddie/pizzaball.yy",
   },
-  "resourceVersion": "1.0",
-  "name": "msk_pizzaball_crouch",
-  "tags": [],
-  "resourceType": "GMSprite",
 }

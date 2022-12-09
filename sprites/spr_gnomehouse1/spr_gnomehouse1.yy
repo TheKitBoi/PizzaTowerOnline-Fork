@@ -1,4 +1,7 @@
 {
+  "resourceType": "GMSprite",
+  "resourceVersion": "1.0",
+  "name": "spr_gnomehouse1",
   "ConfigValues": {
     "debug": {"textureGroupId":"{\"name\":\"tg_forest\",\"path\":\"texturegroups/tg_forest\"}",},
   },
@@ -17,6 +20,7 @@
   "HTile": false,
   "VTile": false,
   "For3D": false,
+  "DynamicTexturePage": false,
   "width": 213,
   "height": 194,
   "textureGroupId": {
@@ -27,15 +31,13 @@
   "gridX": 0,
   "gridY": 0,
   "frames": [
-    {"compositeImage":{"FrameId":{"name":"9f7cdc3b-46b1-4636-9aec-cf12bc2f22cb","path":"sprites/spr_gnomehouse1/spr_gnomehouse1.yy",},"LayerId":null,"resourceVersion":"1.0","name":"composite","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"9f7cdc3b-46b1-4636-9aec-cf12bc2f22cb","path":"sprites/spr_gnomehouse1/spr_gnomehouse1.yy",},"LayerId":{"name":"4a0fa3db-4818-49ad-b0ca-618d06097018","path":"sprites/spr_gnomehouse1/spr_gnomehouse1.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-      ],"parent":{"name":"spr_gnomehouse1","path":"sprites/spr_gnomehouse1/spr_gnomehouse1.yy",},"resourceVersion":"1.0","name":"9f7cdc3b-46b1-4636-9aec-cf12bc2f22cb","tags":[],"resourceType":"GMSpriteFrame",},
-    {"compositeImage":{"FrameId":{"name":"1842e777-2e0f-40cf-b8dd-7d7ba39cd5ed","path":"sprites/spr_gnomehouse1/spr_gnomehouse1.yy",},"LayerId":null,"resourceVersion":"1.0","name":"composite","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"1842e777-2e0f-40cf-b8dd-7d7ba39cd5ed","path":"sprites/spr_gnomehouse1/spr_gnomehouse1.yy",},"LayerId":{"name":"4a0fa3db-4818-49ad-b0ca-618d06097018","path":"sprites/spr_gnomehouse1/spr_gnomehouse1.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-      ],"parent":{"name":"spr_gnomehouse1","path":"sprites/spr_gnomehouse1/spr_gnomehouse1.yy",},"resourceVersion":"1.0","name":"1842e777-2e0f-40cf-b8dd-7d7ba39cd5ed","tags":[],"resourceType":"GMSpriteFrame",},
+    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"9f7cdc3b-46b1-4636-9aec-cf12bc2f22cb",},
+    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"1842e777-2e0f-40cf-b8dd-7d7ba39cd5ed",},
   ],
   "sequence": {
-    "spriteId": {"name":"spr_gnomehouse1","path":"sprites/spr_gnomehouse1/spr_gnomehouse1.yy",},
+    "resourceType": "GMSequence",
+    "resourceVersion": "1.4",
+    "name": "",
     "timeUnits": 1,
     "playback": 1,
     "playbackSpeed": 1.0,
@@ -46,10 +48,10 @@
     "events": {"Keyframes":[],"resourceVersion":"1.0","resourceType":"KeyframeStore<MessageEventKeyframe>",},
     "moments": {"Keyframes":[],"resourceVersion":"1.0","resourceType":"KeyframeStore<MomentsEventKeyframe>",},
     "tracks": [
-      {"name":"frames","spriteId":null,"keyframes":{"Keyframes":[
+      {"resourceType":"GMSpriteFramesTrack","resourceVersion":"1.0","name":"frames","spriteId":null,"keyframes":{"Keyframes":[
             {"id":"dc8381f3-71fd-4b2a-8c79-ba8cbfe2e46c","Key":0.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"9f7cdc3b-46b1-4636-9aec-cf12bc2f22cb","path":"sprites/spr_gnomehouse1/spr_gnomehouse1.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
             {"id":"567cbc9a-91d4-4da9-b24a-d387ee994711","Key":1.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"1842e777-2e0f-40cf-b8dd-7d7ba39cd5ed","path":"sprites/spr_gnomehouse1/spr_gnomehouse1.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
-          ],"resourceVersion":"1.0","resourceType":"KeyframeStore<SpriteFrameKeyframe>",},"trackColour":0,"inheritsTrackColour":true,"builtinName":0,"traits":0,"interpolation":1,"tracks":[],"events":[],"isCreationTrack":false,"resourceVersion":"1.0","tags":[],"resourceType":"GMSpriteFramesTrack","modifiers":[],},
+          ],"resourceVersion":"1.0","resourceType":"KeyframeStore<SpriteFrameKeyframe>",},"trackColour":0,"inheritsTrackColour":true,"builtinName":0,"traits":0,"interpolation":1,"tracks":[],"events":[],"isCreationTrack":false,"modifiers":[],},
     ],
     "visibleRange": null,
     "lockOrigin": false,
@@ -65,22 +67,13 @@
     "yorigin": 0,
     "eventToFunction": {},
     "eventStubScript": null,
-    "parent": {"name":"spr_gnomehouse1","path":"sprites/spr_gnomehouse1/spr_gnomehouse1.yy",},
-    "resourceVersion": "1.4",
-    "name": "",
-    "tags": [],
-    "resourceType": "GMSequence",
   },
   "layers": [
-    {"visible":true,"isLocked":false,"blendMode":0,"opacity":100.0,"displayName":"default","resourceVersion":"1.0","name":"4a0fa3db-4818-49ad-b0ca-618d06097018","tags":[],"resourceType":"GMImageLayer",},
+    {"resourceType":"GMImageLayer","resourceVersion":"1.0","name":"4a0fa3db-4818-49ad-b0ca-618d06097018","visible":true,"isLocked":false,"blendMode":0,"opacity":100.0,"displayName":"default",},
   ],
   "nineSlice": null,
   "parent": {
     "name": "forest",
     "path": "folders/Sprites/tilesets/forest.yy",
   },
-  "resourceVersion": "1.0",
-  "name": "spr_gnomehouse1",
-  "tags": [],
-  "resourceType": "GMSprite",
 }

@@ -1,4 +1,7 @@
 {
+  "resourceType": "GMSprite",
+  "resourceVersion": "1.0",
+  "name": "spr_flyingladder",
   "bboxMode": 2,
   "collisionKind": 1,
   "type": 0,
@@ -14,6 +17,7 @@
   "HTile": false,
   "VTile": false,
   "For3D": false,
+  "DynamicTexturePage": false,
   "width": 32,
   "height": 109,
   "textureGroupId": {
@@ -24,21 +28,15 @@
   "gridX": 0,
   "gridY": 0,
   "frames": [
-    {"compositeImage":{"FrameId":{"name":"c648a851-44e0-4284-ba9c-855e4ca37d4b","path":"sprites/spr_flyingladder/spr_flyingladder.yy",},"LayerId":null,"resourceVersion":"1.0","name":"composite","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"c648a851-44e0-4284-ba9c-855e4ca37d4b","path":"sprites/spr_flyingladder/spr_flyingladder.yy",},"LayerId":{"name":"7892b2b3-81df-4a05-93f6-941b3fbd757e","path":"sprites/spr_flyingladder/spr_flyingladder.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-      ],"parent":{"name":"spr_flyingladder","path":"sprites/spr_flyingladder/spr_flyingladder.yy",},"resourceVersion":"1.0","name":"c648a851-44e0-4284-ba9c-855e4ca37d4b","tags":[],"resourceType":"GMSpriteFrame",},
-    {"compositeImage":{"FrameId":{"name":"ce0ff1f8-d0b4-454e-94d2-5d1b124c0c02","path":"sprites/spr_flyingladder/spr_flyingladder.yy",},"LayerId":null,"resourceVersion":"1.0","name":"composite","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"ce0ff1f8-d0b4-454e-94d2-5d1b124c0c02","path":"sprites/spr_flyingladder/spr_flyingladder.yy",},"LayerId":{"name":"7892b2b3-81df-4a05-93f6-941b3fbd757e","path":"sprites/spr_flyingladder/spr_flyingladder.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-      ],"parent":{"name":"spr_flyingladder","path":"sprites/spr_flyingladder/spr_flyingladder.yy",},"resourceVersion":"1.0","name":"ce0ff1f8-d0b4-454e-94d2-5d1b124c0c02","tags":[],"resourceType":"GMSpriteFrame",},
-    {"compositeImage":{"FrameId":{"name":"c61eac5c-9cfc-425a-a7eb-023fe2c31003","path":"sprites/spr_flyingladder/spr_flyingladder.yy",},"LayerId":null,"resourceVersion":"1.0","name":"composite","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"c61eac5c-9cfc-425a-a7eb-023fe2c31003","path":"sprites/spr_flyingladder/spr_flyingladder.yy",},"LayerId":{"name":"7892b2b3-81df-4a05-93f6-941b3fbd757e","path":"sprites/spr_flyingladder/spr_flyingladder.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-      ],"parent":{"name":"spr_flyingladder","path":"sprites/spr_flyingladder/spr_flyingladder.yy",},"resourceVersion":"1.0","name":"c61eac5c-9cfc-425a-a7eb-023fe2c31003","tags":[],"resourceType":"GMSpriteFrame",},
-    {"compositeImage":{"FrameId":{"name":"e05d131e-c150-479c-b9e5-771adba5fc96","path":"sprites/spr_flyingladder/spr_flyingladder.yy",},"LayerId":null,"resourceVersion":"1.0","name":"composite","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"e05d131e-c150-479c-b9e5-771adba5fc96","path":"sprites/spr_flyingladder/spr_flyingladder.yy",},"LayerId":{"name":"7892b2b3-81df-4a05-93f6-941b3fbd757e","path":"sprites/spr_flyingladder/spr_flyingladder.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-      ],"parent":{"name":"spr_flyingladder","path":"sprites/spr_flyingladder/spr_flyingladder.yy",},"resourceVersion":"1.0","name":"e05d131e-c150-479c-b9e5-771adba5fc96","tags":[],"resourceType":"GMSpriteFrame",},
+    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"c648a851-44e0-4284-ba9c-855e4ca37d4b",},
+    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"ce0ff1f8-d0b4-454e-94d2-5d1b124c0c02",},
+    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"c61eac5c-9cfc-425a-a7eb-023fe2c31003",},
+    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"e05d131e-c150-479c-b9e5-771adba5fc96",},
   ],
   "sequence": {
-    "spriteId": {"name":"spr_flyingladder","path":"sprites/spr_flyingladder/spr_flyingladder.yy",},
+    "resourceType": "GMSequence",
+    "resourceVersion": "1.4",
+    "name": "",
     "timeUnits": 1,
     "playback": 1,
     "playbackSpeed": 1.0,
@@ -49,12 +47,12 @@
     "events": {"Keyframes":[],"resourceVersion":"1.0","resourceType":"KeyframeStore<MessageEventKeyframe>",},
     "moments": {"Keyframes":[],"resourceVersion":"1.0","resourceType":"KeyframeStore<MomentsEventKeyframe>",},
     "tracks": [
-      {"name":"frames","spriteId":null,"keyframes":{"Keyframes":[
+      {"resourceType":"GMSpriteFramesTrack","resourceVersion":"1.0","name":"frames","spriteId":null,"keyframes":{"Keyframes":[
             {"id":"2e0784b8-bc7e-4807-8619-6ded42f1a2f8","Key":0.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"c648a851-44e0-4284-ba9c-855e4ca37d4b","path":"sprites/spr_flyingladder/spr_flyingladder.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
             {"id":"ba6a25e3-82d6-4db2-b677-a593f034cebd","Key":1.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"ce0ff1f8-d0b4-454e-94d2-5d1b124c0c02","path":"sprites/spr_flyingladder/spr_flyingladder.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
             {"id":"660a8618-97f6-4e5b-a018-30b883d0f577","Key":2.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"c61eac5c-9cfc-425a-a7eb-023fe2c31003","path":"sprites/spr_flyingladder/spr_flyingladder.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
             {"id":"57dfc772-df2b-4f96-8c14-713ad91ebff3","Key":3.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"e05d131e-c150-479c-b9e5-771adba5fc96","path":"sprites/spr_flyingladder/spr_flyingladder.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
-          ],"resourceVersion":"1.0","resourceType":"KeyframeStore<SpriteFrameKeyframe>",},"trackColour":0,"inheritsTrackColour":true,"builtinName":0,"traits":0,"interpolation":1,"tracks":[],"events":[],"isCreationTrack":false,"resourceVersion":"1.0","tags":[],"resourceType":"GMSpriteFramesTrack","modifiers":[],},
+          ],"resourceVersion":"1.0","resourceType":"KeyframeStore<SpriteFrameKeyframe>",},"trackColour":0,"inheritsTrackColour":true,"builtinName":0,"traits":0,"interpolation":1,"tracks":[],"events":[],"isCreationTrack":false,"modifiers":[],},
     ],
     "visibleRange": null,
     "lockOrigin": false,
@@ -70,14 +68,9 @@
     "yorigin": 0,
     "eventToFunction": {},
     "eventStubScript": null,
-    "parent": {"name":"spr_flyingladder","path":"sprites/spr_flyingladder/spr_flyingladder.yy",},
-    "resourceVersion": "1.4",
-    "name": "",
-    "tags": [],
-    "resourceType": "GMSequence",
   },
   "layers": [
-    {"visible":true,"isLocked":false,"blendMode":0,"opacity":100.0,"displayName":"default","resourceVersion":"1.0","name":"7892b2b3-81df-4a05-93f6-941b3fbd757e","tags":[],"resourceType":"GMImageLayer",},
+    {"resourceType":"GMImageLayer","resourceVersion":"1.0","name":"7892b2b3-81df-4a05-93f6-941b3fbd757e","visible":true,"isLocked":false,"blendMode":0,"opacity":100.0,"displayName":"default",},
   ],
   "nineSlice": {
     "left": 0,
@@ -108,8 +101,4 @@
     "name": "ladder",
     "path": "folders/Sprites/generalobjects/ladder.yy",
   },
-  "resourceVersion": "1.0",
-  "name": "spr_flyingladder",
-  "tags": [],
-  "resourceType": "GMSprite",
 }

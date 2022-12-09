@@ -1,4 +1,7 @@
 {
+  "resourceType": "GMSprite",
+  "resourceVersion": "1.0",
+  "name": "spr_archergoblin_stun",
   "ConfigValues": {
     "debug": {"textureGroupId":"{\"name\":\"tg_baddie\",\"path\":\"texturegroups/tg_baddie\"}",},
   },
@@ -17,6 +20,7 @@
   "HTile": false,
   "VTile": false,
   "For3D": false,
+  "DynamicTexturePage": false,
   "width": 100,
   "height": 100,
   "textureGroupId": {
@@ -27,18 +31,14 @@
   "gridX": 0,
   "gridY": 0,
   "frames": [
-    {"compositeImage":{"FrameId":{"name":"001a1cb8-a101-4c3b-9457-d1c85a34f6d0","path":"sprites/spr_archergoblin_stun/spr_archergoblin_stun.yy",},"LayerId":null,"resourceVersion":"1.0","name":"composite","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"001a1cb8-a101-4c3b-9457-d1c85a34f6d0","path":"sprites/spr_archergoblin_stun/spr_archergoblin_stun.yy",},"LayerId":{"name":"9d941dde-a70e-470a-8c55-5250f6c790a9","path":"sprites/spr_archergoblin_stun/spr_archergoblin_stun.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-      ],"parent":{"name":"spr_archergoblin_stun","path":"sprites/spr_archergoblin_stun/spr_archergoblin_stun.yy",},"resourceVersion":"1.0","name":"001a1cb8-a101-4c3b-9457-d1c85a34f6d0","tags":[],"resourceType":"GMSpriteFrame",},
-    {"compositeImage":{"FrameId":{"name":"eee9e9e0-079d-4460-abd6-0806acdff5c9","path":"sprites/spr_archergoblin_stun/spr_archergoblin_stun.yy",},"LayerId":null,"resourceVersion":"1.0","name":"composite","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"eee9e9e0-079d-4460-abd6-0806acdff5c9","path":"sprites/spr_archergoblin_stun/spr_archergoblin_stun.yy",},"LayerId":{"name":"9d941dde-a70e-470a-8c55-5250f6c790a9","path":"sprites/spr_archergoblin_stun/spr_archergoblin_stun.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-      ],"parent":{"name":"spr_archergoblin_stun","path":"sprites/spr_archergoblin_stun/spr_archergoblin_stun.yy",},"resourceVersion":"1.0","name":"eee9e9e0-079d-4460-abd6-0806acdff5c9","tags":[],"resourceType":"GMSpriteFrame",},
-    {"compositeImage":{"FrameId":{"name":"a10a7eb5-1d1d-4409-840b-07e83ee61c4f","path":"sprites/spr_archergoblin_stun/spr_archergoblin_stun.yy",},"LayerId":null,"resourceVersion":"1.0","name":"composite","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"a10a7eb5-1d1d-4409-840b-07e83ee61c4f","path":"sprites/spr_archergoblin_stun/spr_archergoblin_stun.yy",},"LayerId":{"name":"9d941dde-a70e-470a-8c55-5250f6c790a9","path":"sprites/spr_archergoblin_stun/spr_archergoblin_stun.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-      ],"parent":{"name":"spr_archergoblin_stun","path":"sprites/spr_archergoblin_stun/spr_archergoblin_stun.yy",},"resourceVersion":"1.0","name":"a10a7eb5-1d1d-4409-840b-07e83ee61c4f","tags":[],"resourceType":"GMSpriteFrame",},
+    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"001a1cb8-a101-4c3b-9457-d1c85a34f6d0",},
+    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"eee9e9e0-079d-4460-abd6-0806acdff5c9",},
+    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"a10a7eb5-1d1d-4409-840b-07e83ee61c4f",},
   ],
   "sequence": {
-    "spriteId": {"name":"spr_archergoblin_stun","path":"sprites/spr_archergoblin_stun/spr_archergoblin_stun.yy",},
+    "resourceType": "GMSequence",
+    "resourceVersion": "1.4",
+    "name": "",
     "timeUnits": 1,
     "playback": 1,
     "playbackSpeed": 1.0,
@@ -49,11 +49,11 @@
     "events": {"Keyframes":[],"resourceVersion":"1.0","resourceType":"KeyframeStore<MessageEventKeyframe>",},
     "moments": {"Keyframes":[],"resourceVersion":"1.0","resourceType":"KeyframeStore<MomentsEventKeyframe>",},
     "tracks": [
-      {"name":"frames","spriteId":null,"keyframes":{"Keyframes":[
+      {"resourceType":"GMSpriteFramesTrack","resourceVersion":"1.0","name":"frames","spriteId":null,"keyframes":{"Keyframes":[
             {"id":"f1ab6431-0d19-4868-9f4c-bcd720dbe733","Key":0.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"001a1cb8-a101-4c3b-9457-d1c85a34f6d0","path":"sprites/spr_archergoblin_stun/spr_archergoblin_stun.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
             {"id":"33de8ca1-73f2-405c-9004-c1fd03bfd0be","Key":1.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"eee9e9e0-079d-4460-abd6-0806acdff5c9","path":"sprites/spr_archergoblin_stun/spr_archergoblin_stun.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
             {"id":"41cfd9a5-8fa2-4026-96af-993c3fb2a52b","Key":2.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"a10a7eb5-1d1d-4409-840b-07e83ee61c4f","path":"sprites/spr_archergoblin_stun/spr_archergoblin_stun.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
-          ],"resourceVersion":"1.0","resourceType":"KeyframeStore<SpriteFrameKeyframe>",},"trackColour":0,"inheritsTrackColour":true,"builtinName":0,"traits":0,"interpolation":1,"tracks":[],"events":[],"isCreationTrack":false,"resourceVersion":"1.0","tags":[],"resourceType":"GMSpriteFramesTrack","modifiers":[],},
+          ],"resourceVersion":"1.0","resourceType":"KeyframeStore<SpriteFrameKeyframe>",},"trackColour":0,"inheritsTrackColour":true,"builtinName":0,"traits":0,"interpolation":1,"tracks":[],"events":[],"isCreationTrack":false,"modifiers":[],},
     ],
     "visibleRange": {"x":0.0,"y":0.0,},
     "lockOrigin": false,
@@ -69,22 +69,13 @@
     "yorigin": 50,
     "eventToFunction": {},
     "eventStubScript": null,
-    "parent": {"name":"spr_archergoblin_stun","path":"sprites/spr_archergoblin_stun/spr_archergoblin_stun.yy",},
-    "resourceVersion": "1.4",
-    "name": "",
-    "tags": [],
-    "resourceType": "GMSequence",
   },
   "layers": [
-    {"visible":true,"isLocked":false,"blendMode":0,"opacity":100.0,"displayName":"default","resourceVersion":"1.0","name":"9d941dde-a70e-470a-8c55-5250f6c790a9","tags":[],"resourceType":"GMImageLayer",},
+    {"resourceType":"GMImageLayer","resourceVersion":"1.0","name":"9d941dde-a70e-470a-8c55-5250f6c790a9","visible":true,"isLocked":false,"blendMode":0,"opacity":100.0,"displayName":"default",},
   ],
   "nineSlice": null,
   "parent": {
     "name": "archergoblin",
     "path": "folders/Sprites/baddie/archergoblin.yy",
   },
-  "resourceVersion": "1.0",
-  "name": "spr_archergoblin_stun",
-  "tags": [],
-  "resourceType": "GMSprite",
 }

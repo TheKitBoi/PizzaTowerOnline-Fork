@@ -1,4 +1,7 @@
 {
+  "resourceType": "GMSprite",
+  "resourceVersion": "1.0",
+  "name": "spr_swedishmonkey_palette",
   "ConfigValues": {
     "debug": {"textureGroupId":"{\"name\":\"tg_palette\",\"path\":\"texturegroups/tg_palette\"}",},
   },
@@ -17,6 +20,7 @@
   "HTile": false,
   "VTile": false,
   "For3D": false,
+  "DynamicTexturePage": false,
   "width": 3,
   "height": 7,
   "textureGroupId": {
@@ -27,12 +31,12 @@
   "gridX": 0,
   "gridY": 0,
   "frames": [
-    {"compositeImage":{"FrameId":{"name":"72f0bd9e-3ee9-45d1-a038-d8dfd5dd07d8","path":"sprites/spr_swedishmonkey_palette/spr_swedishmonkey_palette.yy",},"LayerId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"72f0bd9e-3ee9-45d1-a038-d8dfd5dd07d8","path":"sprites/spr_swedishmonkey_palette/spr_swedishmonkey_palette.yy",},"LayerId":{"name":"b6a8ec90-23a2-4fd3-9a2c-777863d4ff6d","path":"sprites/spr_swedishmonkey_palette/spr_swedishmonkey_palette.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-      ],"parent":{"name":"spr_swedishmonkey_palette","path":"sprites/spr_swedishmonkey_palette/spr_swedishmonkey_palette.yy",},"resourceVersion":"1.0","name":"72f0bd9e-3ee9-45d1-a038-d8dfd5dd07d8","tags":[],"resourceType":"GMSpriteFrame",},
+    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"72f0bd9e-3ee9-45d1-a038-d8dfd5dd07d8",},
   ],
   "sequence": {
-    "spriteId": {"name":"spr_swedishmonkey_palette","path":"sprites/spr_swedishmonkey_palette/spr_swedishmonkey_palette.yy",},
+    "resourceType": "GMSequence",
+    "resourceVersion": "1.4",
+    "name": "spr_swedishmonkey_palette",
     "timeUnits": 1,
     "playback": 1,
     "playbackSpeed": 1.0,
@@ -43,9 +47,9 @@
     "events": {"Keyframes":[],"resourceVersion":"1.0","resourceType":"KeyframeStore<MessageEventKeyframe>",},
     "moments": {"Keyframes":[],"resourceVersion":"1.0","resourceType":"KeyframeStore<MomentsEventKeyframe>",},
     "tracks": [
-      {"name":"frames","spriteId":null,"keyframes":{"Keyframes":[
+      {"resourceType":"GMSpriteFramesTrack","resourceVersion":"1.0","name":"frames","spriteId":null,"keyframes":{"Keyframes":[
             {"id":"f0b95089-7942-464c-8f90-4973fab52149","Key":0.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"72f0bd9e-3ee9-45d1-a038-d8dfd5dd07d8","path":"sprites/spr_swedishmonkey_palette/spr_swedishmonkey_palette.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
-          ],"resourceVersion":"1.0","resourceType":"KeyframeStore<SpriteFrameKeyframe>",},"trackColour":0,"inheritsTrackColour":true,"builtinName":0,"traits":0,"interpolation":1,"tracks":[],"events":[],"isCreationTrack":false,"resourceVersion":"1.0","tags":[],"resourceType":"GMSpriteFramesTrack","modifiers":[],},
+          ],"resourceVersion":"1.0","resourceType":"KeyframeStore<SpriteFrameKeyframe>",},"trackColour":0,"inheritsTrackColour":true,"builtinName":0,"traits":0,"interpolation":1,"tracks":[],"events":[],"isCreationTrack":false,"modifiers":[],},
     ],
     "visibleRange": null,
     "lockOrigin": false,
@@ -61,22 +65,13 @@
     "yorigin": 0,
     "eventToFunction": {},
     "eventStubScript": null,
-    "parent": {"name":"spr_swedishmonkey_palette","path":"sprites/spr_swedishmonkey_palette/spr_swedishmonkey_palette.yy",},
-    "resourceVersion": "1.4",
-    "name": "spr_swedishmonkey_palette",
-    "tags": [],
-    "resourceType": "GMSequence",
   },
   "layers": [
-    {"visible":true,"isLocked":false,"blendMode":0,"opacity":100.0,"displayName":"default","resourceVersion":"1.0","name":"b6a8ec90-23a2-4fd3-9a2c-777863d4ff6d","tags":[],"resourceType":"GMImageLayer",},
+    {"resourceType":"GMImageLayer","resourceVersion":"1.0","name":"b6a8ec90-23a2-4fd3-9a2c-777863d4ff6d","visible":true,"isLocked":false,"blendMode":0,"opacity":100.0,"displayName":"default",},
   ],
   "nineSlice": null,
   "parent": {
     "name": "swedishmonkey",
     "path": "folders/Sprites/baddie/swedishmonkey.yy",
   },
-  "resourceVersion": "1.0",
-  "name": "spr_swedishmonkey_palette",
-  "tags": [],
-  "resourceType": "GMSprite",
 }

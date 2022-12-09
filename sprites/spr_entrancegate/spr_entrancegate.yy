@@ -1,4 +1,7 @@
 {
+  "resourceType": "GMSprite",
+  "resourceVersion": "1.0",
+  "name": "spr_entrancegate",
   "bboxMode": 0,
   "collisionKind": 1,
   "type": 0,
@@ -14,6 +17,7 @@
   "HTile": false,
   "VTile": false,
   "For3D": false,
+  "DynamicTexturePage": false,
   "width": 160,
   "height": 256,
   "textureGroupId": {
@@ -24,15 +28,13 @@
   "gridX": 0,
   "gridY": 0,
   "frames": [
-    {"compositeImage":{"FrameId":{"name":"b2be86dd-29bb-4518-bf08-6502539d147b","path":"sprites/spr_entrancegate/spr_entrancegate.yy",},"LayerId":null,"resourceVersion":"1.0","name":"composite","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"b2be86dd-29bb-4518-bf08-6502539d147b","path":"sprites/spr_entrancegate/spr_entrancegate.yy",},"LayerId":{"name":"6a82bdbb-a5cc-45ec-a13c-b4d7bea3b3fb","path":"sprites/spr_entrancegate/spr_entrancegate.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-      ],"parent":{"name":"spr_entrancegate","path":"sprites/spr_entrancegate/spr_entrancegate.yy",},"resourceVersion":"1.0","name":"b2be86dd-29bb-4518-bf08-6502539d147b","tags":[],"resourceType":"GMSpriteFrame",},
-    {"compositeImage":{"FrameId":{"name":"5da90ddd-8a5d-4f6b-a92e-e2634e8d1536","path":"sprites/spr_entrancegate/spr_entrancegate.yy",},"LayerId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"5da90ddd-8a5d-4f6b-a92e-e2634e8d1536","path":"sprites/spr_entrancegate/spr_entrancegate.yy",},"LayerId":{"name":"6a82bdbb-a5cc-45ec-a13c-b4d7bea3b3fb","path":"sprites/spr_entrancegate/spr_entrancegate.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-      ],"parent":{"name":"spr_entrancegate","path":"sprites/spr_entrancegate/spr_entrancegate.yy",},"resourceVersion":"1.0","name":"5da90ddd-8a5d-4f6b-a92e-e2634e8d1536","tags":[],"resourceType":"GMSpriteFrame",},
+    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"b2be86dd-29bb-4518-bf08-6502539d147b",},
+    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"5da90ddd-8a5d-4f6b-a92e-e2634e8d1536",},
   ],
   "sequence": {
-    "spriteId": {"name":"spr_entrancegate","path":"sprites/spr_entrancegate/spr_entrancegate.yy",},
+    "resourceType": "GMSequence",
+    "resourceVersion": "1.4",
+    "name": "spr_entrancegate",
     "timeUnits": 1,
     "playback": 1,
     "playbackSpeed": 0.0,
@@ -43,10 +45,10 @@
     "events": {"Keyframes":[],"resourceVersion":"1.0","resourceType":"KeyframeStore<MessageEventKeyframe>",},
     "moments": {"Keyframes":[],"resourceVersion":"1.0","resourceType":"KeyframeStore<MomentsEventKeyframe>",},
     "tracks": [
-      {"name":"frames","spriteId":null,"keyframes":{"Keyframes":[
+      {"resourceType":"GMSpriteFramesTrack","resourceVersion":"1.0","name":"frames","spriteId":null,"keyframes":{"Keyframes":[
             {"id":"d9d18464-7b2c-4707-928d-3fea1c1fc741","Key":0.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"b2be86dd-29bb-4518-bf08-6502539d147b","path":"sprites/spr_entrancegate/spr_entrancegate.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
             {"id":"1d126d8a-1214-46a6-a09c-ad36dea16835","Key":1.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"5da90ddd-8a5d-4f6b-a92e-e2634e8d1536","path":"sprites/spr_entrancegate/spr_entrancegate.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
-          ],"resourceVersion":"1.0","resourceType":"KeyframeStore<SpriteFrameKeyframe>",},"trackColour":0,"inheritsTrackColour":true,"builtinName":0,"traits":0,"interpolation":1,"tracks":[],"events":[],"isCreationTrack":false,"resourceVersion":"1.0","tags":[],"resourceType":"GMSpriteFramesTrack","modifiers":[],},
+          ],"resourceVersion":"1.0","resourceType":"KeyframeStore<SpriteFrameKeyframe>",},"trackColour":0,"inheritsTrackColour":true,"builtinName":0,"traits":0,"interpolation":1,"tracks":[],"events":[],"isCreationTrack":false,"modifiers":[],},
     ],
     "visibleRange": null,
     "lockOrigin": false,
@@ -62,22 +64,13 @@
     "yorigin": 128,
     "eventToFunction": {},
     "eventStubScript": null,
-    "parent": {"name":"spr_entrancegate","path":"sprites/spr_entrancegate/spr_entrancegate.yy",},
-    "resourceVersion": "1.4",
-    "name": "spr_entrancegate",
-    "tags": [],
-    "resourceType": "GMSequence",
   },
   "layers": [
-    {"visible":true,"isLocked":false,"blendMode":0,"opacity":100.0,"displayName":"default","resourceVersion":"1.0","name":"6a82bdbb-a5cc-45ec-a13c-b4d7bea3b3fb","tags":[],"resourceType":"GMImageLayer",},
+    {"resourceType":"GMImageLayer","resourceVersion":"1.0","name":"6a82bdbb-a5cc-45ec-a13c-b4d7bea3b3fb","visible":true,"isLocked":false,"blendMode":0,"opacity":100.0,"displayName":"default",},
   ],
   "nineSlice": null,
   "parent": {
     "name": "gates",
     "path": "folders/Sprites/generalobjects/gates.yy",
   },
-  "resourceVersion": "1.0",
-  "name": "spr_entrancegate",
-  "tags": [],
-  "resourceType": "GMSprite",
 }

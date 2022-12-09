@@ -1,4 +1,7 @@
 {
+  "resourceType": "GMSprite",
+  "resourceVersion": "1.0",
+  "name": "spr_watereffect",
   "bboxMode": 0,
   "collisionKind": 1,
   "type": 0,
@@ -14,6 +17,7 @@
   "HTile": false,
   "VTile": false,
   "For3D": false,
+  "DynamicTexturePage": false,
   "width": 100,
   "height": 100,
   "textureGroupId": {
@@ -24,42 +28,22 @@
   "gridX": 0,
   "gridY": 0,
   "frames": [
-    {"compositeImage":{"FrameId":{"name":"07082c8d-3e4f-41e6-9cc3-d13d5e699eab","path":"sprites/spr_watereffect/spr_watereffect.yy",},"LayerId":null,"resourceVersion":"1.0","name":"composite","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"07082c8d-3e4f-41e6-9cc3-d13d5e699eab","path":"sprites/spr_watereffect/spr_watereffect.yy",},"LayerId":{"name":"b1c500da-42fa-4f21-9f8e-58ccb9468b96","path":"sprites/spr_watereffect/spr_watereffect.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-      ],"parent":{"name":"spr_watereffect","path":"sprites/spr_watereffect/spr_watereffect.yy",},"resourceVersion":"1.0","name":"07082c8d-3e4f-41e6-9cc3-d13d5e699eab","tags":[],"resourceType":"GMSpriteFrame",},
-    {"compositeImage":{"FrameId":{"name":"c28632a7-153f-497d-86f2-f07937795c52","path":"sprites/spr_watereffect/spr_watereffect.yy",},"LayerId":null,"resourceVersion":"1.0","name":"composite","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"c28632a7-153f-497d-86f2-f07937795c52","path":"sprites/spr_watereffect/spr_watereffect.yy",},"LayerId":{"name":"b1c500da-42fa-4f21-9f8e-58ccb9468b96","path":"sprites/spr_watereffect/spr_watereffect.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-      ],"parent":{"name":"spr_watereffect","path":"sprites/spr_watereffect/spr_watereffect.yy",},"resourceVersion":"1.0","name":"c28632a7-153f-497d-86f2-f07937795c52","tags":[],"resourceType":"GMSpriteFrame",},
-    {"compositeImage":{"FrameId":{"name":"447464ce-b3b3-44f1-8b40-38e4b57696d5","path":"sprites/spr_watereffect/spr_watereffect.yy",},"LayerId":null,"resourceVersion":"1.0","name":"composite","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"447464ce-b3b3-44f1-8b40-38e4b57696d5","path":"sprites/spr_watereffect/spr_watereffect.yy",},"LayerId":{"name":"b1c500da-42fa-4f21-9f8e-58ccb9468b96","path":"sprites/spr_watereffect/spr_watereffect.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-      ],"parent":{"name":"spr_watereffect","path":"sprites/spr_watereffect/spr_watereffect.yy",},"resourceVersion":"1.0","name":"447464ce-b3b3-44f1-8b40-38e4b57696d5","tags":[],"resourceType":"GMSpriteFrame",},
-    {"compositeImage":{"FrameId":{"name":"cd9d397d-ef6e-47ce-9616-38909b38e61c","path":"sprites/spr_watereffect/spr_watereffect.yy",},"LayerId":null,"resourceVersion":"1.0","name":"composite","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"cd9d397d-ef6e-47ce-9616-38909b38e61c","path":"sprites/spr_watereffect/spr_watereffect.yy",},"LayerId":{"name":"b1c500da-42fa-4f21-9f8e-58ccb9468b96","path":"sprites/spr_watereffect/spr_watereffect.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-      ],"parent":{"name":"spr_watereffect","path":"sprites/spr_watereffect/spr_watereffect.yy",},"resourceVersion":"1.0","name":"cd9d397d-ef6e-47ce-9616-38909b38e61c","tags":[],"resourceType":"GMSpriteFrame",},
-    {"compositeImage":{"FrameId":{"name":"4dc65c19-67ce-44be-8835-1e8ee6b2bf5c","path":"sprites/spr_watereffect/spr_watereffect.yy",},"LayerId":null,"resourceVersion":"1.0","name":"composite","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"4dc65c19-67ce-44be-8835-1e8ee6b2bf5c","path":"sprites/spr_watereffect/spr_watereffect.yy",},"LayerId":{"name":"b1c500da-42fa-4f21-9f8e-58ccb9468b96","path":"sprites/spr_watereffect/spr_watereffect.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-      ],"parent":{"name":"spr_watereffect","path":"sprites/spr_watereffect/spr_watereffect.yy",},"resourceVersion":"1.0","name":"4dc65c19-67ce-44be-8835-1e8ee6b2bf5c","tags":[],"resourceType":"GMSpriteFrame",},
-    {"compositeImage":{"FrameId":{"name":"ee3a61d0-bfed-4442-94a0-faa92db34c76","path":"sprites/spr_watereffect/spr_watereffect.yy",},"LayerId":null,"resourceVersion":"1.0","name":"composite","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"ee3a61d0-bfed-4442-94a0-faa92db34c76","path":"sprites/spr_watereffect/spr_watereffect.yy",},"LayerId":{"name":"b1c500da-42fa-4f21-9f8e-58ccb9468b96","path":"sprites/spr_watereffect/spr_watereffect.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-      ],"parent":{"name":"spr_watereffect","path":"sprites/spr_watereffect/spr_watereffect.yy",},"resourceVersion":"1.0","name":"ee3a61d0-bfed-4442-94a0-faa92db34c76","tags":[],"resourceType":"GMSpriteFrame",},
-    {"compositeImage":{"FrameId":{"name":"2da7678c-a460-48bd-a23b-2339b0a48a36","path":"sprites/spr_watereffect/spr_watereffect.yy",},"LayerId":null,"resourceVersion":"1.0","name":"composite","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"2da7678c-a460-48bd-a23b-2339b0a48a36","path":"sprites/spr_watereffect/spr_watereffect.yy",},"LayerId":{"name":"b1c500da-42fa-4f21-9f8e-58ccb9468b96","path":"sprites/spr_watereffect/spr_watereffect.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-      ],"parent":{"name":"spr_watereffect","path":"sprites/spr_watereffect/spr_watereffect.yy",},"resourceVersion":"1.0","name":"2da7678c-a460-48bd-a23b-2339b0a48a36","tags":[],"resourceType":"GMSpriteFrame",},
-    {"compositeImage":{"FrameId":{"name":"ab07c5f7-8eda-4a60-a93e-00967cfb3d24","path":"sprites/spr_watereffect/spr_watereffect.yy",},"LayerId":null,"resourceVersion":"1.0","name":"composite","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"ab07c5f7-8eda-4a60-a93e-00967cfb3d24","path":"sprites/spr_watereffect/spr_watereffect.yy",},"LayerId":{"name":"b1c500da-42fa-4f21-9f8e-58ccb9468b96","path":"sprites/spr_watereffect/spr_watereffect.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-      ],"parent":{"name":"spr_watereffect","path":"sprites/spr_watereffect/spr_watereffect.yy",},"resourceVersion":"1.0","name":"ab07c5f7-8eda-4a60-a93e-00967cfb3d24","tags":[],"resourceType":"GMSpriteFrame",},
-    {"compositeImage":{"FrameId":{"name":"71902a09-15e2-4a7b-89d1-b4ff2614d051","path":"sprites/spr_watereffect/spr_watereffect.yy",},"LayerId":null,"resourceVersion":"1.0","name":"composite","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"71902a09-15e2-4a7b-89d1-b4ff2614d051","path":"sprites/spr_watereffect/spr_watereffect.yy",},"LayerId":{"name":"b1c500da-42fa-4f21-9f8e-58ccb9468b96","path":"sprites/spr_watereffect/spr_watereffect.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-      ],"parent":{"name":"spr_watereffect","path":"sprites/spr_watereffect/spr_watereffect.yy",},"resourceVersion":"1.0","name":"71902a09-15e2-4a7b-89d1-b4ff2614d051","tags":[],"resourceType":"GMSpriteFrame",},
-    {"compositeImage":{"FrameId":{"name":"535abb96-b516-408c-b2c7-a97b09b5c91c","path":"sprites/spr_watereffect/spr_watereffect.yy",},"LayerId":null,"resourceVersion":"1.0","name":"composite","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"535abb96-b516-408c-b2c7-a97b09b5c91c","path":"sprites/spr_watereffect/spr_watereffect.yy",},"LayerId":{"name":"b1c500da-42fa-4f21-9f8e-58ccb9468b96","path":"sprites/spr_watereffect/spr_watereffect.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-      ],"parent":{"name":"spr_watereffect","path":"sprites/spr_watereffect/spr_watereffect.yy",},"resourceVersion":"1.0","name":"535abb96-b516-408c-b2c7-a97b09b5c91c","tags":[],"resourceType":"GMSpriteFrame",},
-    {"compositeImage":{"FrameId":{"name":"b2c68fd4-06a1-4985-9ff4-7fd88a8abe50","path":"sprites/spr_watereffect/spr_watereffect.yy",},"LayerId":null,"resourceVersion":"1.0","name":"composite","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"b2c68fd4-06a1-4985-9ff4-7fd88a8abe50","path":"sprites/spr_watereffect/spr_watereffect.yy",},"LayerId":{"name":"b1c500da-42fa-4f21-9f8e-58ccb9468b96","path":"sprites/spr_watereffect/spr_watereffect.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-      ],"parent":{"name":"spr_watereffect","path":"sprites/spr_watereffect/spr_watereffect.yy",},"resourceVersion":"1.0","name":"b2c68fd4-06a1-4985-9ff4-7fd88a8abe50","tags":[],"resourceType":"GMSpriteFrame",},
+    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"07082c8d-3e4f-41e6-9cc3-d13d5e699eab",},
+    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"c28632a7-153f-497d-86f2-f07937795c52",},
+    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"447464ce-b3b3-44f1-8b40-38e4b57696d5",},
+    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"cd9d397d-ef6e-47ce-9616-38909b38e61c",},
+    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"4dc65c19-67ce-44be-8835-1e8ee6b2bf5c",},
+    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"ee3a61d0-bfed-4442-94a0-faa92db34c76",},
+    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"2da7678c-a460-48bd-a23b-2339b0a48a36",},
+    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"ab07c5f7-8eda-4a60-a93e-00967cfb3d24",},
+    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"71902a09-15e2-4a7b-89d1-b4ff2614d051",},
+    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"535abb96-b516-408c-b2c7-a97b09b5c91c",},
+    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"b2c68fd4-06a1-4985-9ff4-7fd88a8abe50",},
   ],
   "sequence": {
-    "spriteId": {"name":"spr_watereffect","path":"sprites/spr_watereffect/spr_watereffect.yy",},
+    "resourceType": "GMSequence",
+    "resourceVersion": "1.4",
+    "name": "spr_watereffect",
     "timeUnits": 1,
     "playback": 1,
     "playbackSpeed": 1.0,
@@ -70,7 +54,7 @@
     "events": {"Keyframes":[],"resourceVersion":"1.0","resourceType":"KeyframeStore<MessageEventKeyframe>",},
     "moments": {"Keyframes":[],"resourceVersion":"1.0","resourceType":"KeyframeStore<MomentsEventKeyframe>",},
     "tracks": [
-      {"name":"frames","spriteId":null,"keyframes":{"Keyframes":[
+      {"resourceType":"GMSpriteFramesTrack","resourceVersion":"1.0","name":"frames","spriteId":null,"keyframes":{"Keyframes":[
             {"id":"729d094a-688a-4f51-b4a7-eaf8a47cd4ff","Key":0.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"07082c8d-3e4f-41e6-9cc3-d13d5e699eab","path":"sprites/spr_watereffect/spr_watereffect.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
             {"id":"df3cb246-c49f-4348-a616-052080e25979","Key":1.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"c28632a7-153f-497d-86f2-f07937795c52","path":"sprites/spr_watereffect/spr_watereffect.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
             {"id":"7496863b-a5a5-42d5-b4a9-086d368b0380","Key":2.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"447464ce-b3b3-44f1-8b40-38e4b57696d5","path":"sprites/spr_watereffect/spr_watereffect.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
@@ -82,7 +66,7 @@
             {"id":"a34cec66-e3fe-4e86-8110-b5ca25aa5f93","Key":8.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"71902a09-15e2-4a7b-89d1-b4ff2614d051","path":"sprites/spr_watereffect/spr_watereffect.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
             {"id":"8ddd2d88-0550-4b84-87df-a178d9264501","Key":9.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"535abb96-b516-408c-b2c7-a97b09b5c91c","path":"sprites/spr_watereffect/spr_watereffect.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
             {"id":"80b6d4f4-74ad-43dd-a14c-5330ef63b002","Key":10.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"b2c68fd4-06a1-4985-9ff4-7fd88a8abe50","path":"sprites/spr_watereffect/spr_watereffect.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
-          ],"resourceVersion":"1.0","resourceType":"KeyframeStore<SpriteFrameKeyframe>",},"trackColour":0,"inheritsTrackColour":true,"builtinName":0,"traits":0,"interpolation":1,"tracks":[],"events":[],"isCreationTrack":false,"resourceVersion":"1.0","tags":[],"resourceType":"GMSpriteFramesTrack","modifiers":[],},
+          ],"resourceVersion":"1.0","resourceType":"KeyframeStore<SpriteFrameKeyframe>",},"trackColour":0,"inheritsTrackColour":true,"builtinName":0,"traits":0,"interpolation":1,"tracks":[],"events":[],"isCreationTrack":false,"modifiers":[],},
     ],
     "visibleRange": null,
     "lockOrigin": false,
@@ -98,22 +82,13 @@
     "yorigin": 50,
     "eventToFunction": {},
     "eventStubScript": null,
-    "parent": {"name":"spr_watereffect","path":"sprites/spr_watereffect/spr_watereffect.yy",},
-    "resourceVersion": "1.4",
-    "name": "spr_watereffect",
-    "tags": [],
-    "resourceType": "GMSequence",
   },
   "layers": [
-    {"visible":true,"isLocked":false,"blendMode":0,"opacity":100.0,"displayName":"default","resourceVersion":"1.0","name":"b1c500da-42fa-4f21-9f8e-58ccb9468b96","tags":[],"resourceType":"GMImageLayer",},
+    {"resourceType":"GMImageLayer","resourceVersion":"1.0","name":"b1c500da-42fa-4f21-9f8e-58ccb9468b96","visible":true,"isLocked":false,"blendMode":0,"opacity":100.0,"displayName":"default",},
   ],
   "nineSlice": null,
   "parent": {
     "name": "effect",
     "path": "folders/Sprites/effect.yy",
   },
-  "resourceVersion": "1.0",
-  "name": "spr_watereffect",
-  "tags": [],
-  "resourceType": "GMSprite",
 }

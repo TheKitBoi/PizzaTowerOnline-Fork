@@ -1,4 +1,7 @@
 {
+  "resourceType": "GMSprite",
+  "resourceVersion": "1.0",
+  "name": "spr_smurfknight_stunned",
   "ConfigValues": {
     "debug": {"textureGroupId":"{\"name\":\"tg_sugaryspire\",\"path\":\"texturegroups/tg_sugaryspire\"}",},
   },
@@ -17,6 +20,7 @@
   "HTile": false,
   "VTile": false,
   "For3D": false,
+  "DynamicTexturePage": false,
   "width": 124,
   "height": 100,
   "textureGroupId": {
@@ -27,18 +31,14 @@
   "gridX": 0,
   "gridY": 0,
   "frames": [
-    {"compositeImage":{"FrameId":{"name":"723b6c44-6879-426a-8263-37e009024498","path":"sprites/spr_smurfknight_stunned/spr_smurfknight_stunned.yy",},"LayerId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"723b6c44-6879-426a-8263-37e009024498","path":"sprites/spr_smurfknight_stunned/spr_smurfknight_stunned.yy",},"LayerId":{"name":"b0ea8cc2-d4f3-4cfb-a55c-57089c1d6439","path":"sprites/spr_smurfknight_stunned/spr_smurfknight_stunned.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-      ],"parent":{"name":"spr_smurfknight_stunned","path":"sprites/spr_smurfknight_stunned/spr_smurfknight_stunned.yy",},"resourceVersion":"1.0","name":"723b6c44-6879-426a-8263-37e009024498","tags":[],"resourceType":"GMSpriteFrame",},
-    {"compositeImage":{"FrameId":{"name":"6a20ea23-ac59-4387-ae93-5bfa2cff3103","path":"sprites/spr_smurfknight_stunned/spr_smurfknight_stunned.yy",},"LayerId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"6a20ea23-ac59-4387-ae93-5bfa2cff3103","path":"sprites/spr_smurfknight_stunned/spr_smurfknight_stunned.yy",},"LayerId":{"name":"b0ea8cc2-d4f3-4cfb-a55c-57089c1d6439","path":"sprites/spr_smurfknight_stunned/spr_smurfknight_stunned.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-      ],"parent":{"name":"spr_smurfknight_stunned","path":"sprites/spr_smurfknight_stunned/spr_smurfknight_stunned.yy",},"resourceVersion":"1.0","name":"6a20ea23-ac59-4387-ae93-5bfa2cff3103","tags":[],"resourceType":"GMSpriteFrame",},
-    {"compositeImage":{"FrameId":{"name":"572c50a2-7ac8-463b-b92f-726d994c8b21","path":"sprites/spr_smurfknight_stunned/spr_smurfknight_stunned.yy",},"LayerId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"572c50a2-7ac8-463b-b92f-726d994c8b21","path":"sprites/spr_smurfknight_stunned/spr_smurfknight_stunned.yy",},"LayerId":{"name":"b0ea8cc2-d4f3-4cfb-a55c-57089c1d6439","path":"sprites/spr_smurfknight_stunned/spr_smurfknight_stunned.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-      ],"parent":{"name":"spr_smurfknight_stunned","path":"sprites/spr_smurfknight_stunned/spr_smurfknight_stunned.yy",},"resourceVersion":"1.0","name":"572c50a2-7ac8-463b-b92f-726d994c8b21","tags":[],"resourceType":"GMSpriteFrame",},
+    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"723b6c44-6879-426a-8263-37e009024498",},
+    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"6a20ea23-ac59-4387-ae93-5bfa2cff3103",},
+    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"572c50a2-7ac8-463b-b92f-726d994c8b21",},
   ],
   "sequence": {
-    "spriteId": {"name":"spr_smurfknight_stunned","path":"sprites/spr_smurfknight_stunned/spr_smurfknight_stunned.yy",},
+    "resourceType": "GMSequence",
+    "resourceVersion": "1.4",
+    "name": "spr_smurfknight_stunned",
     "timeUnits": 1,
     "playback": 1,
     "playbackSpeed": 1.0,
@@ -49,11 +49,11 @@
     "events": {"Keyframes":[],"resourceVersion":"1.0","resourceType":"KeyframeStore<MessageEventKeyframe>",},
     "moments": {"Keyframes":[],"resourceVersion":"1.0","resourceType":"KeyframeStore<MomentsEventKeyframe>",},
     "tracks": [
-      {"name":"frames","spriteId":null,"keyframes":{"Keyframes":[
+      {"resourceType":"GMSpriteFramesTrack","resourceVersion":"1.0","name":"frames","spriteId":null,"keyframes":{"Keyframes":[
             {"id":"5e546f83-ed8b-48fc-88f5-cbc9c9de6284","Key":0.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"723b6c44-6879-426a-8263-37e009024498","path":"sprites/spr_smurfknight_stunned/spr_smurfknight_stunned.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
             {"id":"19fb8f0f-f6d7-4c82-90a1-0674ea5f5167","Key":1.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"6a20ea23-ac59-4387-ae93-5bfa2cff3103","path":"sprites/spr_smurfknight_stunned/spr_smurfknight_stunned.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
             {"id":"9c742e83-3305-41f5-81e0-2667bfaa3749","Key":2.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"572c50a2-7ac8-463b-b92f-726d994c8b21","path":"sprites/spr_smurfknight_stunned/spr_smurfknight_stunned.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
-          ],"resourceVersion":"1.0","resourceType":"KeyframeStore<SpriteFrameKeyframe>",},"trackColour":0,"inheritsTrackColour":true,"builtinName":0,"traits":0,"interpolation":1,"tracks":[],"events":[],"isCreationTrack":false,"resourceVersion":"1.0","tags":[],"resourceType":"GMSpriteFramesTrack","modifiers":[],},
+          ],"resourceVersion":"1.0","resourceType":"KeyframeStore<SpriteFrameKeyframe>",},"trackColour":0,"inheritsTrackColour":true,"builtinName":0,"traits":0,"interpolation":1,"tracks":[],"events":[],"isCreationTrack":false,"modifiers":[],},
     ],
     "visibleRange": null,
     "lockOrigin": false,
@@ -69,22 +69,13 @@
     "yorigin": 50,
     "eventToFunction": {},
     "eventStubScript": null,
-    "parent": {"name":"spr_smurfknight_stunned","path":"sprites/spr_smurfknight_stunned/spr_smurfknight_stunned.yy",},
-    "resourceVersion": "1.4",
-    "name": "spr_smurfknight_stunned",
-    "tags": [],
-    "resourceType": "GMSequence",
   },
   "layers": [
-    {"visible":true,"isLocked":false,"blendMode":0,"opacity":100.0,"displayName":"default","resourceVersion":"1.0","name":"b0ea8cc2-d4f3-4cfb-a55c-57089c1d6439","tags":[],"resourceType":"GMImageLayer",},
+    {"resourceType":"GMImageLayer","resourceVersion":"1.0","name":"b0ea8cc2-d4f3-4cfb-a55c-57089c1d6439","visible":true,"isLocked":false,"blendMode":0,"opacity":100.0,"displayName":"default",},
   ],
   "nineSlice": null,
   "parent": {
     "name": "knight",
     "path": "folders/Sprites/SUGARY SPIRE/baddie/knight.yy",
   },
-  "resourceVersion": "1.0",
-  "name": "spr_smurfknight_stunned",
-  "tags": [],
-  "resourceType": "GMSprite",
 }

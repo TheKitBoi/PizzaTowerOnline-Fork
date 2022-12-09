@@ -1,4 +1,7 @@
 {
+  "resourceType": "GMSprite",
+  "resourceVersion": "1.0",
+  "name": "spr_minipillarsleepOLD_ss",
   "ConfigValues": {
     "debug": {"textureGroupId":"{\"name\":\"tg_sugaryspire\",\"path\":\"texturegroups/tg_sugaryspire\"}",},
   },
@@ -17,6 +20,7 @@
   "HTile": false,
   "VTile": false,
   "For3D": false,
+  "DynamicTexturePage": false,
   "width": 32,
   "height": 32,
   "textureGroupId": {
@@ -27,12 +31,12 @@
   "gridX": 0,
   "gridY": 0,
   "frames": [
-    {"compositeImage":{"FrameId":{"name":"3ce648e1-da75-432e-a015-13eecaf6758d","path":"sprites/spr_minipillarsleepOLD_ss/spr_minipillarsleepOLD_ss.yy",},"LayerId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"3ce648e1-da75-432e-a015-13eecaf6758d","path":"sprites/spr_minipillarsleepOLD_ss/spr_minipillarsleepOLD_ss.yy",},"LayerId":{"name":"c2fab52e-8b8b-4758-a98c-6c35571e691c","path":"sprites/spr_minipillarsleepOLD_ss/spr_minipillarsleepOLD_ss.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-      ],"parent":{"name":"spr_minipillarsleepOLD_ss","path":"sprites/spr_minipillarsleepOLD_ss/spr_minipillarsleepOLD_ss.yy",},"resourceVersion":"1.0","name":"3ce648e1-da75-432e-a015-13eecaf6758d","tags":[],"resourceType":"GMSpriteFrame",},
+    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"3ce648e1-da75-432e-a015-13eecaf6758d",},
   ],
   "sequence": {
-    "spriteId": {"name":"spr_minipillarsleepOLD_ss","path":"sprites/spr_minipillarsleepOLD_ss/spr_minipillarsleepOLD_ss.yy",},
+    "resourceType": "GMSequence",
+    "resourceVersion": "1.4",
+    "name": "spr_minipillarsleepOLD_ss",
     "timeUnits": 1,
     "playback": 1,
     "playbackSpeed": 1.0,
@@ -43,9 +47,9 @@
     "events": {"Keyframes":[],"resourceVersion":"1.0","resourceType":"KeyframeStore<MessageEventKeyframe>",},
     "moments": {"Keyframes":[],"resourceVersion":"1.0","resourceType":"KeyframeStore<MomentsEventKeyframe>",},
     "tracks": [
-      {"name":"frames","spriteId":null,"keyframes":{"Keyframes":[
+      {"resourceType":"GMSpriteFramesTrack","resourceVersion":"1.0","name":"frames","spriteId":null,"keyframes":{"Keyframes":[
             {"id":"2e3e7d21-6ca2-451e-a865-c1d65d3d6afa","Key":0.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"3ce648e1-da75-432e-a015-13eecaf6758d","path":"sprites/spr_minipillarsleepOLD_ss/spr_minipillarsleepOLD_ss.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
-          ],"resourceVersion":"1.0","resourceType":"KeyframeStore<SpriteFrameKeyframe>",},"trackColour":0,"inheritsTrackColour":true,"builtinName":0,"traits":0,"interpolation":1,"tracks":[],"events":[],"isCreationTrack":false,"resourceVersion":"1.0","tags":[],"resourceType":"GMSpriteFramesTrack","modifiers":[],},
+          ],"resourceVersion":"1.0","resourceType":"KeyframeStore<SpriteFrameKeyframe>",},"trackColour":0,"inheritsTrackColour":true,"builtinName":0,"traits":0,"interpolation":1,"tracks":[],"events":[],"isCreationTrack":false,"modifiers":[],},
     ],
     "visibleRange": null,
     "lockOrigin": false,
@@ -61,14 +65,9 @@
     "yorigin": 0,
     "eventToFunction": {},
     "eventStubScript": null,
-    "parent": {"name":"spr_minipillarsleepOLD_ss","path":"sprites/spr_minipillarsleepOLD_ss/spr_minipillarsleepOLD_ss.yy",},
-    "resourceVersion": "1.4",
-    "name": "spr_minipillarsleepOLD_ss",
-    "tags": [],
-    "resourceType": "GMSequence",
   },
   "layers": [
-    {"visible":true,"isLocked":false,"blendMode":0,"opacity":100.0,"displayName":"default","resourceVersion":"1.0","name":"c2fab52e-8b8b-4758-a98c-6c35571e691c","tags":[],"resourceType":"GMImageLayer",},
+    {"resourceType":"GMImageLayer","resourceVersion":"1.0","name":"c2fab52e-8b8b-4758-a98c-6c35571e691c","visible":true,"isLocked":false,"blendMode":0,"opacity":100.0,"displayName":"default",},
   ],
   "nineSlice": {
     "left": 0,
@@ -99,8 +98,4 @@
     "name": "minipillar",
     "path": "folders/Sprites/SUGARY SPIRE/minipillar.yy",
   },
-  "resourceVersion": "1.0",
-  "name": "spr_minipillarsleepOLD_ss",
-  "tags": [],
-  "resourceType": "GMSprite",
 }

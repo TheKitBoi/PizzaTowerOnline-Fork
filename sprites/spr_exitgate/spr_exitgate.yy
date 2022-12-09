@@ -1,4 +1,7 @@
 {
+  "resourceType": "GMSprite",
+  "resourceVersion": "1.0",
+  "name": "spr_exitgate",
   "bboxMode": 0,
   "collisionKind": 1,
   "type": 0,
@@ -14,6 +17,7 @@
   "HTile": false,
   "VTile": false,
   "For3D": false,
+  "DynamicTexturePage": false,
   "width": 160,
   "height": 256,
   "textureGroupId": {
@@ -24,15 +28,13 @@
   "gridX": 0,
   "gridY": 0,
   "frames": [
-    {"compositeImage":{"FrameId":{"name":"86c462e7-048a-4e64-b0c1-124a63f1fe08","path":"sprites/spr_exitgate/spr_exitgate.yy",},"LayerId":null,"resourceVersion":"1.0","name":"composite","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"86c462e7-048a-4e64-b0c1-124a63f1fe08","path":"sprites/spr_exitgate/spr_exitgate.yy",},"LayerId":{"name":"20e5f141-cb0f-4bdb-a2e3-d4c26b21216d","path":"sprites/spr_exitgate/spr_exitgate.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-      ],"parent":{"name":"spr_exitgate","path":"sprites/spr_exitgate/spr_exitgate.yy",},"resourceVersion":"1.0","name":"86c462e7-048a-4e64-b0c1-124a63f1fe08","tags":[],"resourceType":"GMSpriteFrame",},
-    {"compositeImage":{"FrameId":{"name":"db597cff-992c-4b64-9194-8fc2a64b4922","path":"sprites/spr_exitgate/spr_exitgate.yy",},"LayerId":null,"resourceVersion":"1.0","name":"composite","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"db597cff-992c-4b64-9194-8fc2a64b4922","path":"sprites/spr_exitgate/spr_exitgate.yy",},"LayerId":{"name":"20e5f141-cb0f-4bdb-a2e3-d4c26b21216d","path":"sprites/spr_exitgate/spr_exitgate.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-      ],"parent":{"name":"spr_exitgate","path":"sprites/spr_exitgate/spr_exitgate.yy",},"resourceVersion":"1.0","name":"db597cff-992c-4b64-9194-8fc2a64b4922","tags":[],"resourceType":"GMSpriteFrame",},
+    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"86c462e7-048a-4e64-b0c1-124a63f1fe08",},
+    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"db597cff-992c-4b64-9194-8fc2a64b4922",},
   ],
   "sequence": {
-    "spriteId": {"name":"spr_exitgate","path":"sprites/spr_exitgate/spr_exitgate.yy",},
+    "resourceType": "GMSequence",
+    "resourceVersion": "1.4",
+    "name": "spr_exitgate",
     "timeUnits": 1,
     "playback": 1,
     "playbackSpeed": 0.0,
@@ -43,10 +45,10 @@
     "events": {"Keyframes":[],"resourceVersion":"1.0","resourceType":"KeyframeStore<MessageEventKeyframe>",},
     "moments": {"Keyframes":[],"resourceVersion":"1.0","resourceType":"KeyframeStore<MomentsEventKeyframe>",},
     "tracks": [
-      {"name":"frames","spriteId":null,"keyframes":{"Keyframes":[
+      {"resourceType":"GMSpriteFramesTrack","resourceVersion":"1.0","name":"frames","spriteId":null,"keyframes":{"Keyframes":[
             {"id":"35cb6c99-a777-4764-9ba7-ee1c7820e8cb","Key":0.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"86c462e7-048a-4e64-b0c1-124a63f1fe08","path":"sprites/spr_exitgate/spr_exitgate.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
             {"id":"e4b010e8-556e-4df2-b2ae-fdcf5c467aa4","Key":1.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"db597cff-992c-4b64-9194-8fc2a64b4922","path":"sprites/spr_exitgate/spr_exitgate.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
-          ],"resourceVersion":"1.0","resourceType":"KeyframeStore<SpriteFrameKeyframe>",},"trackColour":0,"inheritsTrackColour":true,"builtinName":0,"traits":0,"interpolation":1,"tracks":[],"events":[],"isCreationTrack":false,"resourceVersion":"1.0","tags":[],"resourceType":"GMSpriteFramesTrack","modifiers":[],},
+          ],"resourceVersion":"1.0","resourceType":"KeyframeStore<SpriteFrameKeyframe>",},"trackColour":0,"inheritsTrackColour":true,"builtinName":0,"traits":0,"interpolation":1,"tracks":[],"events":[],"isCreationTrack":false,"modifiers":[],},
     ],
     "visibleRange": null,
     "lockOrigin": false,
@@ -62,22 +64,13 @@
     "yorigin": 128,
     "eventToFunction": {},
     "eventStubScript": null,
-    "parent": {"name":"spr_exitgate","path":"sprites/spr_exitgate/spr_exitgate.yy",},
-    "resourceVersion": "1.4",
-    "name": "spr_exitgate",
-    "tags": [],
-    "resourceType": "GMSequence",
   },
   "layers": [
-    {"visible":true,"isLocked":false,"blendMode":0,"opacity":100.0,"displayName":"default","resourceVersion":"1.0","name":"20e5f141-cb0f-4bdb-a2e3-d4c26b21216d","tags":[],"resourceType":"GMImageLayer",},
+    {"resourceType":"GMImageLayer","resourceVersion":"1.0","name":"20e5f141-cb0f-4bdb-a2e3-d4c26b21216d","visible":true,"isLocked":false,"blendMode":0,"opacity":100.0,"displayName":"default",},
   ],
   "nineSlice": null,
   "parent": {
     "name": "gates",
     "path": "folders/Sprites/generalobjects/gates.yy",
   },
-  "resourceVersion": "1.0",
-  "name": "spr_exitgate",
-  "tags": [],
-  "resourceType": "GMSprite",
 }

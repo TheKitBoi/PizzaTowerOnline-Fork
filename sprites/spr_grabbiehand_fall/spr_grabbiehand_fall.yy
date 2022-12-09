@@ -1,4 +1,7 @@
 {
+  "resourceType": "GMSprite",
+  "resourceVersion": "1.0",
+  "name": "spr_grabbiehand_fall",
   "ConfigValues": {
     "debug": {"textureGroupId":"{\"name\":\"tg_baddie\",\"path\":\"texturegroups/tg_baddie\"}",},
   },
@@ -17,6 +20,7 @@
   "HTile": false,
   "VTile": false,
   "For3D": false,
+  "DynamicTexturePage": false,
   "width": 100,
   "height": 100,
   "textureGroupId": {
@@ -27,18 +31,14 @@
   "gridX": 0,
   "gridY": 0,
   "frames": [
-    {"compositeImage":{"FrameId":{"name":"5baada57-40c3-4c14-b813-adea9434f594","path":"sprites/spr_grabbiehand_fall/spr_grabbiehand_fall.yy",},"LayerId":null,"resourceVersion":"1.0","name":"composite","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"5baada57-40c3-4c14-b813-adea9434f594","path":"sprites/spr_grabbiehand_fall/spr_grabbiehand_fall.yy",},"LayerId":{"name":"d91ea27c-c725-449b-8d36-d265f6e963c9","path":"sprites/spr_grabbiehand_fall/spr_grabbiehand_fall.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-      ],"parent":{"name":"spr_grabbiehand_fall","path":"sprites/spr_grabbiehand_fall/spr_grabbiehand_fall.yy",},"resourceVersion":"1.0","name":"5baada57-40c3-4c14-b813-adea9434f594","tags":[],"resourceType":"GMSpriteFrame",},
-    {"compositeImage":{"FrameId":{"name":"2069ef47-e46f-4239-9a81-86cea249dfd2","path":"sprites/spr_grabbiehand_fall/spr_grabbiehand_fall.yy",},"LayerId":null,"resourceVersion":"1.0","name":"composite","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"2069ef47-e46f-4239-9a81-86cea249dfd2","path":"sprites/spr_grabbiehand_fall/spr_grabbiehand_fall.yy",},"LayerId":{"name":"d91ea27c-c725-449b-8d36-d265f6e963c9","path":"sprites/spr_grabbiehand_fall/spr_grabbiehand_fall.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-      ],"parent":{"name":"spr_grabbiehand_fall","path":"sprites/spr_grabbiehand_fall/spr_grabbiehand_fall.yy",},"resourceVersion":"1.0","name":"2069ef47-e46f-4239-9a81-86cea249dfd2","tags":[],"resourceType":"GMSpriteFrame",},
-    {"compositeImage":{"FrameId":{"name":"435a3b7c-c149-4c06-8c8f-59ae3ddfe117","path":"sprites/spr_grabbiehand_fall/spr_grabbiehand_fall.yy",},"LayerId":null,"resourceVersion":"1.0","name":"composite","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"435a3b7c-c149-4c06-8c8f-59ae3ddfe117","path":"sprites/spr_grabbiehand_fall/spr_grabbiehand_fall.yy",},"LayerId":{"name":"d91ea27c-c725-449b-8d36-d265f6e963c9","path":"sprites/spr_grabbiehand_fall/spr_grabbiehand_fall.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-      ],"parent":{"name":"spr_grabbiehand_fall","path":"sprites/spr_grabbiehand_fall/spr_grabbiehand_fall.yy",},"resourceVersion":"1.0","name":"435a3b7c-c149-4c06-8c8f-59ae3ddfe117","tags":[],"resourceType":"GMSpriteFrame",},
+    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"5baada57-40c3-4c14-b813-adea9434f594",},
+    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"2069ef47-e46f-4239-9a81-86cea249dfd2",},
+    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"435a3b7c-c149-4c06-8c8f-59ae3ddfe117",},
   ],
   "sequence": {
-    "spriteId": {"name":"spr_grabbiehand_fall","path":"sprites/spr_grabbiehand_fall/spr_grabbiehand_fall.yy",},
+    "resourceType": "GMSequence",
+    "resourceVersion": "1.4",
+    "name": "",
     "timeUnits": 1,
     "playback": 1,
     "playbackSpeed": 1.0,
@@ -49,11 +49,11 @@
     "events": {"Keyframes":[],"resourceVersion":"1.0","resourceType":"KeyframeStore<MessageEventKeyframe>",},
     "moments": {"Keyframes":[],"resourceVersion":"1.0","resourceType":"KeyframeStore<MomentsEventKeyframe>",},
     "tracks": [
-      {"name":"frames","spriteId":null,"keyframes":{"Keyframes":[
+      {"resourceType":"GMSpriteFramesTrack","resourceVersion":"1.0","name":"frames","spriteId":null,"keyframes":{"Keyframes":[
             {"id":"68b69291-0fc7-456b-b0fb-b67e4f59cbf8","Key":0.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"5baada57-40c3-4c14-b813-adea9434f594","path":"sprites/spr_grabbiehand_fall/spr_grabbiehand_fall.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
             {"id":"56185d2b-aaf6-4ae7-953a-685c58259254","Key":1.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"2069ef47-e46f-4239-9a81-86cea249dfd2","path":"sprites/spr_grabbiehand_fall/spr_grabbiehand_fall.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
             {"id":"680f335e-ff9a-4d51-91f1-e7a5cae2981c","Key":2.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"435a3b7c-c149-4c06-8c8f-59ae3ddfe117","path":"sprites/spr_grabbiehand_fall/spr_grabbiehand_fall.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
-          ],"resourceVersion":"1.0","resourceType":"KeyframeStore<SpriteFrameKeyframe>",},"trackColour":0,"inheritsTrackColour":true,"builtinName":0,"traits":0,"interpolation":1,"tracks":[],"events":[],"isCreationTrack":false,"resourceVersion":"1.0","tags":[],"resourceType":"GMSpriteFramesTrack","modifiers":[],},
+          ],"resourceVersion":"1.0","resourceType":"KeyframeStore<SpriteFrameKeyframe>",},"trackColour":0,"inheritsTrackColour":true,"builtinName":0,"traits":0,"interpolation":1,"tracks":[],"events":[],"isCreationTrack":false,"modifiers":[],},
     ],
     "visibleRange": {"x":0.0,"y":0.0,},
     "lockOrigin": false,
@@ -69,22 +69,13 @@
     "yorigin": 50,
     "eventToFunction": {},
     "eventStubScript": null,
-    "parent": {"name":"spr_grabbiehand_fall","path":"sprites/spr_grabbiehand_fall/spr_grabbiehand_fall.yy",},
-    "resourceVersion": "1.4",
-    "name": "",
-    "tags": [],
-    "resourceType": "GMSequence",
   },
   "layers": [
-    {"visible":true,"isLocked":false,"blendMode":0,"opacity":100.0,"displayName":"default","resourceVersion":"1.0","name":"d91ea27c-c725-449b-8d36-d265f6e963c9","tags":[],"resourceType":"GMImageLayer",},
+    {"resourceType":"GMImageLayer","resourceVersion":"1.0","name":"d91ea27c-c725-449b-8d36-d265f6e963c9","visible":true,"isLocked":false,"blendMode":0,"opacity":100.0,"displayName":"default",},
   ],
   "nineSlice": null,
   "parent": {
     "name": "grabbiehand",
     "path": "folders/Sprites/baddie/grabbiehand.yy",
   },
-  "resourceVersion": "1.0",
-  "name": "spr_grabbiehand_fall",
-  "tags": [],
-  "resourceType": "GMSprite",
 }

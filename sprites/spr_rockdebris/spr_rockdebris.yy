@@ -1,4 +1,7 @@
 {
+  "resourceType": "GMSprite",
+  "resourceVersion": "1.0",
+  "name": "spr_rockdebris",
   "bboxMode": 0,
   "collisionKind": 1,
   "type": 0,
@@ -14,6 +17,7 @@
   "HTile": false,
   "VTile": false,
   "For3D": false,
+  "DynamicTexturePage": false,
   "width": 64,
   "height": 64,
   "textureGroupId": {
@@ -24,18 +28,14 @@
   "gridX": 0,
   "gridY": 0,
   "frames": [
-    {"compositeImage":{"FrameId":{"name":"4ab8eb53-d525-4e2a-8a7d-7eea8fe7c89f","path":"sprites/spr_rockdebris/spr_rockdebris.yy",},"LayerId":null,"resourceVersion":"1.0","name":"composite","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"4ab8eb53-d525-4e2a-8a7d-7eea8fe7c89f","path":"sprites/spr_rockdebris/spr_rockdebris.yy",},"LayerId":{"name":"35854994-cc3d-4cee-9b85-42b4c8fe31f8","path":"sprites/spr_rockdebris/spr_rockdebris.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-      ],"parent":{"name":"spr_rockdebris","path":"sprites/spr_rockdebris/spr_rockdebris.yy",},"resourceVersion":"1.0","name":"4ab8eb53-d525-4e2a-8a7d-7eea8fe7c89f","tags":[],"resourceType":"GMSpriteFrame",},
-    {"compositeImage":{"FrameId":{"name":"d8fce8c3-608b-46f5-a146-d699b588c352","path":"sprites/spr_rockdebris/spr_rockdebris.yy",},"LayerId":null,"resourceVersion":"1.0","name":"composite","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"d8fce8c3-608b-46f5-a146-d699b588c352","path":"sprites/spr_rockdebris/spr_rockdebris.yy",},"LayerId":{"name":"35854994-cc3d-4cee-9b85-42b4c8fe31f8","path":"sprites/spr_rockdebris/spr_rockdebris.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-      ],"parent":{"name":"spr_rockdebris","path":"sprites/spr_rockdebris/spr_rockdebris.yy",},"resourceVersion":"1.0","name":"d8fce8c3-608b-46f5-a146-d699b588c352","tags":[],"resourceType":"GMSpriteFrame",},
-    {"compositeImage":{"FrameId":{"name":"be8c6796-4ff9-491d-9884-30a339e24cea","path":"sprites/spr_rockdebris/spr_rockdebris.yy",},"LayerId":null,"resourceVersion":"1.0","name":"composite","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"be8c6796-4ff9-491d-9884-30a339e24cea","path":"sprites/spr_rockdebris/spr_rockdebris.yy",},"LayerId":{"name":"35854994-cc3d-4cee-9b85-42b4c8fe31f8","path":"sprites/spr_rockdebris/spr_rockdebris.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-      ],"parent":{"name":"spr_rockdebris","path":"sprites/spr_rockdebris/spr_rockdebris.yy",},"resourceVersion":"1.0","name":"be8c6796-4ff9-491d-9884-30a339e24cea","tags":[],"resourceType":"GMSpriteFrame",},
+    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"4ab8eb53-d525-4e2a-8a7d-7eea8fe7c89f",},
+    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"d8fce8c3-608b-46f5-a146-d699b588c352",},
+    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"be8c6796-4ff9-491d-9884-30a339e24cea",},
   ],
   "sequence": {
-    "spriteId": {"name":"spr_rockdebris","path":"sprites/spr_rockdebris/spr_rockdebris.yy",},
+    "resourceType": "GMSequence",
+    "resourceVersion": "1.4",
+    "name": "",
     "timeUnits": 1,
     "playback": 1,
     "playbackSpeed": 15.0,
@@ -46,11 +46,11 @@
     "events": {"Keyframes":[],"resourceVersion":"1.0","resourceType":"KeyframeStore<MessageEventKeyframe>",},
     "moments": {"Keyframes":[],"resourceVersion":"1.0","resourceType":"KeyframeStore<MomentsEventKeyframe>",},
     "tracks": [
-      {"name":"frames","spriteId":null,"keyframes":{"Keyframes":[
+      {"resourceType":"GMSpriteFramesTrack","resourceVersion":"1.0","name":"frames","spriteId":null,"keyframes":{"Keyframes":[
             {"id":"cdb40b51-5ef9-4d55-b69f-3729352515cf","Key":0.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"4ab8eb53-d525-4e2a-8a7d-7eea8fe7c89f","path":"sprites/spr_rockdebris/spr_rockdebris.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
             {"id":"b6fb6f8a-b456-4fc0-ae7d-2f9c310a6b9c","Key":1.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"d8fce8c3-608b-46f5-a146-d699b588c352","path":"sprites/spr_rockdebris/spr_rockdebris.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
             {"id":"8b138c7a-40e0-4fa7-9e9c-9870fa97b0cb","Key":2.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"be8c6796-4ff9-491d-9884-30a339e24cea","path":"sprites/spr_rockdebris/spr_rockdebris.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
-          ],"resourceVersion":"1.0","resourceType":"KeyframeStore<SpriteFrameKeyframe>",},"trackColour":0,"inheritsTrackColour":true,"builtinName":0,"traits":0,"interpolation":1,"tracks":[],"events":[],"isCreationTrack":false,"resourceVersion":"1.0","tags":[],"resourceType":"GMSpriteFramesTrack","modifiers":[],},
+          ],"resourceVersion":"1.0","resourceType":"KeyframeStore<SpriteFrameKeyframe>",},"trackColour":0,"inheritsTrackColour":true,"builtinName":0,"traits":0,"interpolation":1,"tracks":[],"events":[],"isCreationTrack":false,"modifiers":[],},
     ],
     "visibleRange": {"x":0.0,"y":0.0,},
     "lockOrigin": false,
@@ -66,22 +66,13 @@
     "yorigin": 32,
     "eventToFunction": {},
     "eventStubScript": null,
-    "parent": {"name":"spr_rockdebris","path":"sprites/spr_rockdebris/spr_rockdebris.yy",},
-    "resourceVersion": "1.4",
-    "name": "",
-    "tags": [],
-    "resourceType": "GMSequence",
   },
   "layers": [
-    {"visible":true,"isLocked":false,"blendMode":0,"opacity":100.0,"displayName":"default","resourceVersion":"1.0","name":"35854994-cc3d-4cee-9b85-42b4c8fe31f8","tags":[],"resourceType":"GMImageLayer",},
+    {"resourceType":"GMImageLayer","resourceVersion":"1.0","name":"35854994-cc3d-4cee-9b85-42b4c8fe31f8","visible":true,"isLocked":false,"blendMode":0,"opacity":100.0,"displayName":"default",},
   ],
   "nineSlice": null,
   "parent": {
     "name": "particles",
     "path": "folders/Sprites/particles.yy",
   },
-  "resourceVersion": "1.0",
-  "name": "spr_rockdebris",
-  "tags": [],
-  "resourceType": "GMSprite",
 }

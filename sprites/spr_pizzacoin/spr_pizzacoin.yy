@@ -1,4 +1,7 @@
 {
+  "resourceType": "GMSprite",
+  "resourceVersion": "1.0",
+  "name": "spr_pizzacoin",
   "bboxMode": 0,
   "collisionKind": 1,
   "type": 0,
@@ -14,6 +17,7 @@
   "HTile": false,
   "VTile": false,
   "For3D": false,
+  "DynamicTexturePage": false,
   "width": 32,
   "height": 32,
   "textureGroupId": {
@@ -24,54 +28,26 @@
   "gridX": 0,
   "gridY": 0,
   "frames": [
-    {"compositeImage":{"FrameId":{"name":"b34ca99f-f9a2-40d8-b1eb-aef033592f22","path":"sprites/spr_pizzacoin/spr_pizzacoin.yy",},"LayerId":null,"resourceVersion":"1.0","name":"composite","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"b34ca99f-f9a2-40d8-b1eb-aef033592f22","path":"sprites/spr_pizzacoin/spr_pizzacoin.yy",},"LayerId":{"name":"fdf55fe1-9c6d-448b-94ad-49247ad07670","path":"sprites/spr_pizzacoin/spr_pizzacoin.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-      ],"parent":{"name":"spr_pizzacoin","path":"sprites/spr_pizzacoin/spr_pizzacoin.yy",},"resourceVersion":"1.0","name":"b34ca99f-f9a2-40d8-b1eb-aef033592f22","tags":[],"resourceType":"GMSpriteFrame",},
-    {"compositeImage":{"FrameId":{"name":"9ad55723-25d9-4f44-ae06-a693c099a09b","path":"sprites/spr_pizzacoin/spr_pizzacoin.yy",},"LayerId":null,"resourceVersion":"1.0","name":"composite","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"9ad55723-25d9-4f44-ae06-a693c099a09b","path":"sprites/spr_pizzacoin/spr_pizzacoin.yy",},"LayerId":{"name":"fdf55fe1-9c6d-448b-94ad-49247ad07670","path":"sprites/spr_pizzacoin/spr_pizzacoin.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-      ],"parent":{"name":"spr_pizzacoin","path":"sprites/spr_pizzacoin/spr_pizzacoin.yy",},"resourceVersion":"1.0","name":"9ad55723-25d9-4f44-ae06-a693c099a09b","tags":[],"resourceType":"GMSpriteFrame",},
-    {"compositeImage":{"FrameId":{"name":"8f7371ae-1955-43d8-a2a2-26e0cb86a07d","path":"sprites/spr_pizzacoin/spr_pizzacoin.yy",},"LayerId":null,"resourceVersion":"1.0","name":"composite","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"8f7371ae-1955-43d8-a2a2-26e0cb86a07d","path":"sprites/spr_pizzacoin/spr_pizzacoin.yy",},"LayerId":{"name":"fdf55fe1-9c6d-448b-94ad-49247ad07670","path":"sprites/spr_pizzacoin/spr_pizzacoin.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-      ],"parent":{"name":"spr_pizzacoin","path":"sprites/spr_pizzacoin/spr_pizzacoin.yy",},"resourceVersion":"1.0","name":"8f7371ae-1955-43d8-a2a2-26e0cb86a07d","tags":[],"resourceType":"GMSpriteFrame",},
-    {"compositeImage":{"FrameId":{"name":"96f78042-949e-4fe2-b216-6d5082078c88","path":"sprites/spr_pizzacoin/spr_pizzacoin.yy",},"LayerId":null,"resourceVersion":"1.0","name":"composite","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"96f78042-949e-4fe2-b216-6d5082078c88","path":"sprites/spr_pizzacoin/spr_pizzacoin.yy",},"LayerId":{"name":"fdf55fe1-9c6d-448b-94ad-49247ad07670","path":"sprites/spr_pizzacoin/spr_pizzacoin.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-      ],"parent":{"name":"spr_pizzacoin","path":"sprites/spr_pizzacoin/spr_pizzacoin.yy",},"resourceVersion":"1.0","name":"96f78042-949e-4fe2-b216-6d5082078c88","tags":[],"resourceType":"GMSpriteFrame",},
-    {"compositeImage":{"FrameId":{"name":"712d1e62-3cf5-457b-9760-8a6df25cb9d7","path":"sprites/spr_pizzacoin/spr_pizzacoin.yy",},"LayerId":null,"resourceVersion":"1.0","name":"composite","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"712d1e62-3cf5-457b-9760-8a6df25cb9d7","path":"sprites/spr_pizzacoin/spr_pizzacoin.yy",},"LayerId":{"name":"fdf55fe1-9c6d-448b-94ad-49247ad07670","path":"sprites/spr_pizzacoin/spr_pizzacoin.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-      ],"parent":{"name":"spr_pizzacoin","path":"sprites/spr_pizzacoin/spr_pizzacoin.yy",},"resourceVersion":"1.0","name":"712d1e62-3cf5-457b-9760-8a6df25cb9d7","tags":[],"resourceType":"GMSpriteFrame",},
-    {"compositeImage":{"FrameId":{"name":"4384fc31-8988-4f5a-8776-e30c5811bd2b","path":"sprites/spr_pizzacoin/spr_pizzacoin.yy",},"LayerId":null,"resourceVersion":"1.0","name":"composite","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"4384fc31-8988-4f5a-8776-e30c5811bd2b","path":"sprites/spr_pizzacoin/spr_pizzacoin.yy",},"LayerId":{"name":"fdf55fe1-9c6d-448b-94ad-49247ad07670","path":"sprites/spr_pizzacoin/spr_pizzacoin.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-      ],"parent":{"name":"spr_pizzacoin","path":"sprites/spr_pizzacoin/spr_pizzacoin.yy",},"resourceVersion":"1.0","name":"4384fc31-8988-4f5a-8776-e30c5811bd2b","tags":[],"resourceType":"GMSpriteFrame",},
-    {"compositeImage":{"FrameId":{"name":"54b04ffd-d94f-462c-b55c-e96ef058143a","path":"sprites/spr_pizzacoin/spr_pizzacoin.yy",},"LayerId":null,"resourceVersion":"1.0","name":"composite","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"54b04ffd-d94f-462c-b55c-e96ef058143a","path":"sprites/spr_pizzacoin/spr_pizzacoin.yy",},"LayerId":{"name":"fdf55fe1-9c6d-448b-94ad-49247ad07670","path":"sprites/spr_pizzacoin/spr_pizzacoin.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-      ],"parent":{"name":"spr_pizzacoin","path":"sprites/spr_pizzacoin/spr_pizzacoin.yy",},"resourceVersion":"1.0","name":"54b04ffd-d94f-462c-b55c-e96ef058143a","tags":[],"resourceType":"GMSpriteFrame",},
-    {"compositeImage":{"FrameId":{"name":"b7a719c3-7359-4b8d-ae89-809bb6065777","path":"sprites/spr_pizzacoin/spr_pizzacoin.yy",},"LayerId":null,"resourceVersion":"1.0","name":"composite","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"b7a719c3-7359-4b8d-ae89-809bb6065777","path":"sprites/spr_pizzacoin/spr_pizzacoin.yy",},"LayerId":{"name":"fdf55fe1-9c6d-448b-94ad-49247ad07670","path":"sprites/spr_pizzacoin/spr_pizzacoin.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-      ],"parent":{"name":"spr_pizzacoin","path":"sprites/spr_pizzacoin/spr_pizzacoin.yy",},"resourceVersion":"1.0","name":"b7a719c3-7359-4b8d-ae89-809bb6065777","tags":[],"resourceType":"GMSpriteFrame",},
-    {"compositeImage":{"FrameId":{"name":"55c5d898-e498-4a69-866f-c7e86c6720ff","path":"sprites/spr_pizzacoin/spr_pizzacoin.yy",},"LayerId":null,"resourceVersion":"1.0","name":"composite","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"55c5d898-e498-4a69-866f-c7e86c6720ff","path":"sprites/spr_pizzacoin/spr_pizzacoin.yy",},"LayerId":{"name":"fdf55fe1-9c6d-448b-94ad-49247ad07670","path":"sprites/spr_pizzacoin/spr_pizzacoin.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-      ],"parent":{"name":"spr_pizzacoin","path":"sprites/spr_pizzacoin/spr_pizzacoin.yy",},"resourceVersion":"1.0","name":"55c5d898-e498-4a69-866f-c7e86c6720ff","tags":[],"resourceType":"GMSpriteFrame",},
-    {"compositeImage":{"FrameId":{"name":"afad76c7-83e1-438f-ad8d-036a0f532966","path":"sprites/spr_pizzacoin/spr_pizzacoin.yy",},"LayerId":null,"resourceVersion":"1.0","name":"composite","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"afad76c7-83e1-438f-ad8d-036a0f532966","path":"sprites/spr_pizzacoin/spr_pizzacoin.yy",},"LayerId":{"name":"fdf55fe1-9c6d-448b-94ad-49247ad07670","path":"sprites/spr_pizzacoin/spr_pizzacoin.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-      ],"parent":{"name":"spr_pizzacoin","path":"sprites/spr_pizzacoin/spr_pizzacoin.yy",},"resourceVersion":"1.0","name":"afad76c7-83e1-438f-ad8d-036a0f532966","tags":[],"resourceType":"GMSpriteFrame",},
-    {"compositeImage":{"FrameId":{"name":"f0f352e8-7daa-4c47-a3a7-76efe59af7cc","path":"sprites/spr_pizzacoin/spr_pizzacoin.yy",},"LayerId":null,"resourceVersion":"1.0","name":"composite","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"f0f352e8-7daa-4c47-a3a7-76efe59af7cc","path":"sprites/spr_pizzacoin/spr_pizzacoin.yy",},"LayerId":{"name":"fdf55fe1-9c6d-448b-94ad-49247ad07670","path":"sprites/spr_pizzacoin/spr_pizzacoin.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-      ],"parent":{"name":"spr_pizzacoin","path":"sprites/spr_pizzacoin/spr_pizzacoin.yy",},"resourceVersion":"1.0","name":"f0f352e8-7daa-4c47-a3a7-76efe59af7cc","tags":[],"resourceType":"GMSpriteFrame",},
-    {"compositeImage":{"FrameId":{"name":"75c2b013-4160-40bb-b4a0-42d8cf21cb64","path":"sprites/spr_pizzacoin/spr_pizzacoin.yy",},"LayerId":null,"resourceVersion":"1.0","name":"composite","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"75c2b013-4160-40bb-b4a0-42d8cf21cb64","path":"sprites/spr_pizzacoin/spr_pizzacoin.yy",},"LayerId":{"name":"fdf55fe1-9c6d-448b-94ad-49247ad07670","path":"sprites/spr_pizzacoin/spr_pizzacoin.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-      ],"parent":{"name":"spr_pizzacoin","path":"sprites/spr_pizzacoin/spr_pizzacoin.yy",},"resourceVersion":"1.0","name":"75c2b013-4160-40bb-b4a0-42d8cf21cb64","tags":[],"resourceType":"GMSpriteFrame",},
-    {"compositeImage":{"FrameId":{"name":"07c6d23d-8d85-41c3-9afd-5537daeb1986","path":"sprites/spr_pizzacoin/spr_pizzacoin.yy",},"LayerId":null,"resourceVersion":"1.0","name":"composite","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"07c6d23d-8d85-41c3-9afd-5537daeb1986","path":"sprites/spr_pizzacoin/spr_pizzacoin.yy",},"LayerId":{"name":"fdf55fe1-9c6d-448b-94ad-49247ad07670","path":"sprites/spr_pizzacoin/spr_pizzacoin.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-      ],"parent":{"name":"spr_pizzacoin","path":"sprites/spr_pizzacoin/spr_pizzacoin.yy",},"resourceVersion":"1.0","name":"07c6d23d-8d85-41c3-9afd-5537daeb1986","tags":[],"resourceType":"GMSpriteFrame",},
-    {"compositeImage":{"FrameId":{"name":"6447eb67-67e4-4ded-be43-6e7695166829","path":"sprites/spr_pizzacoin/spr_pizzacoin.yy",},"LayerId":null,"resourceVersion":"1.0","name":"composite","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"6447eb67-67e4-4ded-be43-6e7695166829","path":"sprites/spr_pizzacoin/spr_pizzacoin.yy",},"LayerId":{"name":"fdf55fe1-9c6d-448b-94ad-49247ad07670","path":"sprites/spr_pizzacoin/spr_pizzacoin.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-      ],"parent":{"name":"spr_pizzacoin","path":"sprites/spr_pizzacoin/spr_pizzacoin.yy",},"resourceVersion":"1.0","name":"6447eb67-67e4-4ded-be43-6e7695166829","tags":[],"resourceType":"GMSpriteFrame",},
-    {"compositeImage":{"FrameId":{"name":"4ba47877-24f8-4867-a493-d5fe3c8d7de3","path":"sprites/spr_pizzacoin/spr_pizzacoin.yy",},"LayerId":null,"resourceVersion":"1.0","name":"composite","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"4ba47877-24f8-4867-a493-d5fe3c8d7de3","path":"sprites/spr_pizzacoin/spr_pizzacoin.yy",},"LayerId":{"name":"fdf55fe1-9c6d-448b-94ad-49247ad07670","path":"sprites/spr_pizzacoin/spr_pizzacoin.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-      ],"parent":{"name":"spr_pizzacoin","path":"sprites/spr_pizzacoin/spr_pizzacoin.yy",},"resourceVersion":"1.0","name":"4ba47877-24f8-4867-a493-d5fe3c8d7de3","tags":[],"resourceType":"GMSpriteFrame",},
+    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"b34ca99f-f9a2-40d8-b1eb-aef033592f22",},
+    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"9ad55723-25d9-4f44-ae06-a693c099a09b",},
+    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"8f7371ae-1955-43d8-a2a2-26e0cb86a07d",},
+    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"96f78042-949e-4fe2-b216-6d5082078c88",},
+    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"712d1e62-3cf5-457b-9760-8a6df25cb9d7",},
+    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"4384fc31-8988-4f5a-8776-e30c5811bd2b",},
+    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"54b04ffd-d94f-462c-b55c-e96ef058143a",},
+    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"b7a719c3-7359-4b8d-ae89-809bb6065777",},
+    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"55c5d898-e498-4a69-866f-c7e86c6720ff",},
+    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"afad76c7-83e1-438f-ad8d-036a0f532966",},
+    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"f0f352e8-7daa-4c47-a3a7-76efe59af7cc",},
+    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"75c2b013-4160-40bb-b4a0-42d8cf21cb64",},
+    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"07c6d23d-8d85-41c3-9afd-5537daeb1986",},
+    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"6447eb67-67e4-4ded-be43-6e7695166829",},
+    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"4ba47877-24f8-4867-a493-d5fe3c8d7de3",},
   ],
   "sequence": {
-    "spriteId": {"name":"spr_pizzacoin","path":"sprites/spr_pizzacoin/spr_pizzacoin.yy",},
+    "resourceType": "GMSequence",
+    "resourceVersion": "1.4",
+    "name": "",
     "timeUnits": 1,
     "playback": 1,
     "playbackSpeed": 1.0,
@@ -82,7 +58,7 @@
     "events": {"Keyframes":[],"resourceVersion":"1.0","resourceType":"KeyframeStore<MessageEventKeyframe>",},
     "moments": {"Keyframes":[],"resourceVersion":"1.0","resourceType":"KeyframeStore<MomentsEventKeyframe>",},
     "tracks": [
-      {"name":"frames","spriteId":null,"keyframes":{"Keyframes":[
+      {"resourceType":"GMSpriteFramesTrack","resourceVersion":"1.0","name":"frames","spriteId":null,"keyframes":{"Keyframes":[
             {"id":"33f9ce56-69ea-4bc3-90f4-579bda2b35fb","Key":0.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"b34ca99f-f9a2-40d8-b1eb-aef033592f22","path":"sprites/spr_pizzacoin/spr_pizzacoin.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
             {"id":"5e0c823f-e404-4d2b-995d-9f7a56939239","Key":1.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"9ad55723-25d9-4f44-ae06-a693c099a09b","path":"sprites/spr_pizzacoin/spr_pizzacoin.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
             {"id":"ea5c90d7-b280-4a8b-b3f0-c5f618b19127","Key":2.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"8f7371ae-1955-43d8-a2a2-26e0cb86a07d","path":"sprites/spr_pizzacoin/spr_pizzacoin.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
@@ -98,7 +74,7 @@
             {"id":"108bdee0-c3d4-43b5-8005-d2e432b93af6","Key":12.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"07c6d23d-8d85-41c3-9afd-5537daeb1986","path":"sprites/spr_pizzacoin/spr_pizzacoin.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
             {"id":"2d399732-8ea5-4a9f-b5dd-450989e5938b","Key":13.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"6447eb67-67e4-4ded-be43-6e7695166829","path":"sprites/spr_pizzacoin/spr_pizzacoin.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
             {"id":"cff9c1a7-785a-4811-b271-bd043a6900a4","Key":14.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"4ba47877-24f8-4867-a493-d5fe3c8d7de3","path":"sprites/spr_pizzacoin/spr_pizzacoin.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
-          ],"resourceVersion":"1.0","resourceType":"KeyframeStore<SpriteFrameKeyframe>",},"trackColour":0,"inheritsTrackColour":true,"builtinName":0,"traits":0,"interpolation":1,"tracks":[],"events":[],"isCreationTrack":false,"resourceVersion":"1.0","tags":[],"resourceType":"GMSpriteFramesTrack","modifiers":[],},
+          ],"resourceVersion":"1.0","resourceType":"KeyframeStore<SpriteFrameKeyframe>",},"trackColour":0,"inheritsTrackColour":true,"builtinName":0,"traits":0,"interpolation":1,"tracks":[],"events":[],"isCreationTrack":false,"modifiers":[],},
     ],
     "visibleRange": null,
     "lockOrigin": false,
@@ -114,22 +90,13 @@
     "yorigin": 0,
     "eventToFunction": {},
     "eventStubScript": null,
-    "parent": {"name":"spr_pizzacoin","path":"sprites/spr_pizzacoin/spr_pizzacoin.yy",},
-    "resourceVersion": "1.4",
-    "name": "",
-    "tags": [],
-    "resourceType": "GMSequence",
   },
   "layers": [
-    {"visible":true,"isLocked":false,"blendMode":0,"opacity":100.0,"displayName":"default","resourceVersion":"1.0","name":"fdf55fe1-9c6d-448b-94ad-49247ad07670","tags":[],"resourceType":"GMImageLayer",},
+    {"resourceType":"GMImageLayer","resourceVersion":"1.0","name":"fdf55fe1-9c6d-448b-94ad-49247ad07670","visible":true,"isLocked":false,"blendMode":0,"opacity":100.0,"displayName":"default",},
   ],
   "nineSlice": null,
   "parent": {
     "name": "collectibles",
     "path": "folders/Sprites/generalobjects/collectibles.yy",
   },
-  "resourceVersion": "1.0",
-  "name": "spr_pizzacoin",
-  "tags": [],
-  "resourceType": "GMSprite",
 }

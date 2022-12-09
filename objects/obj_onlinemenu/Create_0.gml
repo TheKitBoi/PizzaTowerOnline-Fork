@@ -1,5 +1,6 @@
 if !debug
 {
+	// exit level editor
 	if !check_online() or gms_ini_game_read("game", "leveleditor") == false
 	{
 		event_perform(ev_alarm, 2);
@@ -7,6 +8,7 @@ if !debug
 	}
 }
 
+// level editor shit here
 enum reqtypes
 {
 	read_paging,

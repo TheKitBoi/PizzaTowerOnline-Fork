@@ -1,4 +1,7 @@
 {
+  "resourceType": "GMSprite",
+  "resourceVersion": "1.0",
+  "name": "spr_playerSP_haulingfall",
   "ConfigValues": {
     "debug": {"textureGroupId":"{\"name\":\"tg_player\",\"path\":\"texturegroups/tg_player\"}",},
   },
@@ -17,6 +20,7 @@
   "HTile": false,
   "VTile": false,
   "For3D": false,
+  "DynamicTexturePage": false,
   "width": 100,
   "height": 100,
   "textureGroupId": {
@@ -27,18 +31,14 @@
   "gridX": 0,
   "gridY": 0,
   "frames": [
-    {"compositeImage":{"FrameId":{"name":"7a651847-466a-49af-bd68-85a049fd8f24","path":"sprites/spr_playerSP_haulingfall/spr_playerSP_haulingfall.yy",},"LayerId":null,"resourceVersion":"1.0","name":"composite","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"7a651847-466a-49af-bd68-85a049fd8f24","path":"sprites/spr_playerSP_haulingfall/spr_playerSP_haulingfall.yy",},"LayerId":{"name":"35244741-fbee-410b-a299-3aaa97fed0b7","path":"sprites/spr_playerSP_haulingfall/spr_playerSP_haulingfall.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-      ],"parent":{"name":"spr_playerSP_haulingfall","path":"sprites/spr_playerSP_haulingfall/spr_playerSP_haulingfall.yy",},"resourceVersion":"1.0","name":"7a651847-466a-49af-bd68-85a049fd8f24","tags":[],"resourceType":"GMSpriteFrame",},
-    {"compositeImage":{"FrameId":{"name":"af887ecb-546c-4cdd-84ae-09d1863f66e3","path":"sprites/spr_playerSP_haulingfall/spr_playerSP_haulingfall.yy",},"LayerId":null,"resourceVersion":"1.0","name":"composite","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"af887ecb-546c-4cdd-84ae-09d1863f66e3","path":"sprites/spr_playerSP_haulingfall/spr_playerSP_haulingfall.yy",},"LayerId":{"name":"35244741-fbee-410b-a299-3aaa97fed0b7","path":"sprites/spr_playerSP_haulingfall/spr_playerSP_haulingfall.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-      ],"parent":{"name":"spr_playerSP_haulingfall","path":"sprites/spr_playerSP_haulingfall/spr_playerSP_haulingfall.yy",},"resourceVersion":"1.0","name":"af887ecb-546c-4cdd-84ae-09d1863f66e3","tags":[],"resourceType":"GMSpriteFrame",},
-    {"compositeImage":{"FrameId":{"name":"3af7991f-9082-4cfb-9ac5-d13929483466","path":"sprites/spr_playerSP_haulingfall/spr_playerSP_haulingfall.yy",},"LayerId":null,"resourceVersion":"1.0","name":"composite","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"3af7991f-9082-4cfb-9ac5-d13929483466","path":"sprites/spr_playerSP_haulingfall/spr_playerSP_haulingfall.yy",},"LayerId":{"name":"35244741-fbee-410b-a299-3aaa97fed0b7","path":"sprites/spr_playerSP_haulingfall/spr_playerSP_haulingfall.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-      ],"parent":{"name":"spr_playerSP_haulingfall","path":"sprites/spr_playerSP_haulingfall/spr_playerSP_haulingfall.yy",},"resourceVersion":"1.0","name":"3af7991f-9082-4cfb-9ac5-d13929483466","tags":[],"resourceType":"GMSpriteFrame",},
+    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"7a651847-466a-49af-bd68-85a049fd8f24",},
+    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"af887ecb-546c-4cdd-84ae-09d1863f66e3",},
+    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"3af7991f-9082-4cfb-9ac5-d13929483466",},
   ],
   "sequence": {
-    "spriteId": {"name":"spr_playerSP_haulingfall","path":"sprites/spr_playerSP_haulingfall/spr_playerSP_haulingfall.yy",},
+    "resourceType": "GMSequence",
+    "resourceVersion": "1.4",
+    "name": "",
     "timeUnits": 1,
     "playback": 1,
     "playbackSpeed": 1.0,
@@ -49,11 +49,11 @@
     "events": {"Keyframes":[],"resourceVersion":"1.0","resourceType":"KeyframeStore<MessageEventKeyframe>",},
     "moments": {"Keyframes":[],"resourceVersion":"1.0","resourceType":"KeyframeStore<MomentsEventKeyframe>",},
     "tracks": [
-      {"name":"frames","spriteId":null,"keyframes":{"Keyframes":[
+      {"resourceType":"GMSpriteFramesTrack","resourceVersion":"1.0","name":"frames","spriteId":null,"keyframes":{"Keyframes":[
             {"id":"c1922239-2ab3-46fa-992e-128f3b680762","Key":0.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"7a651847-466a-49af-bd68-85a049fd8f24","path":"sprites/spr_playerSP_haulingfall/spr_playerSP_haulingfall.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
             {"id":"c7a39f17-3962-40fe-90f5-561b55fd5d82","Key":1.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"af887ecb-546c-4cdd-84ae-09d1863f66e3","path":"sprites/spr_playerSP_haulingfall/spr_playerSP_haulingfall.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
             {"id":"7743c6f8-b6ca-4706-8d69-2a9fdb0c5f0d","Key":2.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"3af7991f-9082-4cfb-9ac5-d13929483466","path":"sprites/spr_playerSP_haulingfall/spr_playerSP_haulingfall.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
-          ],"resourceVersion":"1.0","resourceType":"KeyframeStore<SpriteFrameKeyframe>",},"trackColour":0,"inheritsTrackColour":true,"builtinName":0,"traits":0,"interpolation":1,"tracks":[],"events":[],"isCreationTrack":false,"resourceVersion":"1.0","tags":[],"resourceType":"GMSpriteFramesTrack","modifiers":[],},
+          ],"resourceVersion":"1.0","resourceType":"KeyframeStore<SpriteFrameKeyframe>",},"trackColour":0,"inheritsTrackColour":true,"builtinName":0,"traits":0,"interpolation":1,"tracks":[],"events":[],"isCreationTrack":false,"modifiers":[],},
     ],
     "visibleRange": {"x":0.0,"y":0.0,},
     "lockOrigin": false,
@@ -69,22 +69,13 @@
     "yorigin": 50,
     "eventToFunction": {},
     "eventStubScript": null,
-    "parent": {"name":"spr_playerSP_haulingfall","path":"sprites/spr_playerSP_haulingfall/spr_playerSP_haulingfall.yy",},
-    "resourceVersion": "1.4",
-    "name": "",
-    "tags": [],
-    "resourceType": "GMSequence",
   },
   "layers": [
-    {"visible":true,"isLocked":false,"blendMode":0,"opacity":100.0,"displayName":"default","resourceVersion":"1.0","name":"35244741-fbee-410b-a299-3aaa97fed0b7","tags":[],"resourceType":"GMImageLayer",},
+    {"resourceType":"GMImageLayer","resourceVersion":"1.0","name":"35244741-fbee-410b-a299-3aaa97fed0b7","visible":true,"isLocked":false,"blendMode":0,"opacity":100.0,"displayName":"default",},
   ],
   "nineSlice": null,
   "parent": {
     "name": "hauling",
     "path": "folders/Sprites/players/pizzelle/hauling.yy",
   },
-  "resourceVersion": "1.0",
-  "name": "spr_playerSP_haulingfall",
-  "tags": [],
-  "resourceType": "GMSprite",
 }

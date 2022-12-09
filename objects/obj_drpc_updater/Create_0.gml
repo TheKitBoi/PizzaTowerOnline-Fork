@@ -5,7 +5,11 @@ if instance_number(object_index) > 1
 	exit;
 }
 
+state = "";
 det = "";
+small = "";
+large = "runner_icon";
+
 running = global.richpresence;
 
 if running

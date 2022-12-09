@@ -1,4 +1,7 @@
 {
+  "resourceType": "GMSprite",
+  "resourceVersion": "1.0",
+  "name": "spr_playerSP_cotton_drill",
   "ConfigValues": {
     "debug": {"textureGroupId":"{\"name\":\"tg_player\",\"path\":\"texturegroups/tg_player\"}",},
   },
@@ -17,6 +20,7 @@
   "HTile": false,
   "VTile": false,
   "For3D": false,
+  "DynamicTexturePage": false,
   "width": 100,
   "height": 125,
   "textureGroupId": {
@@ -27,21 +31,15 @@
   "gridX": 0,
   "gridY": 0,
   "frames": [
-    {"compositeImage":{"FrameId":{"name":"009f944b-eda0-4f2b-8611-4acac100ff4c","path":"sprites/spr_playerSP_cotton_drill/spr_playerSP_cotton_drill.yy",},"LayerId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"009f944b-eda0-4f2b-8611-4acac100ff4c","path":"sprites/spr_playerSP_cotton_drill/spr_playerSP_cotton_drill.yy",},"LayerId":{"name":"1fa0b9ab-daaa-4c15-830c-e08fe71e6110","path":"sprites/spr_playerSP_cotton_drill/spr_playerSP_cotton_drill.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-      ],"parent":{"name":"spr_playerSP_cotton_drill","path":"sprites/spr_playerSP_cotton_drill/spr_playerSP_cotton_drill.yy",},"resourceVersion":"1.0","name":"009f944b-eda0-4f2b-8611-4acac100ff4c","tags":[],"resourceType":"GMSpriteFrame",},
-    {"compositeImage":{"FrameId":{"name":"46bd211a-7137-4ff5-9476-6d97d197c512","path":"sprites/spr_playerSP_cotton_drill/spr_playerSP_cotton_drill.yy",},"LayerId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"46bd211a-7137-4ff5-9476-6d97d197c512","path":"sprites/spr_playerSP_cotton_drill/spr_playerSP_cotton_drill.yy",},"LayerId":{"name":"1fa0b9ab-daaa-4c15-830c-e08fe71e6110","path":"sprites/spr_playerSP_cotton_drill/spr_playerSP_cotton_drill.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-      ],"parent":{"name":"spr_playerSP_cotton_drill","path":"sprites/spr_playerSP_cotton_drill/spr_playerSP_cotton_drill.yy",},"resourceVersion":"1.0","name":"46bd211a-7137-4ff5-9476-6d97d197c512","tags":[],"resourceType":"GMSpriteFrame",},
-    {"compositeImage":{"FrameId":{"name":"800bfae0-a1d1-496a-be2e-2a6f25b2d382","path":"sprites/spr_playerSP_cotton_drill/spr_playerSP_cotton_drill.yy",},"LayerId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"800bfae0-a1d1-496a-be2e-2a6f25b2d382","path":"sprites/spr_playerSP_cotton_drill/spr_playerSP_cotton_drill.yy",},"LayerId":{"name":"1fa0b9ab-daaa-4c15-830c-e08fe71e6110","path":"sprites/spr_playerSP_cotton_drill/spr_playerSP_cotton_drill.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-      ],"parent":{"name":"spr_playerSP_cotton_drill","path":"sprites/spr_playerSP_cotton_drill/spr_playerSP_cotton_drill.yy",},"resourceVersion":"1.0","name":"800bfae0-a1d1-496a-be2e-2a6f25b2d382","tags":[],"resourceType":"GMSpriteFrame",},
-    {"compositeImage":{"FrameId":{"name":"39ceefea-de49-4569-80cc-f42cb9b9ab8f","path":"sprites/spr_playerSP_cotton_drill/spr_playerSP_cotton_drill.yy",},"LayerId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"39ceefea-de49-4569-80cc-f42cb9b9ab8f","path":"sprites/spr_playerSP_cotton_drill/spr_playerSP_cotton_drill.yy",},"LayerId":{"name":"1fa0b9ab-daaa-4c15-830c-e08fe71e6110","path":"sprites/spr_playerSP_cotton_drill/spr_playerSP_cotton_drill.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-      ],"parent":{"name":"spr_playerSP_cotton_drill","path":"sprites/spr_playerSP_cotton_drill/spr_playerSP_cotton_drill.yy",},"resourceVersion":"1.0","name":"39ceefea-de49-4569-80cc-f42cb9b9ab8f","tags":[],"resourceType":"GMSpriteFrame",},
+    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"009f944b-eda0-4f2b-8611-4acac100ff4c",},
+    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"46bd211a-7137-4ff5-9476-6d97d197c512",},
+    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"800bfae0-a1d1-496a-be2e-2a6f25b2d382",},
+    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"39ceefea-de49-4569-80cc-f42cb9b9ab8f",},
   ],
   "sequence": {
-    "spriteId": {"name":"spr_playerSP_cotton_drill","path":"sprites/spr_playerSP_cotton_drill/spr_playerSP_cotton_drill.yy",},
+    "resourceType": "GMSequence",
+    "resourceVersion": "1.4",
+    "name": "spr_playerSP_cotton_drill",
     "timeUnits": 1,
     "playback": 1,
     "playbackSpeed": 1.0,
@@ -52,12 +50,12 @@
     "events": {"Keyframes":[],"resourceVersion":"1.0","resourceType":"KeyframeStore<MessageEventKeyframe>",},
     "moments": {"Keyframes":[],"resourceVersion":"1.0","resourceType":"KeyframeStore<MomentsEventKeyframe>",},
     "tracks": [
-      {"name":"frames","spriteId":null,"keyframes":{"Keyframes":[
+      {"resourceType":"GMSpriteFramesTrack","resourceVersion":"1.0","name":"frames","spriteId":null,"keyframes":{"Keyframes":[
             {"id":"aca68e5e-ad14-4882-b98c-85b425c76bbb","Key":0.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"009f944b-eda0-4f2b-8611-4acac100ff4c","path":"sprites/spr_playerSP_cotton_drill/spr_playerSP_cotton_drill.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
             {"id":"7b3526b9-a1cf-425c-976c-4955b7962443","Key":1.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"46bd211a-7137-4ff5-9476-6d97d197c512","path":"sprites/spr_playerSP_cotton_drill/spr_playerSP_cotton_drill.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
             {"id":"dd132613-c2b0-430f-bdae-dfc000fb6a01","Key":2.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"800bfae0-a1d1-496a-be2e-2a6f25b2d382","path":"sprites/spr_playerSP_cotton_drill/spr_playerSP_cotton_drill.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
             {"id":"71d69c00-f206-4680-a05c-16b8f6bbdba7","Key":3.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"39ceefea-de49-4569-80cc-f42cb9b9ab8f","path":"sprites/spr_playerSP_cotton_drill/spr_playerSP_cotton_drill.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
-          ],"resourceVersion":"1.0","resourceType":"KeyframeStore<SpriteFrameKeyframe>",},"trackColour":0,"inheritsTrackColour":true,"builtinName":0,"traits":0,"interpolation":1,"tracks":[],"events":[],"isCreationTrack":false,"resourceVersion":"1.0","tags":[],"resourceType":"GMSpriteFramesTrack","modifiers":[],},
+          ],"resourceVersion":"1.0","resourceType":"KeyframeStore<SpriteFrameKeyframe>",},"trackColour":0,"inheritsTrackColour":true,"builtinName":0,"traits":0,"interpolation":1,"tracks":[],"events":[],"isCreationTrack":false,"modifiers":[],},
     ],
     "visibleRange": null,
     "lockOrigin": false,
@@ -73,22 +71,13 @@
     "yorigin": 75,
     "eventToFunction": {},
     "eventStubScript": null,
-    "parent": {"name":"spr_playerSP_cotton_drill","path":"sprites/spr_playerSP_cotton_drill/spr_playerSP_cotton_drill.yy",},
-    "resourceVersion": "1.4",
-    "name": "spr_playerSP_cotton_drill",
-    "tags": [],
-    "resourceType": "GMSequence",
   },
   "layers": [
-    {"visible":true,"isLocked":false,"blendMode":0,"opacity":100.0,"displayName":"default","resourceVersion":"1.0","name":"1fa0b9ab-daaa-4c15-830c-e08fe71e6110","tags":[],"resourceType":"GMImageLayer",},
+    {"resourceType":"GMImageLayer","resourceVersion":"1.0","name":"1fa0b9ab-daaa-4c15-830c-e08fe71e6110","visible":true,"isLocked":false,"blendMode":0,"opacity":100.0,"displayName":"default",},
   ],
   "nineSlice": null,
   "parent": {
     "name": "cotton",
     "path": "folders/Sprites/players/pizzelle/transfo/cotton.yy",
   },
-  "resourceVersion": "1.0",
-  "name": "spr_playerSP_cotton_drill",
-  "tags": [],
-  "resourceType": "GMSprite",
 }

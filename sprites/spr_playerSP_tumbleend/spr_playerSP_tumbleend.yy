@@ -1,4 +1,7 @@
 {
+  "resourceType": "GMSprite",
+  "resourceVersion": "1.0",
+  "name": "spr_playerSP_tumbleend",
   "ConfigValues": {
     "debug": {"textureGroupId":"{\"name\":\"tg_player\",\"path\":\"texturegroups/tg_player\"}",},
   },
@@ -17,6 +20,7 @@
   "HTile": false,
   "VTile": false,
   "For3D": false,
+  "DynamicTexturePage": false,
   "width": 100,
   "height": 100,
   "textureGroupId": {
@@ -27,36 +31,20 @@
   "gridX": 0,
   "gridY": 0,
   "frames": [
-    {"compositeImage":{"FrameId":{"name":"11b7f663-1427-46a5-9b3d-e3a2049e100b","path":"sprites/spr_playerSP_tumbleend/spr_playerSP_tumbleend.yy",},"LayerId":null,"resourceVersion":"1.0","name":"composite","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"11b7f663-1427-46a5-9b3d-e3a2049e100b","path":"sprites/spr_playerSP_tumbleend/spr_playerSP_tumbleend.yy",},"LayerId":{"name":"847fecbd-e525-45e0-b253-09f386ea3f81","path":"sprites/spr_playerSP_tumbleend/spr_playerSP_tumbleend.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-      ],"parent":{"name":"spr_playerSP_tumbleend","path":"sprites/spr_playerSP_tumbleend/spr_playerSP_tumbleend.yy",},"resourceVersion":"1.0","name":"11b7f663-1427-46a5-9b3d-e3a2049e100b","tags":[],"resourceType":"GMSpriteFrame",},
-    {"compositeImage":{"FrameId":{"name":"87ea889b-9823-4a97-8120-2978e3ab2f33","path":"sprites/spr_playerSP_tumbleend/spr_playerSP_tumbleend.yy",},"LayerId":null,"resourceVersion":"1.0","name":"composite","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"87ea889b-9823-4a97-8120-2978e3ab2f33","path":"sprites/spr_playerSP_tumbleend/spr_playerSP_tumbleend.yy",},"LayerId":{"name":"847fecbd-e525-45e0-b253-09f386ea3f81","path":"sprites/spr_playerSP_tumbleend/spr_playerSP_tumbleend.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-      ],"parent":{"name":"spr_playerSP_tumbleend","path":"sprites/spr_playerSP_tumbleend/spr_playerSP_tumbleend.yy",},"resourceVersion":"1.0","name":"87ea889b-9823-4a97-8120-2978e3ab2f33","tags":[],"resourceType":"GMSpriteFrame",},
-    {"compositeImage":{"FrameId":{"name":"4e771ec7-0da3-49a0-a63d-a5814fd81887","path":"sprites/spr_playerSP_tumbleend/spr_playerSP_tumbleend.yy",},"LayerId":null,"resourceVersion":"1.0","name":"composite","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"4e771ec7-0da3-49a0-a63d-a5814fd81887","path":"sprites/spr_playerSP_tumbleend/spr_playerSP_tumbleend.yy",},"LayerId":{"name":"847fecbd-e525-45e0-b253-09f386ea3f81","path":"sprites/spr_playerSP_tumbleend/spr_playerSP_tumbleend.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-      ],"parent":{"name":"spr_playerSP_tumbleend","path":"sprites/spr_playerSP_tumbleend/spr_playerSP_tumbleend.yy",},"resourceVersion":"1.0","name":"4e771ec7-0da3-49a0-a63d-a5814fd81887","tags":[],"resourceType":"GMSpriteFrame",},
-    {"compositeImage":{"FrameId":{"name":"d3fd1856-93b5-424e-bddb-df45f0ea62d7","path":"sprites/spr_playerSP_tumbleend/spr_playerSP_tumbleend.yy",},"LayerId":null,"resourceVersion":"1.0","name":"composite","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"d3fd1856-93b5-424e-bddb-df45f0ea62d7","path":"sprites/spr_playerSP_tumbleend/spr_playerSP_tumbleend.yy",},"LayerId":{"name":"847fecbd-e525-45e0-b253-09f386ea3f81","path":"sprites/spr_playerSP_tumbleend/spr_playerSP_tumbleend.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-      ],"parent":{"name":"spr_playerSP_tumbleend","path":"sprites/spr_playerSP_tumbleend/spr_playerSP_tumbleend.yy",},"resourceVersion":"1.0","name":"d3fd1856-93b5-424e-bddb-df45f0ea62d7","tags":[],"resourceType":"GMSpriteFrame",},
-    {"compositeImage":{"FrameId":{"name":"63778cad-d8cb-4af4-932c-3ecc70bdf08f","path":"sprites/spr_playerSP_tumbleend/spr_playerSP_tumbleend.yy",},"LayerId":null,"resourceVersion":"1.0","name":"composite","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"63778cad-d8cb-4af4-932c-3ecc70bdf08f","path":"sprites/spr_playerSP_tumbleend/spr_playerSP_tumbleend.yy",},"LayerId":{"name":"847fecbd-e525-45e0-b253-09f386ea3f81","path":"sprites/spr_playerSP_tumbleend/spr_playerSP_tumbleend.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-      ],"parent":{"name":"spr_playerSP_tumbleend","path":"sprites/spr_playerSP_tumbleend/spr_playerSP_tumbleend.yy",},"resourceVersion":"1.0","name":"63778cad-d8cb-4af4-932c-3ecc70bdf08f","tags":[],"resourceType":"GMSpriteFrame",},
-    {"compositeImage":{"FrameId":{"name":"28c90574-5707-4ce9-a01c-0de0ce517de4","path":"sprites/spr_playerSP_tumbleend/spr_playerSP_tumbleend.yy",},"LayerId":null,"resourceVersion":"1.0","name":"composite","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"28c90574-5707-4ce9-a01c-0de0ce517de4","path":"sprites/spr_playerSP_tumbleend/spr_playerSP_tumbleend.yy",},"LayerId":{"name":"847fecbd-e525-45e0-b253-09f386ea3f81","path":"sprites/spr_playerSP_tumbleend/spr_playerSP_tumbleend.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-      ],"parent":{"name":"spr_playerSP_tumbleend","path":"sprites/spr_playerSP_tumbleend/spr_playerSP_tumbleend.yy",},"resourceVersion":"1.0","name":"28c90574-5707-4ce9-a01c-0de0ce517de4","tags":[],"resourceType":"GMSpriteFrame",},
-    {"compositeImage":{"FrameId":{"name":"5fc501af-6235-4503-b993-8e64c05faf63","path":"sprites/spr_playerSP_tumbleend/spr_playerSP_tumbleend.yy",},"LayerId":null,"resourceVersion":"1.0","name":"composite","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"5fc501af-6235-4503-b993-8e64c05faf63","path":"sprites/spr_playerSP_tumbleend/spr_playerSP_tumbleend.yy",},"LayerId":{"name":"847fecbd-e525-45e0-b253-09f386ea3f81","path":"sprites/spr_playerSP_tumbleend/spr_playerSP_tumbleend.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-      ],"parent":{"name":"spr_playerSP_tumbleend","path":"sprites/spr_playerSP_tumbleend/spr_playerSP_tumbleend.yy",},"resourceVersion":"1.0","name":"5fc501af-6235-4503-b993-8e64c05faf63","tags":[],"resourceType":"GMSpriteFrame",},
-    {"compositeImage":{"FrameId":{"name":"96705f63-212f-46f2-8b4b-4c310d7e3622","path":"sprites/spr_playerSP_tumbleend/spr_playerSP_tumbleend.yy",},"LayerId":null,"resourceVersion":"1.0","name":"composite","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"96705f63-212f-46f2-8b4b-4c310d7e3622","path":"sprites/spr_playerSP_tumbleend/spr_playerSP_tumbleend.yy",},"LayerId":{"name":"847fecbd-e525-45e0-b253-09f386ea3f81","path":"sprites/spr_playerSP_tumbleend/spr_playerSP_tumbleend.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-      ],"parent":{"name":"spr_playerSP_tumbleend","path":"sprites/spr_playerSP_tumbleend/spr_playerSP_tumbleend.yy",},"resourceVersion":"1.0","name":"96705f63-212f-46f2-8b4b-4c310d7e3622","tags":[],"resourceType":"GMSpriteFrame",},
-    {"compositeImage":{"FrameId":{"name":"486b4ae1-b373-4716-80b9-e6a1479d86dc","path":"sprites/spr_playerSP_tumbleend/spr_playerSP_tumbleend.yy",},"LayerId":null,"resourceVersion":"1.0","name":"composite","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"486b4ae1-b373-4716-80b9-e6a1479d86dc","path":"sprites/spr_playerSP_tumbleend/spr_playerSP_tumbleend.yy",},"LayerId":{"name":"847fecbd-e525-45e0-b253-09f386ea3f81","path":"sprites/spr_playerSP_tumbleend/spr_playerSP_tumbleend.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-      ],"parent":{"name":"spr_playerSP_tumbleend","path":"sprites/spr_playerSP_tumbleend/spr_playerSP_tumbleend.yy",},"resourceVersion":"1.0","name":"486b4ae1-b373-4716-80b9-e6a1479d86dc","tags":[],"resourceType":"GMSpriteFrame",},
+    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"11b7f663-1427-46a5-9b3d-e3a2049e100b",},
+    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"87ea889b-9823-4a97-8120-2978e3ab2f33",},
+    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"4e771ec7-0da3-49a0-a63d-a5814fd81887",},
+    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"d3fd1856-93b5-424e-bddb-df45f0ea62d7",},
+    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"63778cad-d8cb-4af4-932c-3ecc70bdf08f",},
+    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"28c90574-5707-4ce9-a01c-0de0ce517de4",},
+    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"5fc501af-6235-4503-b993-8e64c05faf63",},
+    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"96705f63-212f-46f2-8b4b-4c310d7e3622",},
+    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"486b4ae1-b373-4716-80b9-e6a1479d86dc",},
   ],
   "sequence": {
-    "spriteId": {"name":"spr_playerSP_tumbleend","path":"sprites/spr_playerSP_tumbleend/spr_playerSP_tumbleend.yy",},
+    "resourceType": "GMSequence",
+    "resourceVersion": "1.4",
+    "name": "",
     "timeUnits": 1,
     "playback": 1,
     "playbackSpeed": 1.0,
@@ -67,7 +55,7 @@
     "events": {"Keyframes":[],"resourceVersion":"1.0","resourceType":"KeyframeStore<MessageEventKeyframe>",},
     "moments": {"Keyframes":[],"resourceVersion":"1.0","resourceType":"KeyframeStore<MomentsEventKeyframe>",},
     "tracks": [
-      {"name":"frames","spriteId":null,"keyframes":{"Keyframes":[
+      {"resourceType":"GMSpriteFramesTrack","resourceVersion":"1.0","name":"frames","spriteId":null,"keyframes":{"Keyframes":[
             {"id":"7a45a6d0-5d58-4c6d-960b-9075981097eb","Key":0.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"11b7f663-1427-46a5-9b3d-e3a2049e100b","path":"sprites/spr_playerSP_tumbleend/spr_playerSP_tumbleend.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
             {"id":"03f80626-b4a9-4cfd-b962-c624e22902af","Key":1.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"87ea889b-9823-4a97-8120-2978e3ab2f33","path":"sprites/spr_playerSP_tumbleend/spr_playerSP_tumbleend.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
             {"id":"9fa09c0b-8778-4422-bf44-10492f275710","Key":2.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"4e771ec7-0da3-49a0-a63d-a5814fd81887","path":"sprites/spr_playerSP_tumbleend/spr_playerSP_tumbleend.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
@@ -77,7 +65,7 @@
             {"id":"a3da5c03-a992-4455-aa66-98e3696c7498","Key":6.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"5fc501af-6235-4503-b993-8e64c05faf63","path":"sprites/spr_playerSP_tumbleend/spr_playerSP_tumbleend.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
             {"id":"48a7e24c-4350-4ef4-b844-6ee8a2f10489","Key":7.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"96705f63-212f-46f2-8b4b-4c310d7e3622","path":"sprites/spr_playerSP_tumbleend/spr_playerSP_tumbleend.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
             {"id":"13f2c92e-8e5d-4e93-b665-a6b81e30c2e5","Key":8.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"486b4ae1-b373-4716-80b9-e6a1479d86dc","path":"sprites/spr_playerSP_tumbleend/spr_playerSP_tumbleend.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
-          ],"resourceVersion":"1.0","resourceType":"KeyframeStore<SpriteFrameKeyframe>",},"trackColour":0,"inheritsTrackColour":true,"builtinName":0,"traits":0,"interpolation":1,"tracks":[],"events":[],"isCreationTrack":false,"resourceVersion":"1.0","tags":[],"resourceType":"GMSpriteFramesTrack","modifiers":[],},
+          ],"resourceVersion":"1.0","resourceType":"KeyframeStore<SpriteFrameKeyframe>",},"trackColour":0,"inheritsTrackColour":true,"builtinName":0,"traits":0,"interpolation":1,"tracks":[],"events":[],"isCreationTrack":false,"modifiers":[],},
     ],
     "visibleRange": {"x":0.0,"y":0.0,},
     "lockOrigin": false,
@@ -93,22 +81,13 @@
     "yorigin": 50,
     "eventToFunction": {},
     "eventStubScript": null,
-    "parent": {"name":"spr_playerSP_tumbleend","path":"sprites/spr_playerSP_tumbleend/spr_playerSP_tumbleend.yy",},
-    "resourceVersion": "1.4",
-    "name": "",
-    "tags": [],
-    "resourceType": "GMSequence",
   },
   "layers": [
-    {"visible":true,"isLocked":false,"blendMode":0,"opacity":100.0,"displayName":"default","resourceVersion":"1.0","name":"847fecbd-e525-45e0-b253-09f386ea3f81","tags":[],"resourceType":"GMImageLayer",},
+    {"resourceType":"GMImageLayer","resourceVersion":"1.0","name":"847fecbd-e525-45e0-b253-09f386ea3f81","visible":true,"isLocked":false,"blendMode":0,"opacity":100.0,"displayName":"default",},
   ],
   "nineSlice": null,
   "parent": {
     "name": "tumble",
     "path": "folders/Sprites/players/pizzelle/tumble.yy",
   },
-  "resourceVersion": "1.0",
-  "name": "spr_playerSP_tumbleend",
-  "tags": [],
-  "resourceType": "GMSprite",
 }

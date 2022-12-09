@@ -1,4 +1,7 @@
 {
+  "resourceType": "GMSprite",
+  "resourceVersion": "1.0",
+  "name": "spr_playerSP_haulingland",
   "ConfigValues": {
     "debug": {"textureGroupId":"{\"name\":\"tg_player\",\"path\":\"texturegroups/tg_player\"}",},
   },
@@ -17,6 +20,7 @@
   "HTile": false,
   "VTile": false,
   "For3D": false,
+  "DynamicTexturePage": false,
   "width": 100,
   "height": 100,
   "textureGroupId": {
@@ -27,21 +31,15 @@
   "gridX": 0,
   "gridY": 0,
   "frames": [
-    {"compositeImage":{"FrameId":{"name":"3b99abde-f00d-46ef-bf01-0b7d26f4b06e","path":"sprites/spr_playerSP_haulingland/spr_playerSP_haulingland.yy",},"LayerId":null,"resourceVersion":"1.0","name":"composite","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"3b99abde-f00d-46ef-bf01-0b7d26f4b06e","path":"sprites/spr_playerSP_haulingland/spr_playerSP_haulingland.yy",},"LayerId":{"name":"ac6bc2f0-39f7-4a7e-a954-e39bb4900b7c","path":"sprites/spr_playerSP_haulingland/spr_playerSP_haulingland.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-      ],"parent":{"name":"spr_playerSP_haulingland","path":"sprites/spr_playerSP_haulingland/spr_playerSP_haulingland.yy",},"resourceVersion":"1.0","name":"3b99abde-f00d-46ef-bf01-0b7d26f4b06e","tags":[],"resourceType":"GMSpriteFrame",},
-    {"compositeImage":{"FrameId":{"name":"07bc78c0-65a2-49be-9f03-414613a5706d","path":"sprites/spr_playerSP_haulingland/spr_playerSP_haulingland.yy",},"LayerId":null,"resourceVersion":"1.0","name":"composite","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"07bc78c0-65a2-49be-9f03-414613a5706d","path":"sprites/spr_playerSP_haulingland/spr_playerSP_haulingland.yy",},"LayerId":{"name":"ac6bc2f0-39f7-4a7e-a954-e39bb4900b7c","path":"sprites/spr_playerSP_haulingland/spr_playerSP_haulingland.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-      ],"parent":{"name":"spr_playerSP_haulingland","path":"sprites/spr_playerSP_haulingland/spr_playerSP_haulingland.yy",},"resourceVersion":"1.0","name":"07bc78c0-65a2-49be-9f03-414613a5706d","tags":[],"resourceType":"GMSpriteFrame",},
-    {"compositeImage":{"FrameId":{"name":"de1e9434-e093-449c-9604-309543954e51","path":"sprites/spr_playerSP_haulingland/spr_playerSP_haulingland.yy",},"LayerId":null,"resourceVersion":"1.0","name":"composite","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"de1e9434-e093-449c-9604-309543954e51","path":"sprites/spr_playerSP_haulingland/spr_playerSP_haulingland.yy",},"LayerId":{"name":"ac6bc2f0-39f7-4a7e-a954-e39bb4900b7c","path":"sprites/spr_playerSP_haulingland/spr_playerSP_haulingland.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-      ],"parent":{"name":"spr_playerSP_haulingland","path":"sprites/spr_playerSP_haulingland/spr_playerSP_haulingland.yy",},"resourceVersion":"1.0","name":"de1e9434-e093-449c-9604-309543954e51","tags":[],"resourceType":"GMSpriteFrame",},
-    {"compositeImage":{"FrameId":{"name":"92a7137e-4635-4d7e-af0f-4ad81b72d680","path":"sprites/spr_playerSP_haulingland/spr_playerSP_haulingland.yy",},"LayerId":null,"resourceVersion":"1.0","name":"composite","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"92a7137e-4635-4d7e-af0f-4ad81b72d680","path":"sprites/spr_playerSP_haulingland/spr_playerSP_haulingland.yy",},"LayerId":{"name":"ac6bc2f0-39f7-4a7e-a954-e39bb4900b7c","path":"sprites/spr_playerSP_haulingland/spr_playerSP_haulingland.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-      ],"parent":{"name":"spr_playerSP_haulingland","path":"sprites/spr_playerSP_haulingland/spr_playerSP_haulingland.yy",},"resourceVersion":"1.0","name":"92a7137e-4635-4d7e-af0f-4ad81b72d680","tags":[],"resourceType":"GMSpriteFrame",},
+    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"3b99abde-f00d-46ef-bf01-0b7d26f4b06e",},
+    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"07bc78c0-65a2-49be-9f03-414613a5706d",},
+    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"de1e9434-e093-449c-9604-309543954e51",},
+    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"92a7137e-4635-4d7e-af0f-4ad81b72d680",},
   ],
   "sequence": {
-    "spriteId": {"name":"spr_playerSP_haulingland","path":"sprites/spr_playerSP_haulingland/spr_playerSP_haulingland.yy",},
+    "resourceType": "GMSequence",
+    "resourceVersion": "1.4",
+    "name": "",
     "timeUnits": 1,
     "playback": 1,
     "playbackSpeed": 0.7,
@@ -52,12 +50,12 @@
     "events": {"Keyframes":[],"resourceVersion":"1.0","resourceType":"KeyframeStore<MessageEventKeyframe>",},
     "moments": {"Keyframes":[],"resourceVersion":"1.0","resourceType":"KeyframeStore<MomentsEventKeyframe>",},
     "tracks": [
-      {"name":"frames","spriteId":null,"keyframes":{"Keyframes":[
+      {"resourceType":"GMSpriteFramesTrack","resourceVersion":"1.0","name":"frames","spriteId":null,"keyframes":{"Keyframes":[
             {"id":"dc47db5f-d862-4aa5-846a-26549d3bd9e0","Key":0.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"3b99abde-f00d-46ef-bf01-0b7d26f4b06e","path":"sprites/spr_playerSP_haulingland/spr_playerSP_haulingland.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
             {"id":"ea3fd056-fda6-436d-a911-391df397f7d8","Key":1.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"07bc78c0-65a2-49be-9f03-414613a5706d","path":"sprites/spr_playerSP_haulingland/spr_playerSP_haulingland.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
             {"id":"0b8b7c54-01a2-4160-96c0-95bea658ef0a","Key":2.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"de1e9434-e093-449c-9604-309543954e51","path":"sprites/spr_playerSP_haulingland/spr_playerSP_haulingland.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
             {"id":"2fc9c633-4e7b-4404-97c5-b9e5c5194e96","Key":3.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"92a7137e-4635-4d7e-af0f-4ad81b72d680","path":"sprites/spr_playerSP_haulingland/spr_playerSP_haulingland.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
-          ],"resourceVersion":"1.0","resourceType":"KeyframeStore<SpriteFrameKeyframe>",},"trackColour":0,"inheritsTrackColour":true,"builtinName":0,"traits":0,"interpolation":1,"tracks":[],"events":[],"isCreationTrack":false,"resourceVersion":"1.0","tags":[],"resourceType":"GMSpriteFramesTrack","modifiers":[],},
+          ],"resourceVersion":"1.0","resourceType":"KeyframeStore<SpriteFrameKeyframe>",},"trackColour":0,"inheritsTrackColour":true,"builtinName":0,"traits":0,"interpolation":1,"tracks":[],"events":[],"isCreationTrack":false,"modifiers":[],},
     ],
     "visibleRange": {"x":0.0,"y":0.0,},
     "lockOrigin": false,
@@ -73,22 +71,13 @@
     "yorigin": 50,
     "eventToFunction": {},
     "eventStubScript": null,
-    "parent": {"name":"spr_playerSP_haulingland","path":"sprites/spr_playerSP_haulingland/spr_playerSP_haulingland.yy",},
-    "resourceVersion": "1.4",
-    "name": "",
-    "tags": [],
-    "resourceType": "GMSequence",
   },
   "layers": [
-    {"visible":true,"isLocked":false,"blendMode":0,"opacity":100.0,"displayName":"default","resourceVersion":"1.0","name":"ac6bc2f0-39f7-4a7e-a954-e39bb4900b7c","tags":[],"resourceType":"GMImageLayer",},
+    {"resourceType":"GMImageLayer","resourceVersion":"1.0","name":"ac6bc2f0-39f7-4a7e-a954-e39bb4900b7c","visible":true,"isLocked":false,"blendMode":0,"opacity":100.0,"displayName":"default",},
   ],
   "nineSlice": null,
   "parent": {
     "name": "hauling",
     "path": "folders/Sprites/players/pizzelle/hauling.yy",
   },
-  "resourceVersion": "1.0",
-  "name": "spr_playerSP_haulingland",
-  "tags": [],
-  "resourceType": "GMSprite",
 }

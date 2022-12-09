@@ -1,4 +1,7 @@
 {
+  "resourceType": "GMSprite",
+  "resourceVersion": "1.0",
+  "name": "spr_bigbreakableescape_PP",
   "bboxMode": 0,
   "collisionKind": 1,
   "type": 0,
@@ -14,6 +17,7 @@
   "HTile": false,
   "VTile": false,
   "For3D": false,
+  "DynamicTexturePage": false,
   "width": 64,
   "height": 64,
   "textureGroupId": {
@@ -24,12 +28,12 @@
   "gridX": 0,
   "gridY": 0,
   "frames": [
-    {"compositeImage":{"FrameId":{"name":"5096ee47-de6f-4ceb-a821-a9dcd1406839","path":"sprites/spr_bigbreakableescape_PP/spr_bigbreakableescape_PP.yy",},"LayerId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"5096ee47-de6f-4ceb-a821-a9dcd1406839","path":"sprites/spr_bigbreakableescape_PP/spr_bigbreakableescape_PP.yy",},"LayerId":{"name":"19d450ef-832e-47ae-b359-403f422c08c6","path":"sprites/spr_bigbreakableescape_PP/spr_bigbreakableescape_PP.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-      ],"parent":{"name":"spr_bigbreakableescape_PP","path":"sprites/spr_bigbreakableescape_PP/spr_bigbreakableescape_PP.yy",},"resourceVersion":"1.0","name":"5096ee47-de6f-4ceb-a821-a9dcd1406839","tags":[],"resourceType":"GMSpriteFrame",},
+    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"5096ee47-de6f-4ceb-a821-a9dcd1406839",},
   ],
   "sequence": {
-    "spriteId": {"name":"spr_bigbreakableescape_PP","path":"sprites/spr_bigbreakableescape_PP/spr_bigbreakableescape_PP.yy",},
+    "resourceType": "GMSequence",
+    "resourceVersion": "1.4",
+    "name": "spr_bigbreakableescape_PP",
     "timeUnits": 1,
     "playback": 1,
     "playbackSpeed": 1.0,
@@ -40,9 +44,9 @@
     "events": {"Keyframes":[],"resourceVersion":"1.0","resourceType":"KeyframeStore<MessageEventKeyframe>",},
     "moments": {"Keyframes":[],"resourceVersion":"1.0","resourceType":"KeyframeStore<MomentsEventKeyframe>",},
     "tracks": [
-      {"name":"frames","spriteId":null,"keyframes":{"Keyframes":[
+      {"resourceType":"GMSpriteFramesTrack","resourceVersion":"1.0","name":"frames","spriteId":null,"keyframes":{"Keyframes":[
             {"id":"7f4c745b-1221-49ea-8f21-bdf84544fd48","Key":0.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"5096ee47-de6f-4ceb-a821-a9dcd1406839","path":"sprites/spr_bigbreakableescape_PP/spr_bigbreakableescape_PP.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
-          ],"resourceVersion":"1.0","resourceType":"KeyframeStore<SpriteFrameKeyframe>",},"trackColour":0,"inheritsTrackColour":true,"builtinName":0,"traits":0,"interpolation":1,"tracks":[],"events":[],"isCreationTrack":false,"resourceVersion":"1.0","tags":[],"resourceType":"GMSpriteFramesTrack","modifiers":[],},
+          ],"resourceVersion":"1.0","resourceType":"KeyframeStore<SpriteFrameKeyframe>",},"trackColour":0,"inheritsTrackColour":true,"builtinName":0,"traits":0,"interpolation":1,"tracks":[],"events":[],"isCreationTrack":false,"modifiers":[],},
     ],
     "visibleRange": null,
     "lockOrigin": false,
@@ -58,22 +62,13 @@
     "yorigin": 0,
     "eventToFunction": {},
     "eventStubScript": null,
-    "parent": {"name":"spr_bigbreakableescape_PP","path":"sprites/spr_bigbreakableescape_PP/spr_bigbreakableescape_PP.yy",},
-    "resourceVersion": "1.4",
-    "name": "spr_bigbreakableescape_PP",
-    "tags": [],
-    "resourceType": "GMSequence",
   },
   "layers": [
-    {"visible":true,"isLocked":false,"blendMode":0,"opacity":100.0,"displayName":"default","resourceVersion":"1.0","name":"19d450ef-832e-47ae-b359-403f422c08c6","tags":[],"resourceType":"GMImageLayer",},
+    {"resourceType":"GMImageLayer","resourceVersion":"1.0","name":"19d450ef-832e-47ae-b359-403f422c08c6","visible":true,"isLocked":false,"blendMode":0,"opacity":100.0,"displayName":"default",},
   ],
   "nineSlice": null,
   "parent": {
     "name": "pissino",
     "path": "folders/Sprites/generalobjects/blocks/pissino.yy",
   },
-  "resourceVersion": "1.0",
-  "name": "spr_bigbreakableescape_PP",
-  "tags": [],
-  "resourceType": "GMSprite",
 }

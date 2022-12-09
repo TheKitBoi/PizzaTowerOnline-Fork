@@ -1,4 +1,7 @@
 {
+  "resourceType": "GMSprite",
+  "resourceVersion": "1.0",
+  "name": "spr_mortprojectile",
   "ConfigValues": {
     "debug": {"textureGroupId":"{\"name\":\"tg_player\",\"path\":\"texturegroups/tg_player\"}",},
   },
@@ -17,6 +20,7 @@
   "HTile": false,
   "VTile": false,
   "For3D": false,
+  "DynamicTexturePage": false,
   "width": 124,
   "height": 50,
   "textureGroupId": {
@@ -27,18 +31,14 @@
   "gridX": 0,
   "gridY": 0,
   "frames": [
-    {"compositeImage":{"FrameId":{"name":"976d0b67-0275-4d1a-b8d0-31b254c2dd98","path":"sprites/spr_mortprojectile/spr_mortprojectile.yy",},"LayerId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"976d0b67-0275-4d1a-b8d0-31b254c2dd98","path":"sprites/spr_mortprojectile/spr_mortprojectile.yy",},"LayerId":{"name":"50d143c1-790f-469a-9fbe-14d336b9baf5","path":"sprites/spr_mortprojectile/spr_mortprojectile.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-      ],"parent":{"name":"spr_mortprojectile","path":"sprites/spr_mortprojectile/spr_mortprojectile.yy",},"resourceVersion":"1.0","name":"976d0b67-0275-4d1a-b8d0-31b254c2dd98","tags":[],"resourceType":"GMSpriteFrame",},
-    {"compositeImage":{"FrameId":{"name":"2a501e0b-2ff3-4f43-a5d9-0aa11752c9be","path":"sprites/spr_mortprojectile/spr_mortprojectile.yy",},"LayerId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"2a501e0b-2ff3-4f43-a5d9-0aa11752c9be","path":"sprites/spr_mortprojectile/spr_mortprojectile.yy",},"LayerId":{"name":"50d143c1-790f-469a-9fbe-14d336b9baf5","path":"sprites/spr_mortprojectile/spr_mortprojectile.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-      ],"parent":{"name":"spr_mortprojectile","path":"sprites/spr_mortprojectile/spr_mortprojectile.yy",},"resourceVersion":"1.0","name":"2a501e0b-2ff3-4f43-a5d9-0aa11752c9be","tags":[],"resourceType":"GMSpriteFrame",},
-    {"compositeImage":{"FrameId":{"name":"2f0eacf6-ad7f-4aa3-94d5-d727d5b251b3","path":"sprites/spr_mortprojectile/spr_mortprojectile.yy",},"LayerId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"2f0eacf6-ad7f-4aa3-94d5-d727d5b251b3","path":"sprites/spr_mortprojectile/spr_mortprojectile.yy",},"LayerId":{"name":"50d143c1-790f-469a-9fbe-14d336b9baf5","path":"sprites/spr_mortprojectile/spr_mortprojectile.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-      ],"parent":{"name":"spr_mortprojectile","path":"sprites/spr_mortprojectile/spr_mortprojectile.yy",},"resourceVersion":"1.0","name":"2f0eacf6-ad7f-4aa3-94d5-d727d5b251b3","tags":[],"resourceType":"GMSpriteFrame",},
+    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"976d0b67-0275-4d1a-b8d0-31b254c2dd98",},
+    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"2a501e0b-2ff3-4f43-a5d9-0aa11752c9be",},
+    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"2f0eacf6-ad7f-4aa3-94d5-d727d5b251b3",},
   ],
   "sequence": {
-    "spriteId": {"name":"spr_mortprojectile","path":"sprites/spr_mortprojectile/spr_mortprojectile.yy",},
+    "resourceType": "GMSequence",
+    "resourceVersion": "1.4",
+    "name": "spr_mortprojectile",
     "timeUnits": 1,
     "playback": 1,
     "playbackSpeed": 1.0,
@@ -49,11 +49,11 @@
     "events": {"Keyframes":[],"resourceVersion":"1.0","resourceType":"KeyframeStore<MessageEventKeyframe>",},
     "moments": {"Keyframes":[],"resourceVersion":"1.0","resourceType":"KeyframeStore<MomentsEventKeyframe>",},
     "tracks": [
-      {"name":"frames","spriteId":null,"keyframes":{"Keyframes":[
+      {"resourceType":"GMSpriteFramesTrack","resourceVersion":"1.0","name":"frames","spriteId":null,"keyframes":{"Keyframes":[
             {"id":"eabad7b9-bb6b-4414-b2eb-a36a769c8d8c","Key":0.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"976d0b67-0275-4d1a-b8d0-31b254c2dd98","path":"sprites/spr_mortprojectile/spr_mortprojectile.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
             {"id":"c98e8ff6-ad93-4866-b02d-e4dc52938d1c","Key":1.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"2a501e0b-2ff3-4f43-a5d9-0aa11752c9be","path":"sprites/spr_mortprojectile/spr_mortprojectile.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
             {"id":"b05914d4-78f6-429e-810f-ccccc348358a","Key":2.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"2f0eacf6-ad7f-4aa3-94d5-d727d5b251b3","path":"sprites/spr_mortprojectile/spr_mortprojectile.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
-          ],"resourceVersion":"1.0","resourceType":"KeyframeStore<SpriteFrameKeyframe>",},"trackColour":0,"inheritsTrackColour":true,"builtinName":0,"traits":0,"interpolation":1,"tracks":[],"events":[],"isCreationTrack":false,"resourceVersion":"1.0","tags":[],"resourceType":"GMSpriteFramesTrack","modifiers":[],},
+          ],"resourceVersion":"1.0","resourceType":"KeyframeStore<SpriteFrameKeyframe>",},"trackColour":0,"inheritsTrackColour":true,"builtinName":0,"traits":0,"interpolation":1,"tracks":[],"events":[],"isCreationTrack":false,"modifiers":[],},
     ],
     "visibleRange": null,
     "lockOrigin": false,
@@ -69,22 +69,13 @@
     "yorigin": 26,
     "eventToFunction": {},
     "eventStubScript": null,
-    "parent": {"name":"spr_mortprojectile","path":"sprites/spr_mortprojectile/spr_mortprojectile.yy",},
-    "resourceVersion": "1.4",
-    "name": "spr_mortprojectile",
-    "tags": [],
-    "resourceType": "GMSequence",
   },
   "layers": [
-    {"visible":true,"isLocked":false,"blendMode":0,"opacity":100.0,"displayName":"default","resourceVersion":"1.0","name":"50d143c1-790f-469a-9fbe-14d336b9baf5","tags":[],"resourceType":"GMImageLayer",},
+    {"resourceType":"GMImageLayer","resourceVersion":"1.0","name":"50d143c1-790f-469a-9fbe-14d336b9baf5","visible":true,"isLocked":false,"blendMode":0,"opacity":100.0,"displayName":"default",},
   ],
   "nineSlice": null,
   "parent": {
     "name": "pistol",
     "path": "folders/Sprites/players/pepino/pistol.yy",
   },
-  "resourceVersion": "1.0",
-  "name": "spr_mortprojectile",
-  "tags": [],
-  "resourceType": "GMSprite",
 }

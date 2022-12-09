@@ -1,4 +1,7 @@
 {
+  "resourceType": "GMSprite",
+  "resourceVersion": "1.0",
+  "name": "bg_SAGEsnickshotgun",
   "bboxMode": 0,
   "collisionKind": 1,
   "type": 0,
@@ -14,6 +17,7 @@
   "HTile": false,
   "VTile": false,
   "For3D": false,
+  "DynamicTexturePage": false,
   "width": 100,
   "height": 100,
   "textureGroupId": {
@@ -24,15 +28,13 @@
   "gridX": 0,
   "gridY": 0,
   "frames": [
-    {"compositeImage":{"FrameId":{"name":"10974fa1-b349-4c56-b2b0-27b1f3c38a11","path":"sprites/bg_SAGEsnickshotgun/bg_SAGEsnickshotgun.yy",},"LayerId":null,"resourceVersion":"1.0","name":"composite","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"10974fa1-b349-4c56-b2b0-27b1f3c38a11","path":"sprites/bg_SAGEsnickshotgun/bg_SAGEsnickshotgun.yy",},"LayerId":{"name":"4ec43693-e9de-4650-a138-ff64d96d39be","path":"sprites/bg_SAGEsnickshotgun/bg_SAGEsnickshotgun.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-      ],"parent":{"name":"bg_SAGEsnickshotgun","path":"sprites/bg_SAGEsnickshotgun/bg_SAGEsnickshotgun.yy",},"resourceVersion":"1.0","name":"10974fa1-b349-4c56-b2b0-27b1f3c38a11","tags":[],"resourceType":"GMSpriteFrame",},
-    {"compositeImage":{"FrameId":{"name":"ea7f00a7-4a33-4e0e-8d21-b099de6f36c2","path":"sprites/bg_SAGEsnickshotgun/bg_SAGEsnickshotgun.yy",},"LayerId":null,"resourceVersion":"1.0","name":"composite","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"ea7f00a7-4a33-4e0e-8d21-b099de6f36c2","path":"sprites/bg_SAGEsnickshotgun/bg_SAGEsnickshotgun.yy",},"LayerId":{"name":"4ec43693-e9de-4650-a138-ff64d96d39be","path":"sprites/bg_SAGEsnickshotgun/bg_SAGEsnickshotgun.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-      ],"parent":{"name":"bg_SAGEsnickshotgun","path":"sprites/bg_SAGEsnickshotgun/bg_SAGEsnickshotgun.yy",},"resourceVersion":"1.0","name":"ea7f00a7-4a33-4e0e-8d21-b099de6f36c2","tags":[],"resourceType":"GMSpriteFrame",},
+    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"10974fa1-b349-4c56-b2b0-27b1f3c38a11",},
+    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"ea7f00a7-4a33-4e0e-8d21-b099de6f36c2",},
   ],
   "sequence": {
-    "spriteId": {"name":"bg_SAGEsnickshotgun","path":"sprites/bg_SAGEsnickshotgun/bg_SAGEsnickshotgun.yy",},
+    "resourceType": "GMSequence",
+    "resourceVersion": "1.4",
+    "name": "",
     "timeUnits": 1,
     "playback": 1,
     "playbackSpeed": 15.0,
@@ -43,10 +45,10 @@
     "events": {"Keyframes":[],"resourceVersion":"1.0","resourceType":"KeyframeStore<MessageEventKeyframe>",},
     "moments": {"Keyframes":[],"resourceVersion":"1.0","resourceType":"KeyframeStore<MomentsEventKeyframe>",},
     "tracks": [
-      {"name":"frames","spriteId":null,"keyframes":{"Keyframes":[
+      {"resourceType":"GMSpriteFramesTrack","resourceVersion":"1.0","name":"frames","spriteId":null,"keyframes":{"Keyframes":[
             {"id":"96c57da6-84dd-4be1-83b3-9dc9b1c7ff9b","Key":0.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"10974fa1-b349-4c56-b2b0-27b1f3c38a11","path":"sprites/bg_SAGEsnickshotgun/bg_SAGEsnickshotgun.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
             {"id":"aff1e82a-08e7-430f-8256-079153796d4f","Key":1.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"ea7f00a7-4a33-4e0e-8d21-b099de6f36c2","path":"sprites/bg_SAGEsnickshotgun/bg_SAGEsnickshotgun.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
-          ],"resourceVersion":"1.0","resourceType":"KeyframeStore<SpriteFrameKeyframe>",},"trackColour":0,"inheritsTrackColour":true,"builtinName":0,"traits":0,"interpolation":1,"tracks":[],"events":[],"isCreationTrack":false,"resourceVersion":"1.0","tags":[],"resourceType":"GMSpriteFramesTrack","modifiers":[],},
+          ],"resourceVersion":"1.0","resourceType":"KeyframeStore<SpriteFrameKeyframe>",},"trackColour":0,"inheritsTrackColour":true,"builtinName":0,"traits":0,"interpolation":1,"tracks":[],"events":[],"isCreationTrack":false,"modifiers":[],},
     ],
     "visibleRange": null,
     "lockOrigin": false,
@@ -62,22 +64,13 @@
     "yorigin": 0,
     "eventToFunction": {},
     "eventStubScript": null,
-    "parent": {"name":"bg_SAGEsnickshotgun","path":"sprites/bg_SAGEsnickshotgun/bg_SAGEsnickshotgun.yy",},
-    "resourceVersion": "1.4",
-    "name": "",
-    "tags": [],
-    "resourceType": "GMSequence",
   },
   "layers": [
-    {"visible":true,"isLocked":false,"blendMode":0,"opacity":100.0,"displayName":"default","resourceVersion":"1.0","name":"4ec43693-e9de-4650-a138-ff64d96d39be","tags":[],"resourceType":"GMImageLayer",},
+    {"resourceType":"GMImageLayer","resourceVersion":"1.0","name":"4ec43693-e9de-4650-a138-ff64d96d39be","visible":true,"isLocked":false,"blendMode":0,"opacity":100.0,"displayName":"default",},
   ],
   "nineSlice": null,
   "parent": {
     "name": "SAGE",
     "path": "folders/Sprites/demo_event/SAGE.yy",
   },
-  "resourceVersion": "1.0",
-  "name": "bg_SAGEsnickshotgun",
-  "tags": [],
-  "resourceType": "GMSprite",
 }

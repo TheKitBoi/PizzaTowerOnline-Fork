@@ -1,4 +1,7 @@
 {
+  "resourceType": "GMSprite",
+  "resourceVersion": "1.0",
+  "name": "spr_coneballproj",
   "bboxMode": 0,
   "collisionKind": 1,
   "type": 0,
@@ -14,6 +17,7 @@
   "HTile": false,
   "VTile": false,
   "For3D": false,
+  "DynamicTexturePage": false,
   "width": 200,
   "height": 200,
   "textureGroupId": {
@@ -24,27 +28,17 @@
   "gridX": 0,
   "gridY": 0,
   "frames": [
-    {"compositeImage":{"FrameId":{"name":"a42af179-fd5f-4659-9e28-c2d9bd12ab30","path":"sprites/spr_coneballproj/spr_coneballproj.yy",},"LayerId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"a42af179-fd5f-4659-9e28-c2d9bd12ab30","path":"sprites/spr_coneballproj/spr_coneballproj.yy",},"LayerId":{"name":"7cc45897-7ffd-4a91-b426-30d81561cb2a","path":"sprites/spr_coneballproj/spr_coneballproj.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-      ],"parent":{"name":"spr_coneballproj","path":"sprites/spr_coneballproj/spr_coneballproj.yy",},"resourceVersion":"1.0","name":"a42af179-fd5f-4659-9e28-c2d9bd12ab30","tags":[],"resourceType":"GMSpriteFrame",},
-    {"compositeImage":{"FrameId":{"name":"311a40e4-d4e2-443d-9bf6-889ee99977c3","path":"sprites/spr_coneballproj/spr_coneballproj.yy",},"LayerId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"311a40e4-d4e2-443d-9bf6-889ee99977c3","path":"sprites/spr_coneballproj/spr_coneballproj.yy",},"LayerId":{"name":"7cc45897-7ffd-4a91-b426-30d81561cb2a","path":"sprites/spr_coneballproj/spr_coneballproj.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-      ],"parent":{"name":"spr_coneballproj","path":"sprites/spr_coneballproj/spr_coneballproj.yy",},"resourceVersion":"1.0","name":"311a40e4-d4e2-443d-9bf6-889ee99977c3","tags":[],"resourceType":"GMSpriteFrame",},
-    {"compositeImage":{"FrameId":{"name":"2522a1d6-b15f-407d-83b4-b5bc5775b783","path":"sprites/spr_coneballproj/spr_coneballproj.yy",},"LayerId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"2522a1d6-b15f-407d-83b4-b5bc5775b783","path":"sprites/spr_coneballproj/spr_coneballproj.yy",},"LayerId":{"name":"7cc45897-7ffd-4a91-b426-30d81561cb2a","path":"sprites/spr_coneballproj/spr_coneballproj.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-      ],"parent":{"name":"spr_coneballproj","path":"sprites/spr_coneballproj/spr_coneballproj.yy",},"resourceVersion":"1.0","name":"2522a1d6-b15f-407d-83b4-b5bc5775b783","tags":[],"resourceType":"GMSpriteFrame",},
-    {"compositeImage":{"FrameId":{"name":"fda7ce43-856e-420e-908e-f5f677026371","path":"sprites/spr_coneballproj/spr_coneballproj.yy",},"LayerId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"fda7ce43-856e-420e-908e-f5f677026371","path":"sprites/spr_coneballproj/spr_coneballproj.yy",},"LayerId":{"name":"7cc45897-7ffd-4a91-b426-30d81561cb2a","path":"sprites/spr_coneballproj/spr_coneballproj.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-      ],"parent":{"name":"spr_coneballproj","path":"sprites/spr_coneballproj/spr_coneballproj.yy",},"resourceVersion":"1.0","name":"fda7ce43-856e-420e-908e-f5f677026371","tags":[],"resourceType":"GMSpriteFrame",},
-    {"compositeImage":{"FrameId":{"name":"c81ba145-73df-4558-ba91-9de0de4d840f","path":"sprites/spr_coneballproj/spr_coneballproj.yy",},"LayerId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"c81ba145-73df-4558-ba91-9de0de4d840f","path":"sprites/spr_coneballproj/spr_coneballproj.yy",},"LayerId":{"name":"7cc45897-7ffd-4a91-b426-30d81561cb2a","path":"sprites/spr_coneballproj/spr_coneballproj.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-      ],"parent":{"name":"spr_coneballproj","path":"sprites/spr_coneballproj/spr_coneballproj.yy",},"resourceVersion":"1.0","name":"c81ba145-73df-4558-ba91-9de0de4d840f","tags":[],"resourceType":"GMSpriteFrame",},
-    {"compositeImage":{"FrameId":{"name":"6b253af4-f3ef-40c6-9542-e81f5109c2c8","path":"sprites/spr_coneballproj/spr_coneballproj.yy",},"LayerId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"6b253af4-f3ef-40c6-9542-e81f5109c2c8","path":"sprites/spr_coneballproj/spr_coneballproj.yy",},"LayerId":{"name":"7cc45897-7ffd-4a91-b426-30d81561cb2a","path":"sprites/spr_coneballproj/spr_coneballproj.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-      ],"parent":{"name":"spr_coneballproj","path":"sprites/spr_coneballproj/spr_coneballproj.yy",},"resourceVersion":"1.0","name":"6b253af4-f3ef-40c6-9542-e81f5109c2c8","tags":[],"resourceType":"GMSpriteFrame",},
+    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"a42af179-fd5f-4659-9e28-c2d9bd12ab30",},
+    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"311a40e4-d4e2-443d-9bf6-889ee99977c3",},
+    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"2522a1d6-b15f-407d-83b4-b5bc5775b783",},
+    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"fda7ce43-856e-420e-908e-f5f677026371",},
+    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"c81ba145-73df-4558-ba91-9de0de4d840f",},
+    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"6b253af4-f3ef-40c6-9542-e81f5109c2c8",},
   ],
   "sequence": {
-    "spriteId": {"name":"spr_coneballproj","path":"sprites/spr_coneballproj/spr_coneballproj.yy",},
+    "resourceType": "GMSequence",
+    "resourceVersion": "1.4",
+    "name": "spr_coneballproj",
     "timeUnits": 1,
     "playback": 1,
     "playbackSpeed": 1.0,
@@ -55,14 +49,14 @@
     "events": {"Keyframes":[],"resourceVersion":"1.0","resourceType":"KeyframeStore<MessageEventKeyframe>",},
     "moments": {"Keyframes":[],"resourceVersion":"1.0","resourceType":"KeyframeStore<MomentsEventKeyframe>",},
     "tracks": [
-      {"name":"frames","spriteId":null,"keyframes":{"Keyframes":[
+      {"resourceType":"GMSpriteFramesTrack","resourceVersion":"1.0","name":"frames","spriteId":null,"keyframes":{"Keyframes":[
             {"id":"683f4ae5-fc40-4381-8f9c-8d8191802428","Key":0.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"a42af179-fd5f-4659-9e28-c2d9bd12ab30","path":"sprites/spr_coneballproj/spr_coneballproj.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
             {"id":"7a9d6035-9d44-426e-8c4d-2707b64bb01e","Key":1.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"311a40e4-d4e2-443d-9bf6-889ee99977c3","path":"sprites/spr_coneballproj/spr_coneballproj.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
             {"id":"b12388ca-50fe-4d60-b6a7-e9901fe0b67d","Key":2.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"2522a1d6-b15f-407d-83b4-b5bc5775b783","path":"sprites/spr_coneballproj/spr_coneballproj.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
             {"id":"da701513-291a-4942-8cb4-619a0494e12c","Key":3.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"fda7ce43-856e-420e-908e-f5f677026371","path":"sprites/spr_coneballproj/spr_coneballproj.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
             {"id":"99b3ccc9-50c3-4211-a5bf-e868473cc59e","Key":4.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"c81ba145-73df-4558-ba91-9de0de4d840f","path":"sprites/spr_coneballproj/spr_coneballproj.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
             {"id":"59c279bb-995e-417d-a294-cce912aaea23","Key":5.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"6b253af4-f3ef-40c6-9542-e81f5109c2c8","path":"sprites/spr_coneballproj/spr_coneballproj.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
-          ],"resourceVersion":"1.0","resourceType":"KeyframeStore<SpriteFrameKeyframe>",},"trackColour":0,"inheritsTrackColour":true,"builtinName":0,"traits":0,"interpolation":1,"tracks":[],"events":[],"isCreationTrack":false,"resourceVersion":"1.0","tags":[],"resourceType":"GMSpriteFramesTrack","modifiers":[],},
+          ],"resourceVersion":"1.0","resourceType":"KeyframeStore<SpriteFrameKeyframe>",},"trackColour":0,"inheritsTrackColour":true,"builtinName":0,"traits":0,"interpolation":1,"tracks":[],"events":[],"isCreationTrack":false,"modifiers":[],},
     ],
     "visibleRange": null,
     "lockOrigin": false,
@@ -78,22 +72,13 @@
     "yorigin": 100,
     "eventToFunction": {},
     "eventStubScript": null,
-    "parent": {"name":"spr_coneballproj","path":"sprites/spr_coneballproj/spr_coneballproj.yy",},
-    "resourceVersion": "1.4",
-    "name": "spr_coneballproj",
-    "tags": [],
-    "resourceType": "GMSequence",
   },
   "layers": [
-    {"visible":true,"isLocked":false,"blendMode":0,"opacity":100.0,"displayName":"default","resourceVersion":"1.0","name":"7cc45897-7ffd-4a91-b426-30d81561cb2a","tags":[],"resourceType":"GMImageLayer",},
+    {"resourceType":"GMImageLayer","resourceVersion":"1.0","name":"7cc45897-7ffd-4a91-b426-30d81561cb2a","visible":true,"isLocked":false,"blendMode":0,"opacity":100.0,"displayName":"default",},
   ],
   "nineSlice": null,
   "parent": {
     "name": "coneball",
     "path": "folders/Sprites/SUGARY SPIRE/coneball.yy",
   },
-  "resourceVersion": "1.0",
-  "name": "spr_coneballproj",
-  "tags": [],
-  "resourceType": "GMSprite",
 }

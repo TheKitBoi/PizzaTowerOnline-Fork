@@ -1,4 +1,7 @@
 {
+  "resourceType": "GMSprite",
+  "resourceVersion": "1.0",
+  "name": "bg_entryway2_cloudsescape",
   "ConfigValues": {
     "debug": {"textureGroupId":"{\"name\":\"tg_sugaryspire\",\"path\":\"texturegroups/tg_sugaryspire\"}",},
   },
@@ -17,6 +20,7 @@
   "HTile": false,
   "VTile": false,
   "For3D": false,
+  "DynamicTexturePage": false,
   "width": 1100,
   "height": 600,
   "textureGroupId": {
@@ -27,12 +31,12 @@
   "gridX": 0,
   "gridY": 0,
   "frames": [
-    {"compositeImage":{"FrameId":{"name":"703e2f54-1041-4df1-bc2b-6dab48108d4d","path":"sprites/bg_entryway2_cloudsescape/bg_entryway2_cloudsescape.yy",},"LayerId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"703e2f54-1041-4df1-bc2b-6dab48108d4d","path":"sprites/bg_entryway2_cloudsescape/bg_entryway2_cloudsescape.yy",},"LayerId":{"name":"adfc1ad1-5946-48cb-80b0-a9640aa3e2a8","path":"sprites/bg_entryway2_cloudsescape/bg_entryway2_cloudsescape.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-      ],"parent":{"name":"bg_entryway2_cloudsescape","path":"sprites/bg_entryway2_cloudsescape/bg_entryway2_cloudsescape.yy",},"resourceVersion":"1.0","name":"703e2f54-1041-4df1-bc2b-6dab48108d4d","tags":[],"resourceType":"GMSpriteFrame",},
+    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"703e2f54-1041-4df1-bc2b-6dab48108d4d",},
   ],
   "sequence": {
-    "spriteId": {"name":"bg_entryway2_cloudsescape","path":"sprites/bg_entryway2_cloudsescape/bg_entryway2_cloudsescape.yy",},
+    "resourceType": "GMSequence",
+    "resourceVersion": "1.4",
+    "name": "bg_entryway2_cloudsescape",
     "timeUnits": 1,
     "playback": 1,
     "playbackSpeed": 1.0,
@@ -43,9 +47,9 @@
     "events": {"Keyframes":[],"resourceVersion":"1.0","resourceType":"KeyframeStore<MessageEventKeyframe>",},
     "moments": {"Keyframes":[],"resourceVersion":"1.0","resourceType":"KeyframeStore<MomentsEventKeyframe>",},
     "tracks": [
-      {"name":"frames","spriteId":null,"keyframes":{"Keyframes":[
+      {"resourceType":"GMSpriteFramesTrack","resourceVersion":"1.0","name":"frames","spriteId":null,"keyframes":{"Keyframes":[
             {"id":"a19f1d05-4318-470b-89d2-fe52e3c1e468","Key":0.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"703e2f54-1041-4df1-bc2b-6dab48108d4d","path":"sprites/bg_entryway2_cloudsescape/bg_entryway2_cloudsescape.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
-          ],"resourceVersion":"1.0","resourceType":"KeyframeStore<SpriteFrameKeyframe>",},"trackColour":0,"inheritsTrackColour":true,"builtinName":0,"traits":0,"interpolation":1,"tracks":[],"events":[],"isCreationTrack":false,"resourceVersion":"1.0","tags":[],"resourceType":"GMSpriteFramesTrack","modifiers":[],},
+          ],"resourceVersion":"1.0","resourceType":"KeyframeStore<SpriteFrameKeyframe>",},"trackColour":0,"inheritsTrackColour":true,"builtinName":0,"traits":0,"interpolation":1,"tracks":[],"events":[],"isCreationTrack":false,"modifiers":[],},
     ],
     "visibleRange": null,
     "lockOrigin": false,
@@ -61,22 +65,13 @@
     "yorigin": 0,
     "eventToFunction": {},
     "eventStubScript": null,
-    "parent": {"name":"bg_entryway2_cloudsescape","path":"sprites/bg_entryway2_cloudsescape/bg_entryway2_cloudsescape.yy",},
-    "resourceVersion": "1.4",
-    "name": "bg_entryway2_cloudsescape",
-    "tags": [],
-    "resourceType": "GMSequence",
   },
   "layers": [
-    {"visible":true,"isLocked":false,"blendMode":0,"opacity":100.0,"displayName":"default","resourceVersion":"1.0","name":"adfc1ad1-5946-48cb-80b0-a9640aa3e2a8","tags":[],"resourceType":"GMImageLayer",},
+    {"resourceType":"GMImageLayer","resourceVersion":"1.0","name":"adfc1ad1-5946-48cb-80b0-a9640aa3e2a8","visible":true,"isLocked":false,"blendMode":0,"opacity":100.0,"displayName":"default",},
   ],
   "nineSlice": null,
   "parent": {
     "name": "escape",
     "path": "folders/Sprites/SUGARY SPIRE/tilesets/entryway/escape.yy",
   },
-  "resourceVersion": "1.0",
-  "name": "bg_entryway2_cloudsescape",
-  "tags": [],
-  "resourceType": "GMSprite",
 }

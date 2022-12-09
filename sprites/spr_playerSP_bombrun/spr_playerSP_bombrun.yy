@@ -1,4 +1,7 @@
 {
+  "resourceType": "GMSprite",
+  "resourceVersion": "1.0",
+  "name": "spr_playerSP_bombrun",
   "ConfigValues": {
     "debug": {"textureGroupId":"{\"name\":\"tg_player\",\"path\":\"texturegroups/tg_player\"}",},
   },
@@ -17,6 +20,7 @@
   "HTile": false,
   "VTile": false,
   "For3D": false,
+  "DynamicTexturePage": false,
   "width": 100,
   "height": 100,
   "textureGroupId": {
@@ -27,18 +31,14 @@
   "gridX": 0,
   "gridY": 0,
   "frames": [
-    {"compositeImage":{"FrameId":{"name":"09d4ac28-21bc-49f7-8b68-3a5f6792da79","path":"sprites/spr_playerSP_bombrun/spr_playerSP_bombrun.yy",},"LayerId":null,"resourceVersion":"1.0","name":"composite","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"09d4ac28-21bc-49f7-8b68-3a5f6792da79","path":"sprites/spr_playerSP_bombrun/spr_playerSP_bombrun.yy",},"LayerId":{"name":"44e7eaaf-9f81-4948-a20a-90384c764b0e","path":"sprites/spr_playerSP_bombrun/spr_playerSP_bombrun.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-      ],"parent":{"name":"spr_playerSP_bombrun","path":"sprites/spr_playerSP_bombrun/spr_playerSP_bombrun.yy",},"resourceVersion":"1.0","name":"09d4ac28-21bc-49f7-8b68-3a5f6792da79","tags":[],"resourceType":"GMSpriteFrame",},
-    {"compositeImage":{"FrameId":{"name":"d7afe255-95c6-4c71-810c-9cc8b13d519e","path":"sprites/spr_playerSP_bombrun/spr_playerSP_bombrun.yy",},"LayerId":null,"resourceVersion":"1.0","name":"composite","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"d7afe255-95c6-4c71-810c-9cc8b13d519e","path":"sprites/spr_playerSP_bombrun/spr_playerSP_bombrun.yy",},"LayerId":{"name":"44e7eaaf-9f81-4948-a20a-90384c764b0e","path":"sprites/spr_playerSP_bombrun/spr_playerSP_bombrun.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-      ],"parent":{"name":"spr_playerSP_bombrun","path":"sprites/spr_playerSP_bombrun/spr_playerSP_bombrun.yy",},"resourceVersion":"1.0","name":"d7afe255-95c6-4c71-810c-9cc8b13d519e","tags":[],"resourceType":"GMSpriteFrame",},
-    {"compositeImage":{"FrameId":{"name":"ddcca57d-1c94-4bd7-85a0-6890a8e17875","path":"sprites/spr_playerSP_bombrun/spr_playerSP_bombrun.yy",},"LayerId":null,"resourceVersion":"1.0","name":"composite","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"ddcca57d-1c94-4bd7-85a0-6890a8e17875","path":"sprites/spr_playerSP_bombrun/spr_playerSP_bombrun.yy",},"LayerId":{"name":"44e7eaaf-9f81-4948-a20a-90384c764b0e","path":"sprites/spr_playerSP_bombrun/spr_playerSP_bombrun.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-      ],"parent":{"name":"spr_playerSP_bombrun","path":"sprites/spr_playerSP_bombrun/spr_playerSP_bombrun.yy",},"resourceVersion":"1.0","name":"ddcca57d-1c94-4bd7-85a0-6890a8e17875","tags":[],"resourceType":"GMSpriteFrame",},
+    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"09d4ac28-21bc-49f7-8b68-3a5f6792da79",},
+    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"d7afe255-95c6-4c71-810c-9cc8b13d519e",},
+    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"ddcca57d-1c94-4bd7-85a0-6890a8e17875",},
   ],
   "sequence": {
-    "spriteId": {"name":"spr_playerSP_bombrun","path":"sprites/spr_playerSP_bombrun/spr_playerSP_bombrun.yy",},
+    "resourceType": "GMSequence",
+    "resourceVersion": "1.4",
+    "name": "",
     "timeUnits": 1,
     "playback": 1,
     "playbackSpeed": 0.7,
@@ -49,11 +49,11 @@
     "events": {"Keyframes":[],"resourceVersion":"1.0","resourceType":"KeyframeStore<MessageEventKeyframe>",},
     "moments": {"Keyframes":[],"resourceVersion":"1.0","resourceType":"KeyframeStore<MomentsEventKeyframe>",},
     "tracks": [
-      {"name":"frames","spriteId":null,"keyframes":{"Keyframes":[
+      {"resourceType":"GMSpriteFramesTrack","resourceVersion":"1.0","name":"frames","spriteId":null,"keyframes":{"Keyframes":[
             {"id":"ce2eb285-fcd5-47f0-a7f1-359391548a59","Key":0.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"09d4ac28-21bc-49f7-8b68-3a5f6792da79","path":"sprites/spr_playerSP_bombrun/spr_playerSP_bombrun.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
             {"id":"129671a3-38fc-472c-9947-4eb261b2f4c9","Key":1.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"d7afe255-95c6-4c71-810c-9cc8b13d519e","path":"sprites/spr_playerSP_bombrun/spr_playerSP_bombrun.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
             {"id":"6622b89e-e015-401f-ad07-490139abc8f3","Key":2.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"ddcca57d-1c94-4bd7-85a0-6890a8e17875","path":"sprites/spr_playerSP_bombrun/spr_playerSP_bombrun.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
-          ],"resourceVersion":"1.0","resourceType":"KeyframeStore<SpriteFrameKeyframe>",},"trackColour":0,"inheritsTrackColour":true,"builtinName":0,"traits":0,"interpolation":1,"tracks":[],"events":[],"isCreationTrack":false,"resourceVersion":"1.0","tags":[],"resourceType":"GMSpriteFramesTrack","modifiers":[],},
+          ],"resourceVersion":"1.0","resourceType":"KeyframeStore<SpriteFrameKeyframe>",},"trackColour":0,"inheritsTrackColour":true,"builtinName":0,"traits":0,"interpolation":1,"tracks":[],"events":[],"isCreationTrack":false,"modifiers":[],},
     ],
     "visibleRange": null,
     "lockOrigin": false,
@@ -69,22 +69,13 @@
     "yorigin": 50,
     "eventToFunction": {},
     "eventStubScript": null,
-    "parent": {"name":"spr_playerSP_bombrun","path":"sprites/spr_playerSP_bombrun/spr_playerSP_bombrun.yy",},
-    "resourceVersion": "1.4",
-    "name": "",
-    "tags": [],
-    "resourceType": "GMSequence",
   },
   "layers": [
-    {"visible":true,"isLocked":false,"blendMode":0,"opacity":100.0,"displayName":"default","resourceVersion":"1.0","name":"44e7eaaf-9f81-4948-a20a-90384c764b0e","tags":[],"resourceType":"GMImageLayer",},
+    {"resourceType":"GMImageLayer","resourceVersion":"1.0","name":"44e7eaaf-9f81-4948-a20a-90384c764b0e","visible":true,"isLocked":false,"blendMode":0,"opacity":100.0,"displayName":"default",},
   ],
   "nineSlice": null,
   "parent": {
     "name": "pt",
     "path": "folders/Sprites/players/pizzelle/transfo/bomb/pt.yy",
   },
-  "resourceVersion": "1.0",
-  "name": "spr_playerSP_bombrun",
-  "tags": [],
-  "resourceType": "GMSprite",
 }

@@ -19,3 +19,4 @@ faceplayer = true;
 
 basespr = sprite_index;
 talkspr = -1;
+depth = 10;

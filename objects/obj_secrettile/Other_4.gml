@@ -2,7 +2,8 @@ mylayers = ["Tiles_Secret", "Tiles_Secret1", "Tiles_Secret2"];
 if place_meeting(x, y, obj_player)
 {
 	alpha = 0;
-	done = true;
+	if !oneway
+		done = true;
 }
 else if oneway
 {

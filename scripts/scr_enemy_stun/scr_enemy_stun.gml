@@ -89,7 +89,7 @@ function scr_enemy_stun()
 		{
 			sprite_index = other.sprite_index
 			image_index = other.image_index
-			image_xscale = other.xscale
+			image_xscale = other.image_xscale * other.xscale
 		}
     }
 	

@@ -1,4 +1,7 @@
 {
+  "resourceType": "GMSprite",
+  "resourceVersion": "1.0",
+  "name": "spr_tile_medieval4",
   "ConfigValues": {
     "debug": {"textureGroupId":"{\"name\":\"tg_leveleditor\",\"path\":\"texturegroups/tg_leveleditor\"}",},
   },
@@ -17,6 +20,7 @@
   "HTile": false,
   "VTile": false,
   "For3D": false,
+  "DynamicTexturePage": false,
   "width": 32,
   "height": 32,
   "textureGroupId": {
@@ -27,150 +31,58 @@
   "gridX": 0,
   "gridY": 0,
   "frames": [
-    {"compositeImage":{"FrameId":{"name":"df1cd946-8d5c-4b86-94e0-c4bb4dde0374","path":"sprites/spr_tile_medieval4/spr_tile_medieval4.yy",},"LayerId":null,"resourceVersion":"1.0","name":"composite","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"df1cd946-8d5c-4b86-94e0-c4bb4dde0374","path":"sprites/spr_tile_medieval4/spr_tile_medieval4.yy",},"LayerId":{"name":"381cdfaa-d093-4182-95f9-3ba91ca8b7f6","path":"sprites/spr_tile_medieval4/spr_tile_medieval4.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-      ],"parent":{"name":"spr_tile_medieval4","path":"sprites/spr_tile_medieval4/spr_tile_medieval4.yy",},"resourceVersion":"1.0","name":"df1cd946-8d5c-4b86-94e0-c4bb4dde0374","tags":[],"resourceType":"GMSpriteFrame",},
-    {"compositeImage":{"FrameId":{"name":"ecc0a786-e26b-4f6c-add7-3f00e3522873","path":"sprites/spr_tile_medieval4/spr_tile_medieval4.yy",},"LayerId":null,"resourceVersion":"1.0","name":"composite","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"ecc0a786-e26b-4f6c-add7-3f00e3522873","path":"sprites/spr_tile_medieval4/spr_tile_medieval4.yy",},"LayerId":{"name":"381cdfaa-d093-4182-95f9-3ba91ca8b7f6","path":"sprites/spr_tile_medieval4/spr_tile_medieval4.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-      ],"parent":{"name":"spr_tile_medieval4","path":"sprites/spr_tile_medieval4/spr_tile_medieval4.yy",},"resourceVersion":"1.0","name":"ecc0a786-e26b-4f6c-add7-3f00e3522873","tags":[],"resourceType":"GMSpriteFrame",},
-    {"compositeImage":{"FrameId":{"name":"39c226e1-e184-4662-b9c6-09247febd982","path":"sprites/spr_tile_medieval4/spr_tile_medieval4.yy",},"LayerId":null,"resourceVersion":"1.0","name":"composite","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"39c226e1-e184-4662-b9c6-09247febd982","path":"sprites/spr_tile_medieval4/spr_tile_medieval4.yy",},"LayerId":{"name":"381cdfaa-d093-4182-95f9-3ba91ca8b7f6","path":"sprites/spr_tile_medieval4/spr_tile_medieval4.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-      ],"parent":{"name":"spr_tile_medieval4","path":"sprites/spr_tile_medieval4/spr_tile_medieval4.yy",},"resourceVersion":"1.0","name":"39c226e1-e184-4662-b9c6-09247febd982","tags":[],"resourceType":"GMSpriteFrame",},
-    {"compositeImage":{"FrameId":{"name":"aa7e2403-83ef-4f8e-868e-153551a36813","path":"sprites/spr_tile_medieval4/spr_tile_medieval4.yy",},"LayerId":null,"resourceVersion":"1.0","name":"composite","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"aa7e2403-83ef-4f8e-868e-153551a36813","path":"sprites/spr_tile_medieval4/spr_tile_medieval4.yy",},"LayerId":{"name":"381cdfaa-d093-4182-95f9-3ba91ca8b7f6","path":"sprites/spr_tile_medieval4/spr_tile_medieval4.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-      ],"parent":{"name":"spr_tile_medieval4","path":"sprites/spr_tile_medieval4/spr_tile_medieval4.yy",},"resourceVersion":"1.0","name":"aa7e2403-83ef-4f8e-868e-153551a36813","tags":[],"resourceType":"GMSpriteFrame",},
-    {"compositeImage":{"FrameId":{"name":"c222bc82-6adc-4e50-9551-93281a870d2c","path":"sprites/spr_tile_medieval4/spr_tile_medieval4.yy",},"LayerId":null,"resourceVersion":"1.0","name":"composite","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"c222bc82-6adc-4e50-9551-93281a870d2c","path":"sprites/spr_tile_medieval4/spr_tile_medieval4.yy",},"LayerId":{"name":"381cdfaa-d093-4182-95f9-3ba91ca8b7f6","path":"sprites/spr_tile_medieval4/spr_tile_medieval4.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-      ],"parent":{"name":"spr_tile_medieval4","path":"sprites/spr_tile_medieval4/spr_tile_medieval4.yy",},"resourceVersion":"1.0","name":"c222bc82-6adc-4e50-9551-93281a870d2c","tags":[],"resourceType":"GMSpriteFrame",},
-    {"compositeImage":{"FrameId":{"name":"4d502537-197e-4849-9fd4-4b269c8e0110","path":"sprites/spr_tile_medieval4/spr_tile_medieval4.yy",},"LayerId":null,"resourceVersion":"1.0","name":"composite","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"4d502537-197e-4849-9fd4-4b269c8e0110","path":"sprites/spr_tile_medieval4/spr_tile_medieval4.yy",},"LayerId":{"name":"381cdfaa-d093-4182-95f9-3ba91ca8b7f6","path":"sprites/spr_tile_medieval4/spr_tile_medieval4.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-      ],"parent":{"name":"spr_tile_medieval4","path":"sprites/spr_tile_medieval4/spr_tile_medieval4.yy",},"resourceVersion":"1.0","name":"4d502537-197e-4849-9fd4-4b269c8e0110","tags":[],"resourceType":"GMSpriteFrame",},
-    {"compositeImage":{"FrameId":{"name":"e202d9bc-78de-4f78-945b-c2444bc51db1","path":"sprites/spr_tile_medieval4/spr_tile_medieval4.yy",},"LayerId":null,"resourceVersion":"1.0","name":"composite","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"e202d9bc-78de-4f78-945b-c2444bc51db1","path":"sprites/spr_tile_medieval4/spr_tile_medieval4.yy",},"LayerId":{"name":"381cdfaa-d093-4182-95f9-3ba91ca8b7f6","path":"sprites/spr_tile_medieval4/spr_tile_medieval4.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-      ],"parent":{"name":"spr_tile_medieval4","path":"sprites/spr_tile_medieval4/spr_tile_medieval4.yy",},"resourceVersion":"1.0","name":"e202d9bc-78de-4f78-945b-c2444bc51db1","tags":[],"resourceType":"GMSpriteFrame",},
-    {"compositeImage":{"FrameId":{"name":"bc451551-8458-4cd8-942d-46ef568cccff","path":"sprites/spr_tile_medieval4/spr_tile_medieval4.yy",},"LayerId":null,"resourceVersion":"1.0","name":"composite","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"bc451551-8458-4cd8-942d-46ef568cccff","path":"sprites/spr_tile_medieval4/spr_tile_medieval4.yy",},"LayerId":{"name":"381cdfaa-d093-4182-95f9-3ba91ca8b7f6","path":"sprites/spr_tile_medieval4/spr_tile_medieval4.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-      ],"parent":{"name":"spr_tile_medieval4","path":"sprites/spr_tile_medieval4/spr_tile_medieval4.yy",},"resourceVersion":"1.0","name":"bc451551-8458-4cd8-942d-46ef568cccff","tags":[],"resourceType":"GMSpriteFrame",},
-    {"compositeImage":{"FrameId":{"name":"726a2106-e029-44f9-a131-b3e02cb44216","path":"sprites/spr_tile_medieval4/spr_tile_medieval4.yy",},"LayerId":null,"resourceVersion":"1.0","name":"composite","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"726a2106-e029-44f9-a131-b3e02cb44216","path":"sprites/spr_tile_medieval4/spr_tile_medieval4.yy",},"LayerId":{"name":"381cdfaa-d093-4182-95f9-3ba91ca8b7f6","path":"sprites/spr_tile_medieval4/spr_tile_medieval4.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-      ],"parent":{"name":"spr_tile_medieval4","path":"sprites/spr_tile_medieval4/spr_tile_medieval4.yy",},"resourceVersion":"1.0","name":"726a2106-e029-44f9-a131-b3e02cb44216","tags":[],"resourceType":"GMSpriteFrame",},
-    {"compositeImage":{"FrameId":{"name":"38e157df-ce63-45d8-abcc-bfa5713735e0","path":"sprites/spr_tile_medieval4/spr_tile_medieval4.yy",},"LayerId":null,"resourceVersion":"1.0","name":"composite","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"38e157df-ce63-45d8-abcc-bfa5713735e0","path":"sprites/spr_tile_medieval4/spr_tile_medieval4.yy",},"LayerId":{"name":"381cdfaa-d093-4182-95f9-3ba91ca8b7f6","path":"sprites/spr_tile_medieval4/spr_tile_medieval4.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-      ],"parent":{"name":"spr_tile_medieval4","path":"sprites/spr_tile_medieval4/spr_tile_medieval4.yy",},"resourceVersion":"1.0","name":"38e157df-ce63-45d8-abcc-bfa5713735e0","tags":[],"resourceType":"GMSpriteFrame",},
-    {"compositeImage":{"FrameId":{"name":"5ef57fc5-9a60-44e2-9441-eb90882aba9d","path":"sprites/spr_tile_medieval4/spr_tile_medieval4.yy",},"LayerId":null,"resourceVersion":"1.0","name":"composite","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"5ef57fc5-9a60-44e2-9441-eb90882aba9d","path":"sprites/spr_tile_medieval4/spr_tile_medieval4.yy",},"LayerId":{"name":"381cdfaa-d093-4182-95f9-3ba91ca8b7f6","path":"sprites/spr_tile_medieval4/spr_tile_medieval4.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-      ],"parent":{"name":"spr_tile_medieval4","path":"sprites/spr_tile_medieval4/spr_tile_medieval4.yy",},"resourceVersion":"1.0","name":"5ef57fc5-9a60-44e2-9441-eb90882aba9d","tags":[],"resourceType":"GMSpriteFrame",},
-    {"compositeImage":{"FrameId":{"name":"088e6fd9-2038-4f34-99ae-1943c622c8a6","path":"sprites/spr_tile_medieval4/spr_tile_medieval4.yy",},"LayerId":null,"resourceVersion":"1.0","name":"composite","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"088e6fd9-2038-4f34-99ae-1943c622c8a6","path":"sprites/spr_tile_medieval4/spr_tile_medieval4.yy",},"LayerId":{"name":"381cdfaa-d093-4182-95f9-3ba91ca8b7f6","path":"sprites/spr_tile_medieval4/spr_tile_medieval4.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-      ],"parent":{"name":"spr_tile_medieval4","path":"sprites/spr_tile_medieval4/spr_tile_medieval4.yy",},"resourceVersion":"1.0","name":"088e6fd9-2038-4f34-99ae-1943c622c8a6","tags":[],"resourceType":"GMSpriteFrame",},
-    {"compositeImage":{"FrameId":{"name":"9fe932ed-3152-47c0-a438-481cb517d108","path":"sprites/spr_tile_medieval4/spr_tile_medieval4.yy",},"LayerId":null,"resourceVersion":"1.0","name":"composite","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"9fe932ed-3152-47c0-a438-481cb517d108","path":"sprites/spr_tile_medieval4/spr_tile_medieval4.yy",},"LayerId":{"name":"381cdfaa-d093-4182-95f9-3ba91ca8b7f6","path":"sprites/spr_tile_medieval4/spr_tile_medieval4.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-      ],"parent":{"name":"spr_tile_medieval4","path":"sprites/spr_tile_medieval4/spr_tile_medieval4.yy",},"resourceVersion":"1.0","name":"9fe932ed-3152-47c0-a438-481cb517d108","tags":[],"resourceType":"GMSpriteFrame",},
-    {"compositeImage":{"FrameId":{"name":"29e4e8ac-b92d-43c1-b4f7-123f036793d0","path":"sprites/spr_tile_medieval4/spr_tile_medieval4.yy",},"LayerId":null,"resourceVersion":"1.0","name":"composite","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"29e4e8ac-b92d-43c1-b4f7-123f036793d0","path":"sprites/spr_tile_medieval4/spr_tile_medieval4.yy",},"LayerId":{"name":"381cdfaa-d093-4182-95f9-3ba91ca8b7f6","path":"sprites/spr_tile_medieval4/spr_tile_medieval4.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-      ],"parent":{"name":"spr_tile_medieval4","path":"sprites/spr_tile_medieval4/spr_tile_medieval4.yy",},"resourceVersion":"1.0","name":"29e4e8ac-b92d-43c1-b4f7-123f036793d0","tags":[],"resourceType":"GMSpriteFrame",},
-    {"compositeImage":{"FrameId":{"name":"94fe25ec-c9b2-4e9a-81be-ccc142b6b301","path":"sprites/spr_tile_medieval4/spr_tile_medieval4.yy",},"LayerId":null,"resourceVersion":"1.0","name":"composite","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"94fe25ec-c9b2-4e9a-81be-ccc142b6b301","path":"sprites/spr_tile_medieval4/spr_tile_medieval4.yy",},"LayerId":{"name":"381cdfaa-d093-4182-95f9-3ba91ca8b7f6","path":"sprites/spr_tile_medieval4/spr_tile_medieval4.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-      ],"parent":{"name":"spr_tile_medieval4","path":"sprites/spr_tile_medieval4/spr_tile_medieval4.yy",},"resourceVersion":"1.0","name":"94fe25ec-c9b2-4e9a-81be-ccc142b6b301","tags":[],"resourceType":"GMSpriteFrame",},
-    {"compositeImage":{"FrameId":{"name":"4b572ba8-f035-4a84-83cc-e2d0e105cb95","path":"sprites/spr_tile_medieval4/spr_tile_medieval4.yy",},"LayerId":null,"resourceVersion":"1.0","name":"composite","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"4b572ba8-f035-4a84-83cc-e2d0e105cb95","path":"sprites/spr_tile_medieval4/spr_tile_medieval4.yy",},"LayerId":{"name":"381cdfaa-d093-4182-95f9-3ba91ca8b7f6","path":"sprites/spr_tile_medieval4/spr_tile_medieval4.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-      ],"parent":{"name":"spr_tile_medieval4","path":"sprites/spr_tile_medieval4/spr_tile_medieval4.yy",},"resourceVersion":"1.0","name":"4b572ba8-f035-4a84-83cc-e2d0e105cb95","tags":[],"resourceType":"GMSpriteFrame",},
-    {"compositeImage":{"FrameId":{"name":"fe65de2a-661f-466f-92f6-4c7415029628","path":"sprites/spr_tile_medieval4/spr_tile_medieval4.yy",},"LayerId":null,"resourceVersion":"1.0","name":"composite","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"fe65de2a-661f-466f-92f6-4c7415029628","path":"sprites/spr_tile_medieval4/spr_tile_medieval4.yy",},"LayerId":{"name":"381cdfaa-d093-4182-95f9-3ba91ca8b7f6","path":"sprites/spr_tile_medieval4/spr_tile_medieval4.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-      ],"parent":{"name":"spr_tile_medieval4","path":"sprites/spr_tile_medieval4/spr_tile_medieval4.yy",},"resourceVersion":"1.0","name":"fe65de2a-661f-466f-92f6-4c7415029628","tags":[],"resourceType":"GMSpriteFrame",},
-    {"compositeImage":{"FrameId":{"name":"c069296e-f3df-4ab3-8770-37176f0d35e8","path":"sprites/spr_tile_medieval4/spr_tile_medieval4.yy",},"LayerId":null,"resourceVersion":"1.0","name":"composite","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"c069296e-f3df-4ab3-8770-37176f0d35e8","path":"sprites/spr_tile_medieval4/spr_tile_medieval4.yy",},"LayerId":{"name":"381cdfaa-d093-4182-95f9-3ba91ca8b7f6","path":"sprites/spr_tile_medieval4/spr_tile_medieval4.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-      ],"parent":{"name":"spr_tile_medieval4","path":"sprites/spr_tile_medieval4/spr_tile_medieval4.yy",},"resourceVersion":"1.0","name":"c069296e-f3df-4ab3-8770-37176f0d35e8","tags":[],"resourceType":"GMSpriteFrame",},
-    {"compositeImage":{"FrameId":{"name":"a2806f4c-3a61-4725-81da-08e91eaf24ba","path":"sprites/spr_tile_medieval4/spr_tile_medieval4.yy",},"LayerId":null,"resourceVersion":"1.0","name":"composite","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"a2806f4c-3a61-4725-81da-08e91eaf24ba","path":"sprites/spr_tile_medieval4/spr_tile_medieval4.yy",},"LayerId":{"name":"381cdfaa-d093-4182-95f9-3ba91ca8b7f6","path":"sprites/spr_tile_medieval4/spr_tile_medieval4.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-      ],"parent":{"name":"spr_tile_medieval4","path":"sprites/spr_tile_medieval4/spr_tile_medieval4.yy",},"resourceVersion":"1.0","name":"a2806f4c-3a61-4725-81da-08e91eaf24ba","tags":[],"resourceType":"GMSpriteFrame",},
-    {"compositeImage":{"FrameId":{"name":"9330c3b6-fba2-4724-ab66-14701530dc43","path":"sprites/spr_tile_medieval4/spr_tile_medieval4.yy",},"LayerId":null,"resourceVersion":"1.0","name":"composite","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"9330c3b6-fba2-4724-ab66-14701530dc43","path":"sprites/spr_tile_medieval4/spr_tile_medieval4.yy",},"LayerId":{"name":"381cdfaa-d093-4182-95f9-3ba91ca8b7f6","path":"sprites/spr_tile_medieval4/spr_tile_medieval4.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-      ],"parent":{"name":"spr_tile_medieval4","path":"sprites/spr_tile_medieval4/spr_tile_medieval4.yy",},"resourceVersion":"1.0","name":"9330c3b6-fba2-4724-ab66-14701530dc43","tags":[],"resourceType":"GMSpriteFrame",},
-    {"compositeImage":{"FrameId":{"name":"53e6212f-4b99-49c6-b835-7835cdd44039","path":"sprites/spr_tile_medieval4/spr_tile_medieval4.yy",},"LayerId":null,"resourceVersion":"1.0","name":"composite","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"53e6212f-4b99-49c6-b835-7835cdd44039","path":"sprites/spr_tile_medieval4/spr_tile_medieval4.yy",},"LayerId":{"name":"381cdfaa-d093-4182-95f9-3ba91ca8b7f6","path":"sprites/spr_tile_medieval4/spr_tile_medieval4.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-      ],"parent":{"name":"spr_tile_medieval4","path":"sprites/spr_tile_medieval4/spr_tile_medieval4.yy",},"resourceVersion":"1.0","name":"53e6212f-4b99-49c6-b835-7835cdd44039","tags":[],"resourceType":"GMSpriteFrame",},
-    {"compositeImage":{"FrameId":{"name":"b4704c33-185c-4679-bc73-332b697dae64","path":"sprites/spr_tile_medieval4/spr_tile_medieval4.yy",},"LayerId":null,"resourceVersion":"1.0","name":"composite","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"b4704c33-185c-4679-bc73-332b697dae64","path":"sprites/spr_tile_medieval4/spr_tile_medieval4.yy",},"LayerId":{"name":"381cdfaa-d093-4182-95f9-3ba91ca8b7f6","path":"sprites/spr_tile_medieval4/spr_tile_medieval4.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-      ],"parent":{"name":"spr_tile_medieval4","path":"sprites/spr_tile_medieval4/spr_tile_medieval4.yy",},"resourceVersion":"1.0","name":"b4704c33-185c-4679-bc73-332b697dae64","tags":[],"resourceType":"GMSpriteFrame",},
-    {"compositeImage":{"FrameId":{"name":"a4fe6f33-2e9e-4c78-af86-1206c173a8c9","path":"sprites/spr_tile_medieval4/spr_tile_medieval4.yy",},"LayerId":null,"resourceVersion":"1.0","name":"composite","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"a4fe6f33-2e9e-4c78-af86-1206c173a8c9","path":"sprites/spr_tile_medieval4/spr_tile_medieval4.yy",},"LayerId":{"name":"381cdfaa-d093-4182-95f9-3ba91ca8b7f6","path":"sprites/spr_tile_medieval4/spr_tile_medieval4.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-      ],"parent":{"name":"spr_tile_medieval4","path":"sprites/spr_tile_medieval4/spr_tile_medieval4.yy",},"resourceVersion":"1.0","name":"a4fe6f33-2e9e-4c78-af86-1206c173a8c9","tags":[],"resourceType":"GMSpriteFrame",},
-    {"compositeImage":{"FrameId":{"name":"a3ebc2f9-d8e6-4e1d-b4a4-a95ce0d1ad69","path":"sprites/spr_tile_medieval4/spr_tile_medieval4.yy",},"LayerId":null,"resourceVersion":"1.0","name":"composite","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"a3ebc2f9-d8e6-4e1d-b4a4-a95ce0d1ad69","path":"sprites/spr_tile_medieval4/spr_tile_medieval4.yy",},"LayerId":{"name":"381cdfaa-d093-4182-95f9-3ba91ca8b7f6","path":"sprites/spr_tile_medieval4/spr_tile_medieval4.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-      ],"parent":{"name":"spr_tile_medieval4","path":"sprites/spr_tile_medieval4/spr_tile_medieval4.yy",},"resourceVersion":"1.0","name":"a3ebc2f9-d8e6-4e1d-b4a4-a95ce0d1ad69","tags":[],"resourceType":"GMSpriteFrame",},
-    {"compositeImage":{"FrameId":{"name":"c43a58a9-a6f8-4b83-819b-c21866f7d32f","path":"sprites/spr_tile_medieval4/spr_tile_medieval4.yy",},"LayerId":null,"resourceVersion":"1.0","name":"composite","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"c43a58a9-a6f8-4b83-819b-c21866f7d32f","path":"sprites/spr_tile_medieval4/spr_tile_medieval4.yy",},"LayerId":{"name":"381cdfaa-d093-4182-95f9-3ba91ca8b7f6","path":"sprites/spr_tile_medieval4/spr_tile_medieval4.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-      ],"parent":{"name":"spr_tile_medieval4","path":"sprites/spr_tile_medieval4/spr_tile_medieval4.yy",},"resourceVersion":"1.0","name":"c43a58a9-a6f8-4b83-819b-c21866f7d32f","tags":[],"resourceType":"GMSpriteFrame",},
-    {"compositeImage":{"FrameId":{"name":"af34a2b6-8003-43c3-ab69-c518f8fa3207","path":"sprites/spr_tile_medieval4/spr_tile_medieval4.yy",},"LayerId":null,"resourceVersion":"1.0","name":"composite","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"af34a2b6-8003-43c3-ab69-c518f8fa3207","path":"sprites/spr_tile_medieval4/spr_tile_medieval4.yy",},"LayerId":{"name":"381cdfaa-d093-4182-95f9-3ba91ca8b7f6","path":"sprites/spr_tile_medieval4/spr_tile_medieval4.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-      ],"parent":{"name":"spr_tile_medieval4","path":"sprites/spr_tile_medieval4/spr_tile_medieval4.yy",},"resourceVersion":"1.0","name":"af34a2b6-8003-43c3-ab69-c518f8fa3207","tags":[],"resourceType":"GMSpriteFrame",},
-    {"compositeImage":{"FrameId":{"name":"d7da4e13-304f-4169-a548-1c020eb38648","path":"sprites/spr_tile_medieval4/spr_tile_medieval4.yy",},"LayerId":null,"resourceVersion":"1.0","name":"composite","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"d7da4e13-304f-4169-a548-1c020eb38648","path":"sprites/spr_tile_medieval4/spr_tile_medieval4.yy",},"LayerId":{"name":"381cdfaa-d093-4182-95f9-3ba91ca8b7f6","path":"sprites/spr_tile_medieval4/spr_tile_medieval4.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-      ],"parent":{"name":"spr_tile_medieval4","path":"sprites/spr_tile_medieval4/spr_tile_medieval4.yy",},"resourceVersion":"1.0","name":"d7da4e13-304f-4169-a548-1c020eb38648","tags":[],"resourceType":"GMSpriteFrame",},
-    {"compositeImage":{"FrameId":{"name":"8a2573a6-c44a-46ed-ada0-393e68f55927","path":"sprites/spr_tile_medieval4/spr_tile_medieval4.yy",},"LayerId":null,"resourceVersion":"1.0","name":"composite","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"8a2573a6-c44a-46ed-ada0-393e68f55927","path":"sprites/spr_tile_medieval4/spr_tile_medieval4.yy",},"LayerId":{"name":"381cdfaa-d093-4182-95f9-3ba91ca8b7f6","path":"sprites/spr_tile_medieval4/spr_tile_medieval4.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-      ],"parent":{"name":"spr_tile_medieval4","path":"sprites/spr_tile_medieval4/spr_tile_medieval4.yy",},"resourceVersion":"1.0","name":"8a2573a6-c44a-46ed-ada0-393e68f55927","tags":[],"resourceType":"GMSpriteFrame",},
-    {"compositeImage":{"FrameId":{"name":"803ef79d-2652-4dc8-a653-c844719196c5","path":"sprites/spr_tile_medieval4/spr_tile_medieval4.yy",},"LayerId":null,"resourceVersion":"1.0","name":"composite","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"803ef79d-2652-4dc8-a653-c844719196c5","path":"sprites/spr_tile_medieval4/spr_tile_medieval4.yy",},"LayerId":{"name":"381cdfaa-d093-4182-95f9-3ba91ca8b7f6","path":"sprites/spr_tile_medieval4/spr_tile_medieval4.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-      ],"parent":{"name":"spr_tile_medieval4","path":"sprites/spr_tile_medieval4/spr_tile_medieval4.yy",},"resourceVersion":"1.0","name":"803ef79d-2652-4dc8-a653-c844719196c5","tags":[],"resourceType":"GMSpriteFrame",},
-    {"compositeImage":{"FrameId":{"name":"494077b2-0a19-4e41-be8f-a0446231e498","path":"sprites/spr_tile_medieval4/spr_tile_medieval4.yy",},"LayerId":null,"resourceVersion":"1.0","name":"composite","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"494077b2-0a19-4e41-be8f-a0446231e498","path":"sprites/spr_tile_medieval4/spr_tile_medieval4.yy",},"LayerId":{"name":"381cdfaa-d093-4182-95f9-3ba91ca8b7f6","path":"sprites/spr_tile_medieval4/spr_tile_medieval4.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-      ],"parent":{"name":"spr_tile_medieval4","path":"sprites/spr_tile_medieval4/spr_tile_medieval4.yy",},"resourceVersion":"1.0","name":"494077b2-0a19-4e41-be8f-a0446231e498","tags":[],"resourceType":"GMSpriteFrame",},
-    {"compositeImage":{"FrameId":{"name":"3bc3e1b2-da2b-4eb9-a774-f147f8d3455b","path":"sprites/spr_tile_medieval4/spr_tile_medieval4.yy",},"LayerId":null,"resourceVersion":"1.0","name":"composite","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"3bc3e1b2-da2b-4eb9-a774-f147f8d3455b","path":"sprites/spr_tile_medieval4/spr_tile_medieval4.yy",},"LayerId":{"name":"381cdfaa-d093-4182-95f9-3ba91ca8b7f6","path":"sprites/spr_tile_medieval4/spr_tile_medieval4.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-      ],"parent":{"name":"spr_tile_medieval4","path":"sprites/spr_tile_medieval4/spr_tile_medieval4.yy",},"resourceVersion":"1.0","name":"3bc3e1b2-da2b-4eb9-a774-f147f8d3455b","tags":[],"resourceType":"GMSpriteFrame",},
-    {"compositeImage":{"FrameId":{"name":"184c2a12-c289-40a2-b32a-5a2293affcda","path":"sprites/spr_tile_medieval4/spr_tile_medieval4.yy",},"LayerId":null,"resourceVersion":"1.0","name":"composite","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"184c2a12-c289-40a2-b32a-5a2293affcda","path":"sprites/spr_tile_medieval4/spr_tile_medieval4.yy",},"LayerId":{"name":"381cdfaa-d093-4182-95f9-3ba91ca8b7f6","path":"sprites/spr_tile_medieval4/spr_tile_medieval4.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-      ],"parent":{"name":"spr_tile_medieval4","path":"sprites/spr_tile_medieval4/spr_tile_medieval4.yy",},"resourceVersion":"1.0","name":"184c2a12-c289-40a2-b32a-5a2293affcda","tags":[],"resourceType":"GMSpriteFrame",},
-    {"compositeImage":{"FrameId":{"name":"8f497dd3-e2e1-452e-ba78-9a2c9693a4db","path":"sprites/spr_tile_medieval4/spr_tile_medieval4.yy",},"LayerId":null,"resourceVersion":"1.0","name":"composite","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"8f497dd3-e2e1-452e-ba78-9a2c9693a4db","path":"sprites/spr_tile_medieval4/spr_tile_medieval4.yy",},"LayerId":{"name":"381cdfaa-d093-4182-95f9-3ba91ca8b7f6","path":"sprites/spr_tile_medieval4/spr_tile_medieval4.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-      ],"parent":{"name":"spr_tile_medieval4","path":"sprites/spr_tile_medieval4/spr_tile_medieval4.yy",},"resourceVersion":"1.0","name":"8f497dd3-e2e1-452e-ba78-9a2c9693a4db","tags":[],"resourceType":"GMSpriteFrame",},
-    {"compositeImage":{"FrameId":{"name":"9820dc5c-6e6c-4e77-98f9-bbe390b26e71","path":"sprites/spr_tile_medieval4/spr_tile_medieval4.yy",},"LayerId":null,"resourceVersion":"1.0","name":"composite","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"9820dc5c-6e6c-4e77-98f9-bbe390b26e71","path":"sprites/spr_tile_medieval4/spr_tile_medieval4.yy",},"LayerId":{"name":"381cdfaa-d093-4182-95f9-3ba91ca8b7f6","path":"sprites/spr_tile_medieval4/spr_tile_medieval4.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-      ],"parent":{"name":"spr_tile_medieval4","path":"sprites/spr_tile_medieval4/spr_tile_medieval4.yy",},"resourceVersion":"1.0","name":"9820dc5c-6e6c-4e77-98f9-bbe390b26e71","tags":[],"resourceType":"GMSpriteFrame",},
-    {"compositeImage":{"FrameId":{"name":"39ea7e40-a55a-4072-b1cd-b46fb87bd320","path":"sprites/spr_tile_medieval4/spr_tile_medieval4.yy",},"LayerId":null,"resourceVersion":"1.0","name":"composite","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"39ea7e40-a55a-4072-b1cd-b46fb87bd320","path":"sprites/spr_tile_medieval4/spr_tile_medieval4.yy",},"LayerId":{"name":"381cdfaa-d093-4182-95f9-3ba91ca8b7f6","path":"sprites/spr_tile_medieval4/spr_tile_medieval4.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-      ],"parent":{"name":"spr_tile_medieval4","path":"sprites/spr_tile_medieval4/spr_tile_medieval4.yy",},"resourceVersion":"1.0","name":"39ea7e40-a55a-4072-b1cd-b46fb87bd320","tags":[],"resourceType":"GMSpriteFrame",},
-    {"compositeImage":{"FrameId":{"name":"ffa78914-a912-4286-9ccc-64355db513d8","path":"sprites/spr_tile_medieval4/spr_tile_medieval4.yy",},"LayerId":null,"resourceVersion":"1.0","name":"composite","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"ffa78914-a912-4286-9ccc-64355db513d8","path":"sprites/spr_tile_medieval4/spr_tile_medieval4.yy",},"LayerId":{"name":"381cdfaa-d093-4182-95f9-3ba91ca8b7f6","path":"sprites/spr_tile_medieval4/spr_tile_medieval4.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-      ],"parent":{"name":"spr_tile_medieval4","path":"sprites/spr_tile_medieval4/spr_tile_medieval4.yy",},"resourceVersion":"1.0","name":"ffa78914-a912-4286-9ccc-64355db513d8","tags":[],"resourceType":"GMSpriteFrame",},
-    {"compositeImage":{"FrameId":{"name":"8f4db5e3-3a3a-44d8-b98f-1ccba9f3c247","path":"sprites/spr_tile_medieval4/spr_tile_medieval4.yy",},"LayerId":null,"resourceVersion":"1.0","name":"composite","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"8f4db5e3-3a3a-44d8-b98f-1ccba9f3c247","path":"sprites/spr_tile_medieval4/spr_tile_medieval4.yy",},"LayerId":{"name":"381cdfaa-d093-4182-95f9-3ba91ca8b7f6","path":"sprites/spr_tile_medieval4/spr_tile_medieval4.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-      ],"parent":{"name":"spr_tile_medieval4","path":"sprites/spr_tile_medieval4/spr_tile_medieval4.yy",},"resourceVersion":"1.0","name":"8f4db5e3-3a3a-44d8-b98f-1ccba9f3c247","tags":[],"resourceType":"GMSpriteFrame",},
-    {"compositeImage":{"FrameId":{"name":"012271ed-e85c-4b75-b8f0-a3ca9d4140bc","path":"sprites/spr_tile_medieval4/spr_tile_medieval4.yy",},"LayerId":null,"resourceVersion":"1.0","name":"composite","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"012271ed-e85c-4b75-b8f0-a3ca9d4140bc","path":"sprites/spr_tile_medieval4/spr_tile_medieval4.yy",},"LayerId":{"name":"381cdfaa-d093-4182-95f9-3ba91ca8b7f6","path":"sprites/spr_tile_medieval4/spr_tile_medieval4.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-      ],"parent":{"name":"spr_tile_medieval4","path":"sprites/spr_tile_medieval4/spr_tile_medieval4.yy",},"resourceVersion":"1.0","name":"012271ed-e85c-4b75-b8f0-a3ca9d4140bc","tags":[],"resourceType":"GMSpriteFrame",},
-    {"compositeImage":{"FrameId":{"name":"faf6dfe4-ea90-4bae-8ed5-4026784ad571","path":"sprites/spr_tile_medieval4/spr_tile_medieval4.yy",},"LayerId":null,"resourceVersion":"1.0","name":"composite","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"faf6dfe4-ea90-4bae-8ed5-4026784ad571","path":"sprites/spr_tile_medieval4/spr_tile_medieval4.yy",},"LayerId":{"name":"381cdfaa-d093-4182-95f9-3ba91ca8b7f6","path":"sprites/spr_tile_medieval4/spr_tile_medieval4.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-      ],"parent":{"name":"spr_tile_medieval4","path":"sprites/spr_tile_medieval4/spr_tile_medieval4.yy",},"resourceVersion":"1.0","name":"faf6dfe4-ea90-4bae-8ed5-4026784ad571","tags":[],"resourceType":"GMSpriteFrame",},
-    {"compositeImage":{"FrameId":{"name":"ad24c2a2-5c79-467f-b5c4-649b9ad8567b","path":"sprites/spr_tile_medieval4/spr_tile_medieval4.yy",},"LayerId":null,"resourceVersion":"1.0","name":"composite","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"ad24c2a2-5c79-467f-b5c4-649b9ad8567b","path":"sprites/spr_tile_medieval4/spr_tile_medieval4.yy",},"LayerId":{"name":"381cdfaa-d093-4182-95f9-3ba91ca8b7f6","path":"sprites/spr_tile_medieval4/spr_tile_medieval4.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-      ],"parent":{"name":"spr_tile_medieval4","path":"sprites/spr_tile_medieval4/spr_tile_medieval4.yy",},"resourceVersion":"1.0","name":"ad24c2a2-5c79-467f-b5c4-649b9ad8567b","tags":[],"resourceType":"GMSpriteFrame",},
-    {"compositeImage":{"FrameId":{"name":"76f022c6-a670-4039-b546-307618894308","path":"sprites/spr_tile_medieval4/spr_tile_medieval4.yy",},"LayerId":null,"resourceVersion":"1.0","name":"composite","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"76f022c6-a670-4039-b546-307618894308","path":"sprites/spr_tile_medieval4/spr_tile_medieval4.yy",},"LayerId":{"name":"381cdfaa-d093-4182-95f9-3ba91ca8b7f6","path":"sprites/spr_tile_medieval4/spr_tile_medieval4.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-      ],"parent":{"name":"spr_tile_medieval4","path":"sprites/spr_tile_medieval4/spr_tile_medieval4.yy",},"resourceVersion":"1.0","name":"76f022c6-a670-4039-b546-307618894308","tags":[],"resourceType":"GMSpriteFrame",},
-    {"compositeImage":{"FrameId":{"name":"7598fe27-5d2d-47e4-ba82-a73e094201bc","path":"sprites/spr_tile_medieval4/spr_tile_medieval4.yy",},"LayerId":null,"resourceVersion":"1.0","name":"composite","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"7598fe27-5d2d-47e4-ba82-a73e094201bc","path":"sprites/spr_tile_medieval4/spr_tile_medieval4.yy",},"LayerId":{"name":"381cdfaa-d093-4182-95f9-3ba91ca8b7f6","path":"sprites/spr_tile_medieval4/spr_tile_medieval4.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-      ],"parent":{"name":"spr_tile_medieval4","path":"sprites/spr_tile_medieval4/spr_tile_medieval4.yy",},"resourceVersion":"1.0","name":"7598fe27-5d2d-47e4-ba82-a73e094201bc","tags":[],"resourceType":"GMSpriteFrame",},
-    {"compositeImage":{"FrameId":{"name":"1a35b780-33e1-4f1f-881e-84f253b3c428","path":"sprites/spr_tile_medieval4/spr_tile_medieval4.yy",},"LayerId":null,"resourceVersion":"1.0","name":"composite","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"1a35b780-33e1-4f1f-881e-84f253b3c428","path":"sprites/spr_tile_medieval4/spr_tile_medieval4.yy",},"LayerId":{"name":"381cdfaa-d093-4182-95f9-3ba91ca8b7f6","path":"sprites/spr_tile_medieval4/spr_tile_medieval4.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-      ],"parent":{"name":"spr_tile_medieval4","path":"sprites/spr_tile_medieval4/spr_tile_medieval4.yy",},"resourceVersion":"1.0","name":"1a35b780-33e1-4f1f-881e-84f253b3c428","tags":[],"resourceType":"GMSpriteFrame",},
-    {"compositeImage":{"FrameId":{"name":"3533584b-906e-450d-b011-68e3bb5514bb","path":"sprites/spr_tile_medieval4/spr_tile_medieval4.yy",},"LayerId":null,"resourceVersion":"1.0","name":"composite","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"3533584b-906e-450d-b011-68e3bb5514bb","path":"sprites/spr_tile_medieval4/spr_tile_medieval4.yy",},"LayerId":{"name":"381cdfaa-d093-4182-95f9-3ba91ca8b7f6","path":"sprites/spr_tile_medieval4/spr_tile_medieval4.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-      ],"parent":{"name":"spr_tile_medieval4","path":"sprites/spr_tile_medieval4/spr_tile_medieval4.yy",},"resourceVersion":"1.0","name":"3533584b-906e-450d-b011-68e3bb5514bb","tags":[],"resourceType":"GMSpriteFrame",},
-    {"compositeImage":{"FrameId":{"name":"42966109-8f42-4cc0-9727-f43d108b37bb","path":"sprites/spr_tile_medieval4/spr_tile_medieval4.yy",},"LayerId":null,"resourceVersion":"1.0","name":"composite","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"42966109-8f42-4cc0-9727-f43d108b37bb","path":"sprites/spr_tile_medieval4/spr_tile_medieval4.yy",},"LayerId":{"name":"381cdfaa-d093-4182-95f9-3ba91ca8b7f6","path":"sprites/spr_tile_medieval4/spr_tile_medieval4.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-      ],"parent":{"name":"spr_tile_medieval4","path":"sprites/spr_tile_medieval4/spr_tile_medieval4.yy",},"resourceVersion":"1.0","name":"42966109-8f42-4cc0-9727-f43d108b37bb","tags":[],"resourceType":"GMSpriteFrame",},
-    {"compositeImage":{"FrameId":{"name":"be93123d-435e-4474-bf76-b35bdb369981","path":"sprites/spr_tile_medieval4/spr_tile_medieval4.yy",},"LayerId":null,"resourceVersion":"1.0","name":"composite","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"be93123d-435e-4474-bf76-b35bdb369981","path":"sprites/spr_tile_medieval4/spr_tile_medieval4.yy",},"LayerId":{"name":"381cdfaa-d093-4182-95f9-3ba91ca8b7f6","path":"sprites/spr_tile_medieval4/spr_tile_medieval4.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-      ],"parent":{"name":"spr_tile_medieval4","path":"sprites/spr_tile_medieval4/spr_tile_medieval4.yy",},"resourceVersion":"1.0","name":"be93123d-435e-4474-bf76-b35bdb369981","tags":[],"resourceType":"GMSpriteFrame",},
-    {"compositeImage":{"FrameId":{"name":"7986dcbd-f89f-4f62-b9e3-0279279d5b6a","path":"sprites/spr_tile_medieval4/spr_tile_medieval4.yy",},"LayerId":null,"resourceVersion":"1.0","name":"composite","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"7986dcbd-f89f-4f62-b9e3-0279279d5b6a","path":"sprites/spr_tile_medieval4/spr_tile_medieval4.yy",},"LayerId":{"name":"381cdfaa-d093-4182-95f9-3ba91ca8b7f6","path":"sprites/spr_tile_medieval4/spr_tile_medieval4.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-      ],"parent":{"name":"spr_tile_medieval4","path":"sprites/spr_tile_medieval4/spr_tile_medieval4.yy",},"resourceVersion":"1.0","name":"7986dcbd-f89f-4f62-b9e3-0279279d5b6a","tags":[],"resourceType":"GMSpriteFrame",},
+    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"df1cd946-8d5c-4b86-94e0-c4bb4dde0374",},
+    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"ecc0a786-e26b-4f6c-add7-3f00e3522873",},
+    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"39c226e1-e184-4662-b9c6-09247febd982",},
+    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"aa7e2403-83ef-4f8e-868e-153551a36813",},
+    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"c222bc82-6adc-4e50-9551-93281a870d2c",},
+    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"4d502537-197e-4849-9fd4-4b269c8e0110",},
+    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"e202d9bc-78de-4f78-945b-c2444bc51db1",},
+    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"bc451551-8458-4cd8-942d-46ef568cccff",},
+    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"726a2106-e029-44f9-a131-b3e02cb44216",},
+    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"38e157df-ce63-45d8-abcc-bfa5713735e0",},
+    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"5ef57fc5-9a60-44e2-9441-eb90882aba9d",},
+    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"088e6fd9-2038-4f34-99ae-1943c622c8a6",},
+    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"9fe932ed-3152-47c0-a438-481cb517d108",},
+    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"29e4e8ac-b92d-43c1-b4f7-123f036793d0",},
+    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"94fe25ec-c9b2-4e9a-81be-ccc142b6b301",},
+    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"4b572ba8-f035-4a84-83cc-e2d0e105cb95",},
+    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"fe65de2a-661f-466f-92f6-4c7415029628",},
+    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"c069296e-f3df-4ab3-8770-37176f0d35e8",},
+    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"a2806f4c-3a61-4725-81da-08e91eaf24ba",},
+    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"9330c3b6-fba2-4724-ab66-14701530dc43",},
+    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"53e6212f-4b99-49c6-b835-7835cdd44039",},
+    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"b4704c33-185c-4679-bc73-332b697dae64",},
+    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"a4fe6f33-2e9e-4c78-af86-1206c173a8c9",},
+    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"a3ebc2f9-d8e6-4e1d-b4a4-a95ce0d1ad69",},
+    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"c43a58a9-a6f8-4b83-819b-c21866f7d32f",},
+    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"af34a2b6-8003-43c3-ab69-c518f8fa3207",},
+    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"d7da4e13-304f-4169-a548-1c020eb38648",},
+    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"8a2573a6-c44a-46ed-ada0-393e68f55927",},
+    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"803ef79d-2652-4dc8-a653-c844719196c5",},
+    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"494077b2-0a19-4e41-be8f-a0446231e498",},
+    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"3bc3e1b2-da2b-4eb9-a774-f147f8d3455b",},
+    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"184c2a12-c289-40a2-b32a-5a2293affcda",},
+    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"8f497dd3-e2e1-452e-ba78-9a2c9693a4db",},
+    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"9820dc5c-6e6c-4e77-98f9-bbe390b26e71",},
+    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"39ea7e40-a55a-4072-b1cd-b46fb87bd320",},
+    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"ffa78914-a912-4286-9ccc-64355db513d8",},
+    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"8f4db5e3-3a3a-44d8-b98f-1ccba9f3c247",},
+    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"012271ed-e85c-4b75-b8f0-a3ca9d4140bc",},
+    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"faf6dfe4-ea90-4bae-8ed5-4026784ad571",},
+    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"ad24c2a2-5c79-467f-b5c4-649b9ad8567b",},
+    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"76f022c6-a670-4039-b546-307618894308",},
+    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"7598fe27-5d2d-47e4-ba82-a73e094201bc",},
+    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"1a35b780-33e1-4f1f-881e-84f253b3c428",},
+    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"3533584b-906e-450d-b011-68e3bb5514bb",},
+    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"42966109-8f42-4cc0-9727-f43d108b37bb",},
+    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"be93123d-435e-4474-bf76-b35bdb369981",},
+    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"7986dcbd-f89f-4f62-b9e3-0279279d5b6a",},
   ],
   "sequence": {
-    "spriteId": {"name":"spr_tile_medieval4","path":"sprites/spr_tile_medieval4/spr_tile_medieval4.yy",},
+    "resourceType": "GMSequence",
+    "resourceVersion": "1.4",
+    "name": "",
     "timeUnits": 1,
     "playback": 1,
     "playbackSpeed": 1.0,
@@ -181,7 +93,7 @@
     "events": {"Keyframes":[],"resourceVersion":"1.0","resourceType":"KeyframeStore<MessageEventKeyframe>",},
     "moments": {"Keyframes":[],"resourceVersion":"1.0","resourceType":"KeyframeStore<MomentsEventKeyframe>",},
     "tracks": [
-      {"name":"frames","spriteId":null,"keyframes":{"Keyframes":[
+      {"resourceType":"GMSpriteFramesTrack","resourceVersion":"1.0","name":"frames","spriteId":null,"keyframes":{"Keyframes":[
             {"id":"61915646-d048-48fd-9e8d-1a27bf3f0572","Key":0.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"df1cd946-8d5c-4b86-94e0-c4bb4dde0374","path":"sprites/spr_tile_medieval4/spr_tile_medieval4.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
             {"id":"71afde6e-dd36-4932-a711-e584f7ed6475","Key":1.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"ecc0a786-e26b-4f6c-add7-3f00e3522873","path":"sprites/spr_tile_medieval4/spr_tile_medieval4.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
             {"id":"1d68f315-e5d2-4333-8ac8-679297ac20bd","Key":2.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"39c226e1-e184-4662-b9c6-09247febd982","path":"sprites/spr_tile_medieval4/spr_tile_medieval4.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
@@ -229,7 +141,7 @@
             {"id":"0aabdcaa-754e-4d7c-8c7e-c67916682035","Key":44.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"42966109-8f42-4cc0-9727-f43d108b37bb","path":"sprites/spr_tile_medieval4/spr_tile_medieval4.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
             {"id":"a76ed371-3795-4384-870d-10c559b49dca","Key":45.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"be93123d-435e-4474-bf76-b35bdb369981","path":"sprites/spr_tile_medieval4/spr_tile_medieval4.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
             {"id":"463f09d1-0e5b-4574-97de-dba91986e68e","Key":46.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"7986dcbd-f89f-4f62-b9e3-0279279d5b6a","path":"sprites/spr_tile_medieval4/spr_tile_medieval4.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
-          ],"resourceVersion":"1.0","resourceType":"KeyframeStore<SpriteFrameKeyframe>",},"trackColour":0,"inheritsTrackColour":true,"builtinName":0,"traits":0,"interpolation":1,"tracks":[],"events":[],"isCreationTrack":false,"resourceVersion":"1.0","tags":[],"resourceType":"GMSpriteFramesTrack","modifiers":[],},
+          ],"resourceVersion":"1.0","resourceType":"KeyframeStore<SpriteFrameKeyframe>",},"trackColour":0,"inheritsTrackColour":true,"builtinName":0,"traits":0,"interpolation":1,"tracks":[],"events":[],"isCreationTrack":false,"modifiers":[],},
     ],
     "visibleRange": {"x":0.0,"y":0.0,},
     "lockOrigin": false,
@@ -245,22 +157,13 @@
     "yorigin": 0,
     "eventToFunction": {},
     "eventStubScript": null,
-    "parent": {"name":"spr_tile_medieval4","path":"sprites/spr_tile_medieval4/spr_tile_medieval4.yy",},
-    "resourceVersion": "1.4",
-    "name": "",
-    "tags": [],
-    "resourceType": "GMSequence",
   },
   "layers": [
-    {"visible":true,"isLocked":false,"blendMode":0,"opacity":100.0,"displayName":"default","resourceVersion":"1.0","name":"381cdfaa-d093-4182-95f9-3ba91ca8b7f6","tags":[],"resourceType":"GMImageLayer",},
+    {"resourceType":"GMImageLayer","resourceVersion":"1.0","name":"381cdfaa-d093-4182-95f9-3ba91ca8b7f6","visible":true,"isLocked":false,"blendMode":0,"opacity":100.0,"displayName":"default",},
   ],
   "nineSlice": null,
   "parent": {
     "name": "Tiles",
     "path": "folders/Sprites/sertif's editor/Tiles.yy",
   },
-  "resourceVersion": "1.0",
-  "name": "spr_tile_medieval4",
-  "tags": [],
-  "resourceType": "GMSprite",
 }

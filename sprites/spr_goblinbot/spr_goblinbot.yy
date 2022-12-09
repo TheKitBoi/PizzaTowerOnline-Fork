@@ -1,4 +1,7 @@
 {
+  "resourceType": "GMSprite",
+  "resourceVersion": "1.0",
+  "name": "spr_goblinbot",
   "ConfigValues": {
     "debug": {"textureGroupId":"{\"name\":\"tg_baddie\",\"path\":\"texturegroups/tg_baddie\"}",},
   },
@@ -17,6 +20,7 @@
   "HTile": false,
   "VTile": false,
   "For3D": false,
+  "DynamicTexturePage": false,
   "width": 141,
   "height": 70,
   "textureGroupId": {
@@ -27,18 +31,14 @@
   "gridX": 0,
   "gridY": 0,
   "frames": [
-    {"compositeImage":{"FrameId":{"name":"eb29440d-fcde-4d99-b587-0b00ff228f33","path":"sprites/spr_goblinbot/spr_goblinbot.yy",},"LayerId":null,"resourceVersion":"1.0","name":"composite","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"eb29440d-fcde-4d99-b587-0b00ff228f33","path":"sprites/spr_goblinbot/spr_goblinbot.yy",},"LayerId":{"name":"ad7d0489-b0e5-44a1-9acb-e0757cc277e5","path":"sprites/spr_goblinbot/spr_goblinbot.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-      ],"parent":{"name":"spr_goblinbot","path":"sprites/spr_goblinbot/spr_goblinbot.yy",},"resourceVersion":"1.0","name":"eb29440d-fcde-4d99-b587-0b00ff228f33","tags":[],"resourceType":"GMSpriteFrame",},
-    {"compositeImage":{"FrameId":{"name":"1a62208d-9211-4126-b574-35a40a2c3bf3","path":"sprites/spr_goblinbot/spr_goblinbot.yy",},"LayerId":null,"resourceVersion":"1.0","name":"composite","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"1a62208d-9211-4126-b574-35a40a2c3bf3","path":"sprites/spr_goblinbot/spr_goblinbot.yy",},"LayerId":{"name":"ad7d0489-b0e5-44a1-9acb-e0757cc277e5","path":"sprites/spr_goblinbot/spr_goblinbot.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-      ],"parent":{"name":"spr_goblinbot","path":"sprites/spr_goblinbot/spr_goblinbot.yy",},"resourceVersion":"1.0","name":"1a62208d-9211-4126-b574-35a40a2c3bf3","tags":[],"resourceType":"GMSpriteFrame",},
-    {"compositeImage":{"FrameId":{"name":"d4348ddc-5908-4ddc-924b-1a811c9457a8","path":"sprites/spr_goblinbot/spr_goblinbot.yy",},"LayerId":null,"resourceVersion":"1.0","name":"composite","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"d4348ddc-5908-4ddc-924b-1a811c9457a8","path":"sprites/spr_goblinbot/spr_goblinbot.yy",},"LayerId":{"name":"ad7d0489-b0e5-44a1-9acb-e0757cc277e5","path":"sprites/spr_goblinbot/spr_goblinbot.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-      ],"parent":{"name":"spr_goblinbot","path":"sprites/spr_goblinbot/spr_goblinbot.yy",},"resourceVersion":"1.0","name":"d4348ddc-5908-4ddc-924b-1a811c9457a8","tags":[],"resourceType":"GMSpriteFrame",},
+    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"eb29440d-fcde-4d99-b587-0b00ff228f33",},
+    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"1a62208d-9211-4126-b574-35a40a2c3bf3",},
+    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"d4348ddc-5908-4ddc-924b-1a811c9457a8",},
   ],
   "sequence": {
-    "spriteId": {"name":"spr_goblinbot","path":"sprites/spr_goblinbot/spr_goblinbot.yy",},
+    "resourceType": "GMSequence",
+    "resourceVersion": "1.4",
+    "name": "",
     "timeUnits": 1,
     "playback": 1,
     "playbackSpeed": 1.0,
@@ -49,11 +49,11 @@
     "events": {"Keyframes":[],"resourceVersion":"1.0","resourceType":"KeyframeStore<MessageEventKeyframe>",},
     "moments": {"Keyframes":[],"resourceVersion":"1.0","resourceType":"KeyframeStore<MomentsEventKeyframe>",},
     "tracks": [
-      {"name":"frames","spriteId":null,"keyframes":{"Keyframes":[
+      {"resourceType":"GMSpriteFramesTrack","resourceVersion":"1.0","name":"frames","spriteId":null,"keyframes":{"Keyframes":[
             {"id":"eea71c27-6389-40e6-8e22-0849db071eef","Key":0.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"eb29440d-fcde-4d99-b587-0b00ff228f33","path":"sprites/spr_goblinbot/spr_goblinbot.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
             {"id":"4e130af2-6fc2-4b8f-964e-a613f7dd4ab0","Key":1.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"1a62208d-9211-4126-b574-35a40a2c3bf3","path":"sprites/spr_goblinbot/spr_goblinbot.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
             {"id":"af7f0ca2-a8e2-4b15-94b3-9663132da55f","Key":2.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"d4348ddc-5908-4ddc-924b-1a811c9457a8","path":"sprites/spr_goblinbot/spr_goblinbot.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
-          ],"resourceVersion":"1.0","resourceType":"KeyframeStore<SpriteFrameKeyframe>",},"trackColour":0,"inheritsTrackColour":true,"builtinName":0,"traits":0,"interpolation":1,"tracks":[],"events":[],"isCreationTrack":false,"resourceVersion":"1.0","tags":[],"resourceType":"GMSpriteFramesTrack","modifiers":[],},
+          ],"resourceVersion":"1.0","resourceType":"KeyframeStore<SpriteFrameKeyframe>",},"trackColour":0,"inheritsTrackColour":true,"builtinName":0,"traits":0,"interpolation":1,"tracks":[],"events":[],"isCreationTrack":false,"modifiers":[],},
     ],
     "visibleRange": null,
     "lockOrigin": false,
@@ -69,22 +69,13 @@
     "yorigin": 70,
     "eventToFunction": {},
     "eventStubScript": null,
-    "parent": {"name":"spr_goblinbot","path":"sprites/spr_goblinbot/spr_goblinbot.yy",},
-    "resourceVersion": "1.4",
-    "name": "",
-    "tags": [],
-    "resourceType": "GMSequence",
   },
   "layers": [
-    {"visible":true,"isLocked":false,"blendMode":0,"opacity":100.0,"displayName":"default","resourceVersion":"1.0","name":"ad7d0489-b0e5-44a1-9acb-e0757cc277e5","tags":[],"resourceType":"GMImageLayer",},
+    {"resourceType":"GMImageLayer","resourceVersion":"1.0","name":"ad7d0489-b0e5-44a1-9acb-e0757cc277e5","visible":true,"isLocked":false,"blendMode":0,"opacity":100.0,"displayName":"default",},
   ],
   "nineSlice": null,
   "parent": {
     "name": "goblinbot",
     "path": "folders/Sprites/baddie/goblinbot.yy",
   },
-  "resourceVersion": "1.0",
-  "name": "spr_goblinbot",
-  "tags": [],
-  "resourceType": "GMSprite",
 }

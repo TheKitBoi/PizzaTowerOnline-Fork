@@ -1,4 +1,7 @@
 {
+  "resourceType": "GMSprite",
+  "resourceVersion": "1.0",
+  "name": "spr_pepperman_hurtplayer",
   "bboxMode": 0,
   "collisionKind": 1,
   "type": 0,
@@ -14,6 +17,7 @@
   "HTile": false,
   "VTile": false,
   "For3D": false,
+  "DynamicTexturePage": false,
   "width": 158,
   "height": 137,
   "textureGroupId": {
@@ -24,12 +28,12 @@
   "gridX": 0,
   "gridY": 0,
   "frames": [
-    {"compositeImage":{"FrameId":{"name":"44bfd020-33ca-4eb9-ae5e-0e4e84954018","path":"sprites/spr_pepperman_hurtplayer/spr_pepperman_hurtplayer.yy",},"LayerId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"44bfd020-33ca-4eb9-ae5e-0e4e84954018","path":"sprites/spr_pepperman_hurtplayer/spr_pepperman_hurtplayer.yy",},"LayerId":{"name":"b5f874f5-660e-4bf2-b408-758a1c737a91","path":"sprites/spr_pepperman_hurtplayer/spr_pepperman_hurtplayer.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-      ],"parent":{"name":"spr_pepperman_hurtplayer","path":"sprites/spr_pepperman_hurtplayer/spr_pepperman_hurtplayer.yy",},"resourceVersion":"1.0","name":"44bfd020-33ca-4eb9-ae5e-0e4e84954018","tags":[],"resourceType":"GMSpriteFrame",},
+    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"44bfd020-33ca-4eb9-ae5e-0e4e84954018",},
   ],
   "sequence": {
-    "spriteId": {"name":"spr_pepperman_hurtplayer","path":"sprites/spr_pepperman_hurtplayer/spr_pepperman_hurtplayer.yy",},
+    "resourceType": "GMSequence",
+    "resourceVersion": "1.4",
+    "name": "spr_pepperman_hurtplayer",
     "timeUnits": 1,
     "playback": 1,
     "playbackSpeed": 30.0,
@@ -40,9 +44,9 @@
     "events": {"Keyframes":[],"resourceVersion":"1.0","resourceType":"KeyframeStore<MessageEventKeyframe>",},
     "moments": {"Keyframes":[],"resourceVersion":"1.0","resourceType":"KeyframeStore<MomentsEventKeyframe>",},
     "tracks": [
-      {"name":"frames","spriteId":null,"keyframes":{"Keyframes":[
+      {"resourceType":"GMSpriteFramesTrack","resourceVersion":"1.0","name":"frames","spriteId":null,"keyframes":{"Keyframes":[
             {"id":"7fe5e364-db41-42ba-9631-d9613081804d","Key":0.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"44bfd020-33ca-4eb9-ae5e-0e4e84954018","path":"sprites/spr_pepperman_hurtplayer/spr_pepperman_hurtplayer.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
-          ],"resourceVersion":"1.0","resourceType":"KeyframeStore<SpriteFrameKeyframe>",},"trackColour":0,"inheritsTrackColour":true,"builtinName":0,"traits":0,"interpolation":1,"tracks":[],"events":[],"isCreationTrack":false,"resourceVersion":"1.0","tags":[],"resourceType":"GMSpriteFramesTrack","modifiers":[],},
+          ],"resourceVersion":"1.0","resourceType":"KeyframeStore<SpriteFrameKeyframe>",},"trackColour":0,"inheritsTrackColour":true,"builtinName":0,"traits":0,"interpolation":1,"tracks":[],"events":[],"isCreationTrack":false,"modifiers":[],},
     ],
     "visibleRange": null,
     "lockOrigin": false,
@@ -58,22 +62,13 @@
     "yorigin": 87,
     "eventToFunction": {},
     "eventStubScript": null,
-    "parent": {"name":"spr_pepperman_hurtplayer","path":"sprites/spr_pepperman_hurtplayer/spr_pepperman_hurtplayer.yy",},
-    "resourceVersion": "1.4",
-    "name": "spr_pepperman_hurtplayer",
-    "tags": [],
-    "resourceType": "GMSequence",
   },
   "layers": [
-    {"visible":true,"isLocked":false,"blendMode":0,"opacity":100.0,"displayName":"default","resourceVersion":"1.0","name":"b5f874f5-660e-4bf2-b408-758a1c737a91","tags":[],"resourceType":"GMImageLayer",},
+    {"resourceType":"GMImageLayer","resourceVersion":"1.0","name":"b5f874f5-660e-4bf2-b408-758a1c737a91","visible":true,"isLocked":false,"blendMode":0,"opacity":100.0,"displayName":"default",},
   ],
   "nineSlice": null,
   "parent": {
     "name": "new_pepperman",
     "path": "folders/Sprites/boss/new_pepperman.yy",
   },
-  "resourceVersion": "1.0",
-  "name": "spr_pepperman_hurtplayer",
-  "tags": [],
-  "resourceType": "GMSprite",
 }

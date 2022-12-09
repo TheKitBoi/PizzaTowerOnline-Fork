@@ -1,4 +1,7 @@
 {
+  "resourceType": "GMSprite",
+  "resourceVersion": "1.0",
+  "name": "spr_cowboyhat1",
   "ConfigValues": {
     "debug": {"textureGroupId":"{\"name\":\"Default\",\"path\":\"texturegroups/Default\"}",},
   },
@@ -17,6 +20,7 @@
   "HTile": false,
   "VTile": false,
   "For3D": false,
+  "DynamicTexturePage": false,
   "width": 100,
   "height": 100,
   "textureGroupId": {
@@ -27,30 +31,18 @@
   "gridX": 0,
   "gridY": 0,
   "frames": [
-    {"compositeImage":{"FrameId":{"name":"876d5567-01ef-4ad1-98e8-bc7381c582bb","path":"sprites/spr_cowboyhat1/spr_cowboyhat1.yy",},"LayerId":null,"resourceVersion":"1.0","name":"composite","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"876d5567-01ef-4ad1-98e8-bc7381c582bb","path":"sprites/spr_cowboyhat1/spr_cowboyhat1.yy",},"LayerId":{"name":"e02bfae2-0438-4136-a366-c29eb0ab83ce","path":"sprites/spr_cowboyhat1/spr_cowboyhat1.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-      ],"parent":{"name":"spr_cowboyhat1","path":"sprites/spr_cowboyhat1/spr_cowboyhat1.yy",},"resourceVersion":"1.0","name":"876d5567-01ef-4ad1-98e8-bc7381c582bb","tags":[],"resourceType":"GMSpriteFrame",},
-    {"compositeImage":{"FrameId":{"name":"cd0de012-4e90-4d85-b37e-bf633602ab93","path":"sprites/spr_cowboyhat1/spr_cowboyhat1.yy",},"LayerId":null,"resourceVersion":"1.0","name":"composite","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"cd0de012-4e90-4d85-b37e-bf633602ab93","path":"sprites/spr_cowboyhat1/spr_cowboyhat1.yy",},"LayerId":{"name":"e02bfae2-0438-4136-a366-c29eb0ab83ce","path":"sprites/spr_cowboyhat1/spr_cowboyhat1.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-      ],"parent":{"name":"spr_cowboyhat1","path":"sprites/spr_cowboyhat1/spr_cowboyhat1.yy",},"resourceVersion":"1.0","name":"cd0de012-4e90-4d85-b37e-bf633602ab93","tags":[],"resourceType":"GMSpriteFrame",},
-    {"compositeImage":{"FrameId":{"name":"6bbbd359-ca4d-484b-927e-0d3082b56c1c","path":"sprites/spr_cowboyhat1/spr_cowboyhat1.yy",},"LayerId":null,"resourceVersion":"1.0","name":"composite","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"6bbbd359-ca4d-484b-927e-0d3082b56c1c","path":"sprites/spr_cowboyhat1/spr_cowboyhat1.yy",},"LayerId":{"name":"e02bfae2-0438-4136-a366-c29eb0ab83ce","path":"sprites/spr_cowboyhat1/spr_cowboyhat1.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-      ],"parent":{"name":"spr_cowboyhat1","path":"sprites/spr_cowboyhat1/spr_cowboyhat1.yy",},"resourceVersion":"1.0","name":"6bbbd359-ca4d-484b-927e-0d3082b56c1c","tags":[],"resourceType":"GMSpriteFrame",},
-    {"compositeImage":{"FrameId":{"name":"53b18177-a177-402e-b24a-0f3675ef6218","path":"sprites/spr_cowboyhat1/spr_cowboyhat1.yy",},"LayerId":null,"resourceVersion":"1.0","name":"composite","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"53b18177-a177-402e-b24a-0f3675ef6218","path":"sprites/spr_cowboyhat1/spr_cowboyhat1.yy",},"LayerId":{"name":"e02bfae2-0438-4136-a366-c29eb0ab83ce","path":"sprites/spr_cowboyhat1/spr_cowboyhat1.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-      ],"parent":{"name":"spr_cowboyhat1","path":"sprites/spr_cowboyhat1/spr_cowboyhat1.yy",},"resourceVersion":"1.0","name":"53b18177-a177-402e-b24a-0f3675ef6218","tags":[],"resourceType":"GMSpriteFrame",},
-    {"compositeImage":{"FrameId":{"name":"5487800f-f188-422f-a279-86cbabb60329","path":"sprites/spr_cowboyhat1/spr_cowboyhat1.yy",},"LayerId":null,"resourceVersion":"1.0","name":"composite","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"5487800f-f188-422f-a279-86cbabb60329","path":"sprites/spr_cowboyhat1/spr_cowboyhat1.yy",},"LayerId":{"name":"e02bfae2-0438-4136-a366-c29eb0ab83ce","path":"sprites/spr_cowboyhat1/spr_cowboyhat1.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-      ],"parent":{"name":"spr_cowboyhat1","path":"sprites/spr_cowboyhat1/spr_cowboyhat1.yy",},"resourceVersion":"1.0","name":"5487800f-f188-422f-a279-86cbabb60329","tags":[],"resourceType":"GMSpriteFrame",},
-    {"compositeImage":{"FrameId":{"name":"9b2c4d9e-60ab-4eba-b7c4-94f264cfa02e","path":"sprites/spr_cowboyhat1/spr_cowboyhat1.yy",},"LayerId":null,"resourceVersion":"1.0","name":"composite","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"9b2c4d9e-60ab-4eba-b7c4-94f264cfa02e","path":"sprites/spr_cowboyhat1/spr_cowboyhat1.yy",},"LayerId":{"name":"e02bfae2-0438-4136-a366-c29eb0ab83ce","path":"sprites/spr_cowboyhat1/spr_cowboyhat1.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-      ],"parent":{"name":"spr_cowboyhat1","path":"sprites/spr_cowboyhat1/spr_cowboyhat1.yy",},"resourceVersion":"1.0","name":"9b2c4d9e-60ab-4eba-b7c4-94f264cfa02e","tags":[],"resourceType":"GMSpriteFrame",},
-    {"compositeImage":{"FrameId":{"name":"55be59f1-3a40-4a51-84cd-1414d79da8f7","path":"sprites/spr_cowboyhat1/spr_cowboyhat1.yy",},"LayerId":null,"resourceVersion":"1.0","name":"composite","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"55be59f1-3a40-4a51-84cd-1414d79da8f7","path":"sprites/spr_cowboyhat1/spr_cowboyhat1.yy",},"LayerId":{"name":"e02bfae2-0438-4136-a366-c29eb0ab83ce","path":"sprites/spr_cowboyhat1/spr_cowboyhat1.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-      ],"parent":{"name":"spr_cowboyhat1","path":"sprites/spr_cowboyhat1/spr_cowboyhat1.yy",},"resourceVersion":"1.0","name":"55be59f1-3a40-4a51-84cd-1414d79da8f7","tags":[],"resourceType":"GMSpriteFrame",},
+    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"876d5567-01ef-4ad1-98e8-bc7381c582bb",},
+    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"cd0de012-4e90-4d85-b37e-bf633602ab93",},
+    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"6bbbd359-ca4d-484b-927e-0d3082b56c1c",},
+    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"53b18177-a177-402e-b24a-0f3675ef6218",},
+    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"5487800f-f188-422f-a279-86cbabb60329",},
+    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"9b2c4d9e-60ab-4eba-b7c4-94f264cfa02e",},
+    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"55be59f1-3a40-4a51-84cd-1414d79da8f7",},
   ],
   "sequence": {
-    "spriteId": {"name":"spr_cowboyhat1","path":"sprites/spr_cowboyhat1/spr_cowboyhat1.yy",},
+    "resourceType": "GMSequence",
+    "resourceVersion": "1.4",
+    "name": "spr_cowboyhat1",
     "timeUnits": 1,
     "playback": 1,
     "playbackSpeed": 0.25,
@@ -61,7 +53,7 @@
     "events": {"Keyframes":[],"resourceVersion":"1.0","resourceType":"KeyframeStore<MessageEventKeyframe>",},
     "moments": {"Keyframes":[],"resourceVersion":"1.0","resourceType":"KeyframeStore<MomentsEventKeyframe>",},
     "tracks": [
-      {"name":"frames","spriteId":null,"keyframes":{"Keyframes":[
+      {"resourceType":"GMSpriteFramesTrack","resourceVersion":"1.0","name":"frames","spriteId":null,"keyframes":{"Keyframes":[
             {"id":"c296f044-be67-4c60-b5e0-73aadec34c77","Key":0.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"876d5567-01ef-4ad1-98e8-bc7381c582bb","path":"sprites/spr_cowboyhat1/spr_cowboyhat1.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
             {"id":"d062f0f7-7354-413d-9108-5714d893313e","Key":1.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"cd0de012-4e90-4d85-b37e-bf633602ab93","path":"sprites/spr_cowboyhat1/spr_cowboyhat1.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
             {"id":"12167ac9-9141-4dff-a379-04fb6fe81bec","Key":2.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"6bbbd359-ca4d-484b-927e-0d3082b56c1c","path":"sprites/spr_cowboyhat1/spr_cowboyhat1.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
@@ -69,7 +61,7 @@
             {"id":"cadbfe31-626e-43ab-a788-6ca1b1e19729","Key":4.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"5487800f-f188-422f-a279-86cbabb60329","path":"sprites/spr_cowboyhat1/spr_cowboyhat1.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
             {"id":"ce84c6ae-68a3-4a64-bd75-76a0a1f1a5af","Key":5.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"9b2c4d9e-60ab-4eba-b7c4-94f264cfa02e","path":"sprites/spr_cowboyhat1/spr_cowboyhat1.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
             {"id":"39a278f1-df82-42f6-866c-38b59e57fc29","Key":6.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"55be59f1-3a40-4a51-84cd-1414d79da8f7","path":"sprites/spr_cowboyhat1/spr_cowboyhat1.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
-          ],"resourceVersion":"1.0","resourceType":"KeyframeStore<SpriteFrameKeyframe>",},"trackColour":0,"inheritsTrackColour":true,"builtinName":0,"traits":0,"interpolation":1,"tracks":[],"events":[],"isCreationTrack":false,"resourceVersion":"1.0","tags":[],"resourceType":"GMSpriteFramesTrack","modifiers":[],},
+          ],"resourceVersion":"1.0","resourceType":"KeyframeStore<SpriteFrameKeyframe>",},"trackColour":0,"inheritsTrackColour":true,"builtinName":0,"traits":0,"interpolation":1,"tracks":[],"events":[],"isCreationTrack":false,"modifiers":[],},
     ],
     "visibleRange": null,
     "lockOrigin": false,
@@ -85,22 +77,13 @@
     "yorigin": 50,
     "eventToFunction": {},
     "eventStubScript": null,
-    "parent": {"name":"spr_cowboyhat1","path":"sprites/spr_cowboyhat1/spr_cowboyhat1.yy",},
-    "resourceVersion": "1.4",
-    "name": "spr_cowboyhat1",
-    "tags": [],
-    "resourceType": "GMSequence",
   },
   "layers": [
-    {"visible":true,"isLocked":false,"blendMode":0,"opacity":100.0,"displayName":"default","resourceVersion":"1.0","name":"e02bfae2-0438-4136-a366-c29eb0ab83ce","tags":[],"resourceType":"GMImageLayer",},
+    {"resourceType":"GMImageLayer","resourceVersion":"1.0","name":"e02bfae2-0438-4136-a366-c29eb0ab83ce","visible":true,"isLocked":false,"blendMode":0,"opacity":100.0,"displayName":"default",},
   ],
   "nineSlice": null,
   "parent": {
     "name": "hats",
     "path": "folders/Sprites/PTO extra/hats.yy",
   },
-  "resourceVersion": "1.0",
-  "name": "spr_cowboyhat1",
-  "tags": [],
-  "resourceType": "GMSprite",
 }

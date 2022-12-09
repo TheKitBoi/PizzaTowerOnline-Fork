@@ -1,4 +1,7 @@
 {
+  "resourceType": "GMSprite",
+  "resourceVersion": "1.0",
+  "name": "spr_flingfrog_handsidle",
   "ConfigValues": {
     "debug": {"textureGroupId":"{\"name\":\"tg_sugaryspire\",\"path\":\"texturegroups/tg_sugaryspire\"}",},
   },
@@ -17,6 +20,7 @@
   "HTile": false,
   "VTile": false,
   "For3D": false,
+  "DynamicTexturePage": false,
   "width": 100,
   "height": 100,
   "textureGroupId": {
@@ -27,51 +31,25 @@
   "gridX": 0,
   "gridY": 0,
   "frames": [
-    {"compositeImage":{"FrameId":{"name":"eb0704fa-7e48-4fe7-a198-7e09e69713d3","path":"sprites/spr_flingfrog_handsidle/spr_flingfrog_handsidle.yy",},"LayerId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"eb0704fa-7e48-4fe7-a198-7e09e69713d3","path":"sprites/spr_flingfrog_handsidle/spr_flingfrog_handsidle.yy",},"LayerId":{"name":"24699610-4fa2-4856-8469-486c867d80d6","path":"sprites/spr_flingfrog_handsidle/spr_flingfrog_handsidle.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-      ],"parent":{"name":"spr_flingfrog_handsidle","path":"sprites/spr_flingfrog_handsidle/spr_flingfrog_handsidle.yy",},"resourceVersion":"1.0","name":"eb0704fa-7e48-4fe7-a198-7e09e69713d3","tags":[],"resourceType":"GMSpriteFrame",},
-    {"compositeImage":{"FrameId":{"name":"b6819c26-0d4d-4dd5-b790-c7957b298625","path":"sprites/spr_flingfrog_handsidle/spr_flingfrog_handsidle.yy",},"LayerId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"b6819c26-0d4d-4dd5-b790-c7957b298625","path":"sprites/spr_flingfrog_handsidle/spr_flingfrog_handsidle.yy",},"LayerId":{"name":"24699610-4fa2-4856-8469-486c867d80d6","path":"sprites/spr_flingfrog_handsidle/spr_flingfrog_handsidle.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-      ],"parent":{"name":"spr_flingfrog_handsidle","path":"sprites/spr_flingfrog_handsidle/spr_flingfrog_handsidle.yy",},"resourceVersion":"1.0","name":"b6819c26-0d4d-4dd5-b790-c7957b298625","tags":[],"resourceType":"GMSpriteFrame",},
-    {"compositeImage":{"FrameId":{"name":"f78f5ec8-62c6-4c57-bc58-3715fafc4e11","path":"sprites/spr_flingfrog_handsidle/spr_flingfrog_handsidle.yy",},"LayerId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"f78f5ec8-62c6-4c57-bc58-3715fafc4e11","path":"sprites/spr_flingfrog_handsidle/spr_flingfrog_handsidle.yy",},"LayerId":{"name":"24699610-4fa2-4856-8469-486c867d80d6","path":"sprites/spr_flingfrog_handsidle/spr_flingfrog_handsidle.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-      ],"parent":{"name":"spr_flingfrog_handsidle","path":"sprites/spr_flingfrog_handsidle/spr_flingfrog_handsidle.yy",},"resourceVersion":"1.0","name":"f78f5ec8-62c6-4c57-bc58-3715fafc4e11","tags":[],"resourceType":"GMSpriteFrame",},
-    {"compositeImage":{"FrameId":{"name":"fa382167-6443-4358-82d0-ce5e0af4b821","path":"sprites/spr_flingfrog_handsidle/spr_flingfrog_handsidle.yy",},"LayerId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"fa382167-6443-4358-82d0-ce5e0af4b821","path":"sprites/spr_flingfrog_handsidle/spr_flingfrog_handsidle.yy",},"LayerId":{"name":"24699610-4fa2-4856-8469-486c867d80d6","path":"sprites/spr_flingfrog_handsidle/spr_flingfrog_handsidle.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-      ],"parent":{"name":"spr_flingfrog_handsidle","path":"sprites/spr_flingfrog_handsidle/spr_flingfrog_handsidle.yy",},"resourceVersion":"1.0","name":"fa382167-6443-4358-82d0-ce5e0af4b821","tags":[],"resourceType":"GMSpriteFrame",},
-    {"compositeImage":{"FrameId":{"name":"29f1d946-1608-47cb-bf04-b239fe92aab5","path":"sprites/spr_flingfrog_handsidle/spr_flingfrog_handsidle.yy",},"LayerId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"29f1d946-1608-47cb-bf04-b239fe92aab5","path":"sprites/spr_flingfrog_handsidle/spr_flingfrog_handsidle.yy",},"LayerId":{"name":"24699610-4fa2-4856-8469-486c867d80d6","path":"sprites/spr_flingfrog_handsidle/spr_flingfrog_handsidle.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-      ],"parent":{"name":"spr_flingfrog_handsidle","path":"sprites/spr_flingfrog_handsidle/spr_flingfrog_handsidle.yy",},"resourceVersion":"1.0","name":"29f1d946-1608-47cb-bf04-b239fe92aab5","tags":[],"resourceType":"GMSpriteFrame",},
-    {"compositeImage":{"FrameId":{"name":"ac77891a-24cd-4d06-9f4e-2c95458321fa","path":"sprites/spr_flingfrog_handsidle/spr_flingfrog_handsidle.yy",},"LayerId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"ac77891a-24cd-4d06-9f4e-2c95458321fa","path":"sprites/spr_flingfrog_handsidle/spr_flingfrog_handsidle.yy",},"LayerId":{"name":"24699610-4fa2-4856-8469-486c867d80d6","path":"sprites/spr_flingfrog_handsidle/spr_flingfrog_handsidle.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-      ],"parent":{"name":"spr_flingfrog_handsidle","path":"sprites/spr_flingfrog_handsidle/spr_flingfrog_handsidle.yy",},"resourceVersion":"1.0","name":"ac77891a-24cd-4d06-9f4e-2c95458321fa","tags":[],"resourceType":"GMSpriteFrame",},
-    {"compositeImage":{"FrameId":{"name":"232ef38a-7ba4-43d8-a4d3-20be0e930094","path":"sprites/spr_flingfrog_handsidle/spr_flingfrog_handsidle.yy",},"LayerId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"232ef38a-7ba4-43d8-a4d3-20be0e930094","path":"sprites/spr_flingfrog_handsidle/spr_flingfrog_handsidle.yy",},"LayerId":{"name":"24699610-4fa2-4856-8469-486c867d80d6","path":"sprites/spr_flingfrog_handsidle/spr_flingfrog_handsidle.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-      ],"parent":{"name":"spr_flingfrog_handsidle","path":"sprites/spr_flingfrog_handsidle/spr_flingfrog_handsidle.yy",},"resourceVersion":"1.0","name":"232ef38a-7ba4-43d8-a4d3-20be0e930094","tags":[],"resourceType":"GMSpriteFrame",},
-    {"compositeImage":{"FrameId":{"name":"5362b25f-1dea-4e20-aacb-301415e47257","path":"sprites/spr_flingfrog_handsidle/spr_flingfrog_handsidle.yy",},"LayerId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"5362b25f-1dea-4e20-aacb-301415e47257","path":"sprites/spr_flingfrog_handsidle/spr_flingfrog_handsidle.yy",},"LayerId":{"name":"24699610-4fa2-4856-8469-486c867d80d6","path":"sprites/spr_flingfrog_handsidle/spr_flingfrog_handsidle.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-      ],"parent":{"name":"spr_flingfrog_handsidle","path":"sprites/spr_flingfrog_handsidle/spr_flingfrog_handsidle.yy",},"resourceVersion":"1.0","name":"5362b25f-1dea-4e20-aacb-301415e47257","tags":[],"resourceType":"GMSpriteFrame",},
-    {"compositeImage":{"FrameId":{"name":"726fd1a7-15af-4cb3-90b3-5f459c537251","path":"sprites/spr_flingfrog_handsidle/spr_flingfrog_handsidle.yy",},"LayerId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"726fd1a7-15af-4cb3-90b3-5f459c537251","path":"sprites/spr_flingfrog_handsidle/spr_flingfrog_handsidle.yy",},"LayerId":{"name":"24699610-4fa2-4856-8469-486c867d80d6","path":"sprites/spr_flingfrog_handsidle/spr_flingfrog_handsidle.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-      ],"parent":{"name":"spr_flingfrog_handsidle","path":"sprites/spr_flingfrog_handsidle/spr_flingfrog_handsidle.yy",},"resourceVersion":"1.0","name":"726fd1a7-15af-4cb3-90b3-5f459c537251","tags":[],"resourceType":"GMSpriteFrame",},
-    {"compositeImage":{"FrameId":{"name":"a214cd1e-1596-4393-ba53-b3e47925aa33","path":"sprites/spr_flingfrog_handsidle/spr_flingfrog_handsidle.yy",},"LayerId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"a214cd1e-1596-4393-ba53-b3e47925aa33","path":"sprites/spr_flingfrog_handsidle/spr_flingfrog_handsidle.yy",},"LayerId":{"name":"24699610-4fa2-4856-8469-486c867d80d6","path":"sprites/spr_flingfrog_handsidle/spr_flingfrog_handsidle.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-      ],"parent":{"name":"spr_flingfrog_handsidle","path":"sprites/spr_flingfrog_handsidle/spr_flingfrog_handsidle.yy",},"resourceVersion":"1.0","name":"a214cd1e-1596-4393-ba53-b3e47925aa33","tags":[],"resourceType":"GMSpriteFrame",},
-    {"compositeImage":{"FrameId":{"name":"94993843-2997-44d0-98ee-4815e114db54","path":"sprites/spr_flingfrog_handsidle/spr_flingfrog_handsidle.yy",},"LayerId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"94993843-2997-44d0-98ee-4815e114db54","path":"sprites/spr_flingfrog_handsidle/spr_flingfrog_handsidle.yy",},"LayerId":{"name":"24699610-4fa2-4856-8469-486c867d80d6","path":"sprites/spr_flingfrog_handsidle/spr_flingfrog_handsidle.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-      ],"parent":{"name":"spr_flingfrog_handsidle","path":"sprites/spr_flingfrog_handsidle/spr_flingfrog_handsidle.yy",},"resourceVersion":"1.0","name":"94993843-2997-44d0-98ee-4815e114db54","tags":[],"resourceType":"GMSpriteFrame",},
-    {"compositeImage":{"FrameId":{"name":"10774fbb-c136-497e-a1b3-7ee6d7985a1b","path":"sprites/spr_flingfrog_handsidle/spr_flingfrog_handsidle.yy",},"LayerId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"10774fbb-c136-497e-a1b3-7ee6d7985a1b","path":"sprites/spr_flingfrog_handsidle/spr_flingfrog_handsidle.yy",},"LayerId":{"name":"24699610-4fa2-4856-8469-486c867d80d6","path":"sprites/spr_flingfrog_handsidle/spr_flingfrog_handsidle.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-      ],"parent":{"name":"spr_flingfrog_handsidle","path":"sprites/spr_flingfrog_handsidle/spr_flingfrog_handsidle.yy",},"resourceVersion":"1.0","name":"10774fbb-c136-497e-a1b3-7ee6d7985a1b","tags":[],"resourceType":"GMSpriteFrame",},
-    {"compositeImage":{"FrameId":{"name":"775ab8a4-1a42-4513-841b-b2994b031e5c","path":"sprites/spr_flingfrog_handsidle/spr_flingfrog_handsidle.yy",},"LayerId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"775ab8a4-1a42-4513-841b-b2994b031e5c","path":"sprites/spr_flingfrog_handsidle/spr_flingfrog_handsidle.yy",},"LayerId":{"name":"24699610-4fa2-4856-8469-486c867d80d6","path":"sprites/spr_flingfrog_handsidle/spr_flingfrog_handsidle.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-      ],"parent":{"name":"spr_flingfrog_handsidle","path":"sprites/spr_flingfrog_handsidle/spr_flingfrog_handsidle.yy",},"resourceVersion":"1.0","name":"775ab8a4-1a42-4513-841b-b2994b031e5c","tags":[],"resourceType":"GMSpriteFrame",},
-    {"compositeImage":{"FrameId":{"name":"e6dec48e-b1f4-460b-a426-f55a7aa89f43","path":"sprites/spr_flingfrog_handsidle/spr_flingfrog_handsidle.yy",},"LayerId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"e6dec48e-b1f4-460b-a426-f55a7aa89f43","path":"sprites/spr_flingfrog_handsidle/spr_flingfrog_handsidle.yy",},"LayerId":{"name":"24699610-4fa2-4856-8469-486c867d80d6","path":"sprites/spr_flingfrog_handsidle/spr_flingfrog_handsidle.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-      ],"parent":{"name":"spr_flingfrog_handsidle","path":"sprites/spr_flingfrog_handsidle/spr_flingfrog_handsidle.yy",},"resourceVersion":"1.0","name":"e6dec48e-b1f4-460b-a426-f55a7aa89f43","tags":[],"resourceType":"GMSpriteFrame",},
+    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"eb0704fa-7e48-4fe7-a198-7e09e69713d3",},
+    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"b6819c26-0d4d-4dd5-b790-c7957b298625",},
+    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"f78f5ec8-62c6-4c57-bc58-3715fafc4e11",},
+    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"fa382167-6443-4358-82d0-ce5e0af4b821",},
+    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"29f1d946-1608-47cb-bf04-b239fe92aab5",},
+    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"ac77891a-24cd-4d06-9f4e-2c95458321fa",},
+    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"232ef38a-7ba4-43d8-a4d3-20be0e930094",},
+    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"5362b25f-1dea-4e20-aacb-301415e47257",},
+    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"726fd1a7-15af-4cb3-90b3-5f459c537251",},
+    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"a214cd1e-1596-4393-ba53-b3e47925aa33",},
+    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"94993843-2997-44d0-98ee-4815e114db54",},
+    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"10774fbb-c136-497e-a1b3-7ee6d7985a1b",},
+    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"775ab8a4-1a42-4513-841b-b2994b031e5c",},
+    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"e6dec48e-b1f4-460b-a426-f55a7aa89f43",},
   ],
   "sequence": {
-    "spriteId": {"name":"spr_flingfrog_handsidle","path":"sprites/spr_flingfrog_handsidle/spr_flingfrog_handsidle.yy",},
+    "resourceType": "GMSequence",
+    "resourceVersion": "1.4",
+    "name": "spr_flingfrog_handsidle",
     "timeUnits": 1,
     "playback": 1,
     "playbackSpeed": 1.0,
@@ -82,7 +60,7 @@
     "events": {"Keyframes":[],"resourceVersion":"1.0","resourceType":"KeyframeStore<MessageEventKeyframe>",},
     "moments": {"Keyframes":[],"resourceVersion":"1.0","resourceType":"KeyframeStore<MomentsEventKeyframe>",},
     "tracks": [
-      {"name":"frames","spriteId":null,"keyframes":{"Keyframes":[
+      {"resourceType":"GMSpriteFramesTrack","resourceVersion":"1.0","name":"frames","spriteId":null,"keyframes":{"Keyframes":[
             {"id":"8418e746-23d6-40c8-b08b-2483dd3804f3","Key":0.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"eb0704fa-7e48-4fe7-a198-7e09e69713d3","path":"sprites/spr_flingfrog_handsidle/spr_flingfrog_handsidle.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
             {"id":"8cddb955-44bd-4b39-b949-896491459df5","Key":1.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"b6819c26-0d4d-4dd5-b790-c7957b298625","path":"sprites/spr_flingfrog_handsidle/spr_flingfrog_handsidle.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
             {"id":"5fa9869f-2a77-412d-a9a2-9d1c90c42b06","Key":2.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"f78f5ec8-62c6-4c57-bc58-3715fafc4e11","path":"sprites/spr_flingfrog_handsidle/spr_flingfrog_handsidle.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
@@ -97,7 +75,7 @@
             {"id":"0bb71593-3261-49e2-b68d-40d27d5e1719","Key":11.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"10774fbb-c136-497e-a1b3-7ee6d7985a1b","path":"sprites/spr_flingfrog_handsidle/spr_flingfrog_handsidle.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
             {"id":"e5b68983-b9e8-45c0-ac0d-c0c404acd653","Key":12.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"775ab8a4-1a42-4513-841b-b2994b031e5c","path":"sprites/spr_flingfrog_handsidle/spr_flingfrog_handsidle.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
             {"id":"554d2fef-165a-4458-b60f-70792db1498b","Key":13.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"e6dec48e-b1f4-460b-a426-f55a7aa89f43","path":"sprites/spr_flingfrog_handsidle/spr_flingfrog_handsidle.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
-          ],"resourceVersion":"1.0","resourceType":"KeyframeStore<SpriteFrameKeyframe>",},"trackColour":0,"inheritsTrackColour":true,"builtinName":0,"traits":0,"interpolation":1,"tracks":[],"events":[],"isCreationTrack":false,"resourceVersion":"1.0","tags":[],"resourceType":"GMSpriteFramesTrack","modifiers":[],},
+          ],"resourceVersion":"1.0","resourceType":"KeyframeStore<SpriteFrameKeyframe>",},"trackColour":0,"inheritsTrackColour":true,"builtinName":0,"traits":0,"interpolation":1,"tracks":[],"events":[],"isCreationTrack":false,"modifiers":[],},
     ],
     "visibleRange": null,
     "lockOrigin": false,
@@ -113,22 +91,13 @@
     "yorigin": 50,
     "eventToFunction": {},
     "eventStubScript": null,
-    "parent": {"name":"spr_flingfrog_handsidle","path":"sprites/spr_flingfrog_handsidle/spr_flingfrog_handsidle.yy",},
-    "resourceVersion": "1.4",
-    "name": "spr_flingfrog_handsidle",
-    "tags": [],
-    "resourceType": "GMSequence",
   },
   "layers": [
-    {"visible":true,"isLocked":false,"blendMode":0,"opacity":100.0,"displayName":"default","resourceVersion":"1.0","name":"24699610-4fa2-4856-8469-486c867d80d6","tags":[],"resourceType":"GMImageLayer",},
+    {"resourceType":"GMImageLayer","resourceVersion":"1.0","name":"24699610-4fa2-4856-8469-486c867d80d6","visible":true,"isLocked":false,"blendMode":0,"opacity":100.0,"displayName":"default",},
   ],
   "nineSlice": null,
   "parent": {
     "name": "flingfrog",
     "path": "folders/Sprites/SUGARY SPIRE/baddie/flingfrog.yy",
   },
-  "resourceVersion": "1.0",
-  "name": "spr_flingfrog_handsidle",
-  "tags": [],
-  "resourceType": "GMSprite",
 }

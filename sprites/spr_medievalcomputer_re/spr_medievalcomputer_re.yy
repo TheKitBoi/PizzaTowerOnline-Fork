@@ -1,4 +1,7 @@
 {
+  "resourceType": "GMSprite",
+  "resourceVersion": "1.0",
+  "name": "spr_medievalcomputer_re",
   "bboxMode": 0,
   "collisionKind": 1,
   "type": 0,
@@ -14,6 +17,7 @@
   "HTile": false,
   "VTile": false,
   "For3D": false,
+  "DynamicTexturePage": false,
   "width": 100,
   "height": 100,
   "textureGroupId": {
@@ -24,15 +28,13 @@
   "gridX": 0,
   "gridY": 0,
   "frames": [
-    {"compositeImage":{"FrameId":{"name":"0f1b6626-6ac9-41bc-b614-426735308bf6","path":"sprites/spr_medievalcomputer_re/spr_medievalcomputer_re.yy",},"LayerId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"0f1b6626-6ac9-41bc-b614-426735308bf6","path":"sprites/spr_medievalcomputer_re/spr_medievalcomputer_re.yy",},"LayerId":{"name":"b4a27dcc-bf8d-47e7-be44-d36d9d2282b3","path":"sprites/spr_medievalcomputer_re/spr_medievalcomputer_re.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-      ],"parent":{"name":"spr_medievalcomputer_re","path":"sprites/spr_medievalcomputer_re/spr_medievalcomputer_re.yy",},"resourceVersion":"1.0","name":"0f1b6626-6ac9-41bc-b614-426735308bf6","tags":[],"resourceType":"GMSpriteFrame",},
-    {"compositeImage":{"FrameId":{"name":"45eb3405-81c7-47b9-81a5-cc17dc3da52b","path":"sprites/spr_medievalcomputer_re/spr_medievalcomputer_re.yy",},"LayerId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"45eb3405-81c7-47b9-81a5-cc17dc3da52b","path":"sprites/spr_medievalcomputer_re/spr_medievalcomputer_re.yy",},"LayerId":{"name":"b4a27dcc-bf8d-47e7-be44-d36d9d2282b3","path":"sprites/spr_medievalcomputer_re/spr_medievalcomputer_re.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-      ],"parent":{"name":"spr_medievalcomputer_re","path":"sprites/spr_medievalcomputer_re/spr_medievalcomputer_re.yy",},"resourceVersion":"1.0","name":"45eb3405-81c7-47b9-81a5-cc17dc3da52b","tags":[],"resourceType":"GMSpriteFrame",},
+    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"0f1b6626-6ac9-41bc-b614-426735308bf6",},
+    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"45eb3405-81c7-47b9-81a5-cc17dc3da52b",},
   ],
   "sequence": {
-    "spriteId": {"name":"spr_medievalcomputer_re","path":"sprites/spr_medievalcomputer_re/spr_medievalcomputer_re.yy",},
+    "resourceType": "GMSequence",
+    "resourceVersion": "1.4",
+    "name": "spr_medievalcomputer_re",
     "timeUnits": 1,
     "playback": 1,
     "playbackSpeed": 0.35,
@@ -43,10 +45,10 @@
     "events": {"Keyframes":[],"resourceVersion":"1.0","resourceType":"KeyframeStore<MessageEventKeyframe>",},
     "moments": {"Keyframes":[],"resourceVersion":"1.0","resourceType":"KeyframeStore<MomentsEventKeyframe>",},
     "tracks": [
-      {"name":"frames","spriteId":null,"keyframes":{"Keyframes":[
+      {"resourceType":"GMSpriteFramesTrack","resourceVersion":"1.0","name":"frames","spriteId":null,"keyframes":{"Keyframes":[
             {"id":"1db86c26-4a12-42ec-8342-000f0fad477f","Key":0.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"0f1b6626-6ac9-41bc-b614-426735308bf6","path":"sprites/spr_medievalcomputer_re/spr_medievalcomputer_re.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
             {"id":"60d0b5a3-479e-4c1d-bc98-8bfe268c14e8","Key":1.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"45eb3405-81c7-47b9-81a5-cc17dc3da52b","path":"sprites/spr_medievalcomputer_re/spr_medievalcomputer_re.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
-          ],"resourceVersion":"1.0","resourceType":"KeyframeStore<SpriteFrameKeyframe>",},"trackColour":0,"inheritsTrackColour":true,"builtinName":0,"traits":0,"interpolation":1,"tracks":[],"events":[],"isCreationTrack":false,"resourceVersion":"1.0","tags":[],"resourceType":"GMSpriteFramesTrack","modifiers":[],},
+          ],"resourceVersion":"1.0","resourceType":"KeyframeStore<SpriteFrameKeyframe>",},"trackColour":0,"inheritsTrackColour":true,"builtinName":0,"traits":0,"interpolation":1,"tracks":[],"events":[],"isCreationTrack":false,"modifiers":[],},
     ],
     "visibleRange": null,
     "lockOrigin": false,
@@ -62,22 +64,13 @@
     "yorigin": 50,
     "eventToFunction": {},
     "eventStubScript": null,
-    "parent": {"name":"spr_medievalcomputer_re","path":"sprites/spr_medievalcomputer_re/spr_medievalcomputer_re.yy",},
-    "resourceVersion": "1.4",
-    "name": "spr_medievalcomputer_re",
-    "tags": [],
-    "resourceType": "GMSequence",
   },
   "layers": [
-    {"visible":true,"isLocked":false,"blendMode":0,"opacity":100.0,"displayName":"default","resourceVersion":"1.0","name":"b4a27dcc-bf8d-47e7-be44-d36d9d2282b3","tags":[],"resourceType":"GMImageLayer",},
+    {"resourceType":"GMImageLayer","resourceVersion":"1.0","name":"b4a27dcc-bf8d-47e7-be44-d36d9d2282b3","visible":true,"isLocked":false,"blendMode":0,"opacity":100.0,"displayName":"default",},
   ],
   "nineSlice": null,
   "parent": {
     "name": "hub computers",
     "path": "folders/Sprites/hub computers.yy",
   },
-  "resourceVersion": "1.0",
-  "name": "spr_medievalcomputer_re",
-  "tags": [],
-  "resourceType": "GMSprite",
 }

@@ -1,10 +1,8 @@
 /// @description
-if !running
+if !(running && global.discord_initialized)
 	exit;
 
 var r = room_get_name(room);
-var state = -1;
-
 if room == Realtitlescreen
 {
 	det = "In the titlescreen";
@@ -234,9 +232,7 @@ else
 if state == -1
 	state = roomname == "" ? "???" : roomname;
 
-var detf = det;
 if check_online()
-	detf = gms_self_name() + " - " + det;
+	det = gms_self_name() + " - " + det;
 
-rousr_dissonance_set_details(detf);
-rousr_dissonance_set_state(state);
+np_setpresence(state, det, large, small);

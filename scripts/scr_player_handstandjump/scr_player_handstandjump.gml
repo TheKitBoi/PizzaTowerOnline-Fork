@@ -383,7 +383,7 @@ function scr_player_handstandjump()
 	}
 	
 	// Bump
-	if bump && state != states.climbwall && (!place_meeting(x + xscale, y, obj_shotgunblock) or !(character == "SP" && shotgunAnim)) && character != "S"
+	if bump && state != states.climbwall && (!place_meeting(x + hsp, y, obj_shotgunblock) or !(character == "SP" && shotgunAnim)) && character != "S"
 	{
 		if !ledge_bump() && (!place_meeting(x + xscale, y, obj_slope) or scr_solid_slope(x + xscale, y) or scr_solidwall(x + xscale, y) or scr_solidwall(x, y - 1))
 		{

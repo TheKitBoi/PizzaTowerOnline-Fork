@@ -1,4 +1,7 @@
 {
+  "resourceType": "GMSprite",
+  "resourceVersion": "1.0",
+  "name": "spr_heatmeter_candy_palette",
   "ConfigValues": {
     "debug": {"textureGroupId":"{\"name\":\"tg_hud\",\"path\":\"texturegroups/tg_hud\"}",},
   },
@@ -17,6 +20,7 @@
   "HTile": false,
   "VTile": false,
   "For3D": false,
+  "DynamicTexturePage": false,
   "width": 5,
   "height": 8,
   "textureGroupId": {
@@ -27,12 +31,12 @@
   "gridX": 0,
   "gridY": 0,
   "frames": [
-    {"compositeImage":{"FrameId":{"name":"3acf74fe-d53f-4e14-ba40-86950e23e8b6","path":"sprites/spr_heatmeter_candy_palette/spr_heatmeter_candy_palette.yy",},"LayerId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"3acf74fe-d53f-4e14-ba40-86950e23e8b6","path":"sprites/spr_heatmeter_candy_palette/spr_heatmeter_candy_palette.yy",},"LayerId":{"name":"a4ba25a8-f52e-4e78-9f33-c56c45b5e88b","path":"sprites/spr_heatmeter_candy_palette/spr_heatmeter_candy_palette.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-      ],"parent":{"name":"spr_heatmeter_candy_palette","path":"sprites/spr_heatmeter_candy_palette/spr_heatmeter_candy_palette.yy",},"resourceVersion":"1.0","name":"3acf74fe-d53f-4e14-ba40-86950e23e8b6","tags":[],"resourceType":"GMSpriteFrame",},
+    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"3acf74fe-d53f-4e14-ba40-86950e23e8b6",},
   ],
   "sequence": {
-    "spriteId": {"name":"spr_heatmeter_candy_palette","path":"sprites/spr_heatmeter_candy_palette/spr_heatmeter_candy_palette.yy",},
+    "resourceType": "GMSequence",
+    "resourceVersion": "1.4",
+    "name": "spr_heatmeter_candy_palette",
     "timeUnits": 1,
     "playback": 1,
     "playbackSpeed": 1.0,
@@ -43,9 +47,9 @@
     "events": {"Keyframes":[],"resourceVersion":"1.0","resourceType":"KeyframeStore<MessageEventKeyframe>",},
     "moments": {"Keyframes":[],"resourceVersion":"1.0","resourceType":"KeyframeStore<MomentsEventKeyframe>",},
     "tracks": [
-      {"name":"frames","spriteId":null,"keyframes":{"Keyframes":[
+      {"resourceType":"GMSpriteFramesTrack","resourceVersion":"1.0","name":"frames","spriteId":null,"keyframes":{"Keyframes":[
             {"id":"807585c6-c696-4124-a0ea-83d9fe1e3dfc","Key":0.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"3acf74fe-d53f-4e14-ba40-86950e23e8b6","path":"sprites/spr_heatmeter_candy_palette/spr_heatmeter_candy_palette.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
-          ],"resourceVersion":"1.0","resourceType":"KeyframeStore<SpriteFrameKeyframe>",},"trackColour":0,"inheritsTrackColour":true,"builtinName":0,"traits":0,"interpolation":1,"tracks":[],"events":[],"isCreationTrack":false,"resourceVersion":"1.0","tags":[],"resourceType":"GMSpriteFramesTrack","modifiers":[],},
+          ],"resourceVersion":"1.0","resourceType":"KeyframeStore<SpriteFrameKeyframe>",},"trackColour":0,"inheritsTrackColour":true,"builtinName":0,"traits":0,"interpolation":1,"tracks":[],"events":[],"isCreationTrack":false,"modifiers":[],},
     ],
     "visibleRange": null,
     "lockOrigin": false,
@@ -61,22 +65,13 @@
     "yorigin": 0,
     "eventToFunction": {},
     "eventStubScript": null,
-    "parent": {"name":"spr_heatmeter_candy_palette","path":"sprites/spr_heatmeter_candy_palette/spr_heatmeter_candy_palette.yy",},
-    "resourceVersion": "1.4",
-    "name": "spr_heatmeter_candy_palette",
-    "tags": [],
-    "resourceType": "GMSequence",
   },
   "layers": [
-    {"visible":true,"isLocked":false,"blendMode":0,"opacity":100.0,"displayName":"default","resourceVersion":"1.0","name":"a4ba25a8-f52e-4e78-9f33-c56c45b5e88b","tags":[],"resourceType":"GMImageLayer",},
+    {"resourceType":"GMImageLayer","resourceVersion":"1.0","name":"a4ba25a8-f52e-4e78-9f33-c56c45b5e88b","visible":true,"isLocked":false,"blendMode":0,"opacity":100.0,"displayName":"default",},
   ],
   "nineSlice": null,
   "parent": {
     "name": "sugary spire",
     "path": "folders/Sprites/HUD/new hud/pizza/sugary spire.yy",
   },
-  "resourceVersion": "1.0",
-  "name": "spr_heatmeter_candy_palette",
-  "tags": [],
-  "resourceType": "GMSprite",
 }

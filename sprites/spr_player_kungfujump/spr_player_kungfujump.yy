@@ -1,4 +1,7 @@
 {
+  "resourceType": "GMSprite",
+  "resourceVersion": "1.0",
+  "name": "spr_player_kungfujump",
   "bboxMode": 0,
   "collisionKind": 1,
   "type": 0,
@@ -14,6 +17,7 @@
   "HTile": false,
   "VTile": false,
   "For3D": false,
+  "DynamicTexturePage": false,
   "width": 200,
   "height": 108,
   "textureGroupId": {
@@ -24,39 +28,21 @@
   "gridX": 0,
   "gridY": 0,
   "frames": [
-    {"compositeImage":{"FrameId":{"name":"a366f938-6b44-4cd1-986d-a49b33ab9bf2","path":"sprites/spr_player_kungfujump/spr_player_kungfujump.yy",},"LayerId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"a366f938-6b44-4cd1-986d-a49b33ab9bf2","path":"sprites/spr_player_kungfujump/spr_player_kungfujump.yy",},"LayerId":{"name":"67a05874-8922-4daa-910f-1d17fe844e6e","path":"sprites/spr_player_kungfujump/spr_player_kungfujump.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-      ],"parent":{"name":"spr_player_kungfujump","path":"sprites/spr_player_kungfujump/spr_player_kungfujump.yy",},"resourceVersion":"1.0","name":"a366f938-6b44-4cd1-986d-a49b33ab9bf2","tags":[],"resourceType":"GMSpriteFrame",},
-    {"compositeImage":{"FrameId":{"name":"2314953a-1cf1-4290-9b4f-fa716d6f33bb","path":"sprites/spr_player_kungfujump/spr_player_kungfujump.yy",},"LayerId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"2314953a-1cf1-4290-9b4f-fa716d6f33bb","path":"sprites/spr_player_kungfujump/spr_player_kungfujump.yy",},"LayerId":{"name":"67a05874-8922-4daa-910f-1d17fe844e6e","path":"sprites/spr_player_kungfujump/spr_player_kungfujump.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-      ],"parent":{"name":"spr_player_kungfujump","path":"sprites/spr_player_kungfujump/spr_player_kungfujump.yy",},"resourceVersion":"1.0","name":"2314953a-1cf1-4290-9b4f-fa716d6f33bb","tags":[],"resourceType":"GMSpriteFrame",},
-    {"compositeImage":{"FrameId":{"name":"fa2a82f0-19a8-4c07-948f-bd06a3e8efbb","path":"sprites/spr_player_kungfujump/spr_player_kungfujump.yy",},"LayerId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"fa2a82f0-19a8-4c07-948f-bd06a3e8efbb","path":"sprites/spr_player_kungfujump/spr_player_kungfujump.yy",},"LayerId":{"name":"67a05874-8922-4daa-910f-1d17fe844e6e","path":"sprites/spr_player_kungfujump/spr_player_kungfujump.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-      ],"parent":{"name":"spr_player_kungfujump","path":"sprites/spr_player_kungfujump/spr_player_kungfujump.yy",},"resourceVersion":"1.0","name":"fa2a82f0-19a8-4c07-948f-bd06a3e8efbb","tags":[],"resourceType":"GMSpriteFrame",},
-    {"compositeImage":{"FrameId":{"name":"756eaa06-9b34-45af-963e-36e2bb958a90","path":"sprites/spr_player_kungfujump/spr_player_kungfujump.yy",},"LayerId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"756eaa06-9b34-45af-963e-36e2bb958a90","path":"sprites/spr_player_kungfujump/spr_player_kungfujump.yy",},"LayerId":{"name":"67a05874-8922-4daa-910f-1d17fe844e6e","path":"sprites/spr_player_kungfujump/spr_player_kungfujump.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-      ],"parent":{"name":"spr_player_kungfujump","path":"sprites/spr_player_kungfujump/spr_player_kungfujump.yy",},"resourceVersion":"1.0","name":"756eaa06-9b34-45af-963e-36e2bb958a90","tags":[],"resourceType":"GMSpriteFrame",},
-    {"compositeImage":{"FrameId":{"name":"3babb1b2-ce76-44af-9550-7514eb976baa","path":"sprites/spr_player_kungfujump/spr_player_kungfujump.yy",},"LayerId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"3babb1b2-ce76-44af-9550-7514eb976baa","path":"sprites/spr_player_kungfujump/spr_player_kungfujump.yy",},"LayerId":{"name":"67a05874-8922-4daa-910f-1d17fe844e6e","path":"sprites/spr_player_kungfujump/spr_player_kungfujump.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-      ],"parent":{"name":"spr_player_kungfujump","path":"sprites/spr_player_kungfujump/spr_player_kungfujump.yy",},"resourceVersion":"1.0","name":"3babb1b2-ce76-44af-9550-7514eb976baa","tags":[],"resourceType":"GMSpriteFrame",},
-    {"compositeImage":{"FrameId":{"name":"4da7a539-e5e3-4cf4-8e9b-6d5170a61ab6","path":"sprites/spr_player_kungfujump/spr_player_kungfujump.yy",},"LayerId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"4da7a539-e5e3-4cf4-8e9b-6d5170a61ab6","path":"sprites/spr_player_kungfujump/spr_player_kungfujump.yy",},"LayerId":{"name":"67a05874-8922-4daa-910f-1d17fe844e6e","path":"sprites/spr_player_kungfujump/spr_player_kungfujump.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-      ],"parent":{"name":"spr_player_kungfujump","path":"sprites/spr_player_kungfujump/spr_player_kungfujump.yy",},"resourceVersion":"1.0","name":"4da7a539-e5e3-4cf4-8e9b-6d5170a61ab6","tags":[],"resourceType":"GMSpriteFrame",},
-    {"compositeImage":{"FrameId":{"name":"55f3cd1e-dd7d-4caa-af9b-db8b58567615","path":"sprites/spr_player_kungfujump/spr_player_kungfujump.yy",},"LayerId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"55f3cd1e-dd7d-4caa-af9b-db8b58567615","path":"sprites/spr_player_kungfujump/spr_player_kungfujump.yy",},"LayerId":{"name":"67a05874-8922-4daa-910f-1d17fe844e6e","path":"sprites/spr_player_kungfujump/spr_player_kungfujump.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-      ],"parent":{"name":"spr_player_kungfujump","path":"sprites/spr_player_kungfujump/spr_player_kungfujump.yy",},"resourceVersion":"1.0","name":"55f3cd1e-dd7d-4caa-af9b-db8b58567615","tags":[],"resourceType":"GMSpriteFrame",},
-    {"compositeImage":{"FrameId":{"name":"c314d4c0-ece4-4cf2-a3f4-1e559b9e42ca","path":"sprites/spr_player_kungfujump/spr_player_kungfujump.yy",},"LayerId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"c314d4c0-ece4-4cf2-a3f4-1e559b9e42ca","path":"sprites/spr_player_kungfujump/spr_player_kungfujump.yy",},"LayerId":{"name":"67a05874-8922-4daa-910f-1d17fe844e6e","path":"sprites/spr_player_kungfujump/spr_player_kungfujump.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-      ],"parent":{"name":"spr_player_kungfujump","path":"sprites/spr_player_kungfujump/spr_player_kungfujump.yy",},"resourceVersion":"1.0","name":"c314d4c0-ece4-4cf2-a3f4-1e559b9e42ca","tags":[],"resourceType":"GMSpriteFrame",},
-    {"compositeImage":{"FrameId":{"name":"cdacb3e3-f90a-4640-8177-f4d4eee72b71","path":"sprites/spr_player_kungfujump/spr_player_kungfujump.yy",},"LayerId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"cdacb3e3-f90a-4640-8177-f4d4eee72b71","path":"sprites/spr_player_kungfujump/spr_player_kungfujump.yy",},"LayerId":{"name":"67a05874-8922-4daa-910f-1d17fe844e6e","path":"sprites/spr_player_kungfujump/spr_player_kungfujump.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-      ],"parent":{"name":"spr_player_kungfujump","path":"sprites/spr_player_kungfujump/spr_player_kungfujump.yy",},"resourceVersion":"1.0","name":"cdacb3e3-f90a-4640-8177-f4d4eee72b71","tags":[],"resourceType":"GMSpriteFrame",},
-    {"compositeImage":{"FrameId":{"name":"7eff45ea-fd31-45ad-a96a-065562ff9f49","path":"sprites/spr_player_kungfujump/spr_player_kungfujump.yy",},"LayerId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"7eff45ea-fd31-45ad-a96a-065562ff9f49","path":"sprites/spr_player_kungfujump/spr_player_kungfujump.yy",},"LayerId":{"name":"67a05874-8922-4daa-910f-1d17fe844e6e","path":"sprites/spr_player_kungfujump/spr_player_kungfujump.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-      ],"parent":{"name":"spr_player_kungfujump","path":"sprites/spr_player_kungfujump/spr_player_kungfujump.yy",},"resourceVersion":"1.0","name":"7eff45ea-fd31-45ad-a96a-065562ff9f49","tags":[],"resourceType":"GMSpriteFrame",},
+    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"a366f938-6b44-4cd1-986d-a49b33ab9bf2",},
+    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"2314953a-1cf1-4290-9b4f-fa716d6f33bb",},
+    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"fa2a82f0-19a8-4c07-948f-bd06a3e8efbb",},
+    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"756eaa06-9b34-45af-963e-36e2bb958a90",},
+    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"3babb1b2-ce76-44af-9550-7514eb976baa",},
+    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"4da7a539-e5e3-4cf4-8e9b-6d5170a61ab6",},
+    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"55f3cd1e-dd7d-4caa-af9b-db8b58567615",},
+    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"c314d4c0-ece4-4cf2-a3f4-1e559b9e42ca",},
+    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"cdacb3e3-f90a-4640-8177-f4d4eee72b71",},
+    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"7eff45ea-fd31-45ad-a96a-065562ff9f49",},
   ],
   "sequence": {
-    "spriteId": {"name":"spr_player_kungfujump","path":"sprites/spr_player_kungfujump/spr_player_kungfujump.yy",},
+    "resourceType": "GMSequence",
+    "resourceVersion": "1.4",
+    "name": "spr_player_kungfujump",
     "timeUnits": 1,
     "playback": 1,
     "playbackSpeed": 1.0,
@@ -67,7 +53,7 @@
     "events": {"Keyframes":[],"resourceVersion":"1.0","resourceType":"KeyframeStore<MessageEventKeyframe>",},
     "moments": {"Keyframes":[],"resourceVersion":"1.0","resourceType":"KeyframeStore<MomentsEventKeyframe>",},
     "tracks": [
-      {"name":"frames","spriteId":null,"keyframes":{"Keyframes":[
+      {"resourceType":"GMSpriteFramesTrack","resourceVersion":"1.0","name":"frames","spriteId":null,"keyframes":{"Keyframes":[
             {"id":"bd52e5de-70ee-43aa-bd23-f1b2075a4b9d","Key":0.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"a366f938-6b44-4cd1-986d-a49b33ab9bf2","path":"sprites/spr_player_kungfujump/spr_player_kungfujump.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
             {"id":"7fcfc47c-a0b3-4d22-b38c-cede72f0f57a","Key":1.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"2314953a-1cf1-4290-9b4f-fa716d6f33bb","path":"sprites/spr_player_kungfujump/spr_player_kungfujump.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
             {"id":"e04904c1-76cc-4de9-9d5f-30fa3a4148ba","Key":2.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"fa2a82f0-19a8-4c07-948f-bd06a3e8efbb","path":"sprites/spr_player_kungfujump/spr_player_kungfujump.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
@@ -78,7 +64,7 @@
             {"id":"7305d849-75fe-40d3-8011-fa44512990cd","Key":7.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"c314d4c0-ece4-4cf2-a3f4-1e559b9e42ca","path":"sprites/spr_player_kungfujump/spr_player_kungfujump.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
             {"id":"9733ffba-18e5-4c42-8d42-3d43ce93c993","Key":8.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"cdacb3e3-f90a-4640-8177-f4d4eee72b71","path":"sprites/spr_player_kungfujump/spr_player_kungfujump.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
             {"id":"0bef2754-1f09-4000-99ab-64fd7624bd20","Key":9.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"7eff45ea-fd31-45ad-a96a-065562ff9f49","path":"sprites/spr_player_kungfujump/spr_player_kungfujump.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
-          ],"resourceVersion":"1.0","resourceType":"KeyframeStore<SpriteFrameKeyframe>",},"trackColour":0,"inheritsTrackColour":true,"builtinName":0,"traits":0,"interpolation":1,"tracks":[],"events":[],"isCreationTrack":false,"resourceVersion":"1.0","tags":[],"resourceType":"GMSpriteFramesTrack","modifiers":[],},
+          ],"resourceVersion":"1.0","resourceType":"KeyframeStore<SpriteFrameKeyframe>",},"trackColour":0,"inheritsTrackColour":true,"builtinName":0,"traits":0,"interpolation":1,"tracks":[],"events":[],"isCreationTrack":false,"modifiers":[],},
     ],
     "visibleRange": null,
     "lockOrigin": false,
@@ -94,22 +80,13 @@
     "yorigin": 58,
     "eventToFunction": {},
     "eventStubScript": null,
-    "parent": {"name":"spr_player_kungfujump","path":"sprites/spr_player_kungfujump/spr_player_kungfujump.yy",},
-    "resourceVersion": "1.4",
-    "name": "spr_player_kungfujump",
-    "tags": [],
-    "resourceType": "GMSequence",
   },
   "layers": [
-    {"visible":true,"isLocked":false,"blendMode":0,"opacity":100.0,"displayName":"default","resourceVersion":"1.0","name":"67a05874-8922-4daa-910f-1d17fe844e6e","tags":[],"resourceType":"GMImageLayer",},
+    {"resourceType":"GMImageLayer","resourceVersion":"1.0","name":"67a05874-8922-4daa-910f-1d17fe844e6e","visible":true,"isLocked":false,"blendMode":0,"opacity":100.0,"displayName":"default",},
   ],
   "nineSlice": null,
   "parent": {
     "name": "pepino",
     "path": "folders/Sprites/players/pepino.yy",
   },
-  "resourceVersion": "1.0",
-  "name": "spr_player_kungfujump",
-  "tags": [],
-  "resourceType": "GMSprite",
 }

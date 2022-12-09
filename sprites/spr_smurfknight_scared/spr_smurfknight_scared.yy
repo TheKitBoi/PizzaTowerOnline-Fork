@@ -1,4 +1,7 @@
 {
+  "resourceType": "GMSprite",
+  "resourceVersion": "1.0",
+  "name": "spr_smurfknight_scared",
   "ConfigValues": {
     "debug": {"textureGroupId":"{\"name\":\"tg_sugaryspire\",\"path\":\"texturegroups/tg_sugaryspire\"}",},
   },
@@ -17,6 +20,7 @@
   "HTile": false,
   "VTile": false,
   "For3D": false,
+  "DynamicTexturePage": false,
   "width": 100,
   "height": 100,
   "textureGroupId": {
@@ -27,21 +31,15 @@
   "gridX": 0,
   "gridY": 0,
   "frames": [
-    {"compositeImage":{"FrameId":{"name":"6dac9968-3daf-4538-abe2-840b3ab8262e","path":"sprites/spr_smurfknight_scared/spr_smurfknight_scared.yy",},"LayerId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"6dac9968-3daf-4538-abe2-840b3ab8262e","path":"sprites/spr_smurfknight_scared/spr_smurfknight_scared.yy",},"LayerId":{"name":"8dbb40c8-07f4-400b-a653-eda04e8f0337","path":"sprites/spr_smurfknight_scared/spr_smurfknight_scared.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-      ],"parent":{"name":"spr_smurfknight_scared","path":"sprites/spr_smurfknight_scared/spr_smurfknight_scared.yy",},"resourceVersion":"1.0","name":"6dac9968-3daf-4538-abe2-840b3ab8262e","tags":[],"resourceType":"GMSpriteFrame",},
-    {"compositeImage":{"FrameId":{"name":"271c2282-9de3-420a-859d-c87ebbd41609","path":"sprites/spr_smurfknight_scared/spr_smurfknight_scared.yy",},"LayerId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"271c2282-9de3-420a-859d-c87ebbd41609","path":"sprites/spr_smurfknight_scared/spr_smurfknight_scared.yy",},"LayerId":{"name":"8dbb40c8-07f4-400b-a653-eda04e8f0337","path":"sprites/spr_smurfknight_scared/spr_smurfknight_scared.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-      ],"parent":{"name":"spr_smurfknight_scared","path":"sprites/spr_smurfknight_scared/spr_smurfknight_scared.yy",},"resourceVersion":"1.0","name":"271c2282-9de3-420a-859d-c87ebbd41609","tags":[],"resourceType":"GMSpriteFrame",},
-    {"compositeImage":{"FrameId":{"name":"29d8f174-add9-4246-b837-2ae0bd034c49","path":"sprites/spr_smurfknight_scared/spr_smurfknight_scared.yy",},"LayerId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"29d8f174-add9-4246-b837-2ae0bd034c49","path":"sprites/spr_smurfknight_scared/spr_smurfknight_scared.yy",},"LayerId":{"name":"8dbb40c8-07f4-400b-a653-eda04e8f0337","path":"sprites/spr_smurfknight_scared/spr_smurfknight_scared.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-      ],"parent":{"name":"spr_smurfknight_scared","path":"sprites/spr_smurfknight_scared/spr_smurfknight_scared.yy",},"resourceVersion":"1.0","name":"29d8f174-add9-4246-b837-2ae0bd034c49","tags":[],"resourceType":"GMSpriteFrame",},
-    {"compositeImage":{"FrameId":{"name":"6048edc8-970a-48b9-8f76-ff6aaebbb77c","path":"sprites/spr_smurfknight_scared/spr_smurfknight_scared.yy",},"LayerId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"6048edc8-970a-48b9-8f76-ff6aaebbb77c","path":"sprites/spr_smurfknight_scared/spr_smurfknight_scared.yy",},"LayerId":{"name":"8dbb40c8-07f4-400b-a653-eda04e8f0337","path":"sprites/spr_smurfknight_scared/spr_smurfknight_scared.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-      ],"parent":{"name":"spr_smurfknight_scared","path":"sprites/spr_smurfknight_scared/spr_smurfknight_scared.yy",},"resourceVersion":"1.0","name":"6048edc8-970a-48b9-8f76-ff6aaebbb77c","tags":[],"resourceType":"GMSpriteFrame",},
+    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"6dac9968-3daf-4538-abe2-840b3ab8262e",},
+    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"271c2282-9de3-420a-859d-c87ebbd41609",},
+    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"29d8f174-add9-4246-b837-2ae0bd034c49",},
+    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"6048edc8-970a-48b9-8f76-ff6aaebbb77c",},
   ],
   "sequence": {
-    "spriteId": {"name":"spr_smurfknight_scared","path":"sprites/spr_smurfknight_scared/spr_smurfknight_scared.yy",},
+    "resourceType": "GMSequence",
+    "resourceVersion": "1.4",
+    "name": "spr_smurfknight_scared",
     "timeUnits": 1,
     "playback": 1,
     "playbackSpeed": 1.0,
@@ -52,12 +50,12 @@
     "events": {"Keyframes":[],"resourceVersion":"1.0","resourceType":"KeyframeStore<MessageEventKeyframe>",},
     "moments": {"Keyframes":[],"resourceVersion":"1.0","resourceType":"KeyframeStore<MomentsEventKeyframe>",},
     "tracks": [
-      {"name":"frames","spriteId":null,"keyframes":{"Keyframes":[
+      {"resourceType":"GMSpriteFramesTrack","resourceVersion":"1.0","name":"frames","spriteId":null,"keyframes":{"Keyframes":[
             {"id":"03c2db59-e957-40d8-a51e-42e84bc699ec","Key":0.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"6dac9968-3daf-4538-abe2-840b3ab8262e","path":"sprites/spr_smurfknight_scared/spr_smurfknight_scared.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
             {"id":"fa8b70e0-ddbd-4bee-8d74-fe05d8247a93","Key":1.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"271c2282-9de3-420a-859d-c87ebbd41609","path":"sprites/spr_smurfknight_scared/spr_smurfknight_scared.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
             {"id":"abcad3ec-42ae-4b02-b3a7-da946d13bbe0","Key":2.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"29d8f174-add9-4246-b837-2ae0bd034c49","path":"sprites/spr_smurfknight_scared/spr_smurfknight_scared.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
             {"id":"647e1984-9d42-4ab7-b152-726d4e268c76","Key":3.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"6048edc8-970a-48b9-8f76-ff6aaebbb77c","path":"sprites/spr_smurfknight_scared/spr_smurfknight_scared.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
-          ],"resourceVersion":"1.0","resourceType":"KeyframeStore<SpriteFrameKeyframe>",},"trackColour":0,"inheritsTrackColour":true,"builtinName":0,"traits":0,"interpolation":1,"tracks":[],"events":[],"isCreationTrack":false,"resourceVersion":"1.0","tags":[],"resourceType":"GMSpriteFramesTrack","modifiers":[],},
+          ],"resourceVersion":"1.0","resourceType":"KeyframeStore<SpriteFrameKeyframe>",},"trackColour":0,"inheritsTrackColour":true,"builtinName":0,"traits":0,"interpolation":1,"tracks":[],"events":[],"isCreationTrack":false,"modifiers":[],},
     ],
     "visibleRange": null,
     "lockOrigin": false,
@@ -73,22 +71,13 @@
     "yorigin": 50,
     "eventToFunction": {},
     "eventStubScript": null,
-    "parent": {"name":"spr_smurfknight_scared","path":"sprites/spr_smurfknight_scared/spr_smurfknight_scared.yy",},
-    "resourceVersion": "1.4",
-    "name": "spr_smurfknight_scared",
-    "tags": [],
-    "resourceType": "GMSequence",
   },
   "layers": [
-    {"visible":true,"isLocked":false,"blendMode":0,"opacity":100.0,"displayName":"default","resourceVersion":"1.0","name":"8dbb40c8-07f4-400b-a653-eda04e8f0337","tags":[],"resourceType":"GMImageLayer",},
+    {"resourceType":"GMImageLayer","resourceVersion":"1.0","name":"8dbb40c8-07f4-400b-a653-eda04e8f0337","visible":true,"isLocked":false,"blendMode":0,"opacity":100.0,"displayName":"default",},
   ],
   "nineSlice": null,
   "parent": {
     "name": "knight",
     "path": "folders/Sprites/SUGARY SPIRE/baddie/knight.yy",
   },
-  "resourceVersion": "1.0",
-  "name": "spr_smurfknight_scared",
-  "tags": [],
-  "resourceType": "GMSprite",
 }

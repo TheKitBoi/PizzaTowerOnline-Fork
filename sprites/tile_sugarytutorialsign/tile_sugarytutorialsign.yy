@@ -1,4 +1,7 @@
 {
+  "resourceType": "GMSprite",
+  "resourceVersion": "1.0",
+  "name": "tile_sugarytutorialsign",
   "bboxMode": 0,
   "collisionKind": 1,
   "type": 0,
@@ -14,6 +17,7 @@
   "HTile": false,
   "VTile": false,
   "For3D": false,
+  "DynamicTexturePage": false,
   "width": 640,
   "height": 608,
   "textureGroupId": {
@@ -24,12 +28,12 @@
   "gridX": 0,
   "gridY": 0,
   "frames": [
-    {"compositeImage":{"FrameId":{"name":"f41fb51d-5e14-4730-a5e3-282ca9bfc640","path":"sprites/tile_sugarytutorialsign/tile_sugarytutorialsign.yy",},"LayerId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"f41fb51d-5e14-4730-a5e3-282ca9bfc640","path":"sprites/tile_sugarytutorialsign/tile_sugarytutorialsign.yy",},"LayerId":{"name":"473c6d71-cd5d-4130-b7df-89dedf9ac8ed","path":"sprites/tile_sugarytutorialsign/tile_sugarytutorialsign.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-      ],"parent":{"name":"tile_sugarytutorialsign","path":"sprites/tile_sugarytutorialsign/tile_sugarytutorialsign.yy",},"resourceVersion":"1.0","name":"f41fb51d-5e14-4730-a5e3-282ca9bfc640","tags":[],"resourceType":"GMSpriteFrame",},
+    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"f41fb51d-5e14-4730-a5e3-282ca9bfc640",},
   ],
   "sequence": {
-    "spriteId": {"name":"tile_sugarytutorialsign","path":"sprites/tile_sugarytutorialsign/tile_sugarytutorialsign.yy",},
+    "resourceType": "GMSequence",
+    "resourceVersion": "1.4",
+    "name": "tile_sugarytutorialsign",
     "timeUnits": 1,
     "playback": 1,
     "playbackSpeed": 1.0,
@@ -40,9 +44,9 @@
     "events": {"Keyframes":[],"resourceVersion":"1.0","resourceType":"KeyframeStore<MessageEventKeyframe>",},
     "moments": {"Keyframes":[],"resourceVersion":"1.0","resourceType":"KeyframeStore<MomentsEventKeyframe>",},
     "tracks": [
-      {"name":"frames","spriteId":null,"keyframes":{"Keyframes":[
+      {"resourceType":"GMSpriteFramesTrack","resourceVersion":"1.0","name":"frames","spriteId":null,"keyframes":{"Keyframes":[
             {"id":"0aa1091f-9c38-470d-900d-7ef5b8271ac9","Key":0.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"f41fb51d-5e14-4730-a5e3-282ca9bfc640","path":"sprites/tile_sugarytutorialsign/tile_sugarytutorialsign.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
-          ],"resourceVersion":"1.0","resourceType":"KeyframeStore<SpriteFrameKeyframe>",},"trackColour":0,"inheritsTrackColour":true,"builtinName":0,"traits":0,"interpolation":1,"tracks":[],"events":[],"isCreationTrack":false,"resourceVersion":"1.0","tags":[],"resourceType":"GMSpriteFramesTrack","modifiers":[],},
+          ],"resourceVersion":"1.0","resourceType":"KeyframeStore<SpriteFrameKeyframe>",},"trackColour":0,"inheritsTrackColour":true,"builtinName":0,"traits":0,"interpolation":1,"tracks":[],"events":[],"isCreationTrack":false,"modifiers":[],},
     ],
     "visibleRange": null,
     "lockOrigin": false,
@@ -58,22 +62,13 @@
     "yorigin": 0,
     "eventToFunction": {},
     "eventStubScript": null,
-    "parent": {"name":"tile_sugarytutorialsign","path":"sprites/tile_sugarytutorialsign/tile_sugarytutorialsign.yy",},
-    "resourceVersion": "1.4",
-    "name": "tile_sugarytutorialsign",
-    "tags": [],
-    "resourceType": "GMSequence",
   },
   "layers": [
-    {"visible":true,"isLocked":false,"blendMode":0,"opacity":100.0,"displayName":"default","resourceVersion":"1.0","name":"473c6d71-cd5d-4130-b7df-89dedf9ac8ed","tags":[],"resourceType":"GMImageLayer",},
+    {"resourceType":"GMImageLayer","resourceVersion":"1.0","name":"473c6d71-cd5d-4130-b7df-89dedf9ac8ed","visible":true,"isLocked":false,"blendMode":0,"opacity":100.0,"displayName":"default",},
   ],
   "nineSlice": null,
   "parent": {
     "name": "tutorial",
     "path": "folders/Sprites/SUGARY SPIRE/tilesets/tutorial.yy",
   },
-  "resourceVersion": "1.0",
-  "name": "tile_sugarytutorialsign",
-  "tags": [],
-  "resourceType": "GMSprite",
 }

@@ -1,4 +1,7 @@
 {
+  "resourceType": "GMObject",
+  "resourceVersion": "1.0",
+  "name": "obj_grinch_gnome",
   "spriteId": {
     "name": "spr_grinch_gnome",
     "path": "sprites/spr_grinch_gnome/spr_grinch_gnome.yy",
@@ -31,8 +34,4 @@
     "name": "block",
     "path": "folders/Objects/level_structure/block.yy",
   },
-  "resourceVersion": "1.0",
-  "name": "obj_grinch_gnome",
-  "tags": [],
-  "resourceType": "GMObject",
 }

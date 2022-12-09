@@ -1,4 +1,7 @@
 {
+  "resourceType": "GMSprite",
+  "resourceVersion": "1.0",
+  "name": "spr_corneaten",
   "bboxMode": 0,
   "collisionKind": 1,
   "type": 0,
@@ -14,6 +17,7 @@
   "HTile": false,
   "VTile": false,
   "For3D": false,
+  "DynamicTexturePage": false,
   "width": 96,
   "height": 96,
   "textureGroupId": {
@@ -24,33 +28,19 @@
   "gridX": 0,
   "gridY": 0,
   "frames": [
-    {"compositeImage":{"FrameId":{"name":"9bd929f2-5a3a-43d1-85e7-3dbda6aeb5a3","path":"sprites/spr_corneaten/spr_corneaten.yy",},"LayerId":null,"resourceVersion":"1.0","name":"composite","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"9bd929f2-5a3a-43d1-85e7-3dbda6aeb5a3","path":"sprites/spr_corneaten/spr_corneaten.yy",},"LayerId":{"name":"ef94eaed-b22f-4165-8145-8dd3c8ff10d0","path":"sprites/spr_corneaten/spr_corneaten.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-      ],"parent":{"name":"spr_corneaten","path":"sprites/spr_corneaten/spr_corneaten.yy",},"resourceVersion":"1.0","name":"9bd929f2-5a3a-43d1-85e7-3dbda6aeb5a3","tags":[],"resourceType":"GMSpriteFrame",},
-    {"compositeImage":{"FrameId":{"name":"a70e9051-fe5e-476c-83eb-5880c80fd16b","path":"sprites/spr_corneaten/spr_corneaten.yy",},"LayerId":null,"resourceVersion":"1.0","name":"composite","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"a70e9051-fe5e-476c-83eb-5880c80fd16b","path":"sprites/spr_corneaten/spr_corneaten.yy",},"LayerId":{"name":"ef94eaed-b22f-4165-8145-8dd3c8ff10d0","path":"sprites/spr_corneaten/spr_corneaten.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-      ],"parent":{"name":"spr_corneaten","path":"sprites/spr_corneaten/spr_corneaten.yy",},"resourceVersion":"1.0","name":"a70e9051-fe5e-476c-83eb-5880c80fd16b","tags":[],"resourceType":"GMSpriteFrame",},
-    {"compositeImage":{"FrameId":{"name":"06b017e4-0a85-49ec-bab7-0469a0e99198","path":"sprites/spr_corneaten/spr_corneaten.yy",},"LayerId":null,"resourceVersion":"1.0","name":"composite","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"06b017e4-0a85-49ec-bab7-0469a0e99198","path":"sprites/spr_corneaten/spr_corneaten.yy",},"LayerId":{"name":"ef94eaed-b22f-4165-8145-8dd3c8ff10d0","path":"sprites/spr_corneaten/spr_corneaten.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-      ],"parent":{"name":"spr_corneaten","path":"sprites/spr_corneaten/spr_corneaten.yy",},"resourceVersion":"1.0","name":"06b017e4-0a85-49ec-bab7-0469a0e99198","tags":[],"resourceType":"GMSpriteFrame",},
-    {"compositeImage":{"FrameId":{"name":"ba550731-013e-47d6-ad5a-29be550337d6","path":"sprites/spr_corneaten/spr_corneaten.yy",},"LayerId":null,"resourceVersion":"1.0","name":"composite","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"ba550731-013e-47d6-ad5a-29be550337d6","path":"sprites/spr_corneaten/spr_corneaten.yy",},"LayerId":{"name":"ef94eaed-b22f-4165-8145-8dd3c8ff10d0","path":"sprites/spr_corneaten/spr_corneaten.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-      ],"parent":{"name":"spr_corneaten","path":"sprites/spr_corneaten/spr_corneaten.yy",},"resourceVersion":"1.0","name":"ba550731-013e-47d6-ad5a-29be550337d6","tags":[],"resourceType":"GMSpriteFrame",},
-    {"compositeImage":{"FrameId":{"name":"cdc64d79-5884-49db-bc8f-296cf559d65c","path":"sprites/spr_corneaten/spr_corneaten.yy",},"LayerId":null,"resourceVersion":"1.0","name":"composite","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"cdc64d79-5884-49db-bc8f-296cf559d65c","path":"sprites/spr_corneaten/spr_corneaten.yy",},"LayerId":{"name":"ef94eaed-b22f-4165-8145-8dd3c8ff10d0","path":"sprites/spr_corneaten/spr_corneaten.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-      ],"parent":{"name":"spr_corneaten","path":"sprites/spr_corneaten/spr_corneaten.yy",},"resourceVersion":"1.0","name":"cdc64d79-5884-49db-bc8f-296cf559d65c","tags":[],"resourceType":"GMSpriteFrame",},
-    {"compositeImage":{"FrameId":{"name":"f5511ef5-afab-447c-8374-eade4e213709","path":"sprites/spr_corneaten/spr_corneaten.yy",},"LayerId":null,"resourceVersion":"1.0","name":"composite","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"f5511ef5-afab-447c-8374-eade4e213709","path":"sprites/spr_corneaten/spr_corneaten.yy",},"LayerId":{"name":"ef94eaed-b22f-4165-8145-8dd3c8ff10d0","path":"sprites/spr_corneaten/spr_corneaten.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-      ],"parent":{"name":"spr_corneaten","path":"sprites/spr_corneaten/spr_corneaten.yy",},"resourceVersion":"1.0","name":"f5511ef5-afab-447c-8374-eade4e213709","tags":[],"resourceType":"GMSpriteFrame",},
-    {"compositeImage":{"FrameId":{"name":"1eeb9896-2af3-44d7-8aa5-4a8809d9456f","path":"sprites/spr_corneaten/spr_corneaten.yy",},"LayerId":null,"resourceVersion":"1.0","name":"composite","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"1eeb9896-2af3-44d7-8aa5-4a8809d9456f","path":"sprites/spr_corneaten/spr_corneaten.yy",},"LayerId":{"name":"ef94eaed-b22f-4165-8145-8dd3c8ff10d0","path":"sprites/spr_corneaten/spr_corneaten.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-      ],"parent":{"name":"spr_corneaten","path":"sprites/spr_corneaten/spr_corneaten.yy",},"resourceVersion":"1.0","name":"1eeb9896-2af3-44d7-8aa5-4a8809d9456f","tags":[],"resourceType":"GMSpriteFrame",},
-    {"compositeImage":{"FrameId":{"name":"124aae76-1b55-4596-a251-6a5714f2c164","path":"sprites/spr_corneaten/spr_corneaten.yy",},"LayerId":null,"resourceVersion":"1.0","name":"composite","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"124aae76-1b55-4596-a251-6a5714f2c164","path":"sprites/spr_corneaten/spr_corneaten.yy",},"LayerId":{"name":"ef94eaed-b22f-4165-8145-8dd3c8ff10d0","path":"sprites/spr_corneaten/spr_corneaten.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-      ],"parent":{"name":"spr_corneaten","path":"sprites/spr_corneaten/spr_corneaten.yy",},"resourceVersion":"1.0","name":"124aae76-1b55-4596-a251-6a5714f2c164","tags":[],"resourceType":"GMSpriteFrame",},
+    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"9bd929f2-5a3a-43d1-85e7-3dbda6aeb5a3",},
+    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"a70e9051-fe5e-476c-83eb-5880c80fd16b",},
+    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"06b017e4-0a85-49ec-bab7-0469a0e99198",},
+    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"ba550731-013e-47d6-ad5a-29be550337d6",},
+    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"cdc64d79-5884-49db-bc8f-296cf559d65c",},
+    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"f5511ef5-afab-447c-8374-eade4e213709",},
+    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"1eeb9896-2af3-44d7-8aa5-4a8809d9456f",},
+    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"124aae76-1b55-4596-a251-6a5714f2c164",},
   ],
   "sequence": {
-    "spriteId": {"name":"spr_corneaten","path":"sprites/spr_corneaten/spr_corneaten.yy",},
+    "resourceType": "GMSequence",
+    "resourceVersion": "1.4",
+    "name": "",
     "timeUnits": 1,
     "playback": 1,
     "playbackSpeed": 1.0,
@@ -61,7 +51,7 @@
     "events": {"Keyframes":[],"resourceVersion":"1.0","resourceType":"KeyframeStore<MessageEventKeyframe>",},
     "moments": {"Keyframes":[],"resourceVersion":"1.0","resourceType":"KeyframeStore<MomentsEventKeyframe>",},
     "tracks": [
-      {"name":"frames","spriteId":null,"keyframes":{"Keyframes":[
+      {"resourceType":"GMSpriteFramesTrack","resourceVersion":"1.0","name":"frames","spriteId":null,"keyframes":{"Keyframes":[
             {"id":"145be62a-5b61-46d3-9143-37f9dceba079","Key":0.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"9bd929f2-5a3a-43d1-85e7-3dbda6aeb5a3","path":"sprites/spr_corneaten/spr_corneaten.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
             {"id":"3e8a1874-b046-460a-8144-1c658bade9f2","Key":1.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"a70e9051-fe5e-476c-83eb-5880c80fd16b","path":"sprites/spr_corneaten/spr_corneaten.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
             {"id":"71b0e8cd-7b39-4b8a-95bc-e57c0a2b1529","Key":2.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"06b017e4-0a85-49ec-bab7-0469a0e99198","path":"sprites/spr_corneaten/spr_corneaten.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
@@ -70,7 +60,7 @@
             {"id":"8a7d5cbf-f014-48d9-bff5-917bfc686d8a","Key":5.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"f5511ef5-afab-447c-8374-eade4e213709","path":"sprites/spr_corneaten/spr_corneaten.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
             {"id":"17384965-162a-4201-84b7-a7488a2da21c","Key":6.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"1eeb9896-2af3-44d7-8aa5-4a8809d9456f","path":"sprites/spr_corneaten/spr_corneaten.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
             {"id":"d731fce5-4566-46e9-99f4-e4d55e4c0660","Key":7.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"124aae76-1b55-4596-a251-6a5714f2c164","path":"sprites/spr_corneaten/spr_corneaten.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
-          ],"resourceVersion":"1.0","resourceType":"KeyframeStore<SpriteFrameKeyframe>",},"trackColour":0,"inheritsTrackColour":true,"builtinName":0,"traits":0,"interpolation":1,"tracks":[],"events":[],"isCreationTrack":false,"resourceVersion":"1.0","tags":[],"resourceType":"GMSpriteFramesTrack","modifiers":[],},
+          ],"resourceVersion":"1.0","resourceType":"KeyframeStore<SpriteFrameKeyframe>",},"trackColour":0,"inheritsTrackColour":true,"builtinName":0,"traits":0,"interpolation":1,"tracks":[],"events":[],"isCreationTrack":false,"modifiers":[],},
     ],
     "visibleRange": null,
     "lockOrigin": false,
@@ -86,22 +76,13 @@
     "yorigin": 95,
     "eventToFunction": {},
     "eventStubScript": null,
-    "parent": {"name":"spr_corneaten","path":"sprites/spr_corneaten/spr_corneaten.yy",},
-    "resourceVersion": "1.4",
-    "name": "",
-    "tags": [],
-    "resourceType": "GMSequence",
   },
   "layers": [
-    {"visible":true,"isLocked":false,"blendMode":0,"opacity":100.0,"displayName":"default","resourceVersion":"1.0","name":"ef94eaed-b22f-4165-8145-8dd3c8ff10d0","tags":[],"resourceType":"GMImageLayer",},
+    {"resourceType":"GMImageLayer","resourceVersion":"1.0","name":"ef94eaed-b22f-4165-8145-8dd3c8ff10d0","visible":true,"isLocked":false,"blendMode":0,"opacity":100.0,"displayName":"default",},
   ],
   "nineSlice": null,
   "parent": {
     "name": "others",
     "path": "folders/Sprites/others.yy",
   },
-  "resourceVersion": "1.0",
-  "name": "spr_corneaten",
-  "tags": [],
-  "resourceType": "GMSprite",
 }
