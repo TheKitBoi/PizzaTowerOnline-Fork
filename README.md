@@ -1,8 +1,7 @@
-# PizzaTowerOnline
-the entire pizza tower online source code, prior to its inevitable demise, left in a very unstable state between the april build and eggplant build port process.
-this uses the leaked western v3 source code of pizza tower as a base, so some of the vanilla code looks horrendous.
+# Pizza Tower ONLINE
+The entire Pizza Tower Online source code prior to its inevitable demise, left in a very unstable state between the April build and Eggplant build port process.
+This uses the leaked Western v3 source code of the game as a base. Ops! Sorry!
 
-the online part of this game uses gamemaker server, a free extension that i used for years. it's honestly horrible for making any actual gameplay, and it'll be deprecated sooner or later anyway. i recommend you not to touch that part of it, in fact it would be better to just remove it completely.
-if you're stuck at the disclaimer change the version number in its create event to 10.
+The online part of this game uses [GameMaker Server](https://gamemakerserver.com/), a free extension that I used for years. It's honestly horrible for making any actual gameplay, and it'll be deprecated soon anyway. I recommend you to just remove it completely.
 
-contributors are not the same as collaborators. it shows MLGKuba11 in the contributors because they once made a commit for this. the only way to remove this would be to make a completely new repository losing all commit history.
+P.S. Contributors are not the same as collaborators. It shows MLGKuba11 in the contributors because they once made a commit for this when we all had a truce. The only way to remove this would be to make a completely new repository losing all commit history, which I'm not doing. **Please understand, and don't go harassing them.**
